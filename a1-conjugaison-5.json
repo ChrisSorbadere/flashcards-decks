@@ -7,7 +7,7 @@
   {"id":"a1c5_06","q":"Je ___ (faire) du vélo.","a":"ai fait","choices":["suis fait","as fait","ai fais"],"tag":"Passé Composé","hint":"Participe irrégulier : FAIT","expl":"FAIRE : j'AI FAIT. / HE HECHO."},
   {"id":"a1c5_07","q":"Vous ___ (voir) ce monument ?","a":"avez vu","choices":["avez voir","avez vu","êtes vu"],"tag":"Passé Composé","hint":"Participe irrégulier : VU","expl":"VOIR : j'AI VU. / HABÉIS VISTO."},
   {"id":"a1c5_08","q":"Il ___ (être) très gentil.","a":"a été","choices":["est été","a était","est était"],"tag":"Passé Composé","hint":"Participe de ÊTRE : ÉTÉ","expl":"ÊTRE utilise l'auxiliaire AVOIR : Il A ÉTÉ. / HA SIDO."},
-  {"id":"a1c5_09","q":"J'___ (avoir) un cadeau.","a":"ai eu","choices":["ai avoir","ai eu","suis eu"],"tag":"Passé Composé","hint":"Participe de AVOIR : EU (prononcé 'u')","expl":"AVOIR utilise AVOIR : J'AI EU. / HE TENIDO."},
+  {"id":"a1c5_09","q":"J'___ (avoir) un cadeau.","a":"ai eu","choices":["ai avoir","ai eu","suis eu"],"tag":"Passé Composé","hint":"Participe de AVOIR : EU","expl":"AVOIR utilise AVOIR : J'AI EU. / HE TENIDO."},
   {"id":"a1c5_10","q":"Elle ___ (venir) hier.","a":"est venue","choices":["a venu","est venu","a venue"],"tag":"Passé Composé","hint":"Auxiliaire ÊTRE + accord féminin","expl":"VENIR utilise ÊTRE : Elle EST VENUE. / ELLA VINO."},
   {"id":"a1c5_11","q":"Tu ___ (prendre) tes clés ?","a":"as pris","choices":["as prend","as prise","es pris"],"tag":"Passé Composé","hint":"Participe de PRENDRE : PRIS","expl":"PRENDRE : tu AS PRIS. / HAS TOMADO."},
   {"id":"a1c5_12","q":"Nous ___ (écouter) la radio.","a":"avons écouté","choices":["avons écouter","avons écouté","sommes écouté"],"tag":"Passé Composé","hint":"Auxiliaire AVOIR","expl":"ÉCOUTER : Nous AVONS ÉCOUTÉ. / HEMOS ESCUCHADO."},
