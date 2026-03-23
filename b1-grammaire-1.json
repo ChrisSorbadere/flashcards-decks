@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1gr1_01",
+    "q": "Quel est l'usage du subjonctif après les verbes de volonté ?",
+    "a": "Je veux que tu viennes / je souhaite qu'il parte",
+    "choices": [
+      "Subjonctif après vouloir/souhaiter/désirer",
+      "Indicatif après vouloir",
+      "Infinitif toujours",
+      "Conditionnel après souhaiter"
+    ],
+    "tag": "Subjonctif",
+    "hint": "VOULOIR QUE + subjonctif",
+    "expl": "Verbes de VOLONTÉ + subjonctif : VOULOIR QUE, SOUHAITER QUE, DÉSIRER QUE, EXIGER QUE, ORDONNER QUE, DEMANDER QUE. Je VEUX QU'il VIENNE."
+  },
+  {
+    "id": "b1gr1_02",
+    "q": "Quel est l'usage du subjonctif après les verbes d'émotion ?",
+    "a": "Je suis content qu'il soit là / je regrette qu'il parte",
+    "choices": [
+      "Subjonctif après être content/regretter/avoir peur",
+      "Indicatif après les émotions",
+      "Infinitif après les émotions",
+      "Conditionnel après les émotions"
+    ],
+    "tag": "Subjonctif",
+    "hint": "ÊTRE CONTENT QUE + subjonctif",
+    "expl": "Verbes d'ÉMOTION + subjonctif : ÊTRE CONTENT QUE, REGRETTER QUE, AVOIR PEUR QUE, ÊTRE SURPRIS QUE, SE RÉJOUIR QUE. Je suis CONTENT QU'il SOIT là."
+  },
+  {
+    "id": "b1gr1_03",
+    "q": "Quel mode après 'il est + adjectif + que' ?",
+    "a": "Il est important que + subjonctif / il est vrai que + indicatif",
+    "choices": [
+      "Subjonctif si adjectif de jugement/nécessité",
+      "Toujours subjonctif",
+      "Toujours indicatif",
+      "Conditionnel toujours"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Il est IMPORTANT QUE ≠ il est VRAI QUE",
+    "expl": "IL EST + adj. subjectif + QUE → subjonctif : important, nécessaire, dommage, regrettable. IL EST + adj. factuel + QUE → indicatif : vrai, certain, évident."
+  },
+  {
+    "id": "b1gr1_04",
+    "q": "Comment utilise-t-on 'dont' pour exprimer la possession ?",
+    "a": "L'homme dont le fils est médecin = l'homme qui a un fils médecin",
+    "choices": [
+      "Dont = de qui, possessif",
+      "Dont = que",
+      "Dont = qui",
+      "Dont = où"
+    ],
+    "tag": "Dont",
+    "hint": "DONT = DE + qui/quoi = de qui, duquel",
+    "expl": "DONT pour possession : L'homme DONT le fils = l'homme qui a un fils. La ville DONT les rues = la ciudad cuyas calles. DONT = de qui, duquel, de laquelle."
+  },
+  {
+    "id": "b1gr1_05",
+    "q": "Comment utilise-t-on 'dont' avec les verbes qui se construisent avec DE ?",
+    "a": "Le film dont je parle = je parle DE ce film",
+    "choices": [
+      "Dont remplace DE + nom",
+      "Dont remplace qui",
+      "Dont remplace que",
+      "Dont remplace où"
+    ],
+    "tag": "Dont",
+    "hint": "PARLER DE → DONT je parle",
+    "expl": "DONT remplace DE + nom avec verbes en DE : PARLER DE → DONT je parle. AVOIR BESOIN DE → DONT j'ai besoin. SE SOUVENIR DE → DONT je me souviens."
+  },
+  {
+    "id": "b1gr1_06",
+    "q": "Quel pronom relatif utilise-t-on avec une préposition autre que DE ?",
+    "a": "LEQUEL/LAQUELLE/LESQUELS après AVEC, SUR, POUR, DANS...",
+    "choices": [
+      "Lequel/laquelle après prépositions",
+      "Dont après prépositions",
+      "Qui après prépositions",
+      "Que après prépositions"
+    ],
+    "tag": "Pronoms relatifs",
+    "hint": "La table SUR LAQUELLE / l'outil AVEC LEQUEL",
+    "expl": "PRÉPOSITION + LEQUEL/LAQUELLE/LESQUELS. La table SUR LAQUELLE je travaille. L'outil AVEC LEQUEL il travaille. AUQUEL = à + lequel. DUQUEL = de + lequel."
+  },
+  {
+    "id": "b1gr1_07",
+    "q": "Comment fonctionne CE QUI / CE QUE / CE DONT / CE À QUOI ?",
+    "a": "Pronoms relatifs composés sans antécédent nominal",
+    "choices": [
+      "Sans antécédent nominal spécifique",
+      "Avec antécédent masculin",
+      "Avec antécédent féminin",
+      "Seulement pour les choses"
+    ],
+    "tag": "Pronoms relatifs",
+    "hint": "CE QUI m'intéresse = la chose qui m'intéresse",
+    "expl": "CE QUI (sujet), CE QUE (objet), CE DONT (avec DE), CE À QUOI (avec À). CE QUI me plaît. CE QUE je veux. CE DONT j'ai besoin. CE À QUOI je pense."
+  },
+  {
+    "id": "b1gr1_08",
+    "q": "Comment se construit la mise en relief avec C'EST... QUI / C'EST... QUE ?",
+    "a": "C'EST + élément mis en relief + QUI (sujet) / QUE (objet)",
+    "choices": [
+      "C'est + élément + qui/que",
+      "Il est + élément + qui",
+      "C'était + élément + qui",
+      "Cela est + élément + que"
+    ],
+    "tag": "Mise en relief",
+    "hint": "C'EST Marie QUI a téléphoné",
+    "expl": "MISE EN RELIEF : C'EST Marie QUI a téléphoné (sujet). C'EST ce livre QUE je cherche (objet). C'EST là OÙ je vis (lieu). Souligne l'élément important."
+  },
+  {
+    "id": "b1gr1_09",
+    "q": "Comment exprime-t-on la restriction avec NE... QUE ?",
+    "a": "NE + verbe + QUE + élément restreint",
+    "choices": [
+      "Ne + verbe + que + élément",
+      "Ne + que + verbe",
+      "Que + verbe + ne",
+      "Ne pas que + verbe"
+    ],
+    "tag": "Restriction",
+    "hint": "Je n'ai mangé QU'une pomme = seulement",
+    "expl": "NE...QUE = sólo, solamente. Je N'AI MANGÉ QU'une pomme. Il NE TRAVAILLE QUE le matin. Attention : QUE se place directement avant l'élément restreint."
+  },
+  {
+    "id": "b1gr1_10",
+    "q": "Quelle est la différence entre NE... PAS et NE... POINT ?",
+    "a": "NE... POINT = forme littéraire/archaïque de NE... PAS",
+    "choices": [
+      "Point = archaïque/littéraire de pas",
+      "Même usage courant",
+      "Point = moins fort que pas",
+      "Point = régionalisme"
+    ],
+    "tag": "Négation",
+    "hint": "NE... POINT = très littéraire",
+    "expl": "NE...POINT = archaïque/littéraire. Je NE SUIS POINT d'accord. Équivalent de NE...PAS mais dans les textes anciens ou à effet stylistique."
+  },
+  {
+    "id": "b1gr1_11",
+    "q": "Comment fonctionne NE... NI... NI... ?",
+    "a": "NE + verbe + NI + élément 1 + NI + élément 2",
+    "choices": [
+      "Ne + verbe + ni... ni...",
+      "Ni ne + verbe + ni",
+      "Ne ni + verbe + ni",
+      "Ni + verbe + ni + ne"
+    ],
+    "tag": "Négation",
+    "hint": "Je n'aime NI le café NI le thé",
+    "expl": "NE...NI...NI... = ni... ni... Je N'AIME NI le café NI le thé. Il N'A NI patience NI ambition. Les articles disparaissent après NI."
+  },
+  {
+    "id": "b1gr1_12",
+    "q": "Comment fonctionne la double négation NE... JAMAIS... RIEN ?",
+    "a": "Je n'ai jamais rien fait = je n'ai absolument rien fait",
+    "choices": [
+      "Jamais + rien possible ensemble",
+      "Ça se simplifie en une négation",
+      "Incorrect en français",
+      "Possible seulement à l'écrit"
+    ],
+    "tag": "Négation",
+    "hint": "JE N'AI JAMAIS RIEN VU DE TEL",
+    "expl": "Double négation possible : NE...JAMAIS RIEN / NE...PLUS JAMAIS / NE...NULLE PART RIEN. Je N'AI JAMAIS RIEN dit = no he dicho nunca nada."
+  },
+  {
+    "id": "b1gr1_13",
+    "q": "Comment utilise-t-on QUE comme substitut de conjonction ?",
+    "a": "QUE remplace une conjonction répétée dans la même phrase",
+    "choices": [
+      "QUE substitut de conjonction répétée",
+      "QUE toujours répété",
+      "QUE obligatoire à chaque fois",
+      "QUE seulement pour QUAND"
+    ],
+    "tag": "Conjonctions",
+    "hint": "Quand il arrivera et QU'il verra ça...",
+    "expl": "Substitution : QUAND il arrivera et QU'il verra ça. SI tu viens et QUE tu as le temps. On ne répète pas la conjonction, on la remplace par QUE."
+  },
+  {
+    "id": "b1gr1_14",
+    "q": "Comment utilise-t-on le subjonctif dans les propositions relatives ?",
+    "a": "Après antécédent indéfini ou superlatif restrictif",
+    "choices": [
+      "Après antécédent indéfini ou superlatif",
+      "Toujours dans les relatives",
+      "Jamais dans les relatives",
+      "Seulement au passé"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Je cherche quelqu'un QUI SACHE cuisiner",
+    "expl": "Subjonctif dans relatives : après antécédent INDÉFINI (je cherche quelqu'un QUI SACHE). Après SUPERLATIF RESTRICTIF (le seul QUI PUISSE). Indicatif si l'antécédent est défini."
+  },
+  {
+    "id": "b1gr1_15",
+    "q": "Quelle est la différence entre SAVOIR et CONNAÎTRE + subordonnée ?",
+    "a": "SAVOIR + QUE + indicatif / CONNAÎTRE ne se construit pas avec QUE",
+    "choices": [
+      "Savoir + que + indicatif, connaître sans que",
+      "Même construction",
+      "Connaître + que + subjonctif",
+      "Savoir + que + subjonctif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je SAIS QUE tu as raison vs je CONNAIS cet homme",
+    "expl": "SAVOIR QUE + indicatif : Je SAIS QUE tu as raison. CONNAÎTRE + nom : Je CONNAIS cet homme (pas de que). CONNAÎTRE NE SE CONSTRUIT PAS avec une subordonnée."
+  },
+  {
+    "id": "b1gr1_16",
+    "q": "Comment fonctionne la proposition infinitive en français ?",
+    "a": "Verbe de perception + infinitif sans QUE",
+    "choices": [
+      "Voir/entendre + infinitif sans que",
+      "Voir + que + subjonctif",
+      "Voir + infinitif + que",
+      "Entendre + indicatif"
+    ],
+    "tag": "Infinitif",
+    "hint": "J'entends chanter les oiseaux",
+    "expl": "PROPOSITION INFINITIVE après verbes de PERCEPTION : J'ENTENDS CHANTER les oiseaux. JE VOIS COURIR les enfants. REGARDER, ÉCOUTER, SENTIR + infinitif (objet entre les deux)."
+  },
+  {
+    "id": "b1gr1_17",
+    "q": "Comment utilise-t-on le pronom EN avec les adjectifs ?",
+    "a": "J'en suis content = je suis content DE ça",
+    "choices": [
+      "En remplace DE + chose/idée",
+      "En remplace le sujet",
+      "En remplace le lieu",
+      "En remplace qui"
+    ],
+    "tag": "Pronoms",
+    "hint": "J'EN suis sûr = je suis sûr DE ça",
+    "expl": "EN remplace DE + chose/idée avec adjectifs : J'EN suis content = je suis content DE cela. J'EN suis sûr. Il EN est fier. Avec verbes : EN parler, s'EN souvenir."
+  },
+  {
+    "id": "b1gr1_18",
+    "q": "Comment fonctionne Y avec les verbes suivis de À ?",
+    "a": "J'y pense = je pense À ça",
+    "choices": [
+      "Y remplace À + chose/idée",
+      "Y remplace le sujet",
+      "Y remplace le COD",
+      "Y remplace qui"
+    ],
+    "tag": "Pronoms",
+    "hint": "J'Y pense = je pense À ça / j'Y crois",
+    "expl": "Y remplace À + chose/idée : J'Y pense = je pense à ça. J'Y crois. Il Y tient. MAIS : Y ne remplace pas les personnes (→ LUI/LEUR)."
+  },
+  {
+    "id": "b1gr1_19",
+    "q": "Quelle est l'ordre des pronoms dans 'il me le donne' ?",
+    "a": "Sujet + NE + me/te/se/nous/vous + le/la/les + lui/leur + y + en + verbe",
+    "choices": [
+      "Me/te/se avant le/la/les",
+      "Le/la/les avant me/te/se",
+      "Y avant en",
+      "Lui/leur avant me/te/se"
+    ],
+    "tag": "Ordre des pronoms",
+    "hint": "Il ME LE donne / il LE LUI donne",
+    "expl": "Ordre : sujet + NE + (me/te/se/nous/vous) + (le/la/les) + (lui/leur) + y + en + verbe. Il ME LE donne. Il LE LUI donne. Il Y EN a."
+  },
+  {
+    "id": "b1gr1_20",
+    "q": "Comment exprime-t-on la concession avec 'quand même' ?",
+    "a": "QUAND MÊME = malgré tout, tout de même, néanmoins",
+    "choices": [
+      "Quand même = malgré tout",
+      "Quand même = toujours",
+      "Quand même = parfois",
+      "Quand même = jamais"
+    ],
+    "tag": "Concession",
+    "hint": "Il est venu quand même = malgré les obstacles",
+    "expl": "QUAND MÊME = de todas formas, de todos modos. Il est venu QUAND MÊME. C'est QUAND MÊME dommage. Synonymes : TOUT DE MÊME, NÉANMOINS, MALGRÉ TOUT."
+  },
+  {
+    "id": "b1gr1_21",
+    "q": "Comment fonctionne PLUTÔT QUE + infinitif ?",
+    "a": "PLUTÔT QUE DE + infinitif = au lieu de",
+    "choices": [
+      "Plutôt que de + infinitif",
+      "Plutôt que + indicatif",
+      "Plutôt que + subjonctif",
+      "Plutôt que + infinitif sans DE"
+    ],
+    "tag": "Comparaison",
+    "hint": "PLUTÔT QUE D'attendre, agis !",
+    "expl": "PLUTÔT QUE DE + infinitif = en lugar de. PLUTÔT QUE D'attendre, agis ! Même sujet → infinitif. Sujets différents → PLUTÔT QUE + subjonctif."
+  },
+  {
+    "id": "b1gr1_22",
+    "q": "Quel est l'usage de SANS QUE + subjonctif ?",
+    "a": "SANS QUE + subjonctif = sans que cela se produise",
+    "choices": [
+      "Sans que + subjonctif",
+      "Sans que + indicatif",
+      "Sans que + conditionnel",
+      "Sans + infinitif toujours"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Il est parti SANS QU'on le voie",
+    "expl": "SANS QUE + subjonctif (sujets différents). Il est parti SANS QU'on LE VOIE. Même sujet → SANS + infinitif. Il est parti SANS DIRE au revoir."
+  },
+  {
+    "id": "b1gr1_23",
+    "q": "Comment utilise-t-on À PEINE... QUE ?",
+    "a": "À PEINE... QUE = à peine + passé antérieur + que + passé simple",
+    "choices": [
+      "À peine + passé antérieur + que + passé simple",
+      "À peine + imparfait + que + imparfait",
+      "À peine + présent + que + futur",
+      "À peine + conditionnel"
+    ],
+    "tag": "Structures",
+    "hint": "À peine FUT-IL ARRIVÉ QU'il repartit",
+    "expl": "À PEINE... QUE = apenas... cuando. À PEINE FUT-IL ARRIVÉ QU'il repartit. Structure littéraire. À l'oral : il était À PEINE arrivé QUAND il repartit."
+  },
+  {
+    "id": "b1gr1_24",
+    "q": "Comment fonctionne AVOIR BEAU + infinitif ?",
+    "a": "AVOIR BEAU = malgré le fait que, bien que",
+    "choices": [
+      "Avoir beau = malgré/bien que",
+      "Avoir beau = facilement",
+      "Avoir beau = vraiment",
+      "Avoir beau = bientôt"
+    ],
+    "tag": "Structures",
+    "hint": "Il AVAIT BEAU travailler, il échouait quand même",
+    "expl": "AVOIR BEAU + infinitif = por más que + subjonctif. Il A BEAU ESSAYER, il n'y arrive pas = por más que lo intenta, no lo logra. Concession."
+  },
+  {
+    "id": "b1gr1_25",
+    "q": "Comment fonctionne NE... QUE DE + infinitif ?",
+    "a": "NE FAIRE QUE DE + infinitif = avoir tout juste fait quelque chose",
+    "choices": [
+      "Venir de + infinitif (passé très récent)",
+      "Ne faire rien d'autre",
+      "Ne pas pouvoir",
+      "Ne jamais"
+    ],
+    "tag": "Structures",
+    "hint": "Il NE FAIT QUE DORMIR = il dort tout le temps",
+    "expl": "NE FAIRE QUE + infinitif = no hacer más que, no parar de. Il NE FAIT QUE se plaindre = no para de quejarse. NE VENIR QUE DE = acaba de (passé récent alternatif)."
+  }
+]

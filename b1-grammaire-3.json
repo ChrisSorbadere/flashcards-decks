@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1g3_01",
+    "q": "Comment fonctionne FAIRE + infinitif (causatif) ?",
+    "a": "FAIRE + infinitif = faire faire quelque chose par quelqu'un",
+    "choices": [
+      "Faire + inf = causatif",
+      "Faire + inf = passé",
+      "Faire + inf = capacité",
+      "Faire + inf = devoir"
+    ],
+    "tag": "Causatif",
+    "hint": "Je FAIS RÉPARER ma voiture = quelqu'un la répare pour moi",
+    "expl": "Causatif : FAIRE + infinitif = mandar/hacer hacer. Je FAIS RÉPARER ma voiture = mando reparar. Il FAIT TRAVAILLER ses employés. Le sujet provoque l'action."
+  },
+  {
+    "id": "b1g3_02",
+    "q": "Comment se construit le causatif FAIRE + inf avec un COD et un COI ?",
+    "a": "Je fais manger les enfants / Je leur fais manger des légumes",
+    "choices": [
+      "Je fais manger les enfants / je leur fais manger",
+      "Je fais les enfants manger",
+      "Je fais manger à les enfants",
+      "Je fais que les enfants mangent"
+    ],
+    "tag": "Causatif",
+    "hint": "Si un seul complément : COD / si deux compléments : le causé = COI",
+    "expl": "Un complément : FAIS + inf + COD (la personne). Je FAIS MANGER les enfants. Deux compléments : COD = chose, COI (lui/leur) = personne. Je LEUR FAIS MANGER des légumes."
+  },
+  {
+    "id": "b1g3_03",
+    "q": "Quelle est la place des pronoms avec FAIRE + infinitif ?",
+    "a": "Les pronoms se placent AVANT FAIRE (pas avant l'infinitif)",
+    "choices": [
+      "Avant faire",
+      "Avant l'infinitif",
+      "Après l'infinitif",
+      "N'importe où"
+    ],
+    "tag": "Causatif",
+    "hint": "Je le FAIS RÉPARER (pas 'je fais le réparer')",
+    "expl": "Pronoms COD/COI AVANT FAIRE : Je LE FAIS réparer (pas 'je fais le réparer'). Je LUI FAIS manger des légumes. Exception : à l'impératif."
+  },
+  {
+    "id": "b1g3_04",
+    "q": "Comment fonctionne SE LAISSER + infinitif ?",
+    "a": "SE LAISSER + infinitif = se laisser aller à, subir passivement",
+    "choices": [
+      "Se laisser = subir passivement",
+      "Se laisser = refuser",
+      "Se laisser = obliger",
+      "Se laisser = aider"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Se LAISSER CONVAINCRE = accepter de se laisser convaincre",
+    "expl": "SE LAISSER + inf = dejarse + infinitivo. SE LAISSER CONVAINCRE = dejarse convencer. SE LAISSER ALLER = abandonarse. Passivité ou abandon volontaire."
+  },
+  {
+    "id": "b1g3_05",
+    "q": "Comment fonctionne ENTENDRE + infinitif ?",
+    "a": "J'entends dire que... = je comprends que / j'entends chanter = je perçois",
+    "choices": [
+      "Entendre + inf = perception ou comprendre",
+      "Entendre + inf = obligation",
+      "Entendre + inf = futur",
+      "Entendre + inf = permission"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "J'ENTENDS CHANTER (perception) / J'ENTENDS FAIRE (vouloir)",
+    "expl": "ENTENDRE + inf = (1) perception : J'ENTENDS CHANTER les oiseaux. (2) ENTENDRE FAIRE = avoir l'intention de, vouloir (soutenu) : J'ENTENDS RÉUSSIR."
+  },
+  {
+    "id": "b1g3_06",
+    "q": "Comment fonctionne VOULOIR BIEN vs BIEN VOULOIR ?",
+    "a": "VOULOIR BIEN = accepter volontiers / BIEN VOULOIR = demande polie atténuée",
+    "choices": [
+      "Vouloir bien = accepter, bien vouloir = demande polie",
+      "Même sens",
+      "Vouloir bien = formel, bien vouloir = familier",
+      "Vouloir bien = passé, bien vouloir = futur"
+    ],
+    "tag": "Nuances",
+    "hint": "Je veux bien venir = j'accepte / Veuillez bien fermer = demande polie",
+    "expl": "JE VEUX BIEN = acepto con gusto (acceptation). BIEN VOULOIR = formule de politesse dans les lettres : Veuillez BIEN accepter... = sírvase aceptar..."
+  },
+  {
+    "id": "b1g3_07",
+    "q": "Comment fonctionne AVOIR DU MAL À vs AVOIR DU MAL À ?",
+    "a": "AVOIR DU MAL À + infinitif = avoir de la difficulté à",
+    "choices": [
+      "Avoir du mal à = avoir de la difficulté",
+      "Avoir du mal à = être malade",
+      "Avoir du mal à = refuser",
+      "Avoir du mal à = trouver"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "J'AI DU MAL À comprendre = je comprends difficilement",
+    "expl": "AVOIR DU MAL À + inf = costar + infinitivo, tener dificultad para. J'AI DU MAL À le comprendre = me cuesta entenderle. Synonyme : AVOIR DU DIFFICULTY À."
+  },
+  {
+    "id": "b1g3_08",
+    "q": "Comment fonctionne METTRE DU TEMPS À ?",
+    "a": "METTRE DU TEMPS À + infinitif = prendre du temps pour",
+    "choices": [
+      "Mettre du temps à = prendre du temps pour",
+      "Mettre du temps à = être en retard",
+      "Mettre du temps à = commencer",
+      "Mettre du temps à = finir"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "Il MET DU TEMPS À comprendre = il comprend lentement",
+    "expl": "METTRE DU TEMPS À + inf = tardar en + inf. Il MET DU TEMPS À répondre = tarda en responder. PRENDRE DU TEMPS POUR + inf = même sens."
+  },
+  {
+    "id": "b1g3_09",
+    "q": "Comment utilise-t-on FINIR PAR + infinitif ?",
+    "a": "FINIR PAR = end up doing, arriver à la fin à",
+    "choices": [
+      "Finir par = finalement faire",
+      "Finir par = arrêter de faire",
+      "Finir par = commencer à",
+      "Finir par = refuser de"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "Il A FINI PAR accepter = finalement, il a accepté",
+    "expl": "FINIR PAR + inf = acabar por/en + gerundio. Il A FINI PAR PARTIR = acabó yéndose. Je FINIRAI PAR comprendre = acabaré entendiendo. Résultat après un processus."
+  },
+  {
+    "id": "b1g3_10",
+    "q": "Comment utilise-t-on NE PAS MANQUER DE + infinitif ?",
+    "a": "NE PAS MANQUER DE = ne pas oublier de, ne pas omettre de",
+    "choices": [
+      "Ne pas manquer de = ne pas oublier de",
+      "Ne pas manquer de = réussir",
+      "Ne pas manquer de = éviter de",
+      "Ne pas manquer de = finir par"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "N'OUBLIEZ PAS DE / NE MANQUEZ PAS DE nous contacter",
+    "expl": "NE PAS MANQUER DE + inf = no dejar de, no olvidar de. NE MANQUEZ PAS DE nous INFORMER = no dejen de informarnos. Soutenu. Aussi : MANQUER DE + inf = casi + verbe."
+  },
+  {
+    "id": "b1g3_11",
+    "q": "Quelle différence entre DEPUIS QUE et DEPUIS ?",
+    "a": "DEPUIS QUE = conjonction + subordonnée / DEPUIS = préposition + nom",
+    "choices": [
+      "Depuis que + proposition, depuis + nom",
+      "Même sens",
+      "Depuis que = passé, depuis = présent",
+      "Depuis que = formel, depuis = familier"
+    ],
+    "tag": "Prépositions",
+    "hint": "DEPUIS QUE tu es parti / DEPUIS ton départ",
+    "expl": "DEPUIS + nom : DEPUIS son départ. DEPUIS QUE + proposition : DEPUIS QU'il est parti. Même sens mais construction différente. Les deux au présent pour durée continue."
+  },
+  {
+    "id": "b1g3_12",
+    "q": "Comment fonctionne JUSQU'À CE QUE ?",
+    "a": "JUSQU'À CE QUE + subjonctif = until",
+    "choices": [
+      "Jusqu'à ce que + subjonctif",
+      "Jusqu'à ce que + indicatif",
+      "Jusqu'à ce que + conditionnel",
+      "Jusqu'à ce que + infinitif"
+    ],
+    "tag": "Conjonctions",
+    "hint": "JUSQU'À CE QU'il arrive = subjonctif",
+    "expl": "JUSQU'À CE QUE + subjonctif TOUJOURS. JUSQU'À CE QU'IL ARRIVE. JUSQU'À CE QUE VOUS COMPRENIEZ. Même sujet → JUSQU'À + inf. Attendre JUSQU'À PARTIR."
+  },
+  {
+    "id": "b1g3_13",
+    "q": "Comment fonctionne À SUPPOSER QUE ?",
+    "a": "À SUPPOSER QUE + subjonctif = en supposant que, si par hypothèse",
+    "choices": [
+      "À supposer que + subjonctif",
+      "À supposer que + indicatif",
+      "À supposer que + conditionnel",
+      "À supposer que + infinitif"
+    ],
+    "tag": "Hypothèse",
+    "hint": "À SUPPOSER QU'il vienne, que ferait-on ?",
+    "expl": "À SUPPOSER QUE + subjonctif = suponiendo que + subjuntivo. À SUPPOSER QU'IL SOIT là. EN ADMETTANT QUE + subjonctif. Hypothèse incertaine."
+  },
+  {
+    "id": "b1g3_14",
+    "q": "Comment utilise-t-on QUE + subjonctif en tête de phrase ?",
+    "a": "QU'IL VIENNE ou non, nous partirons = whether he comes or not",
+    "choices": [
+      "Que + subjonctif = concession totale",
+      "Que + indicatif",
+      "Que + conditionnel",
+      "Que + infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QU'IL FASSE beau ou non, je sors",
+    "expl": "QUE + subjonctif en tête = concession totale. QU'IL VIENNE OU NON, nous partirons = venga o no venga. QUE + subjonctif... QUE + subjonctif = soit... soit."
+  },
+  {
+    "id": "b1g3_15",
+    "q": "Comment fonctionne SOIT... SOIT... ?",
+    "a": "SOIT... SOIT... = ou bien... ou bien... (alternative exclusive)",
+    "choices": [
+      "Soit... soit = ou bien... ou bien",
+      "Soit... soit = et... et",
+      "Soit... soit = ni... ni",
+      "Soit... soit = d'abord... ensuite"
+    ],
+    "tag": "Structures",
+    "hint": "SOIT tu pars, SOIT tu restes — décide !",
+    "expl": "SOIT... SOIT... = o bien... o bien (alternativa). SOIT tu PARS, SOIT tu RESTES. Différent de OU...OU (moins exclusif). NI...NI = ninguno de los dos."
+  },
+  {
+    "id": "b1g3_16",
+    "q": "Comment fonctionne NON (PAS) QUE... MAIS... ?",
+    "a": "NON (PAS) QUE + subjonctif + MAIS = ce n'est pas parce que... c'est parce que",
+    "choices": [
+      "Non que + subjonctif + mais",
+      "Non que + indicatif + mais",
+      "Non pas + indicatif + mais",
+      "Non + subjonctif + mais"
+    ],
+    "tag": "Structures",
+    "hint": "NON QU'IL SOIT bête, MAIS il ne travaille pas",
+    "expl": "NON (PAS) QUE + subjonctif = no es que + subjuntivo. NON QU'IL SOIT bête, MAIS il est paresseux = no es que sea tonto, sino que es perezoso."
+  },
+  {
+    "id": "b1g3_17",
+    "q": "Comment fonctionne TANT QUE + indicatif ?",
+    "a": "TANT QUE = aussi longtemps que, pendant que",
+    "choices": [
+      "Tant que = aussi longtemps que",
+      "Tant que = tellement que",
+      "Tant que = bien que",
+      "Tant que = à condition que"
+    ],
+    "tag": "Conjonctions",
+    "hint": "TANT QU'il fait beau, profitons-en",
+    "expl": "TANT QUE + indicatif = mientras, mientras que. TANT QU'IL FAIT BEAU. Comparer : TANDIS QUE (simultanéité ou opposition). AUTANT QUE (mesure)."
+  },
+  {
+    "id": "b1g3_18",
+    "q": "Comment utilise-t-on QUITTE À + infinitif ?",
+    "a": "QUITTE À = même si cela implique de, au risque de",
+    "choices": [
+      "Quitte à = au risque de",
+      "Quitte à = afin de",
+      "Quitte à = malgré",
+      "Quitte à = sans"
+    ],
+    "tag": "Structures",
+    "hint": "QUITTE À te blesser, je te dirai la vérité",
+    "expl": "QUITTE À + inf = aunque tenga que, a riesgo de. QUITTE À TE BLESSER, je dirai la vérité = aunque te lastime, diré la verdad. Résignation ou acceptation d'une conséquence."
+  },
+  {
+    "id": "b1g3_19",
+    "q": "Comment fonctionne FAUTE DE + nom/infinitif ?",
+    "a": "FAUTE DE = par manque de, à défaut de",
+    "choices": [
+      "Faute de = par manque de",
+      "Faute de = à cause de",
+      "Faute de = grâce à",
+      "Faute de = malgré"
+    ],
+    "tag": "Causalité",
+    "hint": "FAUTE DE temps, je n'ai pas pu",
+    "expl": "FAUTE DE + nom/inf = por falta de, a falta de. FAUTE DE TEMPS, je n'ai pas pu. FAUTE D'AVOIR PRÉPARÉ = por no haber preparado. Cause négative."
+  },
+  {
+    "id": "b1g3_20",
+    "q": "Comment utilise-t-on D'AUTANT PLUS QUE ?",
+    "a": "D'AUTANT PLUS QUE = d'autant plus que, encore plus parce que",
+    "choices": [
+      "D'autant plus que = encore plus parce que",
+      "D'autant plus que = moins parce que",
+      "D'autant plus que = même si",
+      "D'autant plus que = seulement si"
+    ],
+    "tag": "Intensité",
+    "hint": "C'est difficile, D'AUTANT PLUS QU'il fait chaud",
+    "expl": "D'AUTANT PLUS QUE = tanto más cuanto que. C'est dur, D'AUTANT PLUS QU'il fait chaud. La chaleur renforce la difficulté. D'AUTANT MOINS QUE = tanto menos cuanto que."
+  },
+  {
+    "id": "b1g3_21",
+    "q": "Comment fonctionne C'EST... QUI EST-CE QUE... (question emphatique) ?",
+    "a": "Qui est-ce qui (sujet) / Qu'est-ce qui (sujet chose) / Qu'est-ce que (objet)",
+    "choices": [
+      "Qui est-ce qui = sujet animé, qu'est-ce qui = sujet inanimé",
+      "Même sens",
+      "Qu'est-ce que = sujet",
+      "Qui est-ce que = objet"
+    ],
+    "tag": "Questions",
+    "hint": "QUI EST-CE QUI a téléphoné ? / QU'EST-CE QUI se passe ?",
+    "expl": "QUI EST-CE QUI = sujet animé (personne). QU'EST-CE QUI = sujet inanimé (chose). QUI EST-CE QUE = objet animé. QU'EST-CE QUE = objet inanimé."
+  },
+  {
+    "id": "b1g3_22",
+    "q": "Comment utilise-t-on LEQUEL/LAQUELLE dans les questions ?",
+    "a": "LEQUEL (des deux) = which one — pour faire un choix",
+    "choices": [
+      "Lequel = which one (choix)",
+      "Lequel = qui",
+      "Lequel = que",
+      "Lequel = où"
+    ],
+    "tag": "Questions",
+    "hint": "LEQUEL préfères-tu ?",
+    "expl": "LEQUEL/LAQUELLE/LESQUELS = cuál (de varios). LEQUEL PRÉFÈRES-TU ? LAQUELLE est la meilleure ? Fait référence à un choix parmi plusieurs éléments précédemment mentionnés."
+  },
+  {
+    "id": "b1g3_23",
+    "q": "Comment fonctionne QUI QUE / QUOI QUE / OÙ QUE (subjonctif) ?",
+    "a": "QUI QUE + subjonctif = whoever / QUOI QUE = whatever / OÙ QUE = wherever",
+    "choices": [
+      "Qui que/quoi que/où que + subjonctif",
+      "Qui que/quoi que + indicatif",
+      "Qui que/quoi que + conditionnel",
+      "Qui que/quoi que + infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QUI QUE tu sois / QUOI QU'il arrive / OÙ QUE tu ailles",
+    "expl": "Indéfinis + subjonctif : QUI QUE (quienquiera que), QUOI QUE (cualquier cosa que), OÙ QUE (dondequiera que), QUEL(LE) QUE (cualquiera que sea)."
+  },
+  {
+    "id": "b1g3_24",
+    "q": "Comment fonctionne QUELQUE... QUE + subjonctif ?",
+    "a": "Quelque + adj + que + subjonctif = no matter how + adj",
+    "choices": [
+      "Quelque + adj + que + subjonctif",
+      "Quelque + adj + que + indicatif",
+      "Quelque adj + que + conditionnel",
+      "Quelque que + subjonctif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QUELQUE DIFFICILE QUE soit le problème",
+    "expl": "QUELQUE + adj + QUE + subjonctif = por + adj que + sea. QUELQUE DIFFICILE QUE SOIT le problème = por difícil que sea el problema. Concession totale."
+  },
+  {
+    "id": "b1g3_25",
+    "q": "Comment fonctionne POUR + infinitif passé ?",
+    "a": "POUR AVOIR + PP = pour avoir fait quelque chose (cause/conséquence)",
+    "choices": [
+      "Pour avoir + PP = parce qu'il a fait",
+      "Pour + PP = but",
+      "Pour avoir + PP = avant",
+      "Pour + inf passé = condition"
+    ],
+    "tag": "Infinitif passé",
+    "hint": "Il a été puni POUR AVOIR MENTI",
+    "expl": "POUR AVOIR + PP = por haber + PP. Il a été puni POUR AVOIR MENTI = fue castigado por haber mentido. La cause est dans l'infinitif passé."
+  }
+]

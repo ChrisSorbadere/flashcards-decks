@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1ph2_01",
+    "q": "Qu'est-ce que la 'liaison facultative' ?",
+    "a": "Liaison possible mais non obligatoire, varie selon le registre",
+    "choices": [
+      "Liaison possible non obligatoire",
+      "Liaison obligatoire",
+      "Liaison interdite",
+      "Liaison seulement à l'écrit"
+    ],
+    "tag": "Liaisons",
+    "hint": "Nous allons_ensemble — [z] facultatif en fin de groupe",
+    "expl": "LIAISON FACULTATIVE : possible en registre soigné, absente en registre familier. Après les verbes + adverbes. Plus il y a de liaisons, plus le registre est soutenu."
+  },
+  {
+    "id": "b1ph2_02",
+    "q": "Qu'est-ce qu'une 'liaison interdite' ?",
+    "a": "Liaison qu'il ne faut JAMAIS faire (après ET, avant H aspiré, après nom singulier)",
+    "choices": [
+      "Liaison jamais à faire",
+      "Liaison difficile",
+      "Liaison facultative",
+      "Liaison régionale"
+    ],
+    "tag": "Liaisons",
+    "hint": "ET il vient — jamais [t] / un héros — jamais de liaison",
+    "expl": "LIAISONS INTERDITES : après ET (jamais). Devant H aspiré (un héros [œ̃.e.ʁo]). Après nom singulier (un enfant_adorable = possible, mais un garçon adorable = pas de liaison Z). "
+  },
+  {
+    "id": "b1ph2_03",
+    "q": "Comment se produit l'enchaînement consonantique ?",
+    "a": "Consonne finale prononcée + voyelle initiale = enchaînement",
+    "choices": [
+      "Consonne finale + voyelle initiale",
+      "Deux voyelles",
+      "Deux consonnes",
+      "Toujours avec liaison"
+    ],
+    "tag": "Enchaînement",
+    "hint": "UNE_ heure [y.nœʁ] — le N de 'une' s'enchaîne",
+    "expl": "ENCHAÎNEMENT : consonne finale PRONONCÉE (pas de liaison, juste enchaînement). UNE HEURE [y.nœʁ]. ELLE ARRIVE [ɛ.la.ʁiv]. La consonne va avec la syllabe suivante."
+  },
+  {
+    "id": "b1ph2_04",
+    "q": "Quelle est la différence entre liaison et enchaînement ?",
+    "a": "LIAISON = consonne normalement muette prononcée / ENCHAÎNEMENT = consonne déjà prononcée",
+    "choices": [
+      "Liaison = consonne muette qui se prononce, enchaînement = consonne déjà prononcée",
+      "Même phénomène",
+      "Liaison = écrit, enchaînement = oral",
+      "Liaison = formel, enchaînement = familier"
+    ],
+    "tag": "Liaison vs enchaînement",
+    "hint": "LES amis [le.za.mi] (liaison S) vs ELLE arrive [ɛ.la.ʁiv] (enchaînement L)",
+    "expl": "LIAISON : le S de LES normalement muet se prononce [z] devant voyelle. ENCHAÎNEMENT : le L de ELLE est toujours prononcé, il s'enchaîne simplement avec la syllabe suivante."
+  },
+  {
+    "id": "b1ph2_05",
+    "q": "Comment se prononce le 'H aspiré' ?",
+    "a": "H aspiré bloque la liaison et l'élision : le hibou [lə.i.bu] (pas l'hibou)",
+    "choices": [
+      "H aspiré bloque liaison et élision",
+      "H aspiré se prononce [h]",
+      "H aspiré = H muet",
+      "H aspiré seulement dans les mots étrangers"
+    ],
+    "tag": "H aspiré",
+    "hint": "LE hibou (pas l'hibou) / LES haricots [le.a.ʁi.ko]",
+    "expl": "H ASPIRÉ : bloque la liaison et l'élision. LE HIBOU (pas l'hibou). LES HARICOTS [le.a.ʁi.ko] (pas [le.za.ʁi.ko]). La honte, le hasard, le hibou. À apprendre mot par mot."
+  },
+  {
+    "id": "b1ph2_06",
+    "q": "Quels sont quelques mots à H aspiré fréquents ?",
+    "a": "Le/la : honte, haricot, hibou, héros, honte, hangar, hasard",
+    "choices": [
+      "La honte, le haricot, le hibou, le héros",
+      "L'heure, l'homme, l'habitude",
+      "L'hôpital, l'herbe, l'huile",
+      "L'hier, l'hier, l'hier"
+    ],
+    "tag": "H aspiré",
+    "hint": "LE (et non L') devant ces mots",
+    "expl": "H ASPIRÉ (article LE/LA, pas liaison) : LA HONTE, LE HARICOT, LE HIBOU, LE HÉROS, LE HASARD, LE HANGAR. H MUET (élision/liaison) : L'HOMME, L'HEURE, L'HÔPITAL."
+  },
+  {
+    "id": "b1ph2_07",
+    "q": "Comment évolue la prononciation du français dans les médias ?",
+    "a": "Tendance à moins de liaisons, débit plus rapide, registre plus proche de l'oral",
+    "choices": [
+      "Moins de liaisons, débit rapide, registre oral",
+      "Plus de liaisons qu'avant",
+      "Plus formel qu'avant",
+      "Prononciation fixe et immuable"
+    ],
+    "tag": "Évolution",
+    "hint": "La radio et la TV influencent les normes",
+    "expl": "Évolution : moins de liaisons facultatives, débit accéléré, registre plus naturel dans les médias. La norme académique et la pratique s'écartent progressivement."
+  },
+  {
+    "id": "b1ph2_08",
+    "q": "Comment se prononce 'je' dans le français parlé rapide ?",
+    "a": "J' devant consonne : j'sais pas, j'veux, j'peux",
+    "choices": [
+      "J' devant consonne",
+      "Je toujours complet",
+      "Je devient tu",
+      "Je devient on"
+    ],
+    "tag": "Oral rapide",
+    "hint": "J'SAIS PAS / J'VEUX / J'PEUX — chute du E",
+    "expl": "Français parlé rapide : JE → J' devant consonne. J'SAIS PAS [ʒ.se.pa]. J'VEUX [ʒ.vø]. J'PEUX [ʒ.pø]. E caduc chute devant consonne."
+  },
+  {
+    "id": "b1ph2_09",
+    "q": "Qu'est-ce que le 'parlé-lu' ?",
+    "a": "Prononciation du texte écrit lue à voix haute — plus formelle que le parlé spontané",
+    "choices": [
+      "Texte écrit lu à voix haute",
+      "Argot",
+      "Chant",
+      "Discours politique"
+    ],
+    "tag": "Registres",
+    "hint": "Lire un texte ≠ parler spontanément",
+    "expl": "PARLÉ-LU = lecture à voix haute. Plus de liaisons, prononciation plus soignée, débit plus lent. Différent du PARLÉ SPONTANÉ (plus naturel, plus de reductions)."
+  },
+  {
+    "id": "b1ph2_10",
+    "q": "Comment le contexte modifie-t-il la prononciation des nombres ?",
+    "a": "CINQ, SIX, HUIT, DIX = finals muets devant consonne, prononcés devant voyelle",
+    "choices": [
+      "Finales muettes devant consonne, prononcées devant voyelle",
+      "Toujours prononcés",
+      "Jamais les finales",
+      "Dépend uniquement de la liaison"
+    ],
+    "tag": "Nombres",
+    "hint": "CINQ enfants [sɛ̃.kɑ̃.fɑ̃] vs CINQ chats [sɛ̃.ʃa]",
+    "expl": "CINQ [sɛ̃k] devant voyelle / [sɛ̃] devant consonne. SIX [sis] devant voyelle / [si] devant consonne. HUIT [ɥit] devant voyelle / [ɥi] devant consonne."
+  },
+  {
+    "id": "b1ph2_11",
+    "q": "Comment se prononce 'grand-père' vs 'grand mère' ?",
+    "a": "Grand-père [gʁɑ̃.pɛʁ] / grand-mère [gʁɑ̃.mɛʁ] — D muet dans les deux",
+    "choices": [
+      "D muet dans les deux",
+      "D prononcé toujours",
+      "D prononcé devant voyelle",
+      "D devient T devant P"
+    ],
+    "tag": "Prononciations",
+    "hint": "Le D de GRAND est toujours muet dans les composés",
+    "expl": "GRAND-PÈRE [gʁɑ̃.pɛʁ]. GRAND-MÈRE [gʁɑ̃.mɛʁ]. GRAND-CHOSE [gʁɑ̃.ʃoz]. Le D est toujours muet dans ces composés. Mais : UN GRAND HOMME [gʁɑ̃.tɔm] (liaison T)."
+  },
+  {
+    "id": "b1ph2_12",
+    "q": "Comment se prononce le suffixe '-isme' ?",
+    "a": "[ism] : communisme [kɔ.my.nism], réalisme [ʁe.a.lism]",
+    "choices": [
+      "[ism]",
+      "[izm]",
+      "[isme]",
+      "[is]"
+    ],
+    "tag": "Suffixes",
+    "hint": "COMMUNISME, RÉALISME, TOURISME — tous en [ism]",
+    "expl": "SUFFIXE -ISME = [ism]. COMMUNISME [kɔ.my.nism]. RÉALISME [ʁe.a.lism]. TOURISME [tu.ʁism]. Le E final est MUET. -ISTE = [ist] : communiste, réaliste."
+  },
+  {
+    "id": "b1ph2_13",
+    "q": "Comment se prononcent les finales en '-tion' et '-ssion' ?",
+    "a": "-TION = [sjɔ̃] / -SSION = [sjɔ̃] aussi (même prononciation)",
+    "choices": [
+      "Les deux = [sjɔ̃]",
+      "Tion = [tjɔ̃], ssion = [sjɔ̃]",
+      "Les deux = [tjɔ̃]",
+      "Tion = [sjɔ̃], ssion = [zjɔ̃]"
+    ],
+    "tag": "Suffixes",
+    "hint": "NATION et PASSION — même son final",
+    "expl": "NATION [na.sjɔ̃] = PASSION [pa.sjɔ̃]. Les deux se prononcent [sjɔ̃]. -SION [zjɔ̃] : DÉCISION [de.si.zjɔ̃]. -TION et -SSION sont homophones."
+  },
+  {
+    "id": "b1ph2_14",
+    "q": "Comment se prononce le 'e' dans les monosyllabes grammaticaux ?",
+    "a": "LE, ME, TE, SE, CE, DE, NE → [ə] ou muet selon position",
+    "choices": [
+      "[ə] ou muet selon position",
+      "Toujours [e]",
+      "Toujours [ə]",
+      "Toujours muet"
+    ],
+    "tag": "E caduc",
+    "hint": "JE pars [ʒə] / j'pars [ʒ] — selon la vitesse",
+    "expl": "Monosyllabes grammaticaux : [ə] en début de groupe ou isolé. Muet en milieu de groupe. JE pars [ʒə.paʁ] ou [ʒ.paʁ]. LE livre [lə.livʁ] ou [l.livʁ] selon débit."
+  },
+  {
+    "id": "b1ph2_15",
+    "q": "Qu'est-ce qu'une 'pause juncture' ?",
+    "a": "Pause entre deux groupes rythmiques qui évite l'ambiguïté",
+    "choices": [
+      "Pause qui évite l'ambiguïté",
+      "Pause pour respirer",
+      "Pause esthétique",
+      "Pause obligatoire"
+    ],
+    "tag": "Prosodie",
+    "hint": "Un petit_ami (petit ami) vs un petit ami (ami petit)",
+    "expl": "PAUSE JUNCTURE = pause démarcative. Petit ami (= boyfriend) vs petit/ami (= ami petit). La pause change le sens. Fondamental pour la compréhension orale."
+  },
+  {
+    "id": "b1ph2_16",
+    "q": "Comment se réalise le 'schwa' dans les emprunts anglais ?",
+    "a": "Le schwa anglais est souvent rendu par [œ] ou [ɛ] en français",
+    "choices": [
+      "Schwa → [œ] ou [ɛ]",
+      "Schwa → [a]",
+      "Schwa → [i]",
+      "Schwa est conservé tel quel"
+    ],
+    "tag": "Emprunts",
+    "hint": "MANAGER [ma.na.dʒœʁ] — schwa anglais → œ",
+    "expl": "Emprunts anglais : schwa [ə] anglais → [œ] ou [ɛ] en français. MANAGER [ma.na.dʒœʁ]. LEADER [li.dœʁ]. MARKETING [maʁ.kɛ.tiŋ]. Adaptation phonologique systématique."
+  },
+  {
+    "id": "b1ph2_17",
+    "q": "Quelle est la norme de prononciation en France aujourd'hui ?",
+    "a": "Pas de norme unique : le français 'standard' est une abstraction",
+    "choices": [
+      "Pas de norme unique absolue",
+      "La prononciation de l'Académie française",
+      "Le français parisien exclusivement",
+      "La radio/TV définit la norme"
+    ],
+    "tag": "Norme",
+    "hint": "La norme est sociolinguistiquement construite",
+    "expl": "LA NORME phonétique = concept relatif. Le 'français standard' = abstraction basée sur l'éducation. Ni Paris, ni l'Académie ne fixent la prononciation. Plusieurs normes coexistent."
+  },
+  {
+    "id": "b1ph2_18",
+    "q": "Comment se prononce 'clef' vs 'clé' ?",
+    "a": "Les deux se prononcent [kle] — clef est l'orthographe ancienne",
+    "choices": [
+      "Les deux = [kle]",
+      "Clef = [klɛf], clé = [kle]",
+      "Clef = [klɛ], clé = [kle]",
+      "Dépend du contexte"
+    ],
+    "tag": "Prononciations",
+    "hint": "CLÉ et CLEF — orthographes différentes, même son",
+    "expl": "CLÉ et CLEF = [kle]. CLEF est l'orthographe historique, CLÉ est la graphie moderne. Le F final de CLEF est MUET. Même prononciation pour les deux."
+  },
+  {
+    "id": "b1ph2_19",
+    "q": "Comment se prononce 'oignon' ?",
+    "a": "[ɔ.ɲɔ̃] — le GN se prononce comme la ñ espagnole",
+    "choices": [
+      "[ɔ.ɲɔ̃]",
+      "[wa.ɲɔ̃]",
+      "[o.i.ɲɔ̃]",
+      "[ɔ.gjɔ̃]"
+    ],
+    "tag": "Prononciations",
+    "hint": "OIGNON [ɔ.ɲɔ̃] — OI → [ɔ] + GN → [ɲ]",
+    "expl": "OIGNON = [ɔ.ɲɔ̃]. OI → [ɔ] (pas [wa] dans ce mot). GN → [ɲ] (como la Ñ española). Réforme orthographique 1990 propose OGNON mais les deux sont acceptés."
+  },
+  {
+    "id": "b1ph2_20",
+    "q": "Comment se prononce le 'X' dans 'soixante' ?",
+    "a": "[swa.sɑ̃t] — X se prononce [s] dans ce mot",
+    "choices": [
+      "[swa.sɑ̃t] X = [s]",
+      "[swak.sɑ̃t] X = [ks]",
+      "[swaz.sɑ̃t] X = [gz]",
+      "[swak.zɑ̃t]"
+    ],
+    "tag": "Prononciations",
+    "hint": "SOIXANTE [swa.sɑ̃t]",
+    "expl": "SOIXANTE = [swa.sɑ̃t]. X = [s] ici. DIX = [di] seul / [diz] devant voyelle / [dis] en fin. SIX = [sis]/[si]. DIX-HUIT = [di.z.ɥit]. Nombreuses irrégularités avec X."
+  },
+  {
+    "id": "b1ph2_21",
+    "q": "Comment se prononce 'monsieur' ?",
+    "a": "[mə.sjø] — ni 'mon' ni 'sieur' séparément",
+    "choices": [
+      "[mə.sjø]",
+      "[mɔ̃.sjœʁ]",
+      "[mɔ̃.sœʁ]",
+      "[mɔ̃.sje]"
+    ],
+    "tag": "Prononciations",
+    "hint": "MONSIEUR — prononciation irrégulière historique",
+    "expl": "MONSIEUR = [mə.sjø]. Prononciation totalement différente de l'orthographe (héritage historique). MESSIEURS = [me.sjø]. À mémoriser comme exception."
+  },
+  {
+    "id": "b1ph2_22",
+    "q": "Comment se prononce 'femme' ?",
+    "a": "[fam] — le E se prononce [a]",
+    "choices": [
+      "[fam] avec A",
+      "[fɛm] avec È",
+      "[fəm] avec E caduc",
+      "[fem] avec E fermé"
+    ],
+    "tag": "Prononciations",
+    "hint": "FEMME [fam] — exception !",
+    "expl": "FEMME = [fam]. Le E se prononce [a] ! Exception historique (ancienne prononciation). FEMME [fam]. Aussi : SOLENNEL [sɔ.la.nɛl], SOLENNELLEMENT [sɔ.la.nɛl.mɑ̃]."
+  },
+  {
+    "id": "b1ph2_23",
+    "q": "Qu'est-ce que l'accent de durée (accent d'insistance) ?",
+    "a": "Allongement de la syllabe initiale pour insister : C'est i-mpossible !",
+    "choices": [
+      "Allongement syllabe initiale pour insister",
+      "Accent toujours en fin",
+      "Accent toujours au début",
+      "Accent sur toutes les syllabes"
+    ],
+    "tag": "Accent d'insistance",
+    "hint": "C'est i-MPOSSIBLE ! / C'est A-bsurde !",
+    "expl": "ACCENT D'INSISTANCE : allongement et/ou rehaussement de la 1ère syllabe du mot (exceptionnellement) pour insister. C'est I-MPOSSIBLE ! Phénomène expressif, non standard."
+  },
+  {
+    "id": "b1ph2_24",
+    "q": "Comment les consonnes finales -s, -t, -d, -p sont-elles généralement traitées ?",
+    "a": "Muettes sauf dans certains mots et dans les liaisons",
+    "choices": [
+      "Muettes sauf liaisons et mots spéciaux",
+      "Toujours prononcées",
+      "Prononcées seulement à l'écrit",
+      "Prononcées seulement en poésie"
+    ],
+    "tag": "Consonnes finales",
+    "hint": "CHAT, GRAND, BOIS, CANIF — finales muettes",
+    "expl": "Consonnes finales généralement MUETTES en français. CHAT [ʃa], GRAND [gʁɑ̃], BOIS [bwa]. MAIS prononcées dans : INDEX [ɛ̃.dɛks], CAP [kap], COQ [kɔk], ŒUF [œf] (singulier)."
+  },
+  {
+    "id": "b1ph2_25",
+    "q": "Comment se réalise la prosodie dans le discours argumentatif oral ?",
+    "a": "Pauses plus longues entre arguments, intonation plus marquée, débit variable",
+    "choices": [
+      "Pauses plus longues entre arguments, intonation marquée",
+      "Débit constant et rapide",
+      "Aucune variation prosodique",
+      "Intonation plate"
+    ],
+    "tag": "Prosodie",
+    "hint": "À l'oral, l'argumentation se structure prosodiquement",
+    "expl": "ARGUMENTATION ORALE : pauses longues entre arguments (équivalent des paragraphes). Intonation montante pour les thèses, descendante pour les conclusions. Débit ralentit sur les points clés."
+  }
+]

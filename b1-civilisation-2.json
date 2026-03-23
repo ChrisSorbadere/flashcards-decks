@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b1civ2_01",
+    "q": "Qu'est-ce que la 'politique étrangère' de la France ?",
+    "a": "La France = membre permanent du Conseil de sécurité de l'ONU, puissance nucléaire",
+    "choices": [
+      "Membre permanent ONU, puissance nucléaire",
+      "Pays neutre",
+      "Membre de l'OTAN seulement",
+      "Puissance régionale seulement"
+    ],
+    "tag": "Géopolitique",
+    "hint": "France = l'un des 5 membres permanents du CS de l'ONU",
+    "expl": "FRANCE géopolitique : membre permanent CS ONU (avec veto). PUISSANCE NUCLÉAIRE. Fondatrice UE. Membre OTAN. 2ème réseau diplomatique mondial. Francophonie = soft power."
+  },
+  {
+    "id": "b1civ2_02",
+    "q": "Qu'est-ce que la 'construction européenne' selon la France ?",
+    "a": "La France est l'un des pays fondateurs de l'UE (1957, Traité de Rome)",
+    "choices": [
+      "Pays fondateur UE 1957",
+      "Pays entré tardivement",
+      "Pays opposé à l'UE",
+      "Pays non membre"
+    ],
+    "tag": "Europe",
+    "hint": "France + Allemagne = moteur de l'Europe",
+    "expl": "FRANCE et CONSTRUCTION EUROPÉENNE : pays fondateur (Traité de Rome 1957). Franco-allemand = moteur de l'UE. Tensions entre souveraineté nationale et intégration européenne."
+  },
+  {
+    "id": "b1civ2_03",
+    "q": "Qu'est-ce que le 'modèle social français' ?",
+    "a": "Système de protection sociale étendu : SS, retraites, chômage, famille",
+    "choices": [
+      "Protection sociale étendue",
+      "Système libéral",
+      "Modèle américain",
+      "État minimal"
+    ],
+    "tag": "Société",
+    "hint": "L'État-providence = caractéristique française",
+    "expl": "MODÈLE SOCIAL FRANÇAIS : SÉCURITÉ SOCIALE (1945). Retraites. Allocations chômage (Unédic/Pôle emploi). Allocations familiales. 33% du PIB = dépenses sociales. Souvent critiqué pour son coût."
+  },
+  {
+    "id": "b1civ2_04",
+    "q": "Qu'est-ce que le 'capitalisme rhénan' vs 'capitalisme anglo-saxon' ?",
+    "a": "RHÉNAN = État fort, partenariat social / ANGLO-SAXON = marché libre, actionnaire roi",
+    "choices": [
+      "Rhénan = État fort/social, Anglo-saxon = marché libre",
+      "Même modèle",
+      "Rhénan = libéral, Anglo-saxon = social",
+      "Rhénan = asiatique, Anglo-saxon = européen"
+    ],
+    "tag": "Économie",
+    "hint": "La France se situe entre les deux",
+    "expl": "CAPITALISME RHÉNAN (France/Allemagne) = État interventionniste, syndicats forts, protection sociale. CAPITALISME ANGLO-SAXON (UK/USA) = marché libre, actionnaire prioritaire, État minimal."
+  },
+  {
+    "id": "b1civ2_05",
+    "q": "Qu'est-ce que la 'désaffection politique' en France ?",
+    "a": "Abstentionnisme croissant et méfiance envers les partis traditionnels",
+    "choices": [
+      "Abstentionnisme et méfiance croissants",
+      "Engagement politique fort",
+      "Hausse de la participation",
+      "Stabilité politique"
+    ],
+    "tag": "Société",
+    "hint": "Taux d'abstention record dans les élections récentes",
+    "expl": "DÉSAFFECTION POLITIQUE : abstentionnisme record aux législatives et régionales. Crise des partis traditionnels (PS, RPR). Montée des extrêmes. POPULISME = réponse à cette crise."
+  },
+  {
+    "id": "b1civ2_06",
+    "q": "Qu'est-ce que la 'fracture numérique' en France ?",
+    "a": "Inégalités d'accès et d'usage d'internet selon l'âge, le lieu et les revenus",
+    "choices": [
+      "Inégalités d'accès à internet",
+      "Coupure internet nationale",
+      "Fracture entre villes",
+      "Panne du réseau"
+    ],
+    "tag": "Société",
+    "hint": "Zones blanches, personnes âgées, démunis",
+    "expl": "FRACTURE NUMÉRIQUE : inégalités d'accès (zones blanches rurales) et d'USAGE (personnes âgées, peu qualifiés). ILLECTRONISME = incapacité à utiliser les outils numériques. Enjeu social majeur."
+  },
+  {
+    "id": "b1civ2_07",
+    "q": "Qu'est-ce que le 'mouvement #MeToo' en France ?",
+    "a": "Vague de dénonciations de harcèlement et violences sexuelles, 2017",
+    "choices": [
+      "Dénonciations harcèlement sexuel 2017",
+      "Mouvement écologiste",
+      "Réforme du travail",
+      "Mouvement politique"
+    ],
+    "tag": "Société",
+    "hint": "#BalanceTonPorc = version française de #MeToo",
+    "expl": "#METOO (2017) = mouvement mondial contre harcèlement sexuel. En France : #BALANCETONPORC. Affaire Harvey Weinstein = déclencheur. Libération de la parole des femmes. Réformes législatives."
+  },
+  {
+    "id": "b1civ2_08",
+    "q": "Qu'est-ce que la 'politique linguistique' française ?",
+    "a": "Protection active du français : loi Toubon, académie, quota radio",
+    "choices": [
+      "Protection active du français par la loi",
+      "Liberté linguistique totale",
+      "Promotion de l'anglais",
+      "Bilinguisme officiel"
+    ],
+    "tag": "Langue",
+    "hint": "La loi Toubon (1994) protège le français",
+    "expl": "POLITIQUE LINGUISTIQUE : LOI TOUBON (1994) = français obligatoire dans les documents officiels, publicités. QUOTAS RADIO = 40% de chansons françaises. Académie française. Résistance à l'anglais."
+  },
+  {
+    "id": "b1civ2_09",
+    "q": "Qu'est-ce que la 'réforme des retraites' en France ?",
+    "a": "Sujet de tension sociale récurrent : âge de départ, financement du système",
+    "choices": [
+      "Tension sur l'âge de départ et financement",
+      "Réforme facile et consensuelle",
+      "Sujet mineur",
+      "Réforme déjà réglée"
+    ],
+    "tag": "Société",
+    "hint": "Grèves massives à chaque tentative de réforme",
+    "expl": "RETRAITES = sujet brûlant en France. Déficit chronique du système. Tentatives de reculer l'âge de départ (62 → 64 ans). Grèves massives. Conflit entre équité intergénérationnelle et droits acquis."
+  },
+  {
+    "id": "b1civ2_10",
+    "q": "Qu'est-ce que la 'transition énergétique' en France ?",
+    "a": "Passage des énergies fossiles aux énergies renouvelables + débat nucléaire",
+    "choices": [
+      "Passage aux renouvelables + débat nucléaire",
+      "Fermeture de toutes les centrales",
+      "Abandon des renouvelables",
+      "Transition terminée"
+    ],
+    "tag": "Environnement",
+    "hint": "France = 2ème puissance nucléaire mondiale",
+    "expl": "TRANSITION ÉNERGÉTIQUE : France = 75% d'électricité nucléaire. Débat : fermer ou prolonger les centrales ? Développer les renouvelables (éolien, solaire). Objectif neutralité carbone 2050."
+  },
+  {
+    "id": "b1civ2_11",
+    "q": "Qu'est-ce que la 'désindustrialisation' en France ?",
+    "a": "Déclin de l'industrie française depuis les années 80, délocalisations",
+    "choices": [
+      "Déclin industriel et délocalisations",
+      "Hausse de l'industrie",
+      "Réindustrialisation",
+      "Industrialisation agricole"
+    ],
+    "tag": "Économie",
+    "hint": "La rouille de la Lorraine, du Nord-Pas-de-Calais",
+    "expl": "DÉSINDUSTRIALISATION : fermetures d'usines, délocalisations. Sidérurgie (Lorraine), textile (Nord), charbonnages. RECONVERSION difficile. RÉINDUSTRIALISATION = priorité politique depuis 2020."
+  },
+  {
+    "id": "b1civ2_12",
+    "q": "Qu'est-ce que le 'multiculturalisme' et le 'républicanisme' français ?",
+    "a": "MULTICULTURALISME = valoriser les différences / RÉPUBLICANISME = assimilation, citoyenneté universelle",
+    "choices": [
+      "Multiculturalisme = valoriser différences / républicanisme = assimilation",
+      "Même concept",
+      "Multiculturalisme = français, républicanisme = britannique",
+      "Aucune différence en pratique"
+    ],
+    "tag": "Société",
+    "hint": "France = modèle républicain (pas communautariste)",
+    "expl": "FRANCE = modèle RÉPUBLICAIN : citoyenneté universelle, pas de reconnaissance des communautés. Critiqué pour l'invisibilisation des discriminations. Opposé au modèle COMMUNAUTARISTE britannique."
+  },
+  {
+    "id": "b1civ2_13",
+    "q": "Qu'est-ce que la 'bande dessinée franco-belge' ?",
+    "a": "Tradition artistique européenne : Tintin, Astérix, Lucky Luke, Spirou...",
+    "choices": [
+      "Tradition artistique franco-belge, Tintin Astérix",
+      "Seulement française",
+      "Seulement belge",
+      "Comme le manga japonais"
+    ],
+    "tag": "Culture",
+    "hint": "Le 9ème art = tradition franco-belge unique",
+    "expl": "BD FRANCO-BELGE = 9ème art. Belgique : TINTIN (Hergé), SPIROU. France : ASTÉRIX (Goscinny/Uderzo), LUCKY LUKE. Festival d'ANGOULÊME = festival mondial BD (janvier). Pilier de la culture."
+  },
+  {
+    "id": "b1civ2_14",
+    "q": "Qu'est-ce que la 'francophonie culturelle' ?",
+    "a": "Ensemble des œuvres artistiques produites en français dans le monde",
+    "choices": [
+      "Œuvres artistiques en français dans le monde",
+      "Seulement la France",
+      "Seulement l'Afrique",
+      "Seulement la littérature"
+    ],
+    "tag": "Francophonie",
+    "hint": "Littérature, cinéma, musique en français",
+    "expl": "FRANCOPHONIE CULTURELLE : AIMÉ CÉSAIRE (Martinique), LÉOPOLD SÉDAR SENGHOR (Sénégal), TAHAR BEN JELLOUN (Maroc), AMÉLIE NOTHOMB (Belgique). Prix Nobel de littérature francophones."
+  },
+  {
+    "id": "b1civ2_15",
+    "q": "Qu'est-ce que la 'résidence secondaire' en France ?",
+    "a": "Maison ou appartement utilisé pour les vacances, non résidence principale",
+    "choices": [
+      "Logement de vacances non principal",
+      "Logement social",
+      "Chambre étudiante",
+      "Bureau professionnel"
+    ],
+    "tag": "Société",
+    "hint": "La France a 10% de résidences secondaires",
+    "expl": "RÉSIDENCE SECONDAIRE = 3,7 millions en France (10% du parc). Souvent à la campagne ou au bord de la mer. Héritage de familles. GÎTE RURAL = résidence secondaire louée. Désertification rurale."
+  },
+  {
+    "id": "b1civ2_16",
+    "q": "Qu'est-ce que le 'paritarisme' en France ?",
+    "a": "Gestion paritaire des organismes sociaux par syndicats et patronat",
+    "choices": [
+      "Gestion syndicats + patronat à égalité",
+      "Gestion uniquement par l'État",
+      "Gestion uniquement par les entreprises",
+      "Système américain"
+    ],
+    "tag": "Travail",
+    "hint": "Sécurité sociale, UNEDIC gérés paritairement",
+    "expl": "PARITARISME = gestion à parité entre syndicats de salariés et organisations patronales. UNEDIC (chômage), Sécurité sociale, caisses de retraite. Spécificité française de négociation sociale."
+  },
+  {
+    "id": "b1civ2_17",
+    "q": "Qu'est-ce que le 'Grand Emprunt' ou 'Plan France 2030' ?",
+    "a": "Investissements de l'État dans l'innovation, les technologies du futur",
+    "choices": [
+      "Investissements État dans l'innovation",
+      "Emprunt pour rembourser la dette",
+      "Plan d'austérité",
+      "Aide aux entreprises en difficulté"
+    ],
+    "tag": "Économie",
+    "hint": "Intelligence artificielle, hydrogène, nucléaire — investissements stratégiques",
+    "expl": "FRANCE 2030 (2021) = 30 milliards d'euros investis dans les secteurs d'avenir : IA, hydrogène, nucléaire, santé, culture. Politique industrielle volontariste de l'État."
+  }
+]

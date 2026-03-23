@@ -234,7 +234,7 @@
           "id": "a2-phonetique-1",
           "name": "A2 — Phonétique (1/2)",
           "description": "Enchaînements et élision",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-1.json"
@@ -243,7 +243,7 @@
           "id": "a2-phonetique-2",
           "name": "A2 — Phonétique (2/2)",
           "description": "Rythme et intonation",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-2.json"
@@ -252,7 +252,7 @@
           "id": "a2-expression-ecrite-1",
           "name": "A2 — Expression écrite (1/2)",
           "description": "Raconter un événement passé",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-1.json"
@@ -261,7 +261,7 @@
           "id": "a2-expression-ecrite-2",
           "name": "A2 — Expression écrite (2/2)",
           "description": "Décrire un lieu ou une personne",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-2.json"
@@ -270,7 +270,7 @@
           "id": "a2-civilisation-1",
           "name": "A2 — Civilisation & culture (1/2)",
           "description": "Les régions françaises",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-1.json"
@@ -279,7 +279,7 @@
           "id": "a2-civilisation-2",
           "name": "A2 — Civilisation & culture (2/2)",
           "description": "Gastronomie et traditions",
-          "cardCount": 20,
+          "cardCount": 17,
           "level": "A2",
           "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-2.json"
@@ -295,111 +295,100 @@
           "id": "b1-conjugaison-1",
           "name": "B1 — Conjugaison & verbes (1/3)",
           "description": "Subjonctif présent : formation",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-1.json"
         },
         {
           "id": "b1-conjugaison-2",
           "name": "B1 — Conjugaison & verbes (2/3)",
           "description": "Subjonctif : emplois obligatoires",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-2.json"
         },
         {
           "id": "b1-conjugaison-3",
           "name": "B1 — Conjugaison & verbes (3/3)",
           "description": "Passé simple : reconnaissance",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 3,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-3.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-3.json"
         },
         {
           "id": "b1-vocabulaire-1",
           "name": "B1 — Vocabulaire thématique (1/3)",
           "description": "Synonymes et antonymes",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-1.json"
         },
         {
           "id": "b1-vocabulaire-2",
           "name": "B1 — Vocabulaire thématique (2/3)",
           "description": "Registres de langue",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-2.json"
         },
         {
           "id": "b1-vocabulaire-3",
           "name": "B1 — Vocabulaire thématique (3/3)",
           "description": "Nuances et précisions",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 3,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-3.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-3.json"
         },
         {
           "id": "b1-grammaire-1",
           "name": "B1 — Grammaire (1/3)",
           "description": "Subjonctif vs indicatif",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-1.json"
         },
         {
           "id": "b1-grammaire-2",
           "name": "B1 — Grammaire (2/3)",
           "description": "Voix passive",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-2.json"
         },
         {
           "id": "b1-grammaire-3",
           "name": "B1 — Grammaire (3/3)",
           "description": "Concordance des temps",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 3,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-3.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-3.json"
         },
         {
           "id": "b1-phonetique-1",
           "name": "B1 — Phonétique (1/2)",
           "description": "Liaisons complexes et fluidité",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-1.json"
         },
         {
           "id": "b1-phonetique-2",
           "name": "B1 — Phonétique (2/2)",
           "description": "Registres oraux",
-          "cardCount": 17,
+          "cardCount": 25,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-2.json"
         },
         {
           "id": "b1-expression-ecrite-1",
@@ -408,8 +397,7 @@
           "cardCount": 17,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-1.json"
         },
         {
           "id": "b1-expression-ecrite-2",
@@ -418,8 +406,7 @@
           "cardCount": 17,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-2.json"
         },
         {
           "id": "b1-civilisation-1",
@@ -428,8 +415,7 @@
           "cardCount": 17,
           "level": "B1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-1.json"
         },
         {
           "id": "b1-civilisation-2",
@@ -438,8 +424,7 @@
           "cardCount": 17,
           "level": "B1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-2.json"
         }
       ]
     },

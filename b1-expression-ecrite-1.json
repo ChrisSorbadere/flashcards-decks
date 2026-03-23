@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b1ee1_01",
+    "q": "Comment structure-t-on une argumentation en français ?",
+    "a": "Thèse → antithèse → synthèse (plan dialectique) ou thèse → arguments → conclusion",
+    "choices": [
+      "Thèse / antithèse / synthèse",
+      "Introduction / corps / conclusion seulement",
+      "Problème / solution / exemple",
+      "Chronologique seulement"
+    ],
+    "tag": "Argumentation",
+    "hint": "Le plan dialectique classique",
+    "expl": "Plan DIALECTIQUE : THÈSE (position) → ANTITHÈSE (contre-arguments) → SYNTHÈSE (dépassement). Plan ANALYTIQUE : thèse + arguments + conclusion. Les deux sont valides."
+  },
+  {
+    "id": "b1ee1_02",
+    "q": "Comment formule-t-on une thèse clairement ?",
+    "a": "Affirmer une position + la justifier : 'Je soutiens que... parce que...'",
+    "choices": [
+      "Position + justification",
+      "Poser une question",
+      "Donner des exemples seulement",
+      "Citer une source"
+    ],
+    "tag": "Argumentation",
+    "hint": "La thèse = votre position clairement affirmée",
+    "expl": "THÈSE = position + justification. 'Il me semble que... parce que...' / 'Je soutiens que... car...' / 'Selon moi... en effet...'. La thèse doit être explicite."
+  },
+  {
+    "id": "b1ee1_03",
+    "q": "Comment réfute-t-on un argument adverse ?",
+    "a": "Certes... mais / Il est vrai que... cependant / On pourrait dire... or en fait",
+    "choices": [
+      "Certes/il est vrai... cependant/mais",
+      "Vous avez tort / c'est faux",
+      "Parce que / donc",
+      "D'abord / ensuite"
+    ],
+    "tag": "Argumentation",
+    "hint": "Concéder avant de réfuter",
+    "expl": "RÉFUTATION : (1) Concession : CERTES, IL EST VRAI QUE... (2) Contre-argument : MAIS, CEPENDANT, NÉANMOINS... OR, EN RÉALITÉ... Efficace et courtois."
+  },
+  {
+    "id": "b1ee1_04",
+    "q": "Comment introduit-on une nuance dans un argument ?",
+    "a": "Toutefois / néanmoins / cependant / il convient de nuancer",
+    "choices": [
+      "Toutefois, néanmoins, cependant",
+      "D'abord, ensuite, enfin",
+      "Parce que, car, puisque",
+      "Premièrement, deuxièmement"
+    ],
+    "tag": "Nuances",
+    "hint": "Nuancer = montrer la complexité",
+    "expl": "Nuance : TOUTEFOIS, NÉANMOINS, CEPENDANT, IL CONVIENT CEPENDANT DE NUANCER. CERTES... MAIS. MÊME SI. BIEN QUE. La nuance montre la maturité intellectuelle."
+  },
+  {
+    "id": "b1ee1_05",
+    "q": "Comment évite-t-on les répétitions dans un texte argumentatif ?",
+    "a": "Synonymes, termes génériques, pronoms, nominalisations",
+    "choices": [
+      "Synonymes, pronoms, nominalisations",
+      "Répétition volontaire",
+      "Beaucoup d'adjectifs",
+      "Phrases très courtes"
+    ],
+    "tag": "Style",
+    "hint": "ÉVITER les répétitions = qualité essentielle",
+    "expl": "Pour éviter répétitions : (1) SYNONYMES : problème → difficulté, enjeu. (2) NOMINALISATIONS : travailler → le travail. (3) PRONOMS : il, elle, y, en. (4) HYPERONYMES."
+  },
+  {
+    "id": "b1ee1_06",
+    "q": "Qu'est-ce que la 'nominalisation' dans un texte soutenu ?",
+    "a": "Transformer un verbe/adjectif en nom : travailler → le travail",
+    "choices": [
+      "Transformer verbe/adj en nom",
+      "Utiliser beaucoup de noms",
+      "Éviter les verbes",
+      "Utiliser des pronoms"
+    ],
+    "tag": "Style",
+    "hint": "La PROGRESSION → progresser / le DÉVELOPPEMENT → développer",
+    "expl": "NOMINALISATION = transformation en nom. PROGRESSER → LA PROGRESSION. DÉVELOPPER → LE DÉVELOPPEMENT. Donne un ton plus formel et abstrait. Très utilisé dans les textes académiques."
+  },
+  {
+    "id": "b1ee1_07",
+    "q": "Comment présente-t-on un plan dans un texte ?",
+    "a": "Annonce implicite dans l'introduction ou explicite (nous verrons d'abord...)",
+    "choices": [
+      "Annonce dans l'introduction",
+      "Plan toujours explicite",
+      "Plan jamais annoncé",
+      "Plan seulement à la fin"
+    ],
+    "tag": "Structure",
+    "hint": "NOUS VERRONS D'ABORD... PUIS... ENFIN...",
+    "expl": "PLAN : annonce dans l'introduction. Explicite : 'Nous verrons D'ABORD... PUIS... ENFIN...' Implicite : dans la thèse. Transitions entre parties obligatoires."
+  },
+  {
+    "id": "b1ee1_08",
+    "q": "Comment rédige-t-on une transition entre deux parties ?",
+    "a": "Bilan de la partie précédente + annonce de la suivante",
+    "choices": [
+      "Bilan + annonce partie suivante",
+      "Juste une nouvelle idée",
+      "Seulement un connecteur",
+      "Répétition de la thèse"
+    ],
+    "tag": "Structure",
+    "hint": "AINSI + bilan + CEPENDANT/OR + nouvelle partie",
+    "expl": "TRANSITION : (1) Bilan : AINSI, ON PEUT CONSTATER QUE... (2) Pivot : CEPENDANT / OR / MAIS. (3) Annonce : IL CONVIENT MAINTENANT D'EXAMINER..."
+  },
+  {
+    "id": "b1ee1_09",
+    "q": "Comment rédige-t-on une introduction efficace ?",
+    "a": "Accroche → mise en contexte → thèse → annonce du plan",
+    "choices": [
+      "Accroche / contexte / thèse / plan",
+      "Juste la thèse",
+      "Résumé + conclusion",
+      "Problème + solution"
+    ],
+    "tag": "Structure",
+    "hint": "4 étapes : accroche, contexte, thèse, plan",
+    "expl": "INTRODUCTION : (1) ACCROCHE (citer, chiffre, paradoxe). (2) CONTEXTUALISATION. (3) THÈSE ou problématique. (4) ANNONCE DU PLAN. Environ 10-15% du texte total."
+  },
+  {
+    "id": "b1ee1_10",
+    "q": "Comment rédige-t-on une conclusion efficace ?",
+    "a": "Bilan → élargissement → ouverture",
+    "choices": [
+      "Bilan / élargissement / ouverture",
+      "Juste répéter l'introduction",
+      "Nouveaux arguments",
+      "Résumé exhaustif"
+    ],
+    "tag": "Structure",
+    "hint": "EN CONCLUSION, bilan + perspective",
+    "expl": "CONCLUSION : (1) BILAN : rappel synthétique des arguments. (2) ÉLARGISSEMENT : nuance ou confirmation de la thèse. (3) OUVERTURE : question plus large, perspective. Jamais de nouveaux arguments."
+  },
+  {
+    "id": "b1ee1_11",
+    "q": "Comment utilise-t-on les données chiffrées dans un texte ?",
+    "a": "Citer la source + intégrer dans la phrase + commenter",
+    "choices": [
+      "Source + intégration + commentaire",
+      "Juste les chiffres",
+      "Mettre en note de bas de page",
+      "Éviter les chiffres"
+    ],
+    "tag": "Argumentation",
+    "hint": "'Selon une étude de X (2023), Y% des...'",
+    "expl": "DONNÉES CHIFFRÉES : SELON + source + , + X% des... + interprétation. Toujours contextualiser les chiffres. 'Ce chiffre montre que...' Ne jamais laisser un chiffre seul."
+  },
+  {
+    "id": "b1ee1_12",
+    "q": "Comment fait-on référence à une source dans un texte ?",
+    "a": "Selon X... / D'après Y... / Comme l'affirme Z... / X souligne que...",
+    "choices": [
+      "Selon / d'après / comme l'affirme",
+      "Copier-coller la source",
+      "Paraphraser sans citer",
+      "Ignorer les sources"
+    ],
+    "tag": "Citation",
+    "hint": "SELON + nom/source + , + contenu",
+    "expl": "Référence à une source : SELON X, D'APRÈS Y, COMME L'AFFIRME Z, X SOULIGNE QUE, X MONTRE QUE. Varier les verbes introducteurs : affirmer, souligner, noter, montrer, préciser."
+  },
+  {
+    "id": "b1ee1_13",
+    "q": "Comment exprime-t-on une hypothèse dans un texte ?",
+    "a": "Si... / En supposant que + subjonctif / Dans l'hypothèse où + conditionnel",
+    "choices": [
+      "Si / en supposant que / dans l'hypothèse où",
+      "Parce que / donc",
+      "D'abord / ensuite",
+      "Certes / mais"
+    ],
+    "tag": "Hypothèse",
+    "hint": "Formuler une hypothèse = conditionnement",
+    "expl": "HYPOTHÈSE : SI + présent → futur (probable). EN SUPPOSANT QUE + subjonctif (incertaine). DANS L'HYPOTHÈSE OÙ + conditionnel (encore plus incertaine)."
+  },
+  {
+    "id": "b1ee1_14",
+    "q": "Quelle est la différence entre 'exposé' et 'dissertation' ?",
+    "a": "EXPOSÉ = présenter des informations / DISSERTATION = argumenter une thèse",
+    "choices": [
+      "Exposé = info, dissertation = thèse",
+      "Même exercice",
+      "Exposé = long, dissertation = court",
+      "Exposé = oral, dissertation = écrit toujours"
+    ],
+    "tag": "Genres textuels",
+    "hint": "Exposer ≠ argumenter",
+    "expl": "EXPOSÉ/SYNTHÈSE = présenter objectivement des informations sur un sujet. DISSERTATION = défendre une thèse, argumenter. Les deux à l'écrit ou à l'oral."
+  },
+  {
+    "id": "b1ee1_15",
+    "q": "Comment rédigent-on un compte rendu objectif ?",
+    "a": "Résumé fidèle sans jugement personnel + formules d'objectivité",
+    "choices": [
+      "Résumé fidèle sans jugement",
+      "Avec toutes les opinions",
+      "Seulement les points positifs",
+      "Avec interprétation personnelle"
+    ],
+    "tag": "Genres textuels",
+    "hint": "Le compte rendu = objectivité maximale",
+    "expl": "COMPTE RENDU : résumé FIDÈLE et OBJECTIF. Formules : L'AUTEUR AFFIRME, IL SOUTIENT QUE, SELON L'AUTEUR. Jamais de 'je pense que'. Reformulation, pas copie."
+  },
+  {
+    "id": "b1ee1_16",
+    "q": "Quelle est la différence entre 'analyser' et 'commenter' ?",
+    "a": "ANALYSER = décomposer / COMMENTER = interpréter et évaluer",
+    "choices": [
+      "Analyser = décomposer, commenter = interpréter",
+      "Même exercice",
+      "Analyser = opinion, commenter = description",
+      "Analyser = court, commenter = long"
+    ],
+    "tag": "Consignes",
+    "hint": "L'analyse précède le commentaire",
+    "expl": "ANALYSER = décomposer en éléments. COMMENTER = interpréter, donner du sens, évaluer. L'analyse est descriptive, le commentaire est interprétatif."
+  },
+  {
+    "id": "b1ee1_17",
+    "q": "Comment évite-t-on la langue de bois dans un texte ?",
+    "a": "Exemples précis, verbes d'action, chiffres, noms propres",
+    "choices": [
+      "Exemples précis, verbes d'action, chiffres",
+      "Formules générales",
+      "Beaucoup d'adverbes",
+      "Phrases très longues"
+    ],
+    "tag": "Style",
+    "hint": "La langue de bois = généralités vides de sens",
+    "expl": "ÉVITER LA LANGUE DE BOIS : exemples concrets, noms propres, chiffres précis, verbes d'action plutôt que d'état. Pas de 'nombreux', 'certains', 'on peut dire que' seuls."
+  }
+]

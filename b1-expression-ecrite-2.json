@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b1ee2_01",
+    "q": "Comment rédige-t-on un paragraphe argumentatif efficace ?",
+    "a": "Idée principale → développement → exemple → mini-conclusion",
+    "choices": [
+      "Idée / développement / exemple / conclusion",
+      "Juste l'idée principale",
+      "Exemple puis idée",
+      "Conclusion d'abord"
+    ],
+    "tag": "Paragraphe",
+    "hint": "Structure IDEA : Idée, Développement, Exemple, Ancrage",
+    "expl": "PARAGRAPHE : (1) IDÉE principale (1 phrase). (2) DÉVELOPPEMENT (2-3 phrases). (3) EXEMPLE concret. (4) MINI-CONCLUSION ou lien avec le suivant. 1 idée = 1 paragraphe."
+  },
+  {
+    "id": "b1ee2_02",
+    "q": "Comment articule-t-on deux paragraphes entre eux ?",
+    "a": "Mot de liaison en début + référence à l'idée précédente",
+    "choices": [
+      "Mot de liaison + référence au paragraphe précédent",
+      "Nouvelle idée sans lien",
+      "Répétition du titre",
+      "Rien en particulier"
+    ],
+    "tag": "Cohérence",
+    "hint": "EN OUTRE, CEPENDANT, PAR AILLEURS en début de paragraphe",
+    "expl": "TRANSITION ENTRE PARAGRAPHES : mot de liaison (EN OUTRE, CEPENDANT) + référence à l'idée précédente (CE PHÉNOMÈNE, CETTE TENDANCE). La cohésion textuelle est essentielle."
+  },
+  {
+    "id": "b1ee2_03",
+    "q": "Comment évalue-t-on la cohérence d'un texte ?",
+    "a": "Progression logique, pas de contradiction, liens entre les idées",
+    "choices": [
+      "Progression logique, pas de contradictions, liens",
+      "Beaucoup de vocabulaire soutenu",
+      "Phrases longues",
+      "Aucune répétition"
+    ],
+    "tag": "Cohérence",
+    "hint": "Un texte cohérent se tient du début à la fin",
+    "expl": "COHÉRENCE : (1) Pas de contradictions. (2) Progression logique. (3) Liens entre idées. (4) Cohésion lexicale (même champ sémantique). (5) Cohésion grammaticale (pronoms, substitutions)."
+  },
+  {
+    "id": "b1ee2_04",
+    "q": "Comment utilise-t-on le discours indirect dans un texte ?",
+    "a": "Il affirme que / il souligne que / il montre que + proposition",
+    "choices": [
+      "Il affirme / souligne / montre que + prop",
+      "Il dit / pense / veut que + subjonctif",
+      "Il déclare + infinitif",
+      "Il indique + conditionnel"
+    ],
+    "tag": "Discours indirect",
+    "hint": "Rapporter les idées d'un auteur",
+    "expl": "Rapporter les idées : X AFFIRME QUE + indicatif. X SOULIGNE QUE. X MONTRE QUE. X ESTIME QUE. X PRÉTEND QUE. Varier les verbes : noter, préciser, ajouter, conclure."
+  },
+  {
+    "id": "b1ee2_05",
+    "q": "Quelle est la différence entre 'affirmer' et 'prétendre' en français ?",
+    "a": "AFFIRMER = dire avec assurance (neutre) / PRÉTENDRE = dire sans preuve (péjoratif)",
+    "choices": [
+      "Affirmer = neutre, prétendre = péjoratif",
+      "Même sens",
+      "Affirmer = faux, prétendre = vrai",
+      "Affirmer = formel, prétendre = familier"
+    ],
+    "tag": "Verbes introducteurs",
+    "hint": "Il PRÉTEND = je doute de ce qu'il dit",
+    "expl": "AFFIRMER = declarar con confianza (neutral). PRÉTENDRE QUE = afirmar sin pruebas (connotación negativa). Il PRÉTEND que c'est vrai = dice que es verdad (pero no le creo)."
+  },
+  {
+    "id": "b1ee2_06",
+    "q": "Comment exprime-t-on une certitude dans un texte ?",
+    "a": "Il est certain que / il va de soi que / il est indéniable que + indicatif",
+    "choices": [
+      "Il est certain que / indéniable que + indicatif",
+      "Il est possible que + subjonctif",
+      "Il semble que + subjonctif",
+      "Peut-être que + conditionnel"
+    ],
+    "tag": "Modalisation",
+    "hint": "CERTITUDE → indicatif / DOUTE → subjonctif",
+    "expl": "CERTITUDE + indicatif : IL EST CERTAIN QUE, IL EST ÉVIDENT QUE, IL VA DE SOI QUE. DOUTE + subjonctif : IL EST POSSIBLE QUE, IL SEMBLE QUE, IL SE PEUT QUE."
+  },
+  {
+    "id": "b1ee2_07",
+    "q": "Comment exprime-t-on un doute ou une réserve dans un texte ?",
+    "a": "Il semble que + subjonctif / peut-être que / il est possible que",
+    "choices": [
+      "Il semble que + subjonctif / peut-être",
+      "Il est certain que + indicatif",
+      "Il va de soi que",
+      "Il est évident que"
+    ],
+    "tag": "Modalisation",
+    "hint": "La réserve nuance l'affirmation",
+    "expl": "RÉSERVE/DOUTE : IL SEMBLE QUE + subjonctif. IL EST POSSIBLE QUE. ON POURRAIT PENSER QUE. PEUT-ÊTRE QUE + indicatif. IL N'EST PAS SÛR QUE + subjonctif."
+  },
+  {
+    "id": "b1ee2_08",
+    "q": "Comment évite-t-on les anglicismes dans un texte français ?",
+    "a": "Checker → vérifier / meeting → réunion / challenge → défi / feedback → retour",
+    "choices": [
+      "Utiliser les équivalents français",
+      "Les anglicismes sont acceptés",
+      "Mettre entre guillemets",
+      "Les utiliser normalement"
+    ],
+    "tag": "Lexique",
+    "hint": "Les calques et emprunts à éviter à l'écrit soigné",
+    "expl": "Anglicismes à éviter : CHECKER → VÉRIFIER. MEETING → RÉUNION. CHALLENGE → DÉFI. FEEDBACK → RETOUR/COMMENTAIRE. PLANNING → CALENDRIER. BRAINSTORMING → REMUE-MÉNINGES."
+  },
+  {
+    "id": "b1ee2_09",
+    "q": "Comment utilise-t-on les parenthèses et les tirets dans un texte ?",
+    "a": "Parenthèses = information accessoire / tirets = incise explicative",
+    "choices": [
+      "Parenthèses = accessoire, tirets = incise",
+      "Même usage",
+      "Parenthèses = important, tirets = accessoire",
+      "Aucune règle"
+    ],
+    "tag": "Ponctuation",
+    "hint": "(accessoire) vs — incise importante —",
+    "expl": "PARENTHÈSES = information accessoire qu'on peut enlever. TIRETS — incise — = explication importante mais séparable. Les deux peuvent se remplacer selon l'importance."
+  },
+  {
+    "id": "b1ee2_10",
+    "q": "Comment présente-t-on une citation dans un texte ?",
+    "a": "... (auteur, œuvre, date) ou Comme le dit X : «...»",
+    "choices": [
+      "Auteur + œuvre + date / Comme le dit X + guillemets",
+      "Sans référence",
+      "Entre virgules",
+      "En italique seulement"
+    ],
+    "tag": "Citation",
+    "hint": "Citer correctement = respecter la propriété intellectuelle",
+    "expl": "CITATION : (1) Intégrée : COMME LE DIT X, «...» (2) Introduite : X AFFIRME : «...» (3) Référence (auteur, titre, date). En français : guillemets « » (pas \"\")."
+  },
+  {
+    "id": "b1ee2_11",
+    "q": "Qu'est-ce qu'un 'champ lexical' et comment l'utilise-t-on ?",
+    "a": "Ensemble de mots liés à un même thème, à utiliser pour la cohésion lexicale",
+    "choices": [
+      "Ensemble de mots d'un même thème",
+      "Un seul mot et ses synonymes",
+      "Les mots techniques",
+      "Les mots étrangers"
+    ],
+    "tag": "Lexique",
+    "hint": "Champ lexical de la guerre : conflit, bataille, victoire...",
+    "expl": "CHAMP LEXICAL = ensemble de mots liés à un thème. Utiliser un champ lexical cohérent donne de l'unité au texte. Ex : champ de la LUMIÈRE : éclairer, brillant, rayonner, éblouir."
+  },
+  {
+    "id": "b1ee2_12",
+    "q": "Comment utilise-t-on les reprises nominales pour la cohésion ?",
+    "a": "Remplacer un mot par un synonyme, hyperonyme ou périphrase",
+    "choices": [
+      "Synonyme, hyperonyme ou périphrase",
+      "Toujours un pronom",
+      "Toujours répéter le mot",
+      "Omettre le mot"
+    ],
+    "tag": "Cohésion",
+    "hint": "Le chien → l'animal → le fidèle compagnon",
+    "expl": "REPRISE NOMINALE : LE CHIEN → L'ANIMAL (hyperonyme) → CE FIDÈLE COMPAGNON (périphrase). Enrichit le texte et évite les répétitions. Complète les pronoms (il, elle, le, y...)."
+  },
+  {
+    "id": "b1ee2_13",
+    "q": "Comment structure-t-on une synthèse de documents ?",
+    "a": "Introduction commune → confrontation thématique → conclusion globale",
+    "choices": [
+      "Introduction / confrontation thématique / conclusion",
+      "Résumer doc 1 puis doc 2",
+      "Plan chronologique",
+      "Un résumé par document"
+    ],
+    "tag": "Synthèse",
+    "hint": "La synthèse = fusionner, pas résumer séparément",
+    "expl": "SYNTHÈSE : (1) Introduction globale (problématique commune). (2) Développement THÉMATIQUE (pas document par document). (3) Conclusion. Fusionner les documents autour de thèmes communs."
+  },
+  {
+    "id": "b1ee2_14",
+    "q": "Comment compare-t-on deux documents dans une synthèse ?",
+    "a": "X affirme que... OR/EN REVANCHE, Y soutient que... / Les deux s'accordent sur...",
+    "choices": [
+      "X affirme... OR Y soutient... / Les deux s'accordent",
+      "Résumé de X puis de Y",
+      "Seulement les points communs",
+      "Seulement les différences"
+    ],
+    "tag": "Synthèse",
+    "hint": "Mettre en regard, pas résumer séparément",
+    "expl": "COMPARAISON : CONVERGENCE : X et Y s'accordent sur... DIVERGENCE : Alors que X... Y en revanche... / X souligne... OR Y nuance... Varier la structure."
+  },
+  {
+    "id": "b1ee2_15",
+    "q": "Quelle est la règle d'or pour l'expression écrite en B1 ?",
+    "a": "Une idée par paragraphe, une phrase principale claire, des connecteurs logiques",
+    "choices": [
+      "Une idée par paragraphe avec connecteurs",
+      "Beaucoup d'idées par paragraphe",
+      "Éviter les connecteurs",
+      "Phrases très longues sans structure"
+    ],
+    "tag": "Méthode",
+    "hint": "Clarté = qualité principale",
+    "expl": "RÈGLE D'OR : (1) UNE idée = UN paragraphe. (2) Phrase principale CLAIRE en tête. (3) CONNECTEURS logiques. (4) EXEMPLE concret. (5) Pas de digressions. CLARTÉ avant tout."
+  },
+  {
+    "id": "b1ee2_16",
+    "q": "Comment améliore-t-on la fluidité d'un texte ?",
+    "a": "Varier la longueur des phrases, alterner constructions simples et complexes",
+    "choices": [
+      "Varier longueur et complexité des phrases",
+      "Phrases toutes longues",
+      "Phrases toutes courtes",
+      "Même structure répétée"
+    ],
+    "tag": "Style",
+    "hint": "Rhythm textuel = variation",
+    "expl": "FLUIDITÉ : alterner phrases COURTES (impact) et LONGUES (développement). Varier les STRUCTURES : active/passive, affirmative/négative. RYTHME = musicalité du texte."
+  },
+  {
+    "id": "b1ee2_17",
+    "q": "Qu'est-ce que la 'distanciation' dans un texte académique ?",
+    "a": "Ne pas utiliser 'je', parler de façon impersonnelle : on / il est + adj",
+    "choices": [
+      "Éviter 'je', utiliser on/il est + adj",
+      "Utiliser beaucoup de 'je'",
+      "Parler à la 2ème personne",
+      "Utiliser 'vous' toujours"
+    ],
+    "tag": "Style académique",
+    "hint": "Dans un essai, on évite souvent 'je pense'",
+    "expl": "DISTANCIATION académique : éviter JE → ON / IL CONVIENT DE / IL EST POSSIBLE DE. 'JE PENSE QUE' → 'ON PEUT CONSIDÉRER QUE'. Plus objectif et impersonnel."
+  }
+]

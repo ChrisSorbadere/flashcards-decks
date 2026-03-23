@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1v1_01",
+    "q": "Quel est le synonyme soutenu de 'commencer' ?",
+    "a": "entamer / amorcer / entreprendre",
+    "choices": [
+      "entamer",
+      "débuter",
+      "partir",
+      "initier"
+    ],
+    "tag": "Synonymes",
+    "hint": "Plus formel que 'commencer'",
+    "expl": "ENTAMER (commencer à consommer/éroder), AMORCER (déclencher), ENTREPRENDRE (se lancer). Nuances différentes selon contexte."
+  },
+  {
+    "id": "b1v1_02",
+    "q": "Quel est le synonyme de 's'améliorer' ?",
+    "a": "progresser / s'affermir / se bonifier",
+    "choices": [
+      "progresser",
+      "changer",
+      "évoluer",
+      "grandir"
+    ],
+    "tag": "Synonymes",
+    "hint": "Mouvement vers le mieux",
+    "expl": "PROGRESSER (avancer), S'AFFERMIR (se consolider), SE BONIFIER (améliorer avec le temps, comme le vin). RÉGRESSER = antonyme."
+  },
+  {
+    "id": "b1v1_03",
+    "q": "Quel est l'antonyme de 'négliger' ?",
+    "a": "soigner / veiller à / prendre soin de",
+    "choices": [
+      "soigner",
+      "éviter",
+      "oublier",
+      "rejeter"
+    ],
+    "tag": "Antonymes",
+    "hint": "Le contraire de laisser de côté",
+    "expl": "NÉGLIGER ≠ SOIGNER / PRENDRE SOIN DE / VEILLER À. Négliger sa santé ≠ prendre soin de sa santé."
+  },
+  {
+    "id": "b1v1_04",
+    "q": "Que signifie 'anodin' ?",
+    "a": "Sans importance, insignifiant, inoffensif",
+    "choices": [
+      "sans importance",
+      "dangereux",
+      "inhabituel",
+      "important"
+    ],
+    "tag": "Définitions",
+    "hint": "Une remarque anodine ne choque pas",
+    "expl": "ANODIN(E) = sin importancia, inofensivo. Une question ANODINE ne pose pas de problème. Synonymes : banal, insignifiant, inoffensif, bénin."
+  },
+  {
+    "id": "b1v1_05",
+    "q": "Que signifie 'ambiguë' ?",
+    "a": "Qui peut être interprété de plusieurs façons, équivoque",
+    "choices": [
+      "équivoque",
+      "claire",
+      "précise",
+      "simple"
+    ],
+    "tag": "Définitions",
+    "hint": "Un message ambigu crée la confusion",
+    "expl": "AMBIGU(Ë) = ambiguo, equívoco. Une réponse AMBIGUË = réponse à double sens. LEVER L'AMBIGUÏTÉ = aclarar. Synonymes : équivoque, flou, vague."
+  },
+  {
+    "id": "b1v1_06",
+    "q": "Que signifie 'bénévole' ?",
+    "a": "Qui travaille volontairement sans être payé",
+    "choices": [
+      "volontaire non rémunéré",
+      "professionnel",
+      "débutant",
+      "temporaire"
+    ],
+    "tag": "Définitions",
+    "hint": "Le travail associatif est souvent bénévole",
+    "expl": "BÉNÉVOLE = voluntario (no remunerado). LE BÉNÉVOLAT = el voluntariado. Différent de VOLONTAIRE (qui peut être payé dans l'armée par ex.)."
+  },
+  {
+    "id": "b1v1_07",
+    "q": "Que signifie 'chronophage' ?",
+    "a": "Qui consomme beaucoup de temps",
+    "choices": [
+      "qui prend beaucoup de temps",
+      "qui coûte cher",
+      "qui fatigue",
+      "qui ennuie"
+    ],
+    "tag": "Néologismes",
+    "hint": "'Chrono' = temps + 'phage' = qui mange",
+    "expl": "CHRONOPHAGE = qui dévore le temps. Les réseaux sociaux sont CHRONOPHAGES. Mot-valise moderne (chronos + phage). Très utilisé aujourd'hui."
+  },
+  {
+    "id": "b1v1_08",
+    "q": "Que signifie 'ubiquitaire' ?",
+    "a": "Qui est présent partout en même temps",
+    "choices": [
+      "présent partout",
+      "très rare",
+      "intermittent",
+      "invisible"
+    ],
+    "tag": "Vocabulaire soutenu",
+    "hint": "'Ubiquité' = être partout à la fois",
+    "expl": "UBIQUITAIRE = que está en todas partes. Internet est UBIQUITAIRE. Le plastique est devenu UBIQUITAIRE dans nos vies. Synonyme : omniprésent."
+  },
+  {
+    "id": "b1v1_09",
+    "q": "Quelle est la différence entre 'évoquer' et 'invoquer' ?",
+    "a": "ÉVOQUER = mentionner, faire allusion / INVOQUER = citer comme justification",
+    "choices": [
+      "Évoquer = mentionner, invoquer = justifier",
+      "Même sens",
+      "Évoquer = prier, invoquer = mentionner",
+      "Évoquer = futur, invoquer = passé"
+    ],
+    "tag": "Paronymes",
+    "hint": "Paronymes à distinguer",
+    "expl": "ÉVOQUER = mencionar, evocar. INVOQUER = invocar (citar como razón). Il a ÉVOQUÉ son passé. Il a INVOQUÉ son droit au silence. Faux amis internes."
+  },
+  {
+    "id": "b1v1_10",
+    "q": "Quelle est la différence entre 'actuel' et 'réel' ?",
+    "a": "ACTUEL = d'aujourd'hui, présent / RÉEL = qui existe vraiment",
+    "choices": [
+      "Actuel = présent, réel = qui existe",
+      "Même sens",
+      "Actuel = vrai, réel = récent",
+      "Actuel = futur, réel = passé"
+    ],
+    "tag": "Faux amis",
+    "hint": "ACTUEL ≠ actual en espagnol",
+    "expl": "ACTUEL = de ahora, del presente (pas 'actual' espagnol !). RÉEL = real. Le problème ACTUEL = el problema de hoy. Un problème RÉEL = un problema real. Faux ami franco-espagnol."
+  },
+  {
+    "id": "b1v1_11",
+    "q": "Que signifie 'décennie' ?",
+    "a": "Période de 10 ans",
+    "choices": [
+      "10 ans",
+      "100 ans",
+      "50 ans",
+      "20 ans"
+    ],
+    "tag": "Temps",
+    "hint": "Décennie = décade = 10",
+    "expl": "DÉCENNIE = década (10 ans). SIÈCLE = siglo (100 ans). MILLÉNAIRE = milenio (1000 ans). LUSTRE = lustro (5 ans). QUINQUENNAT = 5 ans (mandat présidentiel)."
+  },
+  {
+    "id": "b1v1_12",
+    "q": "Que signifie 'exacerber' ?",
+    "a": "Aggraver, intensifier, rendre plus aigu",
+    "choices": [
+      "aggraver intensifier",
+      "améliorer",
+      "atténuer",
+      "ignorer"
+    ],
+    "tag": "Vocabulaire soutenu",
+    "hint": "Exacerber les tensions = les aggraver",
+    "expl": "EXACERBER = exacerbar, agravar. Exacerber les tensions = aggravar las tensiones. Synonymes : aggraver, amplifier, envenimer. Antonymes : atténuer, apaiser."
+  },
+  {
+    "id": "b1v1_13",
+    "q": "Que signifie 'pragmatique' ?",
+    "a": "Qui privilégie l'efficacité pratique plutôt que les théories",
+    "choices": [
+      "pratique et efficace",
+      "théorique",
+      "idéaliste",
+      "rigide"
+    ],
+    "tag": "Caractère",
+    "hint": "Une approche pragmatique fonctionne dans la réalité",
+    "expl": "PRAGMATIQUE = pragmático. Approche PRAGMATIQUE = qui cherche ce qui marche. Synonymes : pratique, concret, réaliste, terre-à-terre. Antonyme : idéaliste, théorique."
+  },
+  {
+    "id": "b1v1_14",
+    "q": "Que signifie 'procrastiner' ?",
+    "a": "Remettre à plus tard, reporter systématiquement",
+    "choices": [
+      "reporter systématiquement",
+      "travailler vite",
+      "oublier",
+      "refuser"
+    ],
+    "tag": "Comportement",
+    "hint": "La procrastination = l'ennemi de la productivité",
+    "expl": "PROCRASTINER = procrastinar (retrasar). LA PROCRASTINATION = la procrastinación. Synonymes : temporiser, atermoyer, remettre au lendemain."
+  },
+  {
+    "id": "b1v1_15",
+    "q": "Quelle est la différence entre 'sensible' et 'sensitif' ?",
+    "a": "SENSIBLE = ému facilement / SENSITIF = relatif aux sens physiques",
+    "choices": [
+      "Sensible = émotionnel, sensitif = sensoriel",
+      "Même sens",
+      "Sensible = physique, sensitif = émotionnel",
+      "Sensible = positif, sensitif = négatif"
+    ],
+    "tag": "Paronymes",
+    "hint": "Sensible/sensitif — faux amis internes",
+    "expl": "SENSIBLE = sensible (emocionalmente). SENSITIF = sensorial, nervioso. Une personne SENSIBLE pleure facilement. Les nerfs SENSITIFS transmettent les sensations."
+  },
+  {
+    "id": "b1v1_16",
+    "q": "Que signifie 'perspicace' ?",
+    "a": "Qui perçoit rapidement ce que d'autres ne voient pas, clairvoyant",
+    "choices": [
+      "clairvoyant perspicace",
+      "naïf",
+      "inattentif",
+      "curieux"
+    ],
+    "tag": "Caractère",
+    "hint": "Un détective perspicace découvre la vérité",
+    "expl": "PERSPICACE = perspicaz, clarividente. Synonymes : clairvoyant, pénétrant, lucide, fin. Une remarque PERSPICACE = aguda y certera."
+  },
+  {
+    "id": "b1v1_17",
+    "q": "Que signifie 'réticent' ?",
+    "a": "Qui hésite à faire quelque chose, qui résiste",
+    "choices": [
+      "qui hésite ou résiste",
+      "enthousiaste",
+      "favorable",
+      "pressé"
+    ],
+    "tag": "Caractère",
+    "hint": "Être réticent à l'idée de changer",
+    "expl": "RÉTICENT(E) = reticente, que muestra reservas. Il est RÉTICENT à accepter = vacila en aceptar. Synonymes : hésitant, récalcitrant, peu convaincu."
+  },
+  {
+    "id": "b1v1_18",
+    "q": "Que signifie 'susciter' ?",
+    "a": "Provoquer, faire naître, engendrer",
+    "choices": [
+      "provoquer faire naître",
+      "supprimer",
+      "éviter",
+      "ignorer"
+    ],
+    "tag": "Synonymes",
+    "hint": "Susciter l'intérêt / susciter la polémique",
+    "expl": "SUSCITER = suscitar, provocar, despertar. SUSCITER de l'intérêt = despertar interés. SUSCITER une controverse = provocar una polémica."
+  },
+  {
+    "id": "b1v1_19",
+    "q": "Quelle est la différence entre 'apporter' et 'amener' ?",
+    "a": "APPORTER = chose / AMENER = personne ou animal",
+    "choices": [
+      "Apporter = chose, amener = personne/animal",
+      "Même sens",
+      "Apporter = passé, amener = présent",
+      "Apporter = formel, amener = familier"
+    ],
+    "tag": "Paronymes",
+    "hint": "J'APPORTE du vin / J'AMÈNE un ami",
+    "expl": "APPORTER = traer (cosa). AMENER = traer (persona o animal). J'APPORTE une bouteille. J'AMÈNE mon frère. EMPORTER = llevarse (cosa). EMMENER = llevarse (persona)."
+  },
+  {
+    "id": "b1v1_20",
+    "q": "Que signifie 'acerbe' ?",
+    "a": "Aigre, mordant, d'une critique sévère et blessante",
+    "choices": [
+      "mordant et sévère",
+      "doux",
+      "bienveillant",
+      "neutre"
+    ],
+    "tag": "Caractère",
+    "hint": "Une critique acerbe fait mal",
+    "expl": "ACERBE = mordaz, ácido, severo. Une critique ACERBE = una crítica ácida/mordaz. Synonymes : cinglant, mordant, caustique, virulent. Antonymes : doux, bienveillant."
+  },
+  {
+    "id": "b1v1_21",
+    "q": "Que signifie 'pléthore' ?",
+    "a": "Excès, grande abondance, quantité excessive",
+    "choices": [
+      "grande quantité excessive",
+      "manque",
+      "pénurie",
+      "diversité"
+    ],
+    "tag": "Quantité",
+    "hint": "Une pléthore d'informations = trop d'informations",
+    "expl": "UNE PLÉTHORE DE = una plétora de, un exceso de. Synonymes : excès, surabondance, profusion. Antonymes : pénurie, manque, rareté."
+  },
+  {
+    "id": "b1v1_22",
+    "q": "Quelle est la différence entre 'littéral' et 'littéraire' ?",
+    "a": "LITTÉRAL = au sens propre / LITTÉRAIRE = relatif à la littérature",
+    "choices": [
+      "Littéral = sens propre, littéraire = relatif à la littérature",
+      "Même sens",
+      "Littéral = poétique, littéraire = technique",
+      "Littéral = récent, littéraire = ancien"
+    ],
+    "tag": "Paronymes",
+    "hint": "Sens LITTÉRAL d'un mot ≠ style LITTÉRAIRE",
+    "expl": "LITTÉRAL(E) = literal (sens propre, mot à mot). LITTÉRAIRE = literario (relatif à la littérature). Traduction LITTÉRALE. Style LITTÉRAIRE. Deux paronymes à ne pas confondre."
+  },
+  {
+    "id": "b1v1_23",
+    "q": "Que signifie 'déconcerter' ?",
+    "a": "Troubler, dérouter, faire perdre ses repères",
+    "choices": [
+      "dérouter troubler",
+      "rassurer",
+      "plaire",
+      "informer"
+    ],
+    "tag": "Émotions",
+    "hint": "Sa réponse m'a déconcerté = je n'y attendais pas",
+    "expl": "DÉCONCERTER = desconcertar, descolocar. Sa question m'a DÉCONCERTÉ = su pregunta me desconcertó. Synonymes : troubler, désarçonner, dérouter, déstabiliser."
+  },
+  {
+    "id": "b1v1_24",
+    "q": "Que signifie 'effrénée' dans 'course effrénée' ?",
+    "a": "Débridé, sans frein, excessif et incontrôlé",
+    "choices": [
+      "sans frein excessif",
+      "lent",
+      "organisé",
+      "raisonnable"
+    ],
+    "tag": "Adjectifs soutenu",
+    "hint": "Une compétition EFFRÉNÉE = sans limites",
+    "expl": "EFFRÉNÉ(E) = desenfrenado, sin freno. Une course EFFRÉNÉE. Un rythme EFFRÉNÉ. Synonymes : effréné, débridé, frénétique, déchaîné."
+  },
+  {
+    "id": "b1v1_25",
+    "q": "Que signifie 'stigmatiser' ?",
+    "a": "Désigner publiquement comme mauvais, marquer de honte",
+    "choices": [
+      "désigner comme mauvais",
+      "féliciter",
+      "ignorer",
+      "analyser"
+    ],
+    "tag": "Société",
+    "hint": "Stigmatiser une minorité = la montrer du doigt",
+    "expl": "STIGMATISER = estigmatizar. STIGMATISER un groupe = señalar como malo. LA STIGMATISATION = el estigma. Synonymes : montrer du doigt, pointer, blâmer publiquement."
+  }
+]

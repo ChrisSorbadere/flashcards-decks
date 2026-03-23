@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1g2_01",
+    "q": "Quel est l'ordre des temps en discours indirect passé pour le présent ?",
+    "a": "Présent → imparfait",
+    "choices": [
+      "Présent → imparfait",
+      "Présent → conditionnel",
+      "Présent → futur",
+      "Présent reste présent"
+    ],
+    "tag": "Concordance",
+    "hint": "'Je mange' → il a dit QU'IL MANGEAIT",
+    "expl": "Concordance des temps : présent → IMPARFAIT au discours indirect passé. 'Je mange' → il a dit QU'IL MANGEAIT. 'Je suis content' → il a dit QU'IL ÉTAIT content."
+  },
+  {
+    "id": "b1g2_02",
+    "q": "Quel est l'ordre des temps pour le futur en discours indirect passé ?",
+    "a": "Futur → conditionnel présent",
+    "choices": [
+      "Futur → conditionnel",
+      "Futur → imparfait",
+      "Futur reste futur",
+      "Futur → PC"
+    ],
+    "tag": "Concordance",
+    "hint": "'Je viendrai' → il a dit QU'IL VIENDRAIT",
+    "expl": "Futur → CONDITIONNEL PRÉSENT au discours indirect passé. 'Je VIENDRAI' → il a dit QU'IL VIENDRAIT. 'Je POURRAI' → il a dit QU'IL POURRAIT."
+  },
+  {
+    "id": "b1g2_03",
+    "q": "Quel est l'ordre des temps pour le PC en discours indirect passé ?",
+    "a": "Passé composé → plus-que-parfait",
+    "choices": [
+      "PC → plus-que-parfait",
+      "PC → imparfait",
+      "PC → conditionnel passé",
+      "PC reste PC"
+    ],
+    "tag": "Concordance",
+    "hint": "'Je suis parti' → il a dit QU'IL ÉTAIT PARTI",
+    "expl": "PC → PLUS-QUE-PARFAIT au discours indirect passé. 'Je SUIS PARTI' → il a dit QU'IL ÉTAIT PARTI. 'J'AI MANGÉ' → il a dit QU'IL AVAIT MANGÉ."
+  },
+  {
+    "id": "b1g2_04",
+    "q": "Comment se forme la voix passive au présent ?",
+    "a": "EST/SONT + participe passé accordé (+ PAR + agent)",
+    "choices": [
+      "Est/sont + PP accordé",
+      "A été + PP",
+      "Être + PP",
+      "A + PP"
+    ],
+    "tag": "Voix passive",
+    "hint": "La lettre EST ÉCRITE par Marie",
+    "expl": "Voix PASSIVE présent : ÊTRE (présent) + PP accordé. La lettre EST ÉCRITE. Les lettres SONT ÉCRITES. L'accord se fait avec le sujet grammatical."
+  },
+  {
+    "id": "b1g2_05",
+    "q": "Quel est l'agent dans une phrase passive ?",
+    "a": "Le complément d'agent introduit par PAR (ou DE)",
+    "choices": [
+      "Complément introduit par PAR",
+      "Le sujet grammatical",
+      "Le verbe",
+      "Le complément direct"
+    ],
+    "tag": "Voix passive",
+    "hint": "La lettre est écrite PAR Marie — Marie est l'agent",
+    "expl": "Complément d'agent = qui fait l'action. INTRODUIT PAR PAR (action physique) ou DE (état résultant). Aimé DE tous (état). Frappé PAR la foudre (action)."
+  },
+  {
+    "id": "b1g2_06",
+    "q": "Quand utilise-t-on PAR vs DE dans la voix passive ?",
+    "a": "PAR = action dynamique / DE = état ou sentiment",
+    "choices": [
+      "Par = action, de = état/sentiment",
+      "Même sens",
+      "Par = personnes, de = choses",
+      "Par = présent, de = passé"
+    ],
+    "tag": "Voix passive",
+    "hint": "Aimé DE tous / frappé PAR la foudre",
+    "expl": "PAR = action concrète : frappé PAR la foudre. DE = état résultant, sentiments : aimé DE tous, entouré DE mystère, respecté DE ses collègues."
+  },
+  {
+    "id": "b1g2_07",
+    "q": "Comment transforme-t-on une phrase active en passive ?",
+    "a": "COD → sujet / sujet → complément d'agent PAR",
+    "choices": [
+      "COD devient sujet, sujet devient agent",
+      "Sujet reste sujet",
+      "Verbe seul change",
+      "On ajoute SE"
+    ],
+    "tag": "Voix passive",
+    "hint": "Marie écrit la lettre → La lettre EST ÉCRITE PAR Marie",
+    "expl": "Transformation : Marie (sujet actif) ÉCRIT la lettre (COD) → La lettre (nouveau sujet) EST ÉCRITE PAR Marie (agent). COD actif → sujet passif."
+  },
+  {
+    "id": "b1g2_08",
+    "q": "Quel est l'usage du gérondif pour exprimer le moyen ?",
+    "a": "Il a réussi EN travaillant dur",
+    "choices": [
+      "Gérondif pour le moyen",
+      "Gérondif pour le but",
+      "Gérondif pour la cause",
+      "Gérondif pour le temps"
+    ],
+    "tag": "Gérondif",
+    "hint": "Il a appris EN pratiquant = moyen",
+    "expl": "GÉRONDIF = moyen, manière. Il a réussi EN TRAVAILLANT dur. J'ai appris EN PRATIQUANT. = de esta manera, trabajando duro. Le moyen pour atteindre un résultat."
+  },
+  {
+    "id": "b1g2_09",
+    "q": "Quel est l'usage du gérondif pour exprimer la condition ?",
+    "a": "EN travaillant plus, tu réussiras",
+    "choices": [
+      "Gérondif pour la condition",
+      "Gérondif pour la cause",
+      "Gérondif pour le but",
+      "Gérondif pour le temps"
+    ],
+    "tag": "Gérondif",
+    "hint": "EN + participe présent = SI + présent",
+    "expl": "GÉRONDIF = condition. EN TRAVAILLANT plus, tu réussiras = SI TU TRAVAILLES plus, tu réussiras. EN FAISANT attention = si tu fais attention."
+  },
+  {
+    "id": "b1g2_10",
+    "q": "Peut-on utiliser le gérondif pour exprimer la cause ?",
+    "a": "Oui, mais c'est surtout le participe passé composé (AYANT + PP)",
+    "choices": [
+      "Participe passé composé plutôt que gérondif",
+      "Gérondif uniquement",
+      "Imparfait uniquement",
+      "Subjonctif"
+    ],
+    "tag": "Gérondif",
+    "hint": "AYANT raté son bus, il est arrivé tard",
+    "expl": "Cause en tête de phrase : AYANT RATÉ son bus (participe composé). Le gérondif exprime moins la cause que la simultanéité. ÉTANT malade, il n'est pas venu."
+  },
+  {
+    "id": "b1g2_11",
+    "q": "Quelle contrainte s'applique au sujet du gérondif ?",
+    "a": "Le sujet du gérondif DOIT être le même que le sujet principal",
+    "choices": [
+      "Même sujet obligatoire",
+      "Sujet différent possible",
+      "N'importe quel sujet",
+      "Le sujet est implicite"
+    ],
+    "tag": "Gérondif",
+    "hint": "*En mangeant, la porte s'est ouverte (incorrect !)",
+    "expl": "RÈGLE FONDAMENTALE : sujet du gérondif = sujet principal. *EN MANGEANT, la porte s'est ouverte = incorrect (qui mange ? la porte ?). EN MANGEANT, j'écoutais la radio = correct."
+  },
+  {
+    "id": "b1g2_12",
+    "q": "Comment fonctionne la mise en relief avec C'EST... QUE (objet) ?",
+    "a": "C'EST ce livre QUE je cherche (pas QUI)",
+    "choices": [
+      "C'est + objet + que",
+      "C'est + objet + qui",
+      "C'est + objet + dont",
+      "C'est + objet + où"
+    ],
+    "tag": "Mise en relief",
+    "hint": "C'EST l'argent QUE je veux (pas 'qui')",
+    "expl": "Mise en relief de l'OBJET : C'EST ce livre QUE je cherche. C'EST lui QUE j'aime. QUE car c'est le COD. Comparer : C'EST Marie QUI a appelé (sujet → QUI)."
+  },
+  {
+    "id": "b1g2_13",
+    "q": "Comment fonctionne CE QUI... C'EST... (structure emphatique) ?",
+    "a": "Ce qui me plaît, C'EST la musique (sujet mis en relief)",
+    "choices": [
+      "Ce qui / ce que... c'est... emphase du sujet",
+      "Ce qui / que = relatif simple",
+      "Ce qui... c'est... = cause",
+      "Ce qui... c'est... = condition"
+    ],
+    "tag": "Mise en relief",
+    "hint": "CE QUI me plaît, C'EST la mer",
+    "expl": "Structure emphatique : CE QUI me plaît, C'EST la musique. CE QUE je veux, C'EST partir. Met en relief le sujet ou l'objet. Très fréquent à l'oral."
+  },
+  {
+    "id": "b1g2_14",
+    "q": "Comment exprime-t-on la restriction avec RIEN QUE ?",
+    "a": "RIEN QUE = seulement, uniquement, rien d'autre que",
+    "choices": [
+      "Rien que = seulement",
+      "Rien que = jamais rien",
+      "Rien que = pas du tout",
+      "Rien que = beaucoup"
+    ],
+    "tag": "Restriction",
+    "hint": "RIEN QUE d'y penser, j'ai peur",
+    "expl": "RIEN QUE = solo con, simplemente. RIEN QUE D'Y PENSER, j'ai peur = solo de pensarlo me da miedo. RIEN QU'UNE FOIS = una sola vez."
+  },
+  {
+    "id": "b1g2_15",
+    "q": "Comment utilise-t-on NE SERAIT-CE QUE ?",
+    "a": "Ne serait-ce que = même si ce n'est que, au moins",
+    "choices": [
+      "Même si ce n'est que, au moins",
+      "Pas du tout",
+      "Vraiment",
+      "Certainement pas"
+    ],
+    "tag": "Restriction",
+    "hint": "NE SERAIT-CE QUE pour un jour = même pour un seul jour",
+    "expl": "NE SERAIT-CE QUE = aunque sólo sea, por lo menos. Ne SERAIT-CE QU'une fois = aunque sólo sea una vez. Ne SERAIT-CE QUE pour te voir = aunque sólo sea para verte."
+  },
+  {
+    "id": "b1g2_16",
+    "q": "Quel temps utilise-t-on après QUAND dans le futur ?",
+    "a": "Futur simple ou futur antérieur (jamais présent ni conditionnel)",
+    "choices": [
+      "Futur simple/antérieur",
+      "Présent",
+      "Conditionnel",
+      "Subjonctif"
+    ],
+    "tag": "Conjonctions temporelles",
+    "hint": "QUAND tu VIENDRAS (pas 'viendrais')",
+    "expl": "QUAND + futur en français (différent de l'espagnol avec subjonctif). QUAND tu VIENDRAS. DÈS QUE tu ARRIVERAS. LORSQU'il AURA FINI. Jamais de conditionnel après QUAND."
+  },
+  {
+    "id": "b1g2_17",
+    "q": "Quelle est la différence entre ALORS QUE et TANDIS QUE ?",
+    "a": "ALORS QUE = opposition / TANDIS QUE = simultanéité ou opposition",
+    "choices": [
+      "Alors que = opposition, tandis que = simultanéité ou opposition",
+      "Même sens",
+      "Alors que = passé, tandis que = présent",
+      "Alors que = formel, tandis que = familier"
+    ],
+    "tag": "Conjonctions",
+    "hint": "ALORS QUE tu dormais, je travaillais (simultanéité ou opposition)",
+    "expl": "TANDIS QUE = simultanéité (mientras) ou opposition. ALORS QUE = opposition marquée (mientras que, en cambio). ALORS QU'il est riche, il est malheureux."
+  },
+  {
+    "id": "b1g2_18",
+    "q": "Comment fonctionne DE SORTE QUE (conséquence) ?",
+    "a": "DE SORTE QUE + indicatif = conséquence réelle",
+    "choices": [
+      "De sorte que + indicatif",
+      "De sorte que + subjonctif",
+      "De sorte que + conditionnel",
+      "De sorte que + infinitif"
+    ],
+    "tag": "Conséquence",
+    "hint": "Il a travaillé DE SORTE QU'il a réussi",
+    "expl": "DE SORTE QUE + indicatif = conséquence réelle. DE SORTE QUE + subjonctif = but (pour que). Il a travaillé DE SORTE QU'IL A RÉUSSI (résultat effectif)."
+  },
+  {
+    "id": "b1g2_19",
+    "q": "Comment fonctionne BIEN QUE + subjonctif vs MÊME SI + indicatif ?",
+    "a": "BIEN QUE = concession pure + subj / MÊME SI = hypothèse + indicatif",
+    "choices": [
+      "Bien que + subjonctif, même si + indicatif",
+      "Tous deux + subjonctif",
+      "Tous deux + indicatif",
+      "Bien que + indicatif, même si + subjonctif"
+    ],
+    "tag": "Concession",
+    "hint": "BIEN QU'il soit fatigué ≠ MÊME S'il est fatigué",
+    "expl": "BIEN QUE + subjonctif = concession pure (aunque + subjuntivo). MÊME SI + indicatif = hypothèse (incluso si + indicativo). Nuance : bien que = fait certain, même si = hypothèse."
+  },
+  {
+    "id": "b1g2_20",
+    "q": "Comment utilise-t-on AU FUR ET À MESURE QUE ?",
+    "a": "Au fur et à mesure que = progressivement, à proportion que",
+    "choices": [
+      "Au fur et à mesure que = progressivement",
+      "Soudainement",
+      "En opposition à",
+      "Malgré"
+    ],
+    "tag": "Structures",
+    "hint": "AU FUR ET À MESURE QUE le temps passe",
+    "expl": "AU FUR ET À MESURE QUE = a medida que, conforme. AU FUR ET À MESURE QUE le temps passe, il grandit. Progression parallèle de deux éléments."
+  },
+  {
+    "id": "b1g2_21",
+    "q": "Comment utilise-t-on À MOINS QUE + subjonctif ?",
+    "a": "À MOINS QUE = sauf si, unless",
+    "choices": [
+      "À moins que + subjonctif = sauf si",
+      "À moins que + indicatif",
+      "À moins que + conditionnel",
+      "À moins que + infinitif"
+    ],
+    "tag": "Condition",
+    "hint": "Je viendrai À MOINS QUE tu ne veuilles pas",
+    "expl": "À MOINS QUE + subjonctif = a menos que, a no ser que. Je viendrai À MOINS QU'il PLEUVE. Le NE explétif est possible après À MOINS QUE (sans valeur négative)."
+  },
+  {
+    "id": "b1g2_22",
+    "q": "Qu'est-ce que le NE explétif ?",
+    "a": "NE sans valeur négative après certaines conjonctions et verbes",
+    "choices": [
+      "NE sans valeur négative",
+      "NE renforcé",
+      "NE + pas obligatoire",
+      "NE archaïque toujours"
+    ],
+    "tag": "NE explétif",
+    "hint": "J'AI PEUR QU'IL NE vienne (mais il peut venir)",
+    "expl": "NE EXPLÉTIF = sans valeur négative, avec certains verbes (craindre, empêcher) et conjonctions (à moins que, avant que). J'ai peur QU'IL NE vienne = je crains qu'il vienne."
+  },
+  {
+    "id": "b1g2_23",
+    "q": "Comment fonctionne la construction AVOIR + infinitif ?",
+    "a": "AVOIR À + infinitif = obligation / J'AI À + inf = devoir",
+    "choices": [
+      "Avoir à + infinitif = obligation",
+      "Avoir + infinitif = passé",
+      "Avoir + infinitif = futur",
+      "Avoir + infinitif = permission"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "J'AI À FAIRE = j'ai quelque chose à faire",
+    "expl": "AVOIR À + infinitif = tener que + infinitivo (obligation). J'AI À FAIRE ce travail. IL A À SE DÉBROUILLER. Synonyme de DEVOIR + infinitif."
+  },
+  {
+    "id": "b1g2_24",
+    "q": "Comment fonctionne SE FAIRE + infinitif ?",
+    "a": "SE FAIRE + infinitif = subir une action, être la victime de",
+    "choices": [
+      "Se faire + infinitif = subir une action",
+      "Se faire + infinitif = réussir à",
+      "Se faire + infinitif = s'obliger à",
+      "Se faire + infinitif = aider quelqu'un"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Se faire opérer / se faire voler",
+    "expl": "SE FAIRE + inf = hacerse + inf (ser objeto de). Se faire OPÉRER = ser operado. Se faire VOLER = que te roben. Il s'est fait RENVERSER = lo atropellaron."
+  },
+  {
+    "id": "b1g2_25",
+    "q": "Comment fonctionne LAISSER + infinitif ?",
+    "a": "LAISSER + infinitif = permettre, ne pas empêcher",
+    "choices": [
+      "Laisser + infinitif = permettre",
+      "Laisser + infinitif = obliger",
+      "Laisser + infinitif = refuser",
+      "Laisser + infinitif = demander"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je le laisse PARTIR = je n'empêche pas son départ",
+    "expl": "LAISSER + infinitif = dejar + infinitivo. Je le LAISSE PARTIR. LAISSER TOMBER = dejar caer / abandonner. FAIRE FAIRE = hacer hacer (causatif)."
+  }
+]

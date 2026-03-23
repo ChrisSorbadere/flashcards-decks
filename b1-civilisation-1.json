@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b1civ1_01",
+    "q": "Qu'est-ce que la 'Ve République' en France ?",
+    "a": "Régime politique en vigueur depuis 1958, avec un président fort",
+    "choices": [
+      "Régime depuis 1958, président fort",
+      "Monarchie constitutionnelle",
+      "Régime parlementaire pur",
+      "Régime depuis 1789"
+    ],
+    "tag": "Institutions",
+    "hint": "De Gaulle a créé la Ve République",
+    "expl": "La Ve RÉPUBLIQUE (1958) = créée par De Gaulle. Président de la République très puissant. Premier ministre responsable devant l'Assemblée nationale. Modèle semi-présidentiel."
+  },
+  {
+    "id": "b1civ1_02",
+    "q": "Quel est le rôle du Premier ministre en France ?",
+    "a": "Chef du gouvernement, responsable devant l'Assemblée nationale",
+    "choices": [
+      "Chef du gouvernement",
+      "Chef de l'État",
+      "Président du Sénat",
+      "Chef de l'opposition"
+    ],
+    "tag": "Institutions",
+    "hint": "Le PM dirige le gouvernement",
+    "expl": "PREMIER MINISTRE = chef du gouvernement. Nommé par le président. Responsable devant l'ASSEMBLÉE NATIONALE. Peut être de bord politique opposé au président = COHABITATION."
+  },
+  {
+    "id": "b1civ1_03",
+    "q": "Qu'est-ce que la 'cohabitation' en politique française ?",
+    "a": "Président et Premier ministre de bords politiques opposés",
+    "choices": [
+      "Président et PM d'oppositions politiques",
+      "Deux présidents simultanés",
+      "Alliance entre partis",
+      "Gouvernement de coalition"
+    ],
+    "tag": "Institutions",
+    "hint": "Ex : Mitterrand (PS) + Chirac (RPR) 1986-88",
+    "expl": "COHABITATION = président et Premier ministre de partis opposés. Mitterrand + Chirac (1986-88). Mitterrand + Balladur (1993-95). Chirac + Jospin (1997-2002). Actuellement rare."
+  },
+  {
+    "id": "b1civ1_04",
+    "q": "Qu'est-ce que le Conseil d'État en France ?",
+    "a": "Plus haute juridiction administrative, conseille aussi le gouvernement",
+    "choices": [
+      "Plus haute juridiction administrative",
+      "Tribunal civil",
+      "Chambre des comptes",
+      "Conseil des ministres"
+    ],
+    "tag": "Institutions",
+    "hint": "Pour les litiges contre l'administration",
+    "expl": "Le CONSEIL D'ÉTAT : (1) juridiction administrative suprême (litiges contre l'État). (2) Conseil juridique du gouvernement (examine les projets de loi). Fondé par Napoléon."
+  },
+  {
+    "id": "b1civ1_05",
+    "q": "Qu'est-ce que le Conseil constitutionnel en France ?",
+    "a": "Vérifie la conformité des lois à la Constitution",
+    "choices": [
+      "Vérifie la constitutionnalité des lois",
+      "Gouverne en cas de crise",
+      "Nomme les ministres",
+      "Contrôle le budget"
+    ],
+    "tag": "Institutions",
+    "hint": "Les lois doivent respecter la Constitution",
+    "expl": "Le CONSEIL CONSTITUTIONNEL = vérifie que les lois respectent la Constitution. 9 membres. Saisi avant promulgation d'une loi ou par voie d'exception (QPC = Question Prioritaire de Constitutionnalité)."
+  },
+  {
+    "id": "b1civ1_06",
+    "q": "Qu'est-ce que Sciences Po et l'ENA (devenue INSP) ?",
+    "a": "Grandes écoles qui forment les élites politiques et administratives françaises",
+    "choices": [
+      "Grandes écoles des élites politiques/admin",
+      "Universités publiques",
+      "Lycées d'élite",
+      "Instituts de recherche"
+    ],
+    "tag": "Éducation",
+    "hint": "La plupart des présidents français sont passés par là",
+    "expl": "SCIENCES PO (Institut d'Études Politiques) + ENA → INSP (rebaptisée 2022). Forment les hauts fonctionnaires, diplomates, PDG. La plupart des présidents : Sciences Po et/ou ENA."
+  },
+  {
+    "id": "b1civ1_07",
+    "q": "Qu'est-ce que la 'méritocratie républicaine' française ?",
+    "a": "Idéal selon lequel la réussite doit dépendre du mérite et non de l'origine",
+    "choices": [
+      "Réussite par le mérite, pas l'origine",
+      "Reproduction sociale des élites",
+      "Sélection par la naissance",
+      "Système de quotas"
+    ],
+    "tag": "Société",
+    "hint": "L'école publique = égalité des chances théorique",
+    "expl": "MÉRITOCRATIE RÉPUBLICAINE = idéal de l'école française. L'ascenseur social doit permettre à tous de réussir par le travail. Critiqué car la réalité montre une forte reproduction sociale."
+  },
+  {
+    "id": "b1civ1_08",
+    "q": "Qu'est-ce que le 'roman national' français ?",
+    "a": "Récit mythifié de l'histoire de France enseigné à l'école",
+    "choices": [
+      "Récit mythifié de l'histoire nationale",
+      "Roman littéraire historique",
+      "Programme scolaire d'histoire",
+      "Cours de littérature"
+    ],
+    "tag": "Histoire",
+    "hint": "Vercingétorix, Jeanne d'Arc, Napoléon...",
+    "expl": "ROMAN NATIONAL = narrativa histórica mitificada. Vercingétorix, Charlemagne, Jeanne d'Arc, Louis XIV, Napoléon, De Gaulle = figures fondatrices. Construit l'identité nationale."
+  },
+  {
+    "id": "b1civ1_09",
+    "q": "Qu'est-ce que la 'Révolution française' a apporté comme héritage ?",
+    "a": "Liberté, Égalité, Fraternité + droits de l'Homme + laïcité",
+    "choices": [
+      "Liberté, Égalité, Fraternité, droits de l'Homme",
+      "Seulement la République",
+      "Seulement la laïcité",
+      "Seulement la démocratie"
+    ],
+    "tag": "Histoire",
+    "hint": "1789 = tournant mondial",
+    "expl": "RÉVOLUTION FRANÇAISE (1789) : Déclaration des droits de l'Homme. Devise LIBERTÉ-ÉGALITÉ-FRATERNITÉ. Fin de l'Ancien Régime. Influence mondiale sur les démocraties modernes."
+  },
+  {
+    "id": "b1civ1_10",
+    "q": "Qu'est-ce que la résistance française pendant la Seconde Guerre mondiale ?",
+    "a": "Mouvement de résistance à l'occupation nazie, coordonné depuis Londres par De Gaulle",
+    "choices": [
+      "Résistance à l'occupation nazie depuis Londres",
+      "Collaboration avec l'Allemagne",
+      "Neutralité française",
+      "Armée régulière française"
+    ],
+    "tag": "Histoire",
+    "hint": "De Gaulle, Appel du 18 juin 1940",
+    "expl": "LA RÉSISTANCE : De Gaulle lance l'APPEL DU 18 JUIN 1940 depuis Londres. Forces françaises libres. Maquis en France. Jean Moulin = figure martyre. Libération 1944."
+  },
+  {
+    "id": "b1civ1_11",
+    "q": "Qu'est-ce que l'Académie française ?",
+    "a": "Institution qui réglemente la langue française et publie le dictionnaire officiel",
+    "choices": [
+      "Réglemente la langue française",
+      "Gère les universités",
+      "Décerne les prix littéraires",
+      "Forme les enseignants"
+    ],
+    "tag": "Culture",
+    "hint": "Les 40 immortels veillent sur la langue",
+    "expl": "L'ACADÉMIE FRANÇAISE (1635) = fondée par Richelieu. 40 membres = 'les immortels'. Publie le DICTIONNAIRE DE L'ACADÉMIE. Veille sur la pureté du français. Souvent critiquée pour son conservatisme."
+  },
+  {
+    "id": "b1civ1_12",
+    "q": "Qu'est-ce que le 'Festival de Cannes' ?",
+    "a": "Plus grand festival international de cinéma, Palme d'or comme récompense suprême",
+    "choices": [
+      "Festival de cinéma, Palme d'or",
+      "Festival de musique",
+      "Festival de théâtre",
+      "Festival de littérature"
+    ],
+    "tag": "Culture",
+    "hint": "La Palme d'or = Oscar français",
+    "expl": "FESTIVAL DE CANNES (depuis 1946) = plus grand festival de cinéma mondial. PALME D'OR = récompense suprême. Se tient en mai sur la Croisette. Concurrence Berlin et Venise."
+  },
+  {
+    "id": "b1civ1_13",
+    "q": "Qu'est-ce que la 'Nouvelle Cuisine' française ?",
+    "a": "Mouvement gastronomique des années 70 : légèreté, présentation, créativité",
+    "choices": [
+      "Mouvement gastronomique années 70 léger et créatif",
+      "Cuisine traditionnelle",
+      "Fast-food français",
+      "Cuisine de rue"
+    ],
+    "tag": "Gastronomie",
+    "hint": "Paul Bocuse, Michel Guérard — révolution des assiettes",
+    "expl": "LA NOUVELLE CUISINE (années 1970) = Paul BOCUSE, Michel GUÉRARD. Rupture avec la cuisine classique lourde. Sauces légères, produits frais, présentation artistique. Influence mondiale."
+  },
+  {
+    "id": "b1civ1_14",
+    "q": "Qu'est-ce que la 'Cité des sciences' à Paris ?",
+    "a": "Musée interactif des sciences et techniques à La Villette",
+    "choices": [
+      "Musée interactif de sciences à La Villette",
+      "Université scientifique",
+      "Institut de recherche",
+      "Observatoire"
+    ],
+    "tag": "Culture",
+    "hint": "À La Villette, dans le 19ème arrondissement",
+    "expl": "La CITÉ DES SCIENCES ET DE L'INDUSTRIE (1986) = La Villette, Paris. Musée interactif. La Géode (cinéma hémisphérique). La Cité de la musique. Complex culturel et scientifique."
+  },
+  {
+    "id": "b1civ1_15",
+    "q": "Qu'est-ce que le mouvement 'Mai 68' en France ?",
+    "a": "Révolte étudiante et grève générale qui a changé la société française",
+    "choices": [
+      "Révolte étudiante et grève générale transformatrice",
+      "Élection présidentielle",
+      "Guerre coloniale",
+      "Révolution politique"
+    ],
+    "tag": "Histoire",
+    "hint": "'Il est interdit d'interdire' — slogans révolutionnaires",
+    "expl": "MAI 68 : grèves étudiantes puis grève générale (10 millions de grévistes). Remise en cause de l'autorité, des mœurs, de l'éducation. De Gaulle résiste. Transformations sociales profondes."
+  },
+  {
+    "id": "b1civ1_16",
+    "q": "Qu'est-ce que la 'banlieue' en France et quels enjeux ?",
+    "a": "Périphérie urbaine souvent défavorisée, enjeux de discrimination et intégration",
+    "choices": [
+      "Périphérie urbaine défavorisée avec enjeux d'intégration",
+      "Quartiers riches",
+      "Zones rurales",
+      "Villes nouvelles"
+    ],
+    "tag": "Société",
+    "hint": "Les banlieues = enjeux sociaux majeurs en France",
+    "expl": "BANLIEUE française : quartiers périphériques, souvent cités HLM. Fort taux de chômage, immigration. POLITIQUE DE LA VILLE pour réduire les inégalités. Film 'La Haine' (1995) = référence."
+  },
+  {
+    "id": "b1civ1_17",
+    "q": "Qu'est-ce que le 'droit du sol' et le 'droit du sang' ?",
+    "a": "DROIT DU SOL = nationalité par lieu de naissance / DROIT DU SANG = par filiation",
+    "choices": [
+      "Sol = naissance sur le territoire, sang = filiation",
+      "Sol = sang, sang = sol",
+      "Sol = culture, sang = langue",
+      "Aucune différence"
+    ],
+    "tag": "Société",
+    "hint": "Deux principes d'attribution de la nationalité",
+    "expl": "DROIT DU SOL = nationalité si naissance sur le territoire (France). DROIT DU SANG = nationalité transmise par les parents. France = mixte (sol + sang). Sujet de débat politique en France."
+  }
+]

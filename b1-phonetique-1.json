@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1ph1_01",
+    "q": "Comment distingue-t-on les registres de langue à l'oral ?",
+    "a": "Familier (chais pas), courant (je ne sais pas), soutenu (je ne saurais dire)",
+    "choices": [
+      "Registres familier/courant/soutenu",
+      "Vitesse d'élocution seulement",
+      "Accent régional seulement",
+      "Vocabulaire seulement"
+    ],
+    "tag": "Registres oraux",
+    "hint": "Trois niveaux de langue selon le contexte",
+    "expl": "REGISTRE FAMILIER : chais pas, c'est ouf. COURANT : je ne sais pas, c'est bizarre. SOUTENU : je ne saurais le dire, c'est étrange. Adapter selon contexte."
+  },
+  {
+    "id": "b1ph1_02",
+    "q": "Comment se prononce 'ne' dans la négation en français parlé ?",
+    "a": "Le NE disparaît souvent à l'oral : 'j'sais pas' au lieu de 'je ne sais pas'",
+    "choices": [
+      "NE disparaît souvent",
+      "NE toujours prononcé",
+      "NE devient muet seulement avec pas",
+      "NE seulement dans les questions"
+    ],
+    "tag": "Oral vs écrit",
+    "hint": "Je sais pas / j'veux pas / c'est pas grave",
+    "expl": "En français PARLÉ familier, NE disparaît souvent : JE SAIS PAS, J'VEUX PAS, C'EST PAS VRAI. À l'écrit et registre soutenu : NE obligatoire."
+  },
+  {
+    "id": "b1ph1_03",
+    "q": "Comment prononce-t-on 'tu' dans le français parlé familier ?",
+    "a": "'T'' + voyelle : t'as = tu as / t'es = tu es",
+    "choices": [
+      "T' devant voyelle",
+      "Tu toujours complet",
+      "Tu devient te",
+      "Tu devient vous"
+    ],
+    "tag": "Oral vs écrit",
+    "hint": "T'as mangé ? / T'es là ?",
+    "expl": "En français FAMILIER : TU + voyelle → T'. T'AS mangé ? (= tu as). T'ES là ? (= tu es). T'AURAIS PU (= tu aurais pu). Troncation très courante."
+  },
+  {
+    "id": "b1ph1_04",
+    "q": "Qu'est-ce que l'accent du midi en France ?",
+    "a": "Accent du sud de la France : voyelles plus allongées, nasales moins nasalisées",
+    "choices": [
+      "Accent du sud avec voyelles allongées",
+      "Accent parisien standard",
+      "Accent normand",
+      "Accent alsacien"
+    ],
+    "tag": "Accents régionaux",
+    "hint": "Marseille, Toulouse, Montpellier — accent chantant",
+    "expl": "ACCENT DU MIDI : musicalité, voyelles allongées (bonjou-r). Les nasales sont moins nasalisées. Intonation différente. Reconnaissable et apprécié."
+  },
+  {
+    "id": "b1ph1_05",
+    "q": "Qu'est-ce que le 'joual' ?",
+    "a": "Dialecte populaire québécois, variété du français canadien",
+    "choices": [
+      "Dialecte québécois populaire",
+      "Argot parisien",
+      "Créole antillais",
+      "Français de Belgique"
+    ],
+    "tag": "Variétés du français",
+    "hint": "Parlé au Québec — différences lexicales importantes",
+    "expl": "LE JOUAL = dialecte populaire québécois. Chiac = acadian. VERLAN = argot français inversé. Ces variétés sont du FRANÇAIS mais avec des particularités marquées."
+  },
+  {
+    "id": "b1ph1_06",
+    "q": "Comment reconnaît-on le 'e' ouvert [ɛ] du 'e' fermé [e] à l'oral ?",
+    "a": "[ɛ] bouche plus ouverte : père, fête / [e] bouche moins ouverte : été, café",
+    "choices": [
+      "Ɛ ouvert = père/fête, e fermé = été/café",
+      "Aucune différence audible",
+      "E fermé = père, e ouvert = été",
+      "Dépend de l'accent"
+    ],
+    "tag": "Voyelles",
+    "hint": "PÈRE [pɛʁ] vs PÉRÉ [pe.ʁe]",
+    "expl": "[ɛ] ouvert : PÈRE, MÈRE, FÊTE, TÊTE. [e] fermé : ÉTÉ, CAFÉ, PARLER. En position finale ouverte → [e]. En syllabe fermée (consonne finale) → [ɛ]."
+  },
+  {
+    "id": "b1ph1_07",
+    "q": "Quelle est la règle de liaison avec les adjectifs ?",
+    "a": "Adjectif + nom : liaison obligatoire (un petit enfant [œ̃.pə.ti.tɑ̃.fɑ̃])",
+    "choices": [
+      "Liaison obligatoire adj + nom",
+      "Liaison interdite adj + nom",
+      "Liaison facultative",
+      "Pas de liaison avec adjectifs"
+    ],
+    "tag": "Liaisons",
+    "hint": "Un PETIT enfant / un GRAND homme",
+    "expl": "LIAISON OBLIGATOIRE : adjectif + nom. Un PETIT_ENFANT [pə.ti.tɑ̃.fɑ̃]. UN GRAND_HOMME [gʁɑ̃.tɔm]. Mon VIEIL_AMI. De BONS_AMIS [bɔ̃.za.mi]."
+  },
+  {
+    "id": "b1ph1_08",
+    "q": "Comment se prononce 'second' en français ?",
+    "a": "[sə.gɔ̃] avec G doux — pas [sek.ɔ̃d]",
+    "choices": [
+      "[sə.gɔ̃] G doux",
+      "[sek.ɔ̃d] K dur",
+      "[se.kɔ̃] K",
+      "[seg.ɔ̃d] G dur"
+    ],
+    "tag": "Prononciations particulières",
+    "hint": "SECOND [sə.gɔ̃] — exception !",
+    "expl": "SECOND = [sə.gɔ̃]. G prononcé comme dans 'garage'. SECONDAIRE = [sə.gɔ̃.dɛʁ]. Exception : le C se prononce [g]. À distinguer de DEUXIÈME [dø.zjɛm]."
+  },
+  {
+    "id": "b1ph1_09",
+    "q": "Comment se prononce 'plus' dans 'il ne vient plus' ?",
+    "a": "[ply] — le S est muet en fin de négation",
+    "choices": [
+      "[ply] sans S",
+      "[plys] avec S",
+      "[plyz] avec Z",
+      "[plu] sans S ni consonne"
+    ],
+    "tag": "Prononciations particulières",
+    "hint": "NE...PLUS (négation) = [ply] / PLUS que (comparatif) = [plys]",
+    "expl": "NE...PLUS (négation) = [ply]. PLUS que (comparatif devant consonne) = [ply]. PLUS intelligent (devant voyelle) = [plyz]. PLUS tout seul en fin = [plys]."
+  },
+  {
+    "id": "b1ph1_10",
+    "q": "Comment se prononce 'tous' selon sa fonction ?",
+    "a": "TOUS adjectif = [tu] / TOUS pronom = [tus]",
+    "choices": [
+      "Tous adj = [tu], tous pronom = [tus]",
+      "Toujours [tu]",
+      "Toujours [tus]",
+      "Toujours [tuz]"
+    ],
+    "tag": "Prononciations particulières",
+    "hint": "Ils sont TOUS là [tus] vs TOUS les élèves [tu]",
+    "expl": "TOUS adjectif (devant nom) = [tu]. TOUS LES élèves [tu le]. TOUS pronom (seul en fin) = [tus]. Ils sont TOUS [tus] là. Distinction importante."
+  },
+  {
+    "id": "b1ph1_11",
+    "q": "Comment se prononce 'vingt' selon le contexte ?",
+    "a": "VINGT seul = [vɛ̃] / VINGT + consonne = [vɛ̃] / VINGT + voyelle = [vɛ̃t]",
+    "choices": [
+      "Vingt + voyelle = [vɛ̃t]",
+      "Toujours [vɛ̃]",
+      "Toujours [vɛ̃t]",
+      "Vingt = [vɑ̃]"
+    ],
+    "tag": "Prononciations particulières",
+    "hint": "VINGT [vɛ̃] / vingt-et-un [vɛ̃.te.œ̃] / vingt ans [vɛ̃.tɑ̃]",
+    "expl": "VINGT : [vɛ̃] seul ou devant consonne. [vɛ̃t] devant voyelle (vingt ans, vingt hommes). Même règle pour le T final."
+  },
+  {
+    "id": "b1ph1_12",
+    "q": "Comment se réalise l'assimilation consonantique en français ?",
+    "a": "Médecin [met.sɛ̃] — D + S → TS (assimilation de voisement)",
+    "choices": [
+      "Assimilation de voisement possible",
+      "Aucune assimilation",
+      "Assimilation seulement dans les liaisons",
+      "Assimilation seulement des voyelles"
+    ],
+    "tag": "Phonologie avancée",
+    "hint": "ABSURDE [ap.syʁd] — B + S → P+S",
+    "expl": "ASSIMILATION : consonne voisée + non voisée → non voisée. ABSURDE [ap.syʁd] (B→P). MÉDECIN [met.sɛ̃] (D→T). Phénomène courant à l'oral rapide."
+  },
+  {
+    "id": "b1ph1_13",
+    "q": "Quel est le rôle de l'intonation dans la modalisation ?",
+    "a": "L'intonation peut exprimer le doute, l'ironie, la certitude sans mots spéciaux",
+    "choices": [
+      "Intonation modalise le sens",
+      "Intonation seulement pour les questions",
+      "Intonation aucun rôle sémantique",
+      "Intonation seulement pour l'émotion"
+    ],
+    "tag": "Prosodie",
+    "hint": "'C'est vrai ?' (doute) vs 'C'est vrai !' (certitude)",
+    "expl": "INTONATION = modalisation. La même phrase change de sens selon l'intonation : C'EST VRAI ? (montant = doute). C'EST VRAI ! (descendant = certitude). C'EST VRAI... (suspense)."
+  },
+  {
+    "id": "b1ph1_14",
+    "q": "Comment fonctionne le 'verlan' en français ?",
+    "a": "Inversion des syllabes d'un mot : l'envers = verlan / femme = meuf",
+    "choices": [
+      "Inversion des syllabes",
+      "Ajout de suffixes",
+      "Troncation",
+      "Emprunt étranger"
+    ],
+    "tag": "Argot",
+    "hint": "VERLAN = l'envers / MEUF = femme / CIMER = merci",
+    "expl": "VERLAN = inversion des syllabes. L'ENVERS → VER-LAN. FEMME → MEUF. MERCI → CIMER. L'APPART → TAPLA. Argot des banlieues, maintenant très répandu."
+  },
+  {
+    "id": "b1ph1_15",
+    "q": "Qu'est-ce que la 'focalisation' dans la prosodie ?",
+    "a": "Mettre en relief une syllabe par un pic d'intensité ou de hauteur",
+    "choices": [
+      "Mettre en relief une syllabe",
+      "Accélérer le débit",
+      "Allonger toutes les voyelles",
+      "Parler plus fort"
+    ],
+    "tag": "Prosodie",
+    "hint": "Je veux PARTIR (insistance sur partir)",
+    "expl": "FOCALISATION = mise en relief prosodique. Je VEUX partir (insistance sur la volonté). Je veux PARTIR (insistance sur l'action). Syllabe avec pic d'intensité/hauteur."
+  },
+  {
+    "id": "b1ph1_16",
+    "q": "Comment la nasalité change-t-elle selon les régions ?",
+    "a": "Nord/Paris : nasales très nasalisées / Midi : nasales moins nasalisées",
+    "choices": [
+      "Nord = très nasalisé, Midi = moins",
+      "Identique partout",
+      "Midi = plus nasalisé",
+      "Seul Paris est nasalisé"
+    ],
+    "tag": "Accents régionaux",
+    "hint": "BON [bɔ̃] à Paris vs [bɔn] dans le Midi",
+    "expl": "NASALITÉ VARIABLE : Paris/nord = forte nasalisation. Midi = moins nasalisé, voyelles oralisées. PAIN à Paris = [pɛ̃] nasal fort. Dans le Midi = [pɛn] presque oral."
+  },
+  {
+    "id": "b1ph1_17",
+    "q": "Qu'est-ce que le 'débit de parole' en français ?",
+    "a": "Nombre de syllabes par seconde — le français est rapide (~7 syll/sec)",
+    "choices": [
+      "Nombre de syllabes par seconde",
+      "Volume sonore",
+      "Nombre de mots par phrase",
+      "Hauteur de la voix"
+    ],
+    "tag": "Prosodie",
+    "hint": "Le français est une des langues les plus rapides",
+    "expl": "DÉBIT = vitesse de parole. Le français ≈ 7 syllabes/seconde (très rapide). L'espagnol ≈ 7-8 syll/sec. Mais français = moins d'information par syllabe. Perception de rapidité."
+  },
+  {
+    "id": "b1ph1_18",
+    "q": "Comment reconnaît-on les mots d'emprunt à l'anglais dans la prononciation française ?",
+    "a": "Prononciation semi-adaptée : foot-ball [fut.bol], week-end [wi.kɛnd]",
+    "choices": [
+      "Semi-adaptation phonologique",
+      "Prononciation anglaise exacte",
+      "Prononciation totalement française",
+      "Pas de règle"
+    ],
+    "tag": "Emprunts",
+    "hint": "WEEK-END, FOOTBALL, PARKING — comment les prononce-t-on ?",
+    "expl": "Emprunts anglais = semi-adaptation. WEEK-END [wi.kɛnd]. FOOTBALL [fut.bol]. PARKING [paʁ.kiŋ]. SHOPPING [ʃɔ.piŋ]. L'anglais est adapté mais garde des traces."
+  },
+  {
+    "id": "b1ph1_19",
+    "q": "Qu'est-ce que la 'chute du E' dans les groupes consonantiques ?",
+    "a": "Le E caduc tombe si le groupe restant est prononçable : 'samdi' pour samedi",
+    "choices": [
+      "E tombe si groupe consonantique prononçable",
+      "E tombe toujours",
+      "E ne tombe jamais",
+      "E tombe seulement au début"
+    ],
+    "tag": "E caduc",
+    "hint": "SA-M'DI (samedi) / med'cin (médecin)",
+    "expl": "Loi du E caduc : le E tombe si les consonnes restantes sont prononçables. SA-M'DI [sam.di]. MED'CIN [met.sɛ̃]. Mais pas si ça crée un groupe imprononçable."
+  },
+  {
+    "id": "b1ph1_20",
+    "q": "Comment se prononce le groupe 'eur' dans les mots grammaticaux ?",
+    "a": "LEUR [lœʁ] / LEUR ami [lœʁ.a.mi] — sans liaison avec R",
+    "choices": [
+      "Leur sans liaison R",
+      "Leur avec liaison R",
+      "Leur = [le]",
+      "Leur = [luʁ]"
+    ],
+    "tag": "Prononciations",
+    "hint": "LEUR = [lœʁ] — le R se prononce",
+    "expl": "LEUR = [lœʁ]. Le R se prononce. LEUR AMI [lœʁ.a.mi] (pas de liaison avec l'R). Comparer : LES amis [le.za.mi] (liaison avec S). LEUR n'est pas un déterminant qui lie."
+  },
+  {
+    "id": "b1ph1_21",
+    "q": "Qu'est-ce que la 'prosodie du discours' ?",
+    "a": "Rythme, pauses, accents, qui structurent le discours oral",
+    "choices": [
+      "Rythme, pauses, accents du discours",
+      "Vocabulaire du discours",
+      "Grammaire du discours",
+      "Contenu du discours"
+    ],
+    "tag": "Prosodie",
+    "hint": "Les pauses et accents qui aident la compréhension",
+    "expl": "PROSODIE DU DISCOURS : pauses (structurent les unités), accents (mettent en relief), rythme (aide la compréhension). Comme la ponctuation à l'écrit."
+  },
+  {
+    "id": "b1ph1_22",
+    "q": "Comment reconnaît-on l'interrogation totale (oui/non) sans mot interrogatif ?",
+    "a": "Intonation montante sur la dernière syllabe",
+    "choices": [
+      "Intonation montante",
+      "Intonation descendante",
+      "Intonation plate",
+      "Pause avant le verbe"
+    ],
+    "tag": "Intonation",
+    "hint": "Tu VIENS ? ↗ — la voix monte à la fin",
+    "expl": "QUESTION TOTALE sans mot interrogatif → INTONATION MONTANTE sur la dernière syllabe du groupe. Tu VIENS ? ↗ Vous ÊTES d'accord ? ↗ Différent de l'affirmation ↘."
+  },
+  {
+    "id": "b1ph1_23",
+    "q": "Comment reconnaît-on l'interrogation partielle (avec mot interrogatif) ?",
+    "a": "Intonation descendante avec le mot interrogatif en tête ou en fin",
+    "choices": [
+      "Intonation descendante avec mot interrogatif",
+      "Intonation montante avec mot interrogatif",
+      "Intonation plate",
+      "Dépend du mot"
+    ],
+    "tag": "Intonation",
+    "hint": "OÙ tu vas ? ↗↘ / Tu vas OÙ ? ↗↘",
+    "expl": "QUESTION PARTIELLE : intonation variable. OÙ vas-tu ? ↗ puis ↘. En registre familier : tu vas OÙ ? Mot interrogatif peut être en tête ou en fin."
+  },
+  {
+    "id": "b1ph1_24",
+    "q": "Qu'est-ce que le 'parlé chanté' de certaines régions ?",
+    "a": "Intonation plus musicale, souvent associée au Midi et à certains pays francophones",
+    "choices": [
+      "Intonation musicale du Midi/certains pays",
+      "Standard parisien",
+      "Argot urbain",
+      "Langue ancienne"
+    ],
+    "tag": "Accents régionaux",
+    "hint": "L'accent chantant du Sud ou du Maghreb",
+    "expl": "PARLÉ CHANTÉ = intonation musicale. Provence, Occitanie, Maghreb. Les voyelles finales sont plus allongées, l'intonation plus mélodique. Perçu comme charmant."
+  },
+  {
+    "id": "b1ph1_25",
+    "q": "Comment s'adapte-t-on phonétiquement à son interlocuteur en français ?",
+    "a": "Accommodation phonétique : on adapte son débit, registre et accentuation",
+    "choices": [
+      "Accommodation phonétique naturelle",
+      "Pas d'adaptation en français",
+      "Adaptation seulement du vocabulaire",
+      "Adaptation seulement de la vitesse"
+    ],
+    "tag": "Phonétique sociale",
+    "hint": "On parle différemment selon qu'on parle à un enfant ou un patron",
+    "expl": "ACCOMMODATION PHONÉTIQUE = adaptation naturelle. Avec un enfant : plus lent, articulé. Avec un expert : plus rapide, précis. Avec un ami : plus familier, plus d'élisions."
+  }
+]
