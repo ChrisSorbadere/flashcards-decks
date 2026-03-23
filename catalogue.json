@@ -9,7 +9,7 @@
       "decks": [
         {
           "id": "a1-conjugaison-1",
-          "name": "A1 — Conjugaison & verbes (1/6)",
+          "name": "A1 — Conjugaison & verbes (1/3)",
           "description": "Être, avoir, présent -ER",
           "cardCount": 17,
           "level": "A1",
@@ -18,7 +18,7 @@
         },
         {
           "id": "a1-conjugaison-2",
-          "name": "A1 — Conjugaison & verbes (2/6)",
+          "name": "A1 — Conjugaison & verbes (2/3)",
           "description": "Verbes irréguliers, pronominaux",
           "cardCount": 17,
           "level": "A1",
@@ -27,7 +27,7 @@
         },
         {
           "id": "a1-conjugaison-3",
-          "name": "A1 — Conjugaison & verbes (3/6)",
+          "name": "A1 — Conjugaison & verbes (3/3)",
           "description": "Négation, impératif, révision",
           "cardCount": 17,
           "level": "A1",
@@ -67,7 +67,7 @@
           "description": "Salutations, famille, corps",
           "cardCount": 17,
           "level": "A1",
-          "order": 7,
+          "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-vocabulaire-1.json",
           "comingSoon": true
         },
@@ -77,7 +77,7 @@
           "description": "Maison, ville, nature",
           "cardCount": 17,
           "level": "A1",
-          "order": 8,
+          "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-vocabulaire-2.json",
           "comingSoon": true
         },
@@ -87,7 +87,7 @@
           "description": "Temps, quantités, opinions",
           "cardCount": 17,
           "level": "A1",
-          "order": 9,
+          "order": 3,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-vocabulaire-3.json",
           "comingSoon": true
         },
@@ -97,7 +97,7 @@
           "description": "Articles, genre, pluriel",
           "cardCount": 17,
           "level": "A1",
-          "order": 10,
+          "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-grammaire-1.json",
           "comingSoon": true
         },
@@ -107,7 +107,7 @@
           "description": "Adjectifs, prépositions",
           "cardCount": 17,
           "level": "A1",
-          "order": 11,
+          "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-grammaire-2.json",
           "comingSoon": true
         },
@@ -117,7 +117,7 @@
           "description": "Questions, pronoms, possessifs",
           "cardCount": 17,
           "level": "A1",
-          "order": 12,
+          "order": 3,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-grammaire-3.json",
           "comingSoon": true
         },
@@ -127,7 +127,7 @@
           "description": "Voyelles et sons spéciaux",
           "cardCount": 17,
           "level": "A1",
-          "order": 13,
+          "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-phonetique-1.json",
           "comingSoon": true
         },
@@ -137,7 +137,7 @@
           "description": "Consonnes, liaison, accent",
           "cardCount": 17,
           "level": "A1",
-          "order": 14,
+          "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-phonetique-2.json",
           "comingSoon": true
         },
@@ -147,7 +147,7 @@
           "description": "Formules, salutations, email",
           "cardCount": 17,
           "level": "A1",
-          "order": 15,
+          "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-expression-ecrite-1.json",
           "comingSoon": true
         },
@@ -157,7 +157,7 @@
           "description": "Connecteurs, description, opinion",
           "cardCount": 17,
           "level": "A1",
-          "order": 16,
+          "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-expression-ecrite-2.json",
           "comingSoon": true
         },
@@ -167,7 +167,7 @@
           "description": "Géographie, symboles, histoire",
           "cardCount": 17,
           "level": "A1",
-          "order": 17,
+          "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-civilisation-1.json",
           "comingSoon": true
         },
@@ -177,7 +177,7 @@
           "description": "Gastronomie, arts, société",
           "cardCount": 17,
           "level": "A1",
-          "order": 18,
+          "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-civilisation-2.json",
           "comingSoon": true
         }
@@ -216,6 +216,734 @@
           "level": "A2",
           "order": 3,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-vocabulaire-1",
+          "name": "A2 — Vocabulaire thématique (1/3)",
+          "description": "Corps, santé, médecin",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-vocabulaire-2",
+          "name": "A2 — Vocabulaire thématique (2/3)",
+          "description": "Transports, voyages, hôtel",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-vocabulaire-3",
+          "name": "A2 — Vocabulaire thématique (3/3)",
+          "description": "Travail, études, projets",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-grammaire-1",
+          "name": "A2 — Grammaire (1/3)",
+          "description": "Pronoms COD et COI",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-grammaire-2",
+          "name": "A2 — Grammaire (2/3)",
+          "description": "Comparatifs et superlatifs",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-grammaire-3",
+          "name": "A2 — Grammaire (3/3)",
+          "description": "Pronoms relatifs qui/que",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-phonetique-1",
+          "name": "A2 — Phonétique (1/2)",
+          "description": "Enchaînements et élision",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-phonetique-2",
+          "name": "A2 — Phonétique (2/2)",
+          "description": "Rythme et intonation",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-expression-ecrite-1",
+          "name": "A2 — Expression écrite (1/2)",
+          "description": "Raconter un événement passé",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-expression-ecrite-2",
+          "name": "A2 — Expression écrite (2/2)",
+          "description": "Décrire un lieu ou une personne",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-civilisation-1",
+          "name": "A2 — Civilisation & culture (1/2)",
+          "description": "Les régions françaises",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "a2-civilisation-2",
+          "name": "A2 — Civilisation & culture (2/2)",
+          "description": "Gastronomie et traditions",
+          "cardCount": 17,
+          "level": "A2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-2.json",
+          "comingSoon": true
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "label": "B1",
+      "description": "Intermédiaire",
+      "decks": [
+        {
+          "id": "b1-conjugaison-1",
+          "name": "B1 — Conjugaison & verbes (1/3)",
+          "description": "Subjonctif présent : formation",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-conjugaison-2",
+          "name": "B1 — Conjugaison & verbes (2/3)",
+          "description": "Subjonctif : emplois obligatoires",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-conjugaison-3",
+          "name": "B1 — Conjugaison & verbes (3/3)",
+          "description": "Passé simple : reconnaissance",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-conjugaison-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-vocabulaire-1",
+          "name": "B1 — Vocabulaire thématique (1/3)",
+          "description": "Synonymes et antonymes",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-vocabulaire-2",
+          "name": "B1 — Vocabulaire thématique (2/3)",
+          "description": "Registres de langue",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-vocabulaire-3",
+          "name": "B1 — Vocabulaire thématique (3/3)",
+          "description": "Nuances et précisions",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-vocabulaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-grammaire-1",
+          "name": "B1 — Grammaire (1/3)",
+          "description": "Subjonctif vs indicatif",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-grammaire-2",
+          "name": "B1 — Grammaire (2/3)",
+          "description": "Voix passive",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-grammaire-3",
+          "name": "B1 — Grammaire (3/3)",
+          "description": "Concordance des temps",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-grammaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-phonetique-1",
+          "name": "B1 — Phonétique (1/2)",
+          "description": "Liaisons complexes et fluidité",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-phonetique-2",
+          "name": "B1 — Phonétique (2/2)",
+          "description": "Registres oraux",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-phonetique-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-expression-ecrite-1",
+          "name": "B1 — Expression écrite (1/2)",
+          "description": "Argumenter et nuancer",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-expression-ecrite-2",
+          "name": "B1 — Expression écrite (2/2)",
+          "description": "Connecteurs logiques avancés",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-expression-ecrite-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-civilisation-1",
+          "name": "B1 — Civilisation & culture (1/2)",
+          "description": "Société et institutions",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b1-civilisation-2",
+          "name": "B1 — Civilisation & culture (2/2)",
+          "description": "Médias et actualité",
+          "cardCount": 17,
+          "level": "B1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b1-civilisation-2.json",
+          "comingSoon": true
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "label": "B2",
+      "description": "Intermédiaire avancé",
+      "decks": [
+        {
+          "id": "b2-conjugaison-1",
+          "name": "B2 — Conjugaison & verbes (1/3)",
+          "description": "Subjonctif passé",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-conjugaison-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-conjugaison-2",
+          "name": "B2 — Conjugaison & verbes (2/3)",
+          "description": "Conditionnel passé : hypothèse",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-conjugaison-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-conjugaison-3",
+          "name": "B2 — Conjugaison & verbes (3/3)",
+          "description": "Modes et nuances avancées",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-conjugaison-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-vocabulaire-1",
+          "name": "B2 — Vocabulaire thématique (1/3)",
+          "description": "Lexique soutenu",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-vocabulaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-vocabulaire-2",
+          "name": "B2 — Vocabulaire thématique (2/3)",
+          "description": "Faux amis franco-espagnols",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-vocabulaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-vocabulaire-3",
+          "name": "B2 — Vocabulaire thématique (3/3)",
+          "description": "Expressions figées et idiomes",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-vocabulaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-grammaire-1",
+          "name": "B2 — Grammaire (1/3)",
+          "description": "Discours indirect",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-grammaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-grammaire-2",
+          "name": "B2 — Grammaire (2/3)",
+          "description": "Hypothèse et condition",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-grammaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-grammaire-3",
+          "name": "B2 — Grammaire (3/3)",
+          "description": "Tournures nominales",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-grammaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-phonetique-1",
+          "name": "B2 — Phonétique (1/2)",
+          "description": "Prosodie et expressivité",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-phonetique-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-phonetique-2",
+          "name": "B2 — Phonétique (2/2)",
+          "description": "Variétés du français",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-phonetique-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-expression-ecrite-1",
+          "name": "B2 — Expression écrite (1/2)",
+          "description": "La dissertation",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-expression-ecrite-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-expression-ecrite-2",
+          "name": "B2 — Expression écrite (2/2)",
+          "description": "Le compte rendu",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-expression-ecrite-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-civilisation-1",
+          "name": "B2 — Civilisation & culture (1/2)",
+          "description": "Politique et économie",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-civilisation-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "b2-civilisation-2",
+          "name": "B2 — Civilisation & culture (2/2)",
+          "description": "Culture contemporaine",
+          "cardCount": 17,
+          "level": "B2",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/b2-civilisation-2.json",
+          "comingSoon": true
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "label": "C1",
+      "description": "Avancé",
+      "decks": [
+        {
+          "id": "c1-conjugaison-1",
+          "name": "C1 — Conjugaison & verbes (1/3)",
+          "description": "Subjonctif imparfait",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-conjugaison-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-conjugaison-2",
+          "name": "C1 — Conjugaison & verbes (2/3)",
+          "description": "Conditionnel passé littéraire",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-conjugaison-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-conjugaison-3",
+          "name": "C1 — Conjugaison & verbes (3/3)",
+          "description": "Formes rares et littéraires",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-conjugaison-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-vocabulaire-1",
+          "name": "C1 — Vocabulaire thématique (1/3)",
+          "description": "Registre littéraire et soutenu",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-vocabulaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-vocabulaire-2",
+          "name": "C1 — Vocabulaire thématique (2/3)",
+          "description": "Terminologie abstraite",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-vocabulaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-vocabulaire-3",
+          "name": "C1 — Vocabulaire thématique (3/3)",
+          "description": "Néologismes et emprunts",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-vocabulaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-grammaire-1",
+          "name": "C1 — Grammaire (1/3)",
+          "description": "Syntaxe complexe",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-grammaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-grammaire-2",
+          "name": "C1 — Grammaire (2/3)",
+          "description": "Figures de style",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-grammaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-grammaire-3",
+          "name": "C1 — Grammaire (3/3)",
+          "description": "Ponctuation et style",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-grammaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-phonetique-1",
+          "name": "C1 — Phonétique (1/2)",
+          "description": "Discours et éloquence",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-phonetique-2",
+          "name": "C1 — Phonétique (2/2)",
+          "description": "Accents régionaux et variation",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-expression-ecrite-1",
+          "name": "C1 — Expression écrite (1/2)",
+          "description": "La synthèse de documents",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-expression-ecrite-2",
+          "name": "C1 — Expression écrite (2/2)",
+          "description": "L'essai argumentatif",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-civilisation-1",
+          "name": "C1 — Civilisation & culture (1/2)",
+          "description": "Philosophie et pensée française",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "c1-civilisation-2",
+          "name": "C1 — Civilisation & culture (2/2)",
+          "description": "Littérature et arts",
+          "cardCount": 17,
+          "level": "C1",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-2.json",
+          "comingSoon": true
+        }
+      ]
+    },
+    {
+      "id": "STANAG",
+      "label": "STANAG",
+      "description": "Militaire — OTAN",
+      "decks": [
+        {
+          "id": "stanag-conjugaison-1",
+          "name": "STANAG — Conjugaison opérationnelle (1/2)",
+          "description": "Ordres et instructions formelles",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-conjugaison-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-conjugaison-2",
+          "name": "STANAG — Conjugaison opérationnelle (2/2)",
+          "description": "Rapports et comptes rendus",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-conjugaison-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-vocabulaire-1",
+          "name": "STANAG — Vocabulaire militaire (1/3)",
+          "description": "Grades, unités, organisation",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-vocabulaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-vocabulaire-2",
+          "name": "STANAG — Vocabulaire militaire (2/3)",
+          "description": "Matériel et équipements",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-vocabulaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-vocabulaire-3",
+          "name": "STANAG — Vocabulaire militaire (3/3)",
+          "description": "Opérations et procédures OTAN",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 3,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-vocabulaire-3.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-grammaire-1",
+          "name": "STANAG — Grammaire du discours militaire (1/2)",
+          "description": "Structures du rapport militaire",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-grammaire-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-grammaire-2",
+          "name": "STANAG — Grammaire du discours militaire (2/2)",
+          "description": "Formulations officielles",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-grammaire-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-phonetique-1",
+          "name": "STANAG — Alphabet OTAN & radio (1/2)",
+          "description": "Alphabet phonétique OTAN",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-phonetique-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-phonetique-2",
+          "name": "STANAG — Alphabet OTAN & radio (2/2)",
+          "description": "Phraséologie radio et procédures",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-phonetique-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-expression-ecrite-1",
+          "name": "STANAG — Rédaction militaire (1/2)",
+          "description": "SITREP et OPORD",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-expression-ecrite-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-expression-ecrite-2",
+          "name": "STANAG — Rédaction militaire (2/2)",
+          "description": "Comptes rendus et rapports",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-expression-ecrite-2.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-civilisation-1",
+          "name": "STANAG — Institutions & OTAN (1/2)",
+          "description": "Structure et commandement OTAN",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 1,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-civilisation-1.json",
+          "comingSoon": true
+        },
+        {
+          "id": "stanag-civilisation-2",
+          "name": "STANAG — Institutions & OTAN (2/2)",
+          "description": "Histoire et missions",
+          "cardCount": 17,
+          "level": "STANAG",
+          "order": 2,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/stanag-civilisation-2.json",
           "comingSoon": true
         }
       ]
