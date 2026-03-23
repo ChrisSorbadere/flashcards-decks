@@ -9,7 +9,7 @@
       "decks": [
         {
           "id": "a1-conjugaison-1",
-          "name": "A1 — Conjugaison & verbes (1/6)",
+          "name": "A1 — Conjugaison & verbes (1/7)",
           "description": "Être, avoir, présent -ER",
           "cardCount": 17,
           "level": "A1",
@@ -18,7 +18,7 @@
         },
         {
           "id": "a1-conjugaison-2",
-          "name": "A1 — Conjugaison & verbes (2/6)",
+          "name": "A1 — Conjugaison & verbes (2/7)",
           "description": "Verbes irréguliers, pronominaux",
           "cardCount": 17,
           "level": "A1",
@@ -27,7 +27,7 @@
         },
         {
           "id": "a1-conjugaison-3",
-          "name": "A1 — Conjugaison & verbes (3/6)",
+          "name": "A1 — Conjugaison & verbes (3/7)",
           "description": "Négation, impératif, révision",
           "cardCount": 17,
           "level": "A1",
@@ -36,7 +36,7 @@
         },
         {
           "id": "a1-conjugaison-4",
-          "name": "A1 — Conjugaison & verbes (4/6)",
+          "name": "A1 — Conjugaison & verbes (4/7)",
           "description": "Verbes du 3ème groupe fréquents",
           "cardCount": 17,
           "level": "A1",
@@ -45,7 +45,7 @@
         },
         {
           "id": "a1-conjugaison-5",
-          "name": "A1 — Conjugaison & verbes (5/6)",
+          "name": "A1 — Conjugaison & verbes (5/7)",
           "description": "Le Passé Composé (initiation)",
           "cardCount": 17,
           "level": "A1",
@@ -54,12 +54,21 @@
         },
         {
           "id": "a1-conjugaison-6",
-          "name": "A1 — Conjugaison & verbes (6/6)",
+          "name": "A1 — Conjugaison & verbes (6/7)",
           "description": "Le Futur Proche et révisions",
           "cardCount": 17,
           "level": "A1",
           "order": 6,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a1-conjugaison-6.json"
+        },
+        {
+          "id": "a1-conjugaison-7",
+          "name": "A1 — Conjugaison & verbes (7/7)",
+          "description": "Modaux, 2e groupe et pronominaux au passé",
+          "cardCount": 17,
+          "level": "A1",
+          "order": 7,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a1-conjugaison-7.json"
         },
         {
           "id": "a1-vocabulaire-1",
