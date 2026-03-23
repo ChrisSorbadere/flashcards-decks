@@ -1,0 +1,19 @@
+[
+  {"id":"a1c6_01","q":"Je ___ (manger) bientôt.","a":"vais manger","choices":["va manger","vais mange","vas manger"],"tag":"Futur Proche","hint":"ALLER + INFINITIF","expl":"Futur proche : Je VAIS + INFINITIF. / VOY A COMER."},
+  {"id":"a1c6_02","q":"Nous ___ (partir) ce soir.","a":"allons partir","choices":["vont partir","allez partir","allons partons"],"tag":"Futur Proche","hint":"ALLER (nous) + infinitif","expl":"Futur proche : Nous ALLONS PARTIR. / VAMOS A SALIR."},
+  {"id":"a1c6_03","q":"Tu ___ (ne pas + faire) ça !","a":"ne vas pas faire","choices":["ne pas vas faire","ne vas faire pas","pas vas faire"],"tag":"Futur Proche","hint":"NE...PAS encadre ALLER","expl":"Négation : NE + ALLER + PAS + INFINITIF. / NO VAS A HACER."},
+  {"id":"a1c6_04","q":"Ils ___ (se lever) à 7h.","a":"vont se lever","choices":["se vont lever","vont lever","vont se levé"],"tag":"Futur Proche","hint":"Le pronom est devant l'infinitif","expl":"Pronominal : ALLER + SE + INFINITIF. / SE VAN A LEVANTAR."},
+  {"id":"a1c6_05","q":"Est-ce qu'il ___ (pleuvoir) ?","a":"va pleuvoir","choices":["vais pleuvoir","vont pleuvoir","va pleut"],"tag":"Futur Proche","hint":"3ème personne singulier","expl":"Il VA PLEUVOIR. / VA A LLOVER."},
+  {"id":"a1c6_06","q":"Vous ___ (étudier) ce soir.","a":"allez étudier","choices":["vont étudier","allons étudier","allez étudiez"],"tag":"Futur Proche","hint":"2ème personne pluriel","expl":"Vous ALLEZ ÉTUDIER. / VAN A ESTUDIAR."},
+  {"id":"a1c6_07","q":"Elles ___ (acheter) du pain.","a":"vont acheter","choices":["vont achètent","allons acheter","va acheter"],"tag":"Futur Proche","hint":"3ème personne pluriel","expl":"Elles VONT ACHETER. / ELLAS VAN A COMPRAR."},
+  {"id":"a1c6_08","q":"Tu ___ (sortir) le chien.","a":"vas sortir","choices":["va sortir","vais sortir","vas sors"],"tag":"Futur Proche","hint":"2ème personne singulier","expl":"Tu VAS SORTIR. / VAS A SACAR."},
+  {"id":"a1c6_09","q":"Je ___ (dormir) tôt.","a":"vais dormir","choices":["va dormir","vas dormir","vais dors"],"tag":"Futur Proche","hint":"1ère personne singulier","expl":"Je VAIS DORMIR. / VOY A DORMIR."},
+  {"id":"a1c6_10","q":"Nous ___ (se doucher).","a":"allons nous doucher","choices":["nous allons doucher","allons se doucher","allons doucher"],"tag":"Futur Proche","hint":"ALLER + NOUS + INFINITIF","expl":"Nous ALLONS NOUS DOUCHER. / VAMOS A DUCHARNOS."},
+  {"id":"a1c6_11","q":"Je ___ (être) en retard.","a":"vais être","choices":["vais suis","va être","vas être"],"tag":"Futur Proche","hint":"ALLER + ÊTRE (infinitif)","expl":"Je VAIS ÊTRE. / VOY A ESTAR."},
+  {"id":"a1c6_12","q":"Il ___ (avoir) 10 ans.","a":"va avoir","choices":["va a","vais avoir","vont avoir"],"tag":"Futur Proche","hint":"ALLER + AVOIR (infinitif)","expl":"Il VA AVOIR. / VA A TENER."},
+  {"id":"a1c6_13","q":"___ ! (Finir ton assiette - impératif)","a":"Finis ton assiette !","choices":["Fini ton assiette !","Finis-tu !","Finissez !"],"tag":"Impératif","hint":"Verbe -IR : garde le 's'","expl":"Impératif (-IR) : FINIS (tu). / ¡TERMINA!"},
+  {"id":"a1c6_14","q":"___ ! (Prendre ton sac - impératif)","a":"Prends ton sac !","choices":["Prend ton sac !","Prenons ton sac !","Prenez !"],"tag":"Impératif","hint":"PRENDRE : garde le 's'","expl":"Impératif : PRENDS (tu). / ¡TOMA!"},
+  {"id":"a1c6_15","q":"___ ! (Attendre ici - impératif)","a":"Attendez ici !","choices":["Attendons ici !","Attend ici !","Attendez ici !"],"tag":"Impératif","hint":"Forme 'vous'","expl":"Impératif : ATTENDEZ (vous). / ¡ESPERAD!"},
+  {"id":"a1c6_16","q":"___ ! (Manger doucement - impératif)","a":"Mangeons doucement !","choices":["Mangons !","Mangeons !","Mangez !"],"tag":"Impératif","hint":"Forme 'nous' (manger)","expl":"MANGER : Mangeons (avec 'e'). / ¡COMAMOS!"},
+  {"id":"a1c6_17","q":"___ ! (Aller là-bas - impératif)","a":"Allez là-bas !","choices":["Va là-bas !","Allons là-bas !","Allez là-bas !"],"tag":"Impératif","hint":"ALLER : forme 'vous'","expl":"Impératif : ALLEZ. / ¡ID!"}
+]
