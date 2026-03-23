@@ -9,7 +9,7 @@
       "decks": [
         {
           "id": "a1-conjugaison-1",
-          "name": "A1 — Conjugaison & verbes (1/3)",
+          "name": "A1 — Conjugaison & verbes (1/6)",
           "description": "Être, avoir, présent -ER",
           "cardCount": 17,
           "level": "A1",
@@ -18,7 +18,7 @@
         },
         {
           "id": "a1-conjugaison-2",
-          "name": "A1 — Conjugaison & verbes (2/3)",
+          "name": "A1 — Conjugaison & verbes (2/6)",
           "description": "Verbes irréguliers, pronominaux",
           "cardCount": 17,
           "level": "A1",
@@ -27,7 +27,7 @@
         },
         {
           "id": "a1-conjugaison-3",
-          "name": "A1 — Conjugaison & verbes (3/3)",
+          "name": "A1 — Conjugaison & verbes (3/6)",
           "description": "Négation, impératif, révision",
           "cardCount": 17,
           "level": "A1",
