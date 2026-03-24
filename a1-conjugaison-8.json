@@ -1,0 +1,223 @@
+[
+  {
+    "id": "a1c8_01",
+    "q": "Vous ___ (dire) la vérité ?",
+    "a": "dites",
+    "choices": [
+      "disez",
+      "disent",
+      "disons"
+    ],
+    "tag": "DIRE",
+    "hint": "Forme VOUS de DIRE est irrégulière",
+    "expl": "DIRE : je dis, tu dis, il dit, nous disons, vous DITES (irrégulier !), ils disent. / DECÍS. Pas 'disez' !"
+  },
+  {
+    "id": "a1c8_02",
+    "q": "Je ___ (voir) mes parents ce soir.",
+    "a": "vois",
+    "choices": [
+      "voit",
+      "voyons",
+      "voient"
+    ],
+    "tag": "VOIR",
+    "hint": "je/tu : -ois",
+    "expl": "VOIR : je VOIS, tu VOIS, il VOIT, nous VOYONS, vous VOYEZ, ils VOIENT. / VEO."
+  },
+  {
+    "id": "a1c8_03",
+    "q": "Ils ___ (voir) le film ensemble.",
+    "a": "voient",
+    "choices": [
+      "voyent",
+      "voyons",
+      "voit"
+    ],
+    "tag": "VOIR",
+    "hint": "3ème pluriel — pas 'voyent' !",
+    "expl": "VOIR : ils VOIENT. Attention : pas 'voyent'. / ELLOS VEN."
+  },
+  {
+    "id": "a1c8_04",
+    "q": "Tu ___ (boire) du café ?",
+    "a": "bois",
+    "choices": [
+      "buit",
+      "buvons",
+      "boivent"
+    ],
+    "tag": "BOIRE",
+    "hint": "je/tu : -ois",
+    "expl": "BOIRE : je BOIS, tu BOIS, il BOIT, nous BUVONS, vous BUVEZ, ils BOIVENT. / BEBES."
+  },
+  {
+    "id": "a1c8_05",
+    "q": "Il ___ (lire) le journal chaque matin.",
+    "a": "lit",
+    "choices": [
+      "lis",
+      "lisent",
+      "lisons"
+    ],
+    "tag": "LIRE",
+    "hint": "3ème singulier : -t",
+    "expl": "LIRE : je lis, tu lis, il LIT, nous lisons, vous lisez, ils lisent. / LEE."
+  },
+  {
+    "id": "a1c8_06",
+    "q": "Nous ___ (lire) ce roman en classe.",
+    "a": "lisons",
+    "choices": [
+      "lisez",
+      "lisent",
+      "lits"
+    ],
+    "tag": "LIRE",
+    "hint": "Première personne du pluriel",
+    "expl": "LIRE : nous LISONS. / LEEMOS."
+  },
+  {
+    "id": "a1c8_07",
+    "q": "J'___ (écrire) une lettre.",
+    "a": "écris",
+    "choices": [
+      "écrit",
+      "écrivons",
+      "écrivez"
+    ],
+    "tag": "ÉCRIRE",
+    "hint": "je/tu : -is",
+    "expl": "ÉCRIRE : j'ÉCRIS, tu écris, il écrit, nous écrivons. / ESCRIBO."
+  },
+  {
+    "id": "a1c8_08",
+    "q": "Ils ___ (écrire) beaucoup de messages.",
+    "a": "écrivent",
+    "choices": [
+      "écrisent",
+      "écrivons",
+      "écrivez"
+    ],
+    "tag": "ÉCRIRE",
+    "hint": "3ème pluriel — pas 'écrisent' !",
+    "expl": "ÉCRIRE : ils ÉCRIVENT. Attention : pas 'écrisent'. / ELLOS ESCRIBEN."
+  },
+  {
+    "id": "a1c8_09",
+    "q": "Je ___ (mettre) mes chaussures.",
+    "a": "mets",
+    "choices": [
+      "met",
+      "mettons",
+      "mettent"
+    ],
+    "tag": "METTRE",
+    "hint": "je/tu : -ets",
+    "expl": "METTRE : je METS, tu METS, il MET (sans s !), nous mettons. / PONGO."
+  },
+  {
+    "id": "a1c8_10",
+    "q": "Elle ___ (mettre) son manteau.",
+    "a": "met",
+    "choices": [
+      "mets",
+      "mettent",
+      "mettons"
+    ],
+    "tag": "METTRE",
+    "hint": "3ème singulier : sans S",
+    "expl": "METTRE : il/elle MET. (3e singulier = pas de S). / ELLA PONE."
+  },
+  {
+    "id": "a1c8_11",
+    "q": "Est-ce que tu ___ (savoir) où est la gare ?",
+    "a": "sais",
+    "choices": [
+      "sait",
+      "savons",
+      "savent"
+    ],
+    "tag": "SAVOIR",
+    "hint": "je/tu : -ais",
+    "expl": "SAVOIR : je SAIS, tu SAIS, il SAIT, nous savons. / SABES."
+  },
+  {
+    "id": "a1c8_12",
+    "q": "Elle ___ (savoir) parler trois langues.",
+    "a": "sait",
+    "choices": [
+      "sais",
+      "savons",
+      "savent"
+    ],
+    "tag": "SAVOIR",
+    "hint": "3ème singulier",
+    "expl": "SAVOIR : il/elle SAIT. / ELLA SABE."
+  },
+  {
+    "id": "a1c8_13",
+    "q": "Je ___ (connaître) ce restaurant.",
+    "a": "connais",
+    "choices": [
+      "connaît",
+      "connaissez",
+      "connaissons"
+    ],
+    "tag": "CONNAÎTRE",
+    "hint": "je/tu : -ais",
+    "expl": "CONNAÎTRE : je CONNAIS, tu CONNAIS, il CONNAÎT (accent !). / CONOZCO."
+  },
+  {
+    "id": "a1c8_14",
+    "q": "SAVOIR ou CONNAÎTRE ? — Je ___ jouer de la guitare.",
+    "a": "sais",
+    "choices": [
+      "connais",
+      "connaît",
+      "savons"
+    ],
+    "tag": "SAVOIR vs CONNAÎTRE",
+    "hint": "SAVOIR + infinitif = compétence",
+    "expl": "SAVOIR + infinitif = savoir faire qqch. Je SAIS jouer. CONNAÎTRE + nom = être familier. Je CONNAIS cette chanson. / SABER vs CONOCER."
+  },
+  {
+    "id": "a1c8_15",
+    "q": "SAVOIR ou CONNAÎTRE ? — Tu ___ Paris ?",
+    "a": "connais",
+    "choices": [
+      "sais",
+      "connaît",
+      "savons"
+    ],
+    "tag": "SAVOIR vs CONNAÎTRE",
+    "hint": "CONNAÎTRE + lieu ou personne",
+    "expl": "CONNAÎTRE + lieu/personne = être familier. Tu CONNAIS Paris ? / ¿CONOCES París?"
+  },
+  {
+    "id": "a1c8_16",
+    "q": "J'___ (ouvrir) la fenêtre.",
+    "a": "ouvre",
+    "choices": [
+      "ouvris",
+      "ouvrons",
+      "ouvrez"
+    ],
+    "tag": "OUVRIR",
+    "hint": "Conjugaison comme les verbes -ER !",
+    "expl": "OUVRIR se conjugue comme -ER : j'OUVRE, tu ouvres, il ouvre. / ABRO. Même famille : couvrir, offrir, souffrir."
+  },
+  {
+    "id": "a1c8_17",
+    "q": "Nous ___ (suivre) le cours de français.",
+    "a": "suivons",
+    "choices": [
+      "suivent",
+      "suivez",
+      "suit"
+    ],
+    "tag": "SUIVRE",
+    "hint": "Première personne du pluriel",
+    "expl": "SUIVRE : je suis, tu suis, il suit, nous SUIVONS. / SEGUIMOS. Attention : 'je suis' = suivre ET être !"
+  }
+]

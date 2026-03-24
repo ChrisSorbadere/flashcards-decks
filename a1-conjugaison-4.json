@@ -1,19 +1,223 @@
 [
-  {"id":"a1c4_01","q":"Je ___ (prendre) un café.","a":"prends","choices":["prend","prenez","prenons"],"tag":"Verbes -DRE","hint":"Prendre : je/tu finissent par -s","expl":"PRENDRE : je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. / TOMAR."},
-  {"id":"a1c4_02","q":"Est-ce que vous ___ (comprendre) ?","a":"comprenez","choices":["comprenons","comprennent","comprend"],"tag":"Verbes -DRE","hint":"Même radical que 'prendre'","expl":"COMPRENDRE : vous COMPRENEZ. / ¿ENTIENDEN?"},
-  {"id":"a1c4_03","q":"Il ___ (apprendre) le français.","a":"apprend","choices":["apprends","apprennent","apprenez"],"tag":"Verbes -DRE","hint":"3ème personne : finit par 'd'","expl":"APPRENDRE : il APPREND. / ÉL APRENDE."},
-  {"id":"a1c4_04","q":"Je ___ (mettre) mon manteau.","a":"mets","choices":["met","mettons","mettez"],"tag":"Verbes -TTRE","hint":"je/tu : -ts","expl":"METTRE : je METS, tu METS, il MET, nous METTONS, vous METTEZ, ils METTENT. / PONER."},
-  {"id":"a1c4_05","q":"Nous ___ (écrire) un message.","a":"écrivons","choices":["écrivent","écrivez","écrit"],"tag":"Verbes -IRE","hint":"Radical en 'v' au pluriel","expl":"ÉCRIRE : j'écris, nous ÉCRIVONS, ils écrivent. / ESCRIBIMOS."},
-  {"id":"a1c4_06","q":"Qu'est-ce que vous ___ (dire) ?","a":"dites","choices":["disez","disent","disons"],"tag":"Verbes irréguliers","hint":"Attention : forme en -tes","expl":"DIRE : je dis, tu dis, il dit, nous disons, vous DITES, ils disent. / DECIR."},
-  {"id":"a1c4_07","q":"Je ___ (lire) un livre.","a":"lis","choices":["lit","lisent","lisons"],"tag":"Verbes -IRE","hint":"je/tu : -s","expl":"LIRE : je LIS, tu LIS, il LIT, nous LISONS, vous LISEZ, ils LISENT. / LEER."},
-  {"id":"a1c4_08","q":"Ils ___ (partir) demain.","a":"partent","choices":["partons","partez","parti"],"tag":"Verbes -IR (3e)","hint":"3ème personne du pluriel","expl":"PARTIR : je pars, tu pars, il part, nous partons, vous partez, ils PARTENT. / ELLOS SE VAN."},
-  {"id":"a1c4_09","q":"Tu ___ (sortir) ce soir ?","a":"sors","choices":["sort","sortez","sortons"],"tag":"Verbes -IR (3e)","hint":"Comme 'partir'","expl":"SORTIR : je sors, tu SORS, il sort, nous sortons, vous sortez, ils sortent. / ¿SALES?"},
-  {"id":"a1c4_10","q":"Je ___ (voir) mes amis.","a":"vois","choices":["voit","voyons","voyez"],"tag":"Verbes irréguliers","hint":"je/tu : -s","expl":"VOIR : je VOIS, tu VOIS, il VOIT, nous VOYONS, vous VOYEZ, ils VOIENT. / VEO."},
-  {"id":"a1c4_11","q":"Nous ___ (boire) de l'eau.","a":"buvons","choices":["boivons","boivent","buvez"],"tag":"Verbes irréguliers","hint":"Radical change au pluriel : buv-","expl":"BOIRE : je bois, tu bois, il boit, nous BUVONS, vous buvez, ils boivent. / BEBEMOS."},
-  {"id":"a1c4_12","q":"Ils ___ (boire) un jus d'orange.","a":"boivent","choices":["buvons","boivez","buvez"],"tag":"Verbes irréguliers","hint":"3ème personne du pluriel","expl":"BOIRE : ils BOIVENT. / ELLOS BEBEN."},
-  {"id":"a1c4_13","q":"Je ___ (connaître) cette chanson.","a":"connais","choices":["connait","connaissez","connaissons"],"tag":"Verbes -RE","hint":"je/tu : -s","expl":"CONNAÎTRE : je CONNAIS, tu connais, il connaît, nous connaissons. / CONOCER."},
-  {"id":"a1c4_14","q":"Est-ce que tu ___ (entendre) ?","a":"entends","choices":["entend","entendez","entendons"],"tag":"Verbes -DRE","hint":"Comme 'vendre' ou 'attendre'","expl":"ENTENDRE : j'entends, tu ENTENDS, il entend. / ¿OYES?"},
-  {"id":"a1c4_15","q":"J'___ (attendre) le bus.","a":"attends","choices":["attend","attendez","attendons"],"tag":"Verbes -DRE","hint":"1ère personne du singulier","expl":"ATTENDRE : j'ATTENDS, tu attends, il attend. / ESPERO el bus."},
-  {"id":"a1c4_16","q":"Il ___ (vendre) sa console.","a":"vend","choices":["vends","vendent","vendez"],"tag":"Verbes -DRE","hint":"3ème personne du singulier","expl":"VENDRE : je vends, tu vends, il VEND. / ÉL VENDE."},
-  {"id":"a1c4_17","q":"Nous ___ (dormir) huit heures.","a":"dormons","choices":["dorment","dormez","dormit"],"tag":"Verbes -IR (3e)","hint":"Radical : dorm-","expl":"DORMIR : je dors, tu dors, il dort, nous DORMONS, ils dorment. / DORMIMOS."}
+  {
+    "id": "a1c4_01",
+    "q": "Je ___ (prendre) un café.",
+    "a": "prends",
+    "choices": [
+      "prend",
+      "prenez",
+      "prenons"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "Prendre : je/tu finissent par -s",
+    "expl": "PRENDRE : je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. / TOMAR."
+  },
+  {
+    "id": "a1c4_02",
+    "q": "Est-ce que vous ___ (comprendre) ?",
+    "a": "comprenez",
+    "choices": [
+      "comprenons",
+      "comprennent",
+      "comprend"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "Même radical que 'prendre'",
+    "expl": "COMPRENDRE : vous COMPRENEZ. / ¿ENTIENDEN?"
+  },
+  {
+    "id": "a1c4_03",
+    "q": "Il ___ (apprendre) le français.",
+    "a": "apprend",
+    "choices": [
+      "apprends",
+      "apprennent",
+      "apprenez"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "3ème personne : finit par 'd'",
+    "expl": "APPRENDRE : il APPREND. / ÉL APRENDE."
+  },
+  {
+    "id": "a1c4_04",
+    "q": "Je ___ (mettre) mon manteau.",
+    "a": "mets",
+    "choices": [
+      "met",
+      "mettons",
+      "mettez"
+    ],
+    "tag": "Verbes -TTRE",
+    "hint": "je/tu : -ts",
+    "expl": "METTRE : je METS, tu METS, il MET, nous METTONS, vous METTEZ, ils METTENT. / PONER."
+  },
+  {
+    "id": "a1c4_05",
+    "q": "Nous ___ (écrire) un message.",
+    "a": "écrivons",
+    "choices": [
+      "écrivent",
+      "écrivez",
+      "écrit"
+    ],
+    "tag": "Verbes -IRE",
+    "hint": "Radical en 'v' au pluriel",
+    "expl": "ÉCRIRE : j'écris, nous ÉCRIVONS, ils écrivent. / ESCRIBIMOS."
+  },
+  {
+    "id": "a1c4_06",
+    "q": "Qu'est-ce que vous ___ (dire) ?",
+    "a": "dites",
+    "choices": [
+      "disez",
+      "disent",
+      "disons"
+    ],
+    "tag": "Verbes irréguliers",
+    "hint": "Attention : forme en -tes",
+    "expl": "DIRE : je dis, tu dis, il dit, nous disons, vous DITES, ils disent. / DECIR."
+  },
+  {
+    "id": "a1c4_07",
+    "q": "Je ___ (lire) un livre.",
+    "a": "lis",
+    "choices": [
+      "lit",
+      "lisent",
+      "lisons"
+    ],
+    "tag": "Verbes -IRE",
+    "hint": "je/tu : -s",
+    "expl": "LIRE : je LIS, tu LIS, il LIT, nous LISONS, vous LISEZ, ils LISENT. / LEER."
+  },
+  {
+    "id": "a1c4_08",
+    "q": "Ils ___ (partir) demain.",
+    "a": "partent",
+    "choices": [
+      "partons",
+      "partez",
+      "parti"
+    ],
+    "tag": "Verbes -IR (3e)",
+    "hint": "3ème personne du pluriel",
+    "expl": "PARTIR : je pars, tu pars, il part, nous partons, vous partez, ils PARTENT. / ELLOS SE VAN."
+  },
+  {
+    "id": "a1c4_09",
+    "q": "Tu ___ (sortir) ce soir ?",
+    "a": "sors",
+    "choices": [
+      "sort",
+      "sortez",
+      "sortons"
+    ],
+    "tag": "Verbes -IR (3e)",
+    "hint": "Comme 'partir'",
+    "expl": "SORTIR : je sors, tu SORS, il sort, nous sortons, vous sortez, ils sortent. / ¿SALES?"
+  },
+  {
+    "id": "a1c4_10",
+    "q": "Je ___ (voir) mes amis.",
+    "a": "vois",
+    "choices": [
+      "voit",
+      "voyons",
+      "voyez"
+    ],
+    "tag": "Verbes irréguliers",
+    "hint": "je/tu : -s",
+    "expl": "VOIR : je VOIS, tu VOIS, il VOIT, nous VOYONS, vous VOYEZ, ils VOIENT. / VEO."
+  },
+  {
+    "id": "a1c4_11",
+    "q": "Nous ___ (boire) de l'eau.",
+    "a": "buvons",
+    "choices": [
+      "boivons",
+      "boivent",
+      "buvez"
+    ],
+    "tag": "Verbes irréguliers",
+    "hint": "Radical change au pluriel : buv-",
+    "expl": "BOIRE : je bois, tu bois, il boit, nous BUVONS, vous buvez, ils boivent. / BEBEMOS."
+  },
+  {
+    "id": "a1c4_12",
+    "q": "Ils ___ (boire) un jus d'orange.",
+    "a": "boivent",
+    "choices": [
+      "buvons",
+      "boivez",
+      "buvez"
+    ],
+    "tag": "Verbes irréguliers",
+    "hint": "3ème personne du pluriel",
+    "expl": "BOIRE : ils BOIVENT. / ELLOS BEBEN."
+  },
+  {
+    "id": "a1c4_13",
+    "q": "Je ___ (connaître) cette chanson.",
+    "a": "connais",
+    "choices": [
+      "connait",
+      "connaissez",
+      "connaissons"
+    ],
+    "tag": "Verbes -RE",
+    "hint": "je/tu : -s",
+    "expl": "CONNAÎTRE : je CONNAIS, tu connais, il connaît, nous connaissons. / CONOCER."
+  },
+  {
+    "id": "a1c4_14",
+    "q": "Est-ce que tu ___ (entendre) ?",
+    "a": "entends",
+    "choices": [
+      "entend",
+      "entendez",
+      "entendons"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "Comme 'vendre' ou 'attendre'",
+    "expl": "ENTENDRE : j'entends, tu ENTENDS, il entend. / ¿OYES?"
+  },
+  {
+    "id": "a1c4_15",
+    "q": "J'___ (attendre) le bus.",
+    "a": "attends",
+    "choices": [
+      "attend",
+      "attendez",
+      "attendons"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "1ère personne du singulier",
+    "expl": "ATTENDRE : j'ATTENDS, tu attends, il attend. / ESPERO el bus."
+  },
+  {
+    "id": "a1c4_16",
+    "q": "Il ___ (vendre) sa console.",
+    "a": "vend",
+    "choices": [
+      "vends",
+      "vendent",
+      "vendez"
+    ],
+    "tag": "Verbes -DRE",
+    "hint": "3ème personne du singulier",
+    "expl": "VENDRE : je vends, tu vends, il VEND. / ÉL VENDE."
+  },
+  {
+    "id": "a1c4_17",
+    "q": "Nous ___ (dormir) huit heures.",
+    "a": "dormons",
+    "choices": [
+      "dorment",
+      "dormez",
+      "dormit"
+    ],
+    "tag": "Verbes -IR (3e)",
+    "hint": "Radical : dorm-",
+    "expl": "DORMIR : je dors, tu dors, il dort, nous DORMONS, ils dorment. / DORMIMOS."
+  }
 ]
