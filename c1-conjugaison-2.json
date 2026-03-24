@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1c2_01",
+    "q": "Comment fonctionne 'il se trouve que' + mode ?",
+    "a": "IL SE TROUVE QUE + indicatif = il s'avère que (fait constaté)",
+    "choices": [
+      "Indicatif — fait constaté",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Constructions",
+    "hint": "IL SE TROUVE QU'IL AVAIT raison — fait avéré",
+    "expl": "IL SE TROUVE QUE + indicatif = resulta que + indicativo. Il se trouve QU'IL AVAIT raison. Exprime un fait qui s'avère réel, parfois avec nuance de surprise. Toujours indicatif."
+  },
+  {
+    "id": "c1c2_02",
+    "q": "Quelle est la nuance entre 'il semble que' et 'il me semble que' ?",
+    "a": "IL SEMBLE QUE + subjonctif (impersonnel, incertitude) / IL ME SEMBLE QUE + indicatif (opinion)",
+    "choices": [
+      "Semble que + subj (impersonnel) / me semble que + indic (opinion)",
+      "Les deux + subjonctif",
+      "Les deux + indicatif",
+      "Dépend du sujet"
+    ],
+    "tag": "Mode",
+    "hint": "IL SEMBLE QUE ce SOIT vrai / il me semble QUE C'EST vrai",
+    "expl": "IL SEMBLE QUE (impersonnel) + subjonctif : incertitude générale. Il semble QU'IL SOIT malade. IL ME SEMBLE QUE (avec COI personnel) + indicatif : opinion personnelle. Il me semble QU'IL EST malade."
+  },
+  {
+    "id": "c1c2_03",
+    "q": "Comment fonctionne le verbe PRENDRE avec que ?",
+    "a": "QU'IL PRENNE GARDE QUE + subjonctif = qu'il fasse attention que",
+    "choices": [
+      "Prendre garde que + subjonctif",
+      "Prendre que + indicatif",
+      "Prendre pour que + subjonctif",
+      "Prendre que + conditionnel"
+    ],
+    "tag": "Constructions",
+    "hint": "PRENDRE GARDE QUE + subjonctif = attention que",
+    "expl": "PRENDRE GARDE QUE + subjonctif. Prendre GARDE QUE + NE + subjonctif (avec valeur préventive). Prendre GARDE À + inf (même sujet). Constructions figées à maîtriser en C1."
+  },
+  {
+    "id": "c1c2_04",
+    "q": "Comment fonctionne 'loin que' + mode ?",
+    "a": "LOIN QUE + subjonctif = loin de ce que... (opposition forte)",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "LOIN QU'IL SOIT utile, il est nuisible",
+    "expl": "LOIN QUE + subjonctif = lejos de que + subjuntivo. LOIN QU'IL SOIT utile, il complique tout. Exprime que la réalité est à l'opposé de ce qu'on attendrait. Registre soutenu/littéraire."
+  },
+  {
+    "id": "c1c2_05",
+    "q": "Quel mode après 'dans la mesure où' ?",
+    "a": "DANS LA MESURE OÙ + indicatif = en tant que, dans la proportion où",
+    "choices": [
+      "Indicatif — fait réel proportionnel",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Mode",
+    "hint": "DANS LA MESURE OÙ c'est POSSIBLE = si c'est possible (réel)",
+    "expl": "DANS LA MESURE OÙ + indicatif. Dans la mesure où C'EST POSSIBLE, j'essaierai. Introduit une condition réelle (pas hypothétique). À distinguer de POUR AUTANT QUE + subjonctif (condition incertaine)."
+  },
+  {
+    "id": "c1c2_06",
+    "q": "Comment fonctionne le verbe CRAINDRE avec NE explétif ?",
+    "a": "Je crains QU'IL NE PARTE — NE explétif sans valeur négative (registre soutenu)",
+    "choices": [
+      "Ne explétif sans valeur négative",
+      "Ne = négation réelle",
+      "Ne obligatoire",
+      "Ne interdit après craindre"
+    ],
+    "tag": "NE explétif",
+    "hint": "JE CRAINS QU'IL NE VIENNE — ne = sans valeur négative",
+    "expl": "CRAINDRE QUE + subjonctif + NE explétif (facultatif en langue soignée). Je CRAINS QU'IL NE PARTE. Le NE n'est pas une négation — il s'efface en registre courant. Aussi après ÉVITER QUE, EMPÊCHER QUE."
+  },
+  {
+    "id": "c1c2_07",
+    "q": "Comment s'emploie 'peu s'en faut que' ?",
+    "a": "PEU S'EN FAUT QUE + subjonctif = il s'en est fallu de peu que",
+    "choices": [
+      "Subjonctif — quasi-réalisation manquée",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "PEU S'EN FAUT QU'IL TOMBE = il a failli tomber",
+    "expl": "PEU S'EN FAUT QUE + subjonctif = por poco + indicativo. PEU S'EN FAUT QU'IL SOIT tombé = casi se cayó. IL S'EN EST FALLU DE PEU QU'IL GAGNE. Exprime la quasi-réalisation. Registre soutenu."
+  },
+  {
+    "id": "c1c2_08",
+    "q": "Comment fonctionne 'tel que' dans les comparaisons de conformité ?",
+    "a": "TEL QUE + indicatif = comme, ainsi que — conformité avec la réalité",
+    "choices": [
+      "Indicatif — conformité avec la réalité",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Mode",
+    "hint": "TEL QU'IL EST = comme il est vraiment (conformité)",
+    "expl": "TEL QUE + indicatif = tal como + indicativo (conformité). Je l'accepte TEL QU'IL EST. La situation TELLE QU'ELLE SE PRÉSENTE. À distinguer de COMME SI + conditionnel (hypothèse de similitude)."
+  },
+  {
+    "id": "c1c2_09",
+    "q": "Quelle est la construction de FÉLICITER DE vs FÉLICITER POUR ?",
+    "a": "FÉLICITER DE + nom/inf = sur la cause / FÉLICITER POUR = usage plus récent mais courant",
+    "choices": [
+      "Féliciter de = traditionnel / pour = usage récent",
+      "Féliciter de toujours",
+      "Féliciter pour toujours",
+      "Les deux identiques"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "JE TE FÉLICITE DE ta réussite / pour ta réussite",
+    "expl": "Traditionnel : FÉLICITER DE + infinitif passé ou nom. Je te félicite D'AVOIR RÉUSSI. D'un bon résultat. Usage contemporain : FÉLICITER POUR également accepté. POUR ta réussite. Les deux sont corrects."
+  },
+  {
+    "id": "c1c2_10",
+    "q": "Comment fonctionne QUOI QUE + subjonctif vs QUOIQUE + subjonctif ?",
+    "a": "QUOI QUE (deux mots) = quelle que soit la chose / QUOIQUE (un mot) = bien que",
+    "choices": [
+      "Quoi que = quelle que soit la chose / quoique = bien que",
+      "Même sens",
+      "Quoi que = formel, quoique = courant",
+      "Quoi que = subjonctif, quoique = indicatif"
+    ],
+    "tag": "Orthographe/Mode",
+    "hint": "QUOI QUE tu FASSES / QUOIQUE tu SOIS fatigué",
+    "expl": "QUOI QUE (séparé) + subjonctif = quelle que soit la chose que. QUOI QUE TU FASSES. QUOIQUE (fusionné) + subjonctif = bien que, encore que. QUOIQU'IL SOIT fatigué. Distinction orthographique ET sémantique."
+  },
+  {
+    "id": "c1c2_11",
+    "q": "Comment fonctionne À MOINS QUE avec le NE explétif ?",
+    "a": "À MOINS QUE + subjonctif + NE explétif facultatif en registre soigné",
+    "choices": [
+      "Subjonctif + NE explétif facultatif",
+      "Indicatif + NE",
+      "Conditionnel",
+      "Subjonctif sans NE jamais"
+    ],
+    "tag": "NE explétif",
+    "hint": "À MOINS QU'IL NE VIENNE — NE = explétif (facultatif)",
+    "expl": "À MOINS QUE + subjonctif. NE explétif possible en registre soutenu : À MOINS QU'IL NE VIENNE. Le NE n'est pas négatif. En registre courant, NE est souvent omis : À MOINS QU'IL VIENNE. Les deux sont corrects."
+  },
+  {
+    "id": "c1c2_12",
+    "q": "Quelle est la valeur de l'imparfait dans le style indirect libre ?",
+    "a": "L'imparfait dans le SIL exprime le présent du personnage transposé dans le récit au passé",
+    "choices": [
+      "Présent du personnage transposé dans la narration passée",
+      "Imparfait habituel",
+      "Imparfait descriptif",
+      "Imparfait polite"
+    ],
+    "tag": "Style indirect libre",
+    "hint": "'Il prit son manteau. Il FAISAIT trop froid.' — SIL",
+    "expl": "STYLE INDIRECT LIBRE : l'imparfait = le présent du personnage. 'Il prit son manteau. Décidément, il FAISAIT trop froid dehors.' (FAISAIT = il pensait : 'il fait trop froid'). Flaubert en est le maître."
+  },
+  {
+    "id": "c1c2_13",
+    "q": "Comment fonctionne LE FAIT QUE avec les deux modes possibles ?",
+    "a": "LE FAIT QUE + indicatif (objectif) / LE FAIT QUE + subjonctif (émotion ou jugement)",
+    "choices": [
+      "Indicatif si objectif / subjonctif si émotion ou jugement",
+      "Toujours indicatif",
+      "Toujours subjonctif",
+      "Conditionnel possible"
+    ],
+    "tag": "Mode",
+    "hint": "LE FAIT QU'IL EST là est évident (objectif) / me dérange (émotion → subjonctif)",
+    "expl": "LE FAIT QUE + indicatif : assertion objective. LE FAIT QU'IL EST là est indéniable. LE FAIT QUE + subjonctif : émotion ou jugement. LE FAIT QU'IL SOIT là me surprend. La modalité du verbe principal détermine le mode."
+  },
+  {
+    "id": "c1c2_14",
+    "q": "Comment fonctionne 'c'est que' pour donner une explication ?",
+    "a": "C'EST QUE + indicatif = explication, justification d'un état de fait",
+    "choices": [
+      "Indicatif — explication d'un état de fait",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Constructions",
+    "hint": "Pourquoi il refuse ? C'EST QU'IL A PEUR",
+    "expl": "C'EST QUE + indicatif = explicación, es que... Pourquoi ne vient-il pas ? C'EST QU'IL EST MALADE. Donne une explication à un état constaté. Très fréquent en français oral et écrit."
+  },
+  {
+    "id": "c1c2_15",
+    "q": "Quel est l'usage de PARAÎTRE + infinitif vs SEMBLER + infinitif ?",
+    "a": "PARAÎTRE + inf = apparence extérieure / SEMBLER + inf = impression subjective",
+    "choices": [
+      "Paraître = apparence extérieure / sembler = impression subjective",
+      "Même sens",
+      "Paraître = plus certain",
+      "Sembler = plus formel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il PARAÎT SOUFFRIR (visible) / il SEMBLE SOUFFRIR (ressenti)",
+    "expl": "PARAÎTRE + infinitif : apparence extérieure observable. Il PARAÎT SOUFFRIR = parece sufrir (se le nota). SEMBLER + infinitif : impression plus intérieure ou subjective. Il SEMBLE SOUFFRIR = parece que sufre (intuición)."
+  },
+  {
+    "id": "c1c2_16",
+    "q": "Comment fonctionne l'accord du participe passé avec SE FAIRE + infinitif ?",
+    "a": "SE FAIRE + infinitif : participe passé INVARIABLE",
+    "choices": [
+      "Invariable",
+      "Accord avec le sujet",
+      "Accord avec le COD",
+      "Accord selon le sens"
+    ],
+    "tag": "Accord",
+    "hint": "Elle S'EST FAIT OPÉRER — FAIT invariable",
+    "expl": "SE FAIRE + infinitif : FAIT reste INVARIABLE. Elle S'EST FAIT OPÉRER. Elles SE SONT FAIT VOIR. Même règle que FAIRE causatif simple. FAIT ne s'accorde pas dans les constructions causatives."
+  },
+  {
+    "id": "c1c2_17",
+    "q": "Comment fonctionne l'accord du participe passé avec FAIRE FAIRE ?",
+    "a": "FAIT dans FAIRE + infinitif = toujours INVARIABLE",
+    "choices": [
+      "Fait toujours invariable",
+      "Accord avec le COD avant",
+      "Accord avec le sujet",
+      "Accord avec l'objet de l'infinitif"
+    ],
+    "tag": "Accord",
+    "hint": "La voiture QUE j'ai FAIT réparer — FAIT invariable",
+    "expl": "FAIT + infinitif (causatif) : INVARIABLE. La voiture QUE J'AI FAIT RÉPARER (pas réparée). Les enfants QUE J'AI FAIT ENTRER (pas entrés). Règle constante et claire. Comparer : LAISSÉ qui peut varier."
+  },
+  {
+    "id": "c1c2_18",
+    "q": "Quel est l'usage du subjonctif dans les relatives introduites par un pronom indéfini ?",
+    "a": "QUELQU'UN QUI SACHE, QUOI QUE CE SOIT QUI AIDE — subjonctif après indéfini",
+    "choices": [
+      "Subjonctif après antécédent indéfini (quelqu'un, quoi que ce soit)",
+      "Indicatif après indéfini",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Je cherche QUELQU'UN QUI SACHE coder",
+    "expl": "Antécédent INDÉFINI + relative → subjonctif. Je cherche quelqu'un QUI SACHE cuisiner (non encore trouvé). IL N'Y A RIEN QUI PUISSE l'aider. QUOI QUE CE SOIT QUI ARRIVE. L'incertitude ou l'inexistence → subjonctif."
+  },
+  {
+    "id": "c1c2_19",
+    "q": "Comment fonctionne le passif avec SE VOIR vs ÊTRE ?",
+    "a": "SE VOIR + infinitif = passif animé et expressif / ÊTRE + PP = passif standard",
+    "choices": [
+      "Se voir + inf = passif animé expressif / être + PP = standard",
+      "Même sens",
+      "Se voir = plus formel",
+      "Être = plus expressif"
+    ],
+    "tag": "Voix passive",
+    "hint": "Il S'EST VU REFUSER l'entrée (expressif) vs il A ÉTÉ REFUSÉ (standard)",
+    "expl": "SE VOIR + infinitif = passif avec connotation de subir, d'être l'objet malgré soi. Il S'EST VU REFUSER l'entrée = le refus lui a été imposé. ÊTRE + PP = passif neutre. SE VOIR = plus expressif et impacté."
+  },
+  {
+    "id": "c1c2_20",
+    "q": "Comment fonctionne ENTENDRE DIRE QUE vs ENTENDRE QUE ?",
+    "a": "ENTENDRE DIRE QUE = avoir entendu / ENTENDRE QUE = exiger que (+ subjonctif)",
+    "choices": [
+      "Entendre dire que = avoir entendu / entendre que = exiger + subjonctif",
+      "Même sens",
+      "Les deux = entendre",
+      "Entendre que = information"
+    ],
+    "tag": "Polysémie verbale",
+    "hint": "J'ENTENDS DIRE QU'il démissionne / j'ENTENDS QU'il démissionne (exige)",
+    "expl": "ENTENDRE DIRE QUE + indicatif = haber oído que. J'ENTENDS DIRE QU'IL DÉMISSIONNE. ENTENDRE QUE + subjonctif = exiger que. J'ENTENDS QU'IL DÉMISSIONNE = j'exige qu'il démissionne. Deux sens radicalement différents."
+  },
+  {
+    "id": "c1c2_21",
+    "q": "Comment fonctionne PRÉTENDRE + infinitif vs PRÉTENDRE QUE ?",
+    "a": "PRÉTENDRE + inf = affirmer être / PRÉTENDRE QUE + indicatif = affirmer que (sans preuve)",
+    "choices": [
+      "Prétendre + inf = se dire être / prétendre que + indicatif = affirmer",
+      "Les deux identiques",
+      "Prétendre + subjonctif",
+      "Prétendre + conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il PRÉTEND ÊTRE expert / il PRÉTEND QUE c'est vrai",
+    "expl": "PRÉTENDRE + inf (même sujet) : il PRÉTEND ÊTRE médecin = se dice médico. PRÉTENDRE QUE + indicatif : il PRÉTEND QUE c'est vrai = afirma (sin pruebas). La connotation de doute est dans PRÉTENDRE lui-même."
+  },
+  {
+    "id": "c1c2_22",
+    "q": "Comment fonctionne le gérondif avec EN MÊME TEMPS QUE ?",
+    "a": "EN MÊME TEMPS QUE peut être remplacé par TOUT EN + gérondif pour la simultanéité",
+    "choices": [
+      "Tout en + gérondif = simultanéité avec nuance d'opposition ou de concession",
+      "En même temps que toujours",
+      "Gérondif seul sans tout",
+      "Participe présent"
+    ],
+    "tag": "Gérondif",
+    "hint": "TOUT EN TRAVAILLANT, il écoutait = simultanéité + légère opposition",
+    "expl": "TOUT EN + gérondif = simultanéité avec nuance de concession ou d'opposition. TOUT EN ADMETTANT sa valeur, je critique sa méthode. Plus précis que EN + gérondif seul qui exprime le moyen ou la simultanéité pure."
+  },
+  {
+    "id": "c1c2_23",
+    "q": "Quelle est la construction de IL Y VA DE + nom ?",
+    "a": "IL Y VA DE SA VIE = sa vie est en jeu — construction impersonnelle figée",
+    "choices": [
+      "Il y va de = c'est en jeu, c'est une question de",
+      "Il y a de = quantité",
+      "Il va de = progresser",
+      "Il vient de = récent"
+    ],
+    "tag": "Constructions figées",
+    "hint": "IL Y VA DE l'honneur de la France = l'honneur est en jeu",
+    "expl": "IL Y VA DE + nom = estar en juego. Il Y VA DE SA VIE = su vida está en juego. Il Y VA DE NOTRE CRÉDIBILITÉ. Construction impersonnelle figée très utile en registre soutenu."
+  },
+  {
+    "id": "c1c2_24",
+    "q": "Comment fonctionne le verbe MÉRITER + subjonctif ou indicatif ?",
+    "a": "IL MÉRITE QU'ON L'AIDE + subjonctif / IL MÉRITE D'ÊTRE aidé + infinitif passif",
+    "choices": [
+      "Mériter que + subjonctif / mériter de + infinitif passif",
+      "Mériter que + indicatif",
+      "Mériter + conditionnel",
+      "Mériter de + subjonctif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il MÉRITE QU'ON L'AIDE / il MÉRITE D'ÊTRE aidé",
+    "expl": "MÉRITER QUE + subjonctif (sujets différents). Il MÉRITE QU'ON L'AIDE. MÉRITER DE + infinitif (passif si même sujet). Il MÉRITE D'ÊTRE RÉCOMPENSÉ. Deux constructions pour le même sens selon les sujets."
+  },
+  {
+    "id": "c1c2_25",
+    "q": "Quelle est la construction de REPROCHER À QUELQU'UN DE vs REPROCHER QUE ?",
+    "a": "REPROCHER À QQN DE + infinitif / REPROCHER À QQN QUE + subjonctif",
+    "choices": [
+      "Reprocher de + inf (même sujet) / reprocher que + subjonctif",
+      "Reprocher + indicatif",
+      "Reprocher de + subjonctif",
+      "Reprocher que + infinitif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je lui REPROCHE D'AVOIR menti / Je lui reproche QU'IL AIT menti",
+    "expl": "REPROCHER À QQN DE + infinitif passé (même sujet de l'action reprochée). Je lui REPROCHE D'AVOIR MENTI. REPROCHER QUE + subjonctif (action reprochée à un autre sujet). Je lui REPROCHE QU'IL AIT MENTI."
+  }
+]

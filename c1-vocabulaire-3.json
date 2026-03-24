@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1v3_01",
+    "q": "Quelle nuance entre 'vraisemblable' et 'plausible' ?",
+    "a": "VRAISEMBLABLE = qui ressemble à la vérité / PLAUSIBLE = qui mérite d'être cru, approuvé",
+    "choices": [
+      "Vraisemblable = ressemble à la vérité / plausible = mérite d'être cru",
+      "Synonymes exacts",
+      "Vraisemblable = vrai, plausible = douteux",
+      "Vraisemblable = courant, plausible = soutenu"
+    ],
+    "tag": "Nuances",
+    "hint": "Une excuse PLAUSIBLE = qui peut être crue / une histoire VRAISEMBLABLE = crédible",
+    "expl": "VRAISEMBLABLE = verosímil (ressemble à la vérité). PLAUSIBLE = plausible (digne d'être approuvé, accepté). Nuance fine : un mensonge peut être vraisemblable mais non plausible si on ne veut pas y croire."
+  },
+  {
+    "id": "c1v3_02",
+    "q": "Quelle nuance entre 'éventuel' et 'possible' ?",
+    "a": "ÉVENTUEL = qui peut se produire selon les circonstances / POSSIBLE = qui n'est pas exclu",
+    "choices": [
+      "Éventuel = selon circonstances / possible = non exclu",
+      "Synonymes",
+      "Éventuel = certain, possible = incertain",
+      "Éventuel = formel, possible = courant"
+    ],
+    "tag": "Nuances",
+    "hint": "Un ÉVENTUEL retard = si les circonstances le provoquent",
+    "expl": "ÉVENTUEL = eventual, contingente (dépend des circonstances). POSSIBLE = posible (non exclu en théorie). Un retard ÉVENTUEL = si quelque chose se passe. Un retard POSSIBLE = ça pourrait arriver en général."
+  },
+  {
+    "id": "c1v3_03",
+    "q": "Quelle nuance entre 'conjoncture' et 'contexte' ?",
+    "a": "CONJONCTURE = situation économique du moment / CONTEXTE = ensemble des circonstances générales",
+    "choices": [
+      "Conjoncture = écon. du moment / contexte = circonstances générales",
+      "Synonymes",
+      "Conjoncture = passé, contexte = présent",
+      "Conjoncture = positif, contexte = neutre"
+    ],
+    "tag": "Nuances",
+    "hint": "La CONJONCTURE économique difficile / dans le CONTEXTE mondial actuel",
+    "expl": "CONJONCTURE = coyuntura (situation économique à court terme, fluctuante). CONTEXTE = contexto (ensemble stable des circonstances). DANS LA CONJONCTURE ACTUELLE vs DANS LE CONTEXTE DE LA MONDIALISATION."
+  },
+  {
+    "id": "c1v3_04",
+    "q": "Quelle nuance entre 'acérer' et 'acéré' ?",
+    "a": "ACÉRÉ = tranchant, mordant (au sens figuré) / aiguisé, pointu (propre)",
+    "choices": [
+      "Tranchant et mordant (figuré) / pointu et aiguisé (propre)",
+      "Synonyme de 'aggravé'",
+      "Relatif à l'acier",
+      "Relatif à l'acrimonie"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Une critique ACÉRÉE = tranchante et blessante",
+    "expl": "ACÉRÉ = afilado, agudo. Propre : bord ACÉRÉ = borde afilado. Figuré : critique ACÉRÉE = crítica mordaz. Regard ACÉRÉ = mirada penetrante. Synonymes : tranchant, mordant, acerbe, percutant."
+  },
+  {
+    "id": "c1v3_05",
+    "q": "Quelle nuance entre 'inepte' et 'inapte' ?",
+    "a": "INEPTE = stupide, absurde / INAPTE = qui n'a pas les capacités requises",
+    "choices": [
+      "Inepte = stupide absurde / inapte = sans capacités requises",
+      "Synonymes",
+      "Inepte = physique, inapte = intellectuel",
+      "Inepte = courant, inapte = médical"
+    ],
+    "tag": "Paronymes",
+    "hint": "Un discours INEPTE = stupide / INAPTE au service = sans capacité physique",
+    "expl": "INEPTE = inepto (sin sentido, absurdo). Un raisonnement INEPTE. INAPTE = no apto (faltan las capacidades requeridas). INAPTE AU SERVICE MILITAIRE = no apto para el servicio. Paronymes à bien distinguer."
+  },
+  {
+    "id": "c1v3_06",
+    "q": "Quelle nuance entre 'circonspect' et 'scrupuleux' ?",
+    "a": "CIRCONSPECT = prudent dans ses actions / SCRUPULEUX = attentif aux règles morales et professionnelles",
+    "choices": [
+      "Circonspect = prudent dans l'action / scrupuleux = attentif aux règles morales",
+      "Synonymes",
+      "Circonspect = moral, scrupuleux = pratique",
+      "Même registre"
+    ],
+    "tag": "Nuances",
+    "hint": "CIRCONSPECT = prudent avant d'agir / SCRUPULEUX = respectueux des règles",
+    "expl": "CIRCONSPECT = circunspecto (prudente, cuidadoso antes de actuar). SCRUPULEUX = escrupuloso (que respeta las reglas morales o profesionales). Un AVOCAT SCRUPULEUX respecte toujours la déontologie."
+  },
+  {
+    "id": "c1v3_07",
+    "q": "Quelle nuance entre 'équivoque' et 'ambigu' ?",
+    "a": "ÉQUIVOQUE = qui peut être interprété de deux façons (souvent mal) / AMBIGU = sens incertain et multiple",
+    "choices": [
+      "Équivoque = deux sens dont un mauvais / ambigu = sens multiple incertain",
+      "Synonymes exacts",
+      "Équivoque = féminin, ambigu = masculin",
+      "Équivoque = positif, ambigu = négatif"
+    ],
+    "tag": "Nuances",
+    "hint": "Une situation ÉQUIVOQUE = suspecte / une réponse AMBIGUË = peu claire",
+    "expl": "ÉQUIVOQUE = equívoco (generalmente con connotación negativa, sospechosa). Situation ÉQUIVOQUE = sospechosa. AMBIGU = ambiguo (several interpretations, not necessarily negative). Réponse AMBIGUË = vague, peu claire."
+  },
+  {
+    "id": "c1v3_08",
+    "q": "Que signifie 'prolepse' au sens rhétorique ?",
+    "a": "Anticiper une objection pour la réfuter d'avance",
+    "choices": [
+      "Anticiper une objection pour la réfuter",
+      "Revenir en arrière",
+      "Répéter une idée",
+      "Changer de sujet"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Vous me direz peut-être... mais je réponds que...' = prolepse",
+    "expl": "PROLEPSE (rhétorique) = prolepsis. Anticiper l'objection de l'adversaire pour la réfuter. 'On m'objectera peut-être que... mais...' Aussi en narratologie : anachronie prospective (regarder vers le futur)."
+  },
+  {
+    "id": "c1v3_09",
+    "q": "Que signifie 'gnomique' dans son usage littéraire ?",
+    "a": "Qui exprime des vérités générales, des maximes, des sentences",
+    "choices": [
+      "Qui exprime des vérités générales ou des maximes",
+      "Qui critique",
+      "Qui raconte",
+      "Qui décrit"
+    ],
+    "tag": "Littérature",
+    "hint": "Le STYLE GNOMIQUE de La Rochefoucauld : maximes générales",
+    "expl": "GNOMIQUE = gnómico. Qui exprime des vérités générales, des maximes. Style GNOMIQUE = style des maximes et sentences. La Rochefoucauld, Pascal, La Fontaine ont un style gnomique. PRÉSENT GNOMIQUE = présent des vérités."
+  },
+  {
+    "id": "c1v3_10",
+    "q": "Que signifie 'apophtegme' ?",
+    "a": "Sentence courte et frappante, dit mémorable attribué à un grand personnage",
+    "choices": [
+      "Sentence courte frappante d'un grand personnage",
+      "Long discours",
+      "Citation anonyme",
+      "Proverbe populaire"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Les APOPHTEGMES de Napoléon : ses mots mémorables",
+    "expl": "APOPHTEGME = apotegma. Sentence mémorable, bref dit attribué à un grand personnage. 'Je suis venu, j'ai vu, j'ai vaincu' (César) = apophtegme. Synonymes : mot, sentence, maxime, bon mot."
+  },
+  {
+    "id": "c1v3_11",
+    "q": "Que signifie 'consubstantiel' au sens élargi ?",
+    "a": "Qui partage la même substance/nature, inséparablement lié",
+    "choices": [
+      "Inséparablement lié de même nature essentielle",
+      "Accessoirement lié",
+      "Associé temporairement",
+      "Similaire en apparence"
+    ],
+    "tag": "Philosophie",
+    "hint": "La liberté est CONSUBSTANTIELLE à la dignité humaine",
+    "expl": "CONSUBSTANTIEL = consustancial. Origine théologique (Nicée : le Fils est consubstantiel au Père). Élargi : qui partage la même essence, inséparable. La démocratie est CONSUBSTANTIELLE au pluralisme."
+  },
+  {
+    "id": "c1v3_12",
+    "q": "Quelle nuance entre 'péricliter' et 'décliner' ?",
+    "a": "PÉRICLITER = être en grand danger de disparaître / DÉCLINER = diminuer progressivement",
+    "choices": [
+      "Péricliter = en danger de mort / décliner = diminuer progressivement",
+      "Synonymes",
+      "Péricliter = positif, décliner = négatif",
+      "Péricliter = économique seul"
+    ],
+    "tag": "Verbes",
+    "hint": "Une entreprise qui PÉRICLITE = sur le point de disparaître",
+    "expl": "PÉRICLITER = periclitar, estar en peligro de desaparecer. Son empire PÉRICLITE. DÉCLINER = declinar, disminuir gradualmente. Sa santé DÉCLINE. Péricliter = danger plus imminent et total que décliner."
+  },
+  {
+    "id": "c1v3_13",
+    "q": "Que signifie 'ontogenèse' vs 'phylogenèse' ?",
+    "a": "ONTOGENÈSE = développement de l'individu / PHYLOGENÈSE = évolution de l'espèce",
+    "choices": [
+      "Ontogenèse = individu, phylogenèse = espèce",
+      "Même chose",
+      "Ontogenèse = social, phylogenèse = biologique",
+      "Termes de linguistique"
+    ],
+    "tag": "Sciences",
+    "hint": "HAECKEL : 'l'ontogenèse récapitule la phylogenèse'",
+    "expl": "ONTOGENÈSE = ontogénesis (desarrollo del individuo). PHYLOGENÈSE = filogénesis (evolución de la especie). HAECKEL : l'individu en se développant récapitule l'évolution de son espèce (théorie contestée)."
+  },
+  {
+    "id": "c1v3_14",
+    "q": "Que signifie 'oxymoron' vs 'antithèse' ?",
+    "a": "OXYMORE = deux termes contradictoires FUSIONNÉS / ANTITHÈSE = deux idées opposées JUXTAPOSÉES",
+    "choices": [
+      "Oxymore = contradictoires fusionnés / antithèse = opposés juxtaposés",
+      "Même figure",
+      "Oxymore = phonétique, antithèse = logique",
+      "Oxymore = poésie seule"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Obscure clarté' (oxymore) vs 'lumière/obscurité' (antithèse)",
+    "expl": "OXYMORE = oxímoron : contradictoires réunis en un groupe. 'Obscure clarté.' ANTITHÈSE = antítesis : opposés mis en parallèle dans des propositions distinctes. 'Lumière ici, obscurité là-bas.' Différence de fusion vs juxtaposition."
+  },
+  {
+    "id": "c1v3_15",
+    "q": "Que signifie 'hiérarchiser' vs 'classer' ?",
+    "a": "HIÉRARCHISER = ordonner selon l'importance / CLASSER = ordonner selon un critère",
+    "choices": [
+      "Hiérarchiser = selon l'importance / classer = selon un critère quelconque",
+      "Synonymes",
+      "Hiérarchiser = vertical, classer = horizontal",
+      "Hiérarchiser = subjectif seul"
+    ],
+    "tag": "Nuances",
+    "hint": "HIÉRARCHISER ses priorités = les mettre en ordre d'importance",
+    "expl": "HIÉRARCHISER = establecer una jerarquía de importancia. CLASSER = clasificar (según cualquier criterio). HIÉRARCHISER implique un ordre d'importance ou de priorité. CLASSER peut être alphabétique, chronologique, thématique."
+  },
+  {
+    "id": "c1v3_16",
+    "q": "Que signifie 'catégoriel' vs 'catégorique' ?",
+    "a": "CATÉGORIEL = relatif à une catégorie professionnelle ou sociale / CATÉGORIQUE = sans nuance, absolu",
+    "choices": [
+      "Catégoriel = relatif à une catégorie / catégorique = absolu sans nuance",
+      "Synonymes",
+      "Catégoriel = positif, catégorique = négatif",
+      "Même famille sémantique seulement"
+    ],
+    "tag": "Paronymes",
+    "hint": "Revendications CATÉGORIELLES (d'une profession) vs refus CATÉGORIQUE",
+    "expl": "CATÉGORIEL = gremial, relativo a una categoría. Revendications CATÉGORIELLES = revendicaciones gremiales. CATÉGORIQUE = categórico, absoluto. Un refus CATÉGORIQUE. Paronymes mais sens très différents."
+  },
+  {
+    "id": "c1v3_17",
+    "q": "Que signifie 'indigent' au sens figuré ?",
+    "a": "Pauvre en idées, en contenu, insuffisant intellectuellement",
+    "choices": [
+      "Pauvre en idées et en contenu",
+      "Qui manque d'argent seulement",
+      "Illetré",
+      "Sans formation"
+    ],
+    "tag": "Registre soutenu",
+    "hint": "Un raisonnement INDIGENT = pauvre, sans profondeur",
+    "expl": "INDIGENT (propre) = indigente (sin recursos). INDIGENT (figuré) = pobre de contenido, insuficiente. Un argumentaire INDIGENT. Une démonstration INDIGENTE. Synonymes (figuré) : pauvre, inconsistant, indigent."
+  },
+  {
+    "id": "c1v3_18",
+    "q": "Que signifie 'irénique' vs 'polémique' ?",
+    "a": "IRÉNIQUE = qui cherche la paix et l'accord / POLÉMIQUE = qui cherche la controverse",
+    "choices": [
+      "Irénique = cherche la paix / polémique = cherche la controverse",
+      "Synonymes",
+      "Irénique = religieux seul",
+      "Polémique = négatif seul"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Un discours IRÉNIQUE apaise / un discours POLÉMIQUE agite",
+    "expl": "IRÉNIQUE = irénico (que busca la paz y la reconciliación). POLÉMIQUE = polémico (que busca la controversia o el debate). Deux postures rhétoriques opposées. Un œcuménisme IRÉNIQUE ≠ un discours POLÉMIQUE."
+  },
+  {
+    "id": "c1v3_19",
+    "q": "Que signifie 'gnose' et 'gnosticisme' ?",
+    "a": "GNOSE = connaissance spirituelle supérieure / GNOSTICISME = doctrine ésotérique des premiers siècles chrétiens",
+    "choices": [
+      "Gnose = connaissance spirituelle supérieure / gnosticisme = doctrine ésotérique",
+      "Gnose = science / gnosticisme = agnosticisme",
+      "Termes modernes",
+      "Relatifs à la physique"
+    ],
+    "tag": "Philosophie/Religion",
+    "hint": "La GNOSE = connaissance secrète des initiés",
+    "expl": "GNOSE = gnosis (conocimiento espiritual superior). GNOSTICISME = corriente esotérica de los primeros siglos. Au sens élargi : toute connaissance ésotérique réservée aux initiés. GNOSTIQUE = relatif à la gnose."
+  },
+  {
+    "id": "c1v3_20",
+    "q": "Que signifie 'délétère' dans son sens élargi vs sens propre ?",
+    "a": "PROPRE : toxique, mortel (gaz) / ÉLARGI : nuisible moralement ou socialement",
+    "choices": [
+      "Propre = gaz toxique / élargi = nuisible moralement",
+      "Même sens",
+      "Propre = positif, élargi = négatif",
+      "Délétère = médical seul"
+    ],
+    "tag": "Polysémie",
+    "hint": "Atmosphère DÉLÉTÈRE = toxique ou moralement néfaste",
+    "expl": "DÉLÉTÈRE (propre) = gaz deletéreo, tóxico. (élargi) = moralmente nocivo, corrosivo. Une atmosphère DÉLÉTÈRE = un ambiente tóxico (moral). Des effets DÉLÉTÈRES sur la société. Glissement du sens médical au sens moral."
+  },
+  {
+    "id": "c1v3_21",
+    "q": "Que signifie 'épigone' ?",
+    "a": "Successeur médiocre qui imite sans dépasser un modèle illustre",
+    "choices": [
+      "Successeur médiocre qui imite sans dépasser",
+      "Successeur brillant",
+      "Précurseur",
+      "Rival"
+    ],
+    "tag": "Littérature/Général",
+    "hint": "Les ÉPIGONES de Sartre = ceux qui l'imitent sans le valoir",
+    "expl": "ÉPIGONE = epígono. Successeur ou imitateur qui n'atteint pas la valeur de son modèle. Les ÉPIGONES du romantisme. Péjoratif : imitateur sans originalité. Origine : les Épigones = fils des Sept contre Thèbes."
+  },
+  {
+    "id": "c1v3_22",
+    "q": "Quelle nuance entre 'décrépit' et 'décrépit' (âge) vs 'délabré' (objet) ?",
+    "a": "DÉCRÉPIT = très vieux et affaibli (personne) / DÉLABRÉ = en mauvais état (bâtiment)",
+    "choices": [
+      "Décrépit = personne très vieille / délabré = bâtiment en mauvais état",
+      "Synonymes",
+      "Décrépit = bâtiment, délabré = personne",
+      "Les deux pour tout"
+    ],
+    "tag": "Nuances",
+    "hint": "Un vieillard DÉCRÉPIT / une maison DÉLABRÉE",
+    "expl": "DÉCRÉPIT = decrépito (persona muy anciana y debilitada). DÉLABRÉ = destartalado, en ruinas (bâtiment, infrastructure). Un vieillard DÉCRÉPIT. Un immeuble DÉLABRÉ. Utilisation préférentielle selon l'animé/inanimé."
+  },
+  {
+    "id": "c1v3_23",
+    "q": "Que signifie 'asthénie' au sens figuré ?",
+    "a": "Manque d'énergie, faiblesse généralisée (propre : physique, figuré : moral ou intellectuel)",
+    "choices": [
+      "Manque d'énergie généralisé",
+      "Excès d'énergie",
+      "Maladie précise",
+      "Force athlétique"
+    ],
+    "tag": "Médecine/Général",
+    "hint": "L'ASTHÉNIE intellectuelle d'une civilisation",
+    "expl": "ASTHÉNIE (médecine) = astenia (fatiga generalizada). ASTHÉNIE (figuré) = debilidad moral o intelectual. L'ASTHÉNIE démocratique. Synonymes (figuré) : langueur, torpeur, apathie, faiblesse. Antonyme : dynamisme."
+  },
+  {
+    "id": "c1v3_24",
+    "q": "Que signifie 'séminal' ?",
+    "a": "Qui est à l'origine, fondateur, qui a fécondé les développements ultérieurs",
+    "choices": [
+      "À l'origine fécondateur des développements ultérieurs",
+      "Relatif aux semences uniquement",
+      "Récent et innovant",
+      "Controversé"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Une œuvre SÉMINALE = qui a tout engendré après elle",
+    "expl": "SÉMINAL = seminal (que fecunda, que da origen a). Un article SÉMINAL = artículo fundacional. Une découverte SÉMINALE. Qui a influencé et engendré des développements ultérieurs. Proche de FONDATEUR, MATRICIEL."
+  },
+  {
+    "id": "c1v3_25",
+    "q": "Que signifie 'téléologique' vs 'déontologique' en éthique ?",
+    "a": "TÉLÉOLOGIQUE = juge les actes selon leurs conséquences / DÉONTOLOGIQUE = selon les règles",
+    "choices": [
+      "Téléologique = par les conséquences / déontologique = par les règles",
+      "Même chose",
+      "Téléologique = religieux, déontologique = laïque",
+      "Inverses de ce qui est dit"
+    ],
+    "tag": "Philosophie",
+    "hint": "KANT = déontologique / MILL = téléologique (utilitarisme)",
+    "expl": "ÉTHIQUE TÉLÉOLOGIQUE = juge les actes selon leurs fins (ex: utilitarisme de Mill). ÉTHIQUE DÉONTOLOGIQUE = juge selon les règles/devoirs (Kant : agir selon le devoir). Deux grandes familles d'éthique normative."
+  }
+]

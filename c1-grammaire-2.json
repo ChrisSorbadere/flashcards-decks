@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1g2_01",
+    "q": "Comment fonctionne le 'style indirect libre' au niveau de l'énonciation ?",
+    "a": "Fusion des voix du narrateur et du personnage, sans marqueur de discours rapporté",
+    "choices": [
+      "Fusion voix narrateur/personnage sans marqueur",
+      "Discours direct sans guillemets",
+      "Discours indirect normal",
+      "Monologue du narrateur"
+    ],
+    "tag": "SIL",
+    "hint": "'Décidément, il était trop bête' — qui parle ? narr. ou perso. ?",
+    "expl": "SIL = estilo indirecto libre. Voix ambiguë : le narrateur et le personnage se fondent. Pas de guillemets, pas de 'il pensait que'. Le lecteur infère. 'Décidément, il était TROP BÊTE' (le personnage pense cela en lui-même)."
+  },
+  {
+    "id": "c1g2_02",
+    "q": "Comment fonctionne le 'discours direct libre' ?",
+    "a": "Discours du personnage sans marqueur introducteur ni guillemets — encore plus immédiat que le SIL",
+    "choices": [
+      "Sans marqueur ni guillemets — immédiat",
+      "Discours direct avec guillemets",
+      "Discours indirect normal",
+      "Monologue intérieur avec guillemets"
+    ],
+    "tag": "Discours rapporté",
+    "hint": "'Elle prit son manteau. Je pars, dit-il.' — sans verbe introducteur",
+    "expl": "DISCOURS DIRECT LIBRE = sin verbo introductorio ni comillas. Plus immédiat que le discours direct normal. 'Elle prit son manteau. Voilà, c'est fini.' (qui parle ? personnage ou narrateur ?). Effet de rupture."
+  },
+  {
+    "id": "c1g2_03",
+    "q": "Qu'est-ce que la 'focalisation interne' selon Genette ?",
+    "a": "Le récit est filtré par la conscience d'un personnage (on ne sait que ce qu'il sait)",
+    "choices": [
+      "Récit filtré par la conscience d'un personnage",
+      "Narrateur omniscient",
+      "Narrateur extérieur",
+      "Point de vue objectif"
+    ],
+    "tag": "Narratologie",
+    "hint": "Focalisation INTERNE : on suit les perceptions d'un personnage",
+    "expl": "FOCALISATION INTERNE (Genette) = focalización interna. On ne sait que ce que le personnage sait/perçoit. EXTERNE = observateur sans accès à la pensée. ZÉRO = omniscient. Question : QUI VOIT ? (≠ qui raconte ?)"
+  },
+  {
+    "id": "c1g2_04",
+    "q": "Comment fonctionne l'isotopie pour la cohérence textuelle ?",
+    "a": "Répétition d'un même champ sémantique qui assure la cohérence référentielle",
+    "choices": [
+      "Répétition d'un champ sémantique assurant la cohérence",
+      "Répétition de mots identiques",
+      "Cohésion grammaticale",
+      "Connecteurs logiques"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "ISOTOPIE de la lumière : clarté, soleil, éclat, brillant... dans un même texte",
+    "expl": "ISOTOPIE (Greimas) = isotopía. Récurrence de mèmes (traits sémantiques) qui assure la cohérence. Isotopie de la MER : flots, vagues, tempête, horizon, sel... Permet d'identifier le thème dominant d'un texte."
+  },
+  {
+    "id": "c1g2_05",
+    "q": "Qu'est-ce que la 'cohésion lexicale' dans un texte ?",
+    "a": "Liens lexicaux entre les mots d'un texte : synonymes, hyponymes, réseaux sémantiques",
+    "choices": [
+      "Liens lexicaux : synonymes, hyponymes, réseaux sémantiques",
+      "Cohésion grammaticale seule",
+      "Ponctuation",
+      "Connecteurs logiques"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "Chien → animal → canin → fidèle compagnon = cohésion lexicale",
+    "expl": "COHÉSION LEXICALE = cohesión léxica. SYNONYMES : voiture → automobile. HYPONYMES/HYPERONYMES : chien → animal. COLLOCATIONS. RÉPÉTITIONS LEXICALES. RÉSEAUX SÉMANTIQUES. Garantit l'unité thématique du texte."
+  },
+  {
+    "id": "c1g2_06",
+    "q": "Qu'est-ce que la 'polysémie' vs l''homonymie' ?",
+    "a": "POLYSÉMIE = un mot avec plusieurs sens liés / HOMONYMIE = mots différents avec même forme",
+    "choices": [
+      "Polysémie = sens liés d'un mot / homonymie = mots différents de même forme",
+      "Même chose",
+      "Polysémie = oral, homonymie = écrit",
+      "Polysémie = récent, homonymie = historique"
+    ],
+    "tag": "Sémantique",
+    "hint": "PORC (animal/viande) = polysémie / PORC/PORT = homonymie",
+    "expl": "POLYSÉMIE = polisemia. Un seul mot avec plusieurs sens reliés (par métaphore, extension). TÊTE : tête humaine, tête du lit, tête d'une armée. HOMONYMIE = homonimia. Mots distincts de même son. VOL (avion) / VOL (crime)."
+  },
+  {
+    "id": "c1g2_07",
+    "q": "Qu'est-ce que la 'synecdoque' généralisante vs particularisante ?",
+    "a": "GÉNÉRALISANTE = le tout pour la partie / PARTICULARISANTE = la partie pour le tout",
+    "choices": [
+      "Généralisante = tout pour partie / particularisante = partie pour tout",
+      "Même chose",
+      "Généralisante = concret, particularisante = abstrait",
+      "Généralisante = positive, particularisante = négative"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Les mortels' (= les hommes) GÉNÉRALISANTE / 'les voiles' (= les bateaux) PARTICULARISANTE",
+    "expl": "SYNECDOQUE GÉNÉRALISANTE : 'les MORTELS' = les hommes (espèce → classe plus large). SYNECDOQUE PARTICULARISANTE : 'LES VOILES à l'horizon' = les bateaux (partie → tout). Forme spéciale de métonymie."
+  },
+  {
+    "id": "c1g2_08",
+    "q": "Qu'est-ce que la 'prosopopée' ?",
+    "a": "Figure qui fait parler des absents, des morts, des êtres inanimés ou des abstractions",
+    "choices": [
+      "Faire parler des absents, morts, inanimés ou abstractions",
+      "Personnification seule",
+      "Citation imaginaire",
+      "Dialogue hypothétique"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'La France nous parle...' / 'Liberté, que de crimes on commet en ton nom !'",
+    "expl": "PROSOPOPÉE = prosopopeya. Faire parler des absents, des morts, des entités abstraites. 'Liberté, QUE DE CRIMES...' (Roland de La Platière). Différent de la personnification (attribuer des traits humains sans faire parler)."
+  },
+  {
+    "id": "c1g2_09",
+    "q": "Qu'est-ce que la 'métalepse' narrative ?",
+    "a": "Transgression du seuil narratif : l'auteur entre dans l'histoire ou les personnages sortent",
+    "choices": [
+      "Transgression du seuil narratif entre auteur et fiction",
+      "Mise en abyme",
+      "Changement de narrateur",
+      "Retour en arrière"
+    ],
+    "tag": "Narratologie",
+    "hint": "Quand l'auteur s'adresse à ses propres personnages = métalepse",
+    "expl": "MÉTALEPSE (Genette) = metalepsis. Transgression des niveaux narratifs. L'auteur entre dans l'histoire : 'Laissons reposer notre héros...' Le personnage sort de l'histoire : WOODY ALLEN dans La Rose pourpre du Caire."
+  },
+  {
+    "id": "c1g2_10",
+    "q": "Qu'est-ce que la 'paraphrase définitoire' ?",
+    "a": "Définition d'un mot par une reformulation de son sens : X = 'c'est-à-dire Y'",
+    "choices": [
+      "Définition par reformulation du sens",
+      "Citation d'un dictionnaire",
+      "Synonyme simple",
+      "Exemple illustratif"
+    ],
+    "tag": "Lexicologie",
+    "hint": "LIBERTÉ = 'c'est-à-dire la faculté d'agir selon sa propre volonté'",
+    "expl": "PARAPHRASE DÉFINITOIRE = paráfrasis definitoria. X = Y : où Y explicite le contenu sémantique de X. 'Le LABYRINTHE, c'est-à-dire un réseau de passages dont on ne peut sortir sans guide.' Outil lexicographique fondamental."
+  },
+  {
+    "id": "c1g2_11",
+    "q": "Comment fonctionne le 'discours représenté' vs le 'discours narrativisé' ?",
+    "a": "REPRÉSENTÉ = cité directement ou indirectement / NARRATIVISÉ = résumé comme simple fait",
+    "choices": [
+      "Représenté = cité (direct ou indirect) / narrativisé = résumé comme fait",
+      "Même chose",
+      "Représenté = guillemets, narrativisé = sans",
+      "Représenté = présent, narrativisé = passé"
+    ],
+    "tag": "Discours rapporté",
+    "hint": "'Il a parlé' (narrativisé) vs 'Il a dit bonjour' (représenté)",
+    "expl": "DISCOURS NARRATIVISÉ : simple mention. 'Ils ont parlé pendant deux heures.' DISCOURS REPRÉSENTÉ : cité (direct ou indirect). 'Il a dit qu'il partirait.' Continuum de l'effacement à la représentation fidèle."
+  },
+  {
+    "id": "c1g2_12",
+    "q": "Qu'est-ce que la 'cataphore' vs l''anaphore' discursive ?",
+    "a": "ANAPHORE = renvoie à ce qui précède / CATAPHORE = renvoie à ce qui suit",
+    "choices": [
+      "Anaphore = précède / cataphore = suit",
+      "Même chose",
+      "Anaphore = pronom, cataphore = nom",
+      "Anaphore = orale, cataphore = écrite"
+    ],
+    "tag": "Cohésion",
+    "hint": "'Il est arrivé, CET HOMME (ana) / CET HOMME dont je vous parle... (cataphore)",
+    "expl": "ANAPHORE discursive = renvoie à gauche (déjà dit). Jean est là, IL est content. CATAPHORE = renvoie à droite (à venir). IL est gentil, mon ami Jacques. Deux mécanismes de cohésion textuelle opposés."
+  },
+  {
+    "id": "c1g2_13",
+    "q": "Qu'est-ce que la 'trope' ?",
+    "a": "Figure qui consiste à utiliser un mot dans un sens différent de son sens habituel",
+    "choices": [
+      "Figure utilisant un mot hors de son sens habituel",
+      "Toute figure de style",
+      "Figure sonore",
+      "Figure de répétition"
+    ],
+    "tag": "Rhétorique",
+    "hint": "MÉTAPHORE, MÉTONYMIE, SYNECDOQUE, IRONIE = tropes",
+    "expl": "TROPE = tropo. Figure qui déplace le sens d'un mot. Les principaux tropes : MÉTAPHORE (sens figuré par ressemblance), MÉTONYMIE (contiguïté), SYNECDOQUE (tout/partie), IRONIE (sens contraire)."
+  },
+  {
+    "id": "c1g2_14",
+    "q": "Qu'est-ce que la 'deixis' et les 'déictiques' ?",
+    "a": "Éléments linguistiques qui renvoient à la situation d'énonciation (lieu, temps, personnes)",
+    "choices": [
+      "Éléments renvoyant à la situation d'énonciation",
+      "Références textuelles uniquement",
+      "Démonstratifs seulement",
+      "Pronoms personnels seuls"
+    ],
+    "tag": "Pragmatique",
+    "hint": "ICI, MAINTENANT, JE, CE — tous sont des déictiques",
+    "expl": "DEIXIS = deixis. ICI (lieu), MAINTENANT (temps), JE/TU (personnes), CE (démonstratif) = déictiques. Ils ne peuvent être interprétés que dans la situation d'énonciation. Opposé : références textuelles (anaphores/cataphores)."
+  },
+  {
+    "id": "c1g2_15",
+    "q": "Qu'est-ce que la 'composition sémantique' d'une phrase ?",
+    "a": "Le sens de la phrase résulte de la combinaison des sens des mots selon leurs relations",
+    "choices": [
+      "Sens combiné des mots selon leurs relations syntaxiques",
+      "Somme des définitions des mots",
+      "Contexte pragmatique",
+      "Intonation uniquement"
+    ],
+    "tag": "Sémantique",
+    "hint": "'Le chat mange la souris' : sens COMPOSÉ des relations sémantiques",
+    "expl": "COMPOSITION SÉMANTIQUE = composicionalidad. Principe de Frege : le sens d'une phrase = composition des sens des mots selon leurs relations syntaxiques. 'Le chat mange la souris' ≠ 'La souris mange le chat'."
+  },
+  {
+    "id": "c1g2_16",
+    "q": "Qu'est-ce que la 'structure informationnelle' de la phrase ?",
+    "a": "Distribution thème/rhème : ce dont on parle (thème) + ce qu'on en dit (rhème)",
+    "choices": [
+      "Thème = ce dont on parle / rhème = ce qu'on en dit",
+      "Sujet et prédicat grammaticaux",
+      "Introduction et développement",
+      "Début et fin de phrase"
+    ],
+    "tag": "Pragmatique",
+    "hint": "THÈME (topic) + RHÈME (comment) = structure informationnelle",
+    "expl": "STRUCTURE INFORMATIONNELLE : THÈME (topic = ce dont on parle, connu). RHÈME (comment = ce qu'on dit du thème, nouveau). 'Le chat (T) mange la souris (R).' Différent du sujet/prédicat grammaticaux."
+  },
+  {
+    "id": "c1g2_17",
+    "q": "Qu'est-ce que la 'négation métalinguistique' ?",
+    "a": "Négation qui nie la formulation elle-même, pas le contenu",
+    "choices": [
+      "Négation qui porte sur la formulation, pas le contenu",
+      "Négation normale",
+      "Double négation",
+      "Négation partielle"
+    ],
+    "tag": "Pragmatique",
+    "hint": "'Pas BÊTE, ce film, BRILLANT !' — négation de l'adjectif choisi",
+    "expl": "NÉGATION MÉTALINGUISTIQUE (Horn) = negación metalingüística. Corriger une formulation. 'Il n'est pas MORT, il est DÉCÉDÉ' (on ne nie pas le fait mais le mot). 'Je n'ai pas FAIM, j'ai TRÈS faim.'"
+  },
+  {
+    "id": "c1g2_18",
+    "q": "Comment fonctionne le 'registre de cohérence' dans un texte ?",
+    "a": "Maintien d'un niveau de langue et d'un style cohérents tout au long du texte",
+    "choices": [
+      "Maintien d'un niveau de langue et style cohérents",
+      "Utilisation d'un seul registre",
+      "Vocabulaire technique seul",
+      "Ponctuation uniforme"
+    ],
+    "tag": "Stylistique",
+    "hint": "Mélanger argot et registre soutenu = rupture de registre",
+    "expl": "REGISTRE DE COHÉRENCE = coherencia de registro. Un texte doit maintenir un registre homogène. RUPTURE DE REGISTRE = changement brusque et non voulu. Peut être stylistiquement voulu (effet de surprise, ironie)."
+  },
+  {
+    "id": "c1g2_19",
+    "q": "Qu'est-ce que la 'concession rhétorique' dans un texte argumentatif ?",
+    "a": "Céder un point à l'adversaire pour mieux réfuter son argument principal",
+    "choices": [
+      "Céder un point pour mieux réfuter le principal",
+      "Simple accord",
+      "Capitulation argumentative",
+      "Nuance accessoire"
+    ],
+    "tag": "Argumentation",
+    "hint": "CERTES X... MAIS Y — X est concédé, Y est le vrai argument",
+    "expl": "CONCESSION RHÉTORIQUE : CERTES (concession) il y a des avantages, MAIS (réfutation) les inconvénients l'emportent. Stratégie efficace : montrer qu'on connaît les arguments adverses et qu'on les dépasse."
+  },
+  {
+    "id": "c1g2_20",
+    "q": "Qu'est-ce que la 'méréologie' appliquée au langage ?",
+    "a": "Étude des relations tout-partie dans la langue (holonymes/méronymes)",
+    "choices": [
+      "Relations tout-partie dans la langue (holonymes/méronymes)",
+      "Étude des nombres",
+      "Étude des parties du discours",
+      "Morphologie"
+    ],
+    "tag": "Sémantique",
+    "hint": "MAISON (holonyme) → fenêtre, porte, mur (méronymes)",
+    "expl": "MÉRÉOLOGIE = mereología. HOLONYME = el todo. MÉRONYME = la parte. MAISON (holonyme) → TOIT, FENÊTRE, MUR (méronymes). Relation différente de l'hyperonyme/hyponyme (classe/espèce)."
+  },
+  {
+    "id": "c1g2_21",
+    "q": "Qu'est-ce que la 'structure profonde' vs 'structure de surface' (Chomsky) ?",
+    "a": "STRUCTURE PROFONDE = représentation sémantique abstraite / SURFACE = phrase réelle prononcée",
+    "choices": [
+      "Profonde = sémantique abstraite / surface = phrase prononcée",
+      "Profonde = simple, surface = complexe",
+      "Profonde = sens littéral, surface = figuré",
+      "Profonde = syntaxe, surface = phonologie"
+    ],
+    "tag": "Linguistique",
+    "hint": "'Je vois l'homme avec un télescope' = une surface, deux structures profondes",
+    "expl": "STRUCTURE PROFONDE (Chomsky) = estructura profunda. Représentation abstraite du sens. STRUCTURE DE SURFACE = la phrase telle qu'elle est. 'Je vois l'homme AVEC UN TÉLESCOPE' = ambigu (1 surface, 2 profondeurs)."
+  },
+  {
+    "id": "c1g2_22",
+    "q": "Qu'est-ce que la 'coloration stylistique' d'un mot ?",
+    "a": "Valeur affective, évocatrice ou connotative qui s'ajoute au sens dénotatif",
+    "choices": [
+      "Valeur affective et connotative s'ajoutant au sens dénotatif",
+      "Sens principal du mot",
+      "Étymologie",
+      "Fréquence d'usage"
+    ],
+    "tag": "Stylistique",
+    "hint": "MOURIR (neutre) vs PÉRIR (dramatique) vs CREVER (familier) = colorations différentes",
+    "expl": "COLORATION STYLISTIQUE = coloración estilística. Même dénotat, connotations différentes. MOURIR (neutre), PÉRIR (dramatique), TRÉPASSER (littéraire), S'ÉTEINDRE (euphémique), CREVER (vulgaire/familier)."
+  },
+  {
+    "id": "c1g2_23",
+    "q": "Qu'est-ce que la 'cohésion pronominale' dans un texte ?",
+    "a": "Utilisation des pronoms pour assurer les liens référentiels entre les phrases",
+    "choices": [
+      "Pronoms assurant les liens référentiels entre phrases",
+      "Cohésion lexicale",
+      "Cohérence logique",
+      "Ponctuation référentielle"
+    ],
+    "tag": "Cohésion",
+    "hint": "Jean arrive. IL est fatigué. — IL assure la cohésion",
+    "expl": "COHÉSION PRONOMINALE = cohesión pronominal. Les pronoms reprennent des référents déjà introduits. JEAN arrive. IL est fatigué. MARIE est là. ELLE sourit. Sans cohésion pronominale, on ne sait plus de qui on parle."
+  },
+  {
+    "id": "c1g2_24",
+    "q": "Qu'est-ce que le 'marqueur de discours' ?",
+    "a": "Élément linguistique qui organise le discours et les relations entre les énoncés",
+    "choices": [
+      "Élément organisant le discours et les relations entre énoncés",
+      "Simple connecteur",
+      "Adverbe de manière",
+      "Ponctuation"
+    ],
+    "tag": "Linguistique textuelle",
+    "hint": "BON, BEN, ALORS, EN FAIT, DONC = marqueurs de discours",
+    "expl": "MARQUEURS DE DISCOURS = marcadores del discurso. BON (transition), EN FAIT (correction), ALORS (suite), QUAND MÊME (concession), ENFIN (conclusion/reformulation). Organisent le discours oralement et à l'écrit."
+  },
+  {
+    "id": "c1g2_25",
+    "q": "Qu'est-ce que la 'structure actancielle' de Greimas ?",
+    "a": "Les rôles dans le récit : sujet, objet, destinateur, destinataire, adjuvant, opposant",
+    "choices": [
+      "Sujet, objet, destinateur, destinataire, adjuvant, opposant",
+      "Personnages du roman",
+      "Thèmes du texte",
+      "Structure narrative de Propp"
+    ],
+    "tag": "Narratologie",
+    "hint": "HÉROS (sujet), QUÊTE (objet), MENTOR (adjuvant), ENNEMI (opposant)",
+    "expl": "MODÈLE ACTANCIEL (Greimas) = modelo actancial. SUJET (héros), OBJET (quête), DESTINATEUR (qui envoie), DESTINATAIRE (qui reçoit), ADJUVANT (aide), OPPOSANT (empêche). Applicable à tout récit, y compris politique ou publicitaire."
+  }
+]

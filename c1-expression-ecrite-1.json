@@ -1,0 +1,240 @@
+[
+  {
+    "id": "c1ee1_01",
+    "q": "Qu'est-ce qu'une 'thèse forte' vs une 'thèse nuancée' ?",
+    "a": "FORTE = affirmation sans réserve / NUANCÉE = affirmation avec limites et conditions",
+    "choices": [
+      "Forte = sans réserve, nuancée = avec limites",
+      "Forte = longue, nuancée = courte",
+      "Forte = prouvée, nuancée = non prouvée",
+      "Même chose"
+    ],
+    "tag": "Argumentation",
+    "hint": "La thèse nuancée est plus difficile à défendre mais plus honnête",
+    "expl": "THÈSE FORTE : 'La technologie est néfaste.' THÈSE NUANCÉE : 'Si mal encadrée, la technologie peut engendrer des effets néfastes, bien qu'elle reste un vecteur de progrès.' La nuance = maturité intellectuelle."
+  },
+  {
+    "id": "c1ee1_02",
+    "q": "Qu'est-ce que le 'plan analytique à entrées multiples' ?",
+    "a": "Plan qui croise plusieurs axes d'analyse (économique × social × culturel) sur un même objet",
+    "choices": [
+      "Croisement de plusieurs axes sur un même objet",
+      "Plan chronologique",
+      "Plan dialectique simple",
+      "Plan en deux parties"
+    ],
+    "tag": "Dissertation",
+    "hint": "Croiser les angles d'analyse plutôt que les juxtaposer",
+    "expl": "PLAN ANALYTIQUE CROISÉ : au lieu de I=économique, II=social, III=culturel (juxtaposé), on croise : I=les causes (éco+social+culturel), II=les effets (idem), III=les solutions (idem). Plus synthétique."
+  },
+  {
+    "id": "c1ee1_03",
+    "q": "Comment construit-on un 'argument concessif' efficace ?",
+    "a": "Reconnaître la force de l'argument adverse avant de le dépasser — CERTES... MAIS... EN RÉALITÉ",
+    "choices": [
+      "Reconnaître l'adverse puis dépasser — certes/mais/en réalité",
+      "Ignorer l'argument adverse",
+      "Attaquer directement l'argument adverse",
+      "Répéter sa propre thèse"
+    ],
+    "tag": "Argumentation",
+    "hint": "CERTES + force de l'argument / MAIS + limite / EN RÉALITÉ + votre point",
+    "expl": "ARGUMENT CONCESSIF : CERTES, il est vrai que [force de l'argument adverse]. MAIS/CEPENDANT/NÉANMOINS [la limite]. EN RÉALITÉ/OR [votre point plus fort]. Structure en trois temps."
+  },
+  {
+    "id": "c1ee1_04",
+    "q": "Qu'est-ce qu'un 'argument ab absurdo' ?",
+    "a": "Démontrer la fausseté d'une thèse en montrant qu'elle mène à une conclusion absurde",
+    "choices": [
+      "Montrer qu'une thèse mène à une conclusion absurde",
+      "Argument illogique",
+      "Argument par l'exemple",
+      "Argument d'autorité"
+    ],
+    "tag": "Argumentation",
+    "hint": "Réductio ad absurdum = si X était vrai, alors Y absurde serait vrai",
+    "expl": "ARGUMENT AB ABSURDO = reductio ad absurdum. Si votre thèse adverse était vraie, elle entraînerait une conséquence absurde. Donc votre thèse est fausse. Ex : 'Si on interdisait tout risque, on n'aurait plus le droit de vivre.'"
+  },
+  {
+    "id": "c1ee1_05",
+    "q": "Qu'est-ce que le 'plan par élargissement progressif' ?",
+    "a": "Du particulier au général : d'un cas concret vers les enjeux universels",
+    "choices": [
+      "Du particulier au général — cas concret vers enjeux universels",
+      "Du général au particulier",
+      "Chronologique",
+      "Dialectique"
+    ],
+    "tag": "Dissertation",
+    "hint": "Commencer par un exemple précis et l'élargir progressivement",
+    "expl": "PLAN PAR ÉLARGISSEMENT : I = dimension individuelle/locale. II = dimension nationale/sociale. III = dimension universelle/philosophique. Mouvement centrifuge du particulier vers l'universel."
+  },
+  {
+    "id": "c1ee1_06",
+    "q": "Qu'est-ce que la 'performativité' du langage dans l'écriture ?",
+    "a": "Les mots qui font ce qu'ils disent : promesse, déclaration, ordre produisent une réalité",
+    "choices": [
+      "Mots qui font ce qu'ils disent — produisent une réalité",
+      "Style expressif",
+      "Style persuasif",
+      "Style descriptif"
+    ],
+    "tag": "Pragmatique de l'écriture",
+    "hint": "'Je vous déclare mari et femme' = acte performatif",
+    "expl": "PERFORMATIVITÉ (Austin) : certains énoncés FONT ce qu'ils disent. 'Je promets' = promettre. 'Je vous condamne' = condamner. À l'écrit : la lettre de démission produit la démission. Le contrat signé crée l'obligation."
+  },
+  {
+    "id": "c1ee1_07",
+    "q": "Comment utilise-t-on efficacement la 'dialectique hégélienne' dans un plan ?",
+    "a": "THÈSE (affirmation) → ANTITHÈSE (négation) → SYNTHÈSE (dépassement, pas simple compromis)",
+    "choices": [
+      "Thèse → antithèse → synthèse (dépassement, pas compromis)",
+      "Thèse → exemples → conclusion",
+      "Pour → contre → vote",
+      "Introduction → corps → conclusion"
+    ],
+    "tag": "Dissertation",
+    "hint": "La synthèse DÉPASSE les deux — elle n'est pas entre les deux",
+    "expl": "DIALECTIQUE HÉGÉLIENNE : THÈSE (une vérité partielle). ANTITHÈSE (sa négation, aussi vraie). SYNTHÈSE = AUFHEBUNG = dépassement qui conserve et dépasse les deux. PAS un simple 'il y a du vrai des deux côtés'."
+  },
+  {
+    "id": "c1ee1_08",
+    "q": "Qu'est-ce que l''ethos', le 'pathos' et le 'logos' dans l'argumentation ?",
+    "a": "ETHOS = crédibilité de l'orateur / PATHOS = émotion du public / LOGOS = logique de l'argument",
+    "choices": [
+      "Ethos = crédibilité, pathos = émotion, logos = logique",
+      "Ethos = logique, pathos = émotion, logos = crédibilité",
+      "Trois styles de prose",
+      "Trois types de plan"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Aristote : trois modes de persuasion",
+    "expl": "RHÉTORIQUE ARISTOTÉLICIENNE : ETHOS = la crédibilité/autorité de celui qui parle. PATHOS = les émotions suscitées chez l'auditoire. LOGOS = la force logique de l'argument. Un discours efficace articule les trois."
+  },
+  {
+    "id": "c1ee1_09",
+    "q": "Comment rend-on un texte 'dense' sans être obscur ?",
+    "a": "Nominalisation + subordination contrôlée + lexique précis + connecteurs logiques explicites",
+    "choices": [
+      "Nominalisation + subordination contrôlée + lexique précis + connecteurs",
+      "Phrases très longues",
+      "Beaucoup de vocabulaire rare",
+      "Absence de connecteurs"
+    ],
+    "tag": "Style",
+    "hint": "Densité ≠ obscurité — le lecteur doit suivre malgré la complexité",
+    "expl": "DENSITÉ STYLISTIQUE : NOMINALISATION (condense l'action en nom). SUBORDINATION CONTRÔLÉE (hiérarchise les idées). LEXIQUE PRÉCIS (pas de paraphrase). CONNECTEURS EXPLICITES (guident le lecteur dans la complexité)."
+  },
+  {
+    "id": "c1ee1_10",
+    "q": "Qu'est-ce que la 'cohérence pragmatique' d'un texte ?",
+    "a": "Adéquation entre le texte et la situation de communication — registre, visée, destinataire",
+    "choices": [
+      "Adéquation texte/situation de communication",
+      "Cohérence grammaticale",
+      "Cohérence thématique",
+      "Cohérence logique"
+    ],
+    "tag": "Pragmatique",
+    "hint": "Un texte grammaticalement correct peut être pragmatiquement incohérent",
+    "expl": "COHÉRENCE PRAGMATIQUE : le texte respecte son REGISTRE (formel si situation formelle), sa VISÉE (informer, persuader), son DESTINATAIRE (adapté à qui on s'adresse). Un texte peut être logiquement cohérent mais pragmatiquement raté."
+  },
+  {
+    "id": "c1ee1_11",
+    "q": "Comment utilise-t-on la 'citation intégrée' vs la 'citation en exergue' ?",
+    "a": "INTÉGRÉE = dans le corps du texte / EN EXERGUE = isolée et mise en évidence",
+    "choices": [
+      "Intégrée = dans le corps / en exergue = isolée et mise en évidence",
+      "Même usage",
+      "Intégrée = longue, exergue = courte",
+      "Intégrée = ancienne, exergue = récente"
+    ],
+    "tag": "Rédaction",
+    "hint": "Citation intégrée : fluidité / en exergue : impact visuel",
+    "expl": "CITATION INTÉGRÉE : 'Comme le note X, [citation courte], ce qui illustre...' EXERGUE : citation isolée, centrée, souvent en début de chapitre. Effet différent : fluidité vs impact, confirmation vs cadrage."
+  },
+  {
+    "id": "c1ee1_12",
+    "q": "Qu'est-ce que la 'métalepse' dans la narration ?",
+    "a": "Transgression des niveaux narratifs : l'auteur parle à ses personnages ou le personnage sort du récit",
+    "choices": [
+      "Transgression des niveaux narratifs",
+      "Métaphore narrative",
+      "Retour en arrière",
+      "Ellipse temporelle"
+    ],
+    "tag": "Narratologie",
+    "hint": "Woody Allen dans 'La Rose pourpre du Caire' = métalepse",
+    "expl": "MÉTALEPSE (Genette) = metalepsis. Transgression de la frontière entre niveau narratif et diégétique. L'auteur parle à ses personnages. Le personnage sort du roman et entre dans le monde réel. Effet de vertige ontologique."
+  },
+  {
+    "id": "c1ee1_13",
+    "q": "Qu'est-ce que le 'contrat de lecture' ?",
+    "a": "Accord implicite entre l'auteur et le lecteur sur le genre, le mode de lecture et les attentes",
+    "choices": [
+      "Accord implicite sur genre, mode de lecture et attentes",
+      "Contrat d'édition",
+      "Pacte autobiographique uniquement",
+      "Régles de grammaire"
+    ],
+    "tag": "Théorie littéraire",
+    "hint": "Un roman policier crée un contrat : on cherche le coupable",
+    "expl": "CONTRAT DE LECTURE : le titre, le paratexte, le genre signalent au lecteur comment lire. Roman policier → chercher le coupable. Autobiographie → croire l'auteur. Science-fiction → suspendre l'incrédulité. Transgression = effet de surprise."
+  },
+  {
+    "id": "c1ee1_14",
+    "q": "Qu'est-ce que l''ironie dramatique' ou 'ironie tragique' ?",
+    "a": "Le lecteur/spectateur sait ce que le personnage ignore — tension ou effet tragique",
+    "choices": [
+      "Le lecteur sait ce que le personnage ignore",
+      "Ironie de l'auteur",
+      "Ironie de situation sans lecteur",
+      "Sarcasme"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Œdipe cherche le meurtrier de son père — nous savons que c'est lui",
+    "expl": "IRONIE DRAMATIQUE = ironía dramática. Le public connaît la vérité que le personnage ignore. Œdipe cherchant son propre crime. Crée tension, compassion, effroi. Différent de l'ironie verbale (dire le contraire de sa pensée)."
+  },
+  {
+    "id": "c1ee1_15",
+    "q": "Comment analyse-t-on la 'voix narrative' dans un texte littéraire ?",
+    "a": "QUI PARLE (narrateur) ? À QUELLE DISTANCE (homo/hétérodiégétique) ? AVEC QUELLE FIABILITÉ ?",
+    "choices": [
+      "Qui parle, quelle distance, quelle fiabilité",
+      "Seulement la personne grammaticale",
+      "Seulement le point de vue",
+      "Le style de l'auteur"
+    ],
+    "tag": "Narratologie",
+    "hint": "Narrateur = ni l'auteur ni le personnage",
+    "expl": "VOIX NARRATIVE : NARRATEUR (≠ auteur). HOMODIÉGÉTIQUE = personnage-narrateur (je). HÉTÉRODIÉGÉTIQUE = narrateur extérieur. FIABILITÉ : narrateur fiable (digne de foi) ou non fiable (on ne peut le croire). Outil d'analyse fondamental."
+  },
+  {
+    "id": "c1ee1_16",
+    "q": "Qu'est-ce que la 'phrase longue' comme outil stylistique ?",
+    "a": "Phrase à multiples subordinations qui mime le flux de pensée ou crée un effet d'ampleur",
+    "choices": [
+      "Multiples subordinations mimant le flux de pensée ou créant l'ampleur",
+      "Phrase avec beaucoup de virgules",
+      "Phrase avec beaucoup d'adjectifs",
+      "Phrase sans verbe"
+    ],
+    "tag": "Stylistique",
+    "hint": "Proust, Faulkner, Simon = maîtres de la phrase longue",
+    "expl": "PHRASE LONGUE : mime le flux de conscience (Proust), crée une impression d'abondance ou d'écrasement. PÉRIODE CICÉRONIENNE = phrase longue avec structure équilibrée et conclusion attendue. Contraste avec la phrase courte (impact, brutalité)."
+  },
+  {
+    "id": "c1ee1_17",
+    "q": "Comment s'utilise la 'gradation' comme figure d'amplification ?",
+    "a": "Succession d'éléments par ordre croissant (ou décroissant) d'intensité",
+    "choices": [
+      "Succession par ordre croissant ou décroissant d'intensité",
+      "Répétition simple",
+      "Opposition de deux termes",
+      "Accumulation sans ordre"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Je vis, je souffre, je meurs' — gradation ascendante",
+    "expl": "GRADATION = gradación. Ascendante : 'un soupir, une larme, un sanglot' (intensité croissante). Descendante : 'un roi, un homme, un cadavre' (décroissante). Crée un effet de crescendo ou de chute."
+  }
+]

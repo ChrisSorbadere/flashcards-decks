@@ -1,0 +1,240 @@
+[
+  {
+    "id": "c1ph1_01",
+    "q": "Qu'est-ce que la 'prosodie du discours académique' ?",
+    "a": "Débit plus lent sur les points clés, pauses structurantes, intonation descendante sur les conclusions",
+    "choices": [
+      "Débit lent sur points clés, pauses structurantes, intonation descendante",
+      "Débit rapide et uniforme",
+      "Intonation montante partout",
+      "Pas de variation prosodique"
+    ],
+    "tag": "Prosodie",
+    "hint": "Le discours académique se structure prosodiquement",
+    "expl": "Discours académique : DÉBIT ralenti sur les arguments importants (signal d'importance). PAUSES longues entre parties. INTONATION descendante sur les conclusions. MONTANTE sur les prémisses. Structure prosodique = plan."
+  },
+  {
+    "id": "c1ph1_02",
+    "q": "Qu'est-ce que la 'deixis' sonore ?",
+    "a": "Utilisation de la prosodie pour pointer vers des éléments du discours ou de la situation",
+    "choices": [
+      "Prosodie pointant vers des éléments du discours",
+      "Diction précise",
+      "Articulation exagérée",
+      "Pause longue"
+    ],
+    "tag": "Prosodie",
+    "hint": "La voix peut 'montrer' quelque chose",
+    "expl": "DEIXIS SONORE : la prosodie peut 'montrer'. Emphase sur CE (ce problème-là, pas un autre). Allongement pour créer un effet de grandeur. L'intonation peut signaler l'ironie sans mot ironique explicite."
+  },
+  {
+    "id": "c1ph1_03",
+    "q": "Qu'est-ce que la 'métaphore phonétique' ?",
+    "a": "Association entre sons et sens : voyelles claires = légèreté, sombres = pesanteur",
+    "choices": [
+      "Sons associés symboliquement à des sens",
+      "Métaphore dans un poème",
+      "Figure de style sonore uniquement",
+      "Onomatopée élargie"
+    ],
+    "tag": "Symbolisme sonore",
+    "hint": "[i] = petit/aigu / [u] = grand/sourd",
+    "expl": "SYMBOLISME PHONÉTIQUE : [i] évoque petitesse, acuité (minuscule, mince). [u] évoque grandeur, sombre (lourd, sourd). Universel mais conventionnel. Très exploité en poésie (Rimbaud, 'Voyelles')."
+  },
+  {
+    "id": "c1ph1_04",
+    "q": "Qu'est-ce que le 'décrochage tonal' ?",
+    "a": "Rupture abrupte de hauteur tonale pour marquer une parenthèse ou une incise",
+    "choices": [
+      "Rupture de hauteur pour signaler une parenthèse",
+      "Fin de phrase",
+      "Début de phrase",
+      "Montée progressive"
+    ],
+    "tag": "Prosodie",
+    "hint": "La voix 'décroche' vers le bas pour une parenthèse",
+    "expl": "DÉCROCHAGE TONAL : la voix baisse brusquement pour signaler une INCISE ou une PARENTHÈSE. Puis remonte pour reprendre. Signal prosodique des guillemets ou tirets à l'oral. Ex : Il a dit — je cite — que c'était faux."
+  },
+  {
+    "id": "c1ph1_05",
+    "q": "Qu'est-ce que la 'réduction des groupes consonantiques' en français rapide ?",
+    "a": "Simplification des groupes consonantiques complexes : 'quatre' → [katr] → [kat]",
+    "choices": [
+      "Simplification des groupes complexes en débit rapide",
+      "Prononciation exagérée",
+      "Doublement des consonnes",
+      "Nasalisation"
+    ],
+    "tag": "Phonologie",
+    "hint": "'Directement' → [diʁɛktmɑ̃] → [diʁɛkmɑ̃]",
+    "expl": "RÉDUCTION : 'directement' [diʁɛktmɑ̃] → [diʁɛkmɑ̃]. 'Extraordinaire' → [ɛkstʁɔʁdinɛʁ] → [ɛkstʁɔdinɛʁ]. Les groupes de 3+ consonnes se simplifient. Naturel à débit normal."
+  },
+  {
+    "id": "c1ph1_06",
+    "q": "Qu'est-ce que l''accent rhétorique' ?",
+    "a": "Accent placé intentionnellement sur un mot pour le mettre en relief argumentatif",
+    "choices": [
+      "Accent intentionnel sur un mot pour le relief argumentatif",
+      "Accent grammatical",
+      "Accent régional",
+      "Accent étranger"
+    ],
+    "tag": "Rhétorique orale",
+    "hint": "Ce n'est pas LUI le problème, c'est ELLE",
+    "expl": "ACCENT RHÉTORIQUE : transgresse l'accent de groupe normal. Ce n'est pas LUI le problème = insistance sur lui (vs elle). Produit par allongement + hausse tonale. Outil fondamental du discours persuasif."
+  },
+  {
+    "id": "c1ph1_07",
+    "q": "Qu'est-ce que la 'voix passive' (qualité vocale) ?",
+    "a": "Qualité de voix soufflée, peu de vibration des cordes vocales — effet de douceur ou d'intimité",
+    "choices": [
+      "Voix soufflée peu vibrante — douceur ou intimité",
+      "Voix forte",
+      "Voix grave",
+      "Voix nasale"
+    ],
+    "tag": "Qualité vocale",
+    "hint": "Voix de confidence, de secret",
+    "expl": "VOIX PASSIVE/SOUFFLÉE = voz susurrada. Peu de vibration glottale. Effet d'intimité, de confidence, de secret. Contraire de la VOIX MODALE (normale) et de la VOIX CRAQUÉE (fry). Exploitée en chanson et au théâtre."
+  },
+  {
+    "id": "c1ph1_08",
+    "q": "Qu'est-ce que le 'vocal fry' (voix craquée) ?",
+    "a": "Qualité vocale très grave et craquante, produite par vibration irrégulière des cordes vocales",
+    "choices": [
+      "Voix très grave et craquante — vibration irrégulière",
+      "Voix aiguë",
+      "Voix nasale",
+      "Voix forte"
+    ],
+    "tag": "Qualité vocale",
+    "hint": "Le 'craquement' en fin de phrase chez certains locuteurs",
+    "expl": "VOCAL FRY = voz crujiente (fry). Vibration irrégulière et lente des cordes vocales → son très grave et craqué. Tendance chez certains jeunes francophones. Peut signaler la fin d'un énoncé ou de la fatigue vocale."
+  },
+  {
+    "id": "c1ph1_09",
+    "q": "Comment fonctionne la 'continuité prosodique' dans un discours long ?",
+    "a": "Maintien d'un patron intonatif cohérent qui guide l'auditeur à travers la structure",
+    "choices": [
+      "Patron intonatif cohérent guidant l'auditeur",
+      "Répétition des mêmes sons",
+      "Débit constant",
+      "Volume constant"
+    ],
+    "tag": "Prosodie du discours",
+    "hint": "La prosodie comme fil conducteur d'un long discours",
+    "expl": "CONTINUITÉ PROSODIQUE : dans un discours long, le locuteur maintient des patrons intonatifs récurrents pour signaler : argument en cours (intonation haute), transition (chute + pause + remontée), conclusion (chute finale décisive)."
+  },
+  {
+    "id": "c1ph1_10",
+    "q": "Qu'est-ce que l''épenthèse' ?",
+    "a": "Insertion d'un son supplémentaire dans un mot pour faciliter la prononciation",
+    "choices": [
+      "Insertion d'un son pour faciliter la prononciation",
+      "Suppression d'un son",
+      "Remplacement d'un son",
+      "Déplacement d'un son"
+    ],
+    "tag": "Phonologie historique",
+    "hint": "DRAGON vient de DRACO — le N est épenthétique",
+    "expl": "ÉPENTHÈSE = epéntesis. Insertion d'un son. HUMBLE vient de HUMILIS → H-U-M-B-L-E (le B est épenthétique). CHAMBRE ← CAMERA (le B facilite la prononciation). Fréquent dans l'évolution du latin vers le français."
+  },
+  {
+    "id": "c1ph1_11",
+    "q": "Qu'est-ce que la 'labialisation' en phonétique ?",
+    "a": "Arrondissement des lèvres lors de la production d'une voyelle ou consonne",
+    "choices": [
+      "Arrondissement des lèvres pour une voyelle/consonne",
+      "Ouverture de la bouche",
+      "Élévation de la langue",
+      "Fermeture du voile du palais"
+    ],
+    "tag": "Phonétique articulatoire",
+    "hint": "[u], [o], [y], [ø] = voyelles labialisées en français",
+    "expl": "LABIALISATION = labialización. Arrondissement des lèvres. [u] (loue), [o] (beau), [y] (lune), [ø] (feu), [œ] (peur) = voyelles LABIALISÉES. Le français a plus de voyelles labialisées que l'espagnol ou l'anglais."
+  },
+  {
+    "id": "c1ph1_12",
+    "q": "Qu'est-ce que la 'palatalisation' ?",
+    "a": "Déplacement du lieu d'articulation vers le palais dur — phénomène historique et régional",
+    "choices": [
+      "Déplacement vers le palais dur",
+      "Déplacement vers les lèvres",
+      "Déplacement vers la glotte",
+      "Déplacement vers les dents"
+    ],
+    "tag": "Phonétique",
+    "hint": "En français québécois : TU [tsy] / DU [dzy]",
+    "expl": "PALATALISATION : déplacement articulatoire vers le palais. Québécois : TU = [tsy], DU = [dzy]. Historiquement : Latin CABALLUS → français CHEVAL (palatalisation du C devant A). Trait distinctif du québécois."
+  },
+  {
+    "id": "c1ph1_13",
+    "q": "Qu'est-ce que la 'nasalité anticipatoire' ?",
+    "a": "Nasalisation d'une voyelle avant une consonne nasale dans la syllabe suivante",
+    "choices": [
+      "Nasalisation anticipée devant une consonne nasale",
+      "Nasalité toujours en fin de syllabe",
+      "Nasalité uniquement des voyelles finales",
+      "Phénomène inexistant"
+    ],
+    "tag": "Phonologie",
+    "hint": "BON AMI — le premier O est légèrement nasalisé",
+    "expl": "NASALITÉ ANTICIPATOIRE : la voyelle d'une syllabe peut être légèrement nasalisée si la syllabe suivante commence par une nasale. Phénomène de coarticulation. Rare en français standard mais présent."
+  },
+  {
+    "id": "c1ph1_14",
+    "q": "Qu'est-ce que la 'prosodie de l'interrogation rhétorique' ?",
+    "a": "Question posée sans attente de réponse — intonation souvent descendante ou plate, pas montante",
+    "choices": [
+      "Intonation descendante ou plate — pas de vraie question",
+      "Intonation montante forte",
+      "Pause très longue",
+      "Débit accéléré"
+    ],
+    "tag": "Prosodie",
+    "hint": "'Peut-on accepter cela ?' — pas vraiment une question",
+    "expl": "QUESTION RHÉTORIQUE : n'attend pas de réponse. Intonation souvent DESCENDANTE (comme une affirmation forte) ou PLATE (comme une évidence). Différent de la vraie question qui monte. Signal de la rhétorique persuasive."
+  },
+  {
+    "id": "c1ph1_15",
+    "q": "Qu'est-ce que le 'tronquage' en français ?",
+    "a": "Réduction d'un mot par suppression de sa fin : métro, ciné, télé, prof",
+    "choices": [
+      "Réduction d'un mot par suppression de la fin",
+      "Réduction par suppression du début",
+      "Fusion de deux mots",
+      "Dérivation par suffixe"
+    ],
+    "tag": "Phonologie lexicale",
+    "hint": "MÉTROPOLITAIN → MÉTRO / CINÉMA → CINÉ",
+    "expl": "TRONQUAGE APOCOPE = apócope. Suppression de la fin du mot. MÉTRO, CINÉ, TÉLÉ, PROF, FAC, APPART, SYMPA, RESTO. Très productif en français familier. Contraire : APHÉRÈSE = suppression du début (bus ← autobus)."
+  },
+  {
+    "id": "c1ph1_16",
+    "q": "Qu'est-ce que l''aphérèse' ?",
+    "a": "Réduction d'un mot par suppression de sa partie initiale : bus ← autobus",
+    "choices": [
+      "Suppression de la partie initiale du mot",
+      "Suppression de la partie finale",
+      "Fusion de deux mots",
+      "Dérivation"
+    ],
+    "tag": "Phonologie lexicale",
+    "hint": "BUS ← autobus / PITAINE ← capitaine (québécois)",
+    "expl": "APHÉRÈSE = aféresis. Suppression du début. BUS ← AUTObus. PITAINE ← CAPITaine (québécois). Moins fréquent que l'apocope en français standard. Historique : RABIE ← ARABIER → ARRACHER."
+  },
+  {
+    "id": "c1ph1_17",
+    "q": "Comment la prosodie signale-t-elle la fin d'un tour de parole ?",
+    "a": "Chute tonale finale + allongement de la dernière syllabe + regard vers l'interlocuteur",
+    "choices": [
+      "Chute tonale + allongement finale + signal visuel",
+      "Hausse tonale uniquement",
+      "Pause longue uniquement",
+      "Accélération du débit"
+    ],
+    "tag": "Pragmatique",
+    "hint": "Les signaux de 'cession de la parole'",
+    "expl": "FIN DE TOUR DE PAROLE : CHUTE TONALE décisive + ALLONGEMENT de la dernière syllabe + souvent REGARD vers l'interlocuteur. Si on veut garder la parole : intonation haute + pause courte pour respirer."
+  }
+]

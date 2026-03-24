@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1g3_01",
+    "q": "Qu'est-ce que la 'remotivation' étymologique ?",
+    "a": "Réactivation du sens étymologique d'un mot pour créer un effet stylistique",
+    "choices": [
+      "Réactivation du sens étymologique",
+      "Erreur d'étymologie",
+      "Néologisme",
+      "Archaïsme"
+    ],
+    "tag": "Stylistique",
+    "hint": "Jouer sur l'étymologie d'un mot pour le rendre expressif",
+    "expl": "REMOTIVATION ÉTYMOLOGIQUE = remotivación etimológica. Jeu stylistique réactivant l'étymologie. 'L'instant présent' (présent = praesens = qui est devant). 'Conspirer' = respirer ensemble. Effets poétiques ou intellectuels."
+  },
+  {
+    "id": "c1g3_02",
+    "q": "Quelle est la différence entre 'sens dénotatif' et 'sens connotatif' ?",
+    "a": "DÉNOTATIF = sens objectif partagé / CONNOTATIF = valeurs associées subjectives",
+    "choices": [
+      "Dénotatif = objectif partagé / connotatif = associations subjectives",
+      "Même chose",
+      "Dénotatif = propre, connotatif = figuré",
+      "Dénotatif = technique, connotatif = affectif"
+    ],
+    "tag": "Sémantique",
+    "hint": "ROSE = fleur (dénot.) + amour, beauté, délicatesse (connot.)",
+    "expl": "DÉNOTATION = significado denotativo (contenido conceptual). ROSE = fleur de la famille des rosacées. CONNOTATION = significados adicionales. ROSE = amour, beauté, romantisme (connotations culturelles). Fondamental en analyse des discours."
+  },
+  {
+    "id": "c1g3_03",
+    "q": "Comment fonctionne la 'restriction de sélection' en sémantique ?",
+    "a": "Contrainte sur les traits sémantiques des éléments pouvant combiner avec un verbe",
+    "choices": [
+      "Contrainte sur les traits sémantiques des éléments combinables",
+      "Règle syntaxique seule",
+      "Accord grammatical",
+      "Fréquence lexicale"
+    ],
+    "tag": "Sémantique",
+    "hint": "MANGER requiert un objet [+comestible] — *'manger une idée'",
+    "expl": "RESTRICTION DE SÉLECTION = restricción selectiva. Verbe MANGER : requiert objet [+CONCRET][+COMESTIBLE]. Violation : 'manger une idée' = anomalie sémantique. Sauf métaphore. *'La pierre dort' (sauf personnification)."
+  },
+  {
+    "id": "c1g3_04",
+    "q": "Qu'est-ce que la 'phrase scindée' (cleft sentence) en français ?",
+    "a": "C'EST... QUI/QUE : structure qui isole un constituant pour le mettre en focus",
+    "choices": [
+      "C'est X qui/que isole un constituant pour le focus",
+      "Simple sujet emphatique",
+      "Inversion du sujet",
+      "Dislocation à gauche"
+    ],
+    "tag": "Syntaxe",
+    "hint": "C'EST HIER QUE je l'ai vu (focus sur hier)",
+    "expl": "PHRASE SCINDÉE = frase escindida. C'EST + focus + QUI/QUE. C'EST HIER QUE JE L'AI VU (= je l'ai vu hier, mais HIER est en focus). C'EST MARIE QUI l'a fait (= Marie, pas quelqu'un d'autre). Contrastif."
+  },
+  {
+    "id": "c1g3_05",
+    "q": "Qu'est-ce que l''effacement' dans une phrase ?",
+    "a": "Suppression d'un élément récupérable par le contexte ou la syntaxe",
+    "choices": [
+      "Suppression d'un élément récupérable contextullement",
+      "Ellipse sémantique",
+      "Pronom de reprise",
+      "Nominalisation"
+    ],
+    "tag": "Syntaxe",
+    "hint": "'Il mange et [il] boit' — [il] effacé car récupérable",
+    "expl": "EFFACEMENT (gapping) = borrado. Suppression d'un élément récupérable. 'Il mange et Ø boit' (sujet effacé). 'Il a vu Marie et elle Ø lui' (effacement du verbe). Économie linguistique. ≠ ellipse (plus général)."
+  },
+  {
+    "id": "c1g3_06",
+    "q": "Qu'est-ce que la 'variation diatopique' ?",
+    "a": "Variation géographique d'une langue (dialectes, accents, régionalismes)",
+    "choices": [
+      "Variation géographique de la langue",
+      "Variation historique",
+      "Variation sociale",
+      "Variation stylistique"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "DIATOPIQUE = selon le lieu (dia = à travers, topos = lieu)",
+    "expl": "VARIATION DIATOPIQUE = variación diatópica. Différences géographiques. Dialectes, accents, régionalismes. Vs DIASTRATIQUE (sociale), DIAPHASIQUE (stylistique), DIACHRONIQUE (historique)."
+  },
+  {
+    "id": "c1g3_07",
+    "q": "Qu'est-ce que la 'variation diastratique' ?",
+    "a": "Variation selon le groupe social (classe, âge, profession, genre)",
+    "choices": [
+      "Variation selon le groupe social",
+      "Variation géographique",
+      "Variation stylistique",
+      "Variation historique"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "DIASTRATIQUE = selon la strate sociale (classe, âge, genre)",
+    "expl": "VARIATION DIASTRATIQUE = variación diastrática. Différences liées au groupe social. Argot des banlieues, langage médical, parler des jeunes. Vs DIATOPIQUE (géo), DIAPHASIQUE (style), DIACHRONIQUE (temps)."
+  },
+  {
+    "id": "c1g3_08",
+    "q": "Qu'est-ce que la 'norme prescriptive' vs la 'norme descriptive' ?",
+    "a": "PRESCRIPTIVE = ce qu'on DOIT dire / DESCRIPTIVE = ce qu'on DIT réellement",
+    "choices": [
+      "Prescriptive = ce qu'on doit dire / descriptive = ce qu'on dit réellement",
+      "Même chose",
+      "Prescriptive = moderne, descriptive = ancienne",
+      "Prescriptive = académique, descriptive = populaire"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "L'Académie = norme PRESCRIPTIVE / la linguistique = DESCRIPTIVE",
+    "expl": "NORME PRESCRIPTIVE = norma prescriptiva. Ce qu'on 'doit' dire selon les grammairiens. NORME DESCRIPTIVE = norma descriptiva. Ce que les locuteurs disent effectivement. Tension permanente en linguistique et en éducation."
+  },
+  {
+    "id": "c1g3_09",
+    "q": "Qu'est-ce que la 'performativité du langage' (Butler, élargi) ?",
+    "a": "Le langage ne décrit pas seulement la réalité, il la construit et la reproduit",
+    "choices": [
+      "Le langage construit et reproduit la réalité",
+      "Le langage décrit seulement",
+      "Le langage exprime seulement",
+      "Le langage communique seulement"
+    ],
+    "tag": "Philosophie du langage",
+    "hint": "Judith Butler : le genre est PERFORMATIF (construit par les actes de parole)",
+    "expl": "PERFORMATIVITÉ (Butler) = performatividad. Étendu d'Austin : le langage construit des réalités sociales. Les catégories de genre sont PERFORMATIVES = construites par les discours répétés. Théorie queer fondamentale."
+  },
+  {
+    "id": "c1g3_10",
+    "q": "Qu'est-ce que la 'figure d'effusion' ou 'communication' en rhétorique ?",
+    "a": "Figure qui consiste à partager sa pensée avec l'auditoire, le prendre à témoin",
+    "choices": [
+      "Prendre l'auditoire à témoin ou partager sa pensée",
+      "Répétition d'une idée",
+      "Figure sonore",
+      "Mise en relief"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Jugez vous-mêmes...' / 'Que direz-vous, mes amis ?' = communication",
+    "expl": "COMMUNICATION / ANACŒNOSE = anacoenosis. Interpeller l'auditoire, le prendre à témoin. 'Jugez vous-mêmes, Messieurs.' 'Qu'auriez-vous fait à ma place ?' Effet de complicité et d'implication de l'auditeur."
+  },
+  {
+    "id": "c1g3_11",
+    "q": "Qu'est-ce que la 'paronomase' ?",
+    "a": "Figure qui rapproche des mots de sons proches mais de sens différents",
+    "choices": [
+      "Rapprochement de mots de sons proches mais de sens différents",
+      "Répétition d'un même mot",
+      "Allitération de consonnes",
+      "Rime intérieure"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Qui se ressemble s'assemble' / 'Lâche qui fuit, vache qui flâne'",
+    "expl": "PARONOMASE = paronomasia. Rapprochement de mots proches phonétiquement mais de sens différents. 'Qui se RESSEMBLE s'ASSEMBLE.' 'Les MOUCHES bourdonnent, les BOUCHES murmurent.' Jeu sur la similitude sonore."
+  },
+  {
+    "id": "c1g3_12",
+    "q": "Qu'est-ce que l'antanaclase' ?",
+    "a": "Figure qui répète un mot en changeant son sens (polysémie exploitée)",
+    "choices": [
+      "Répétition d'un mot avec changement de sens",
+      "Répétition identique",
+      "Opposition de termes",
+      "Rapprochement sonore"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Le cœur a ses raisons que la raison ne connaît pas' — RAISON répété avec deux sens",
+    "expl": "ANTANACLASE = antanaclasis. Répétition d'un mot avec un sens différent. 'Le cœur a ses RAISONS que la RAISON ne connaît pas' (Pascal). RAISON 1 = motivations / RAISON 2 = rationalité. Effet de paradoxe apparent."
+  },
+  {
+    "id": "c1g3_13",
+    "q": "Qu'est-ce que la 'syllepse grammaticale' ?",
+    "a": "Accord de sens (logique) plutôt que grammatical",
+    "choices": [
+      "Accord logique plutôt que grammatical",
+      "Erreur d'accord",
+      "Accord d'attraction",
+      "Accord normal"
+    ],
+    "tag": "Accord",
+    "hint": "'La foule CRIAIENT' — accord logique (pluralité) vs grammatical (sing.)",
+    "expl": "SYLLEPSE GRAMMATICALE = silepsis gramatical. Accord de SENS. 'La foule CRIAIENT' = accord avec l'idée de pluralité, pas le singulier 'foule'. Accepté stylistiquement. 'Le public ÉTAIENT enthousiastes.'"
+  },
+  {
+    "id": "c1g3_14",
+    "q": "Qu'est-ce que la 'gradation ascendante' vs 'descendante' ?",
+    "a": "ASCENDANTE = du moins fort au plus fort / DESCENDANTE = du plus fort au moins fort",
+    "choices": [
+      "Ascendante = du moins au plus fort / descendante = du plus au moins fort",
+      "Même chose",
+      "Ascendante = positive, descendante = négative",
+      "Ascendante = métaphore, descendante = antithèse"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Un souffle, une voix, un cri' = ASCENDANTE",
+    "expl": "GRADATION ASCENDANTE (climax) = clímax. Du moins au plus fort. 'Un soupir, un sanglot, un cri' : crescendo. DESCENDANTE (anticlimax) = anticlímax. Du plus au moins fort. Effet d'atténuation ou d'humour."
+  },
+  {
+    "id": "c1g3_15",
+    "q": "Qu'est-ce que la 'litote classique' vs la 'litote rhétorique' ?",
+    "a": "Classique = atténuation du sens (ne pas dire le maximum) / rhétorique = meiosis (affaiblissement)",
+    "choices": [
+      "Classique = atténuation / rhétorique = meiosis (affaiblissement)",
+      "Même chose",
+      "Classique = formelle, rhétorique = populaire",
+      "Classique = moderne, rhétorique = ancienne"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Ce n'est pas mal' (litote classique) / 'il est assez intelligent' (litote rhétorique)",
+    "expl": "LITOTE CLASSIQUE = lítote. Dire moins pour exprimer plus. 'Va, je ne te hais point' = je t'aime. MEIOSIS (litote rhétorique) = diminution délibérée. 'Il est assez compétent' = il est très compétent (atténuation de politesse)."
+  },
+  {
+    "id": "c1g3_16",
+    "q": "Qu'est-ce que la 'cheville rhétorique' ?",
+    "a": "Mot ou groupe de mots ajouté pour des raisons métriques ou stylistiques sans nécessité sémantique",
+    "choices": [
+      "Mot ajouté pour raisons métriques sans nécessité sémantique",
+      "Connecteur logique",
+      "Figure d'emphase",
+      "Pléonasme voulu"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Hélas !' 'Certes...' ajoutés pour le rythme ou l'effet = chevilles",
+    "expl": "CHEVILLE = relleno. Mot ou groupe ajouté pour des raisons métriques (en poésie) ou stylistiques sans apporter de contenu. 'Il avait, COMME ON SAIT, beaucoup de talent.' La cheville peut être un défaut ou un effet voulu."
+  },
+  {
+    "id": "c1g3_17",
+    "q": "Qu'est-ce que la 'figure de la correctio' ?",
+    "a": "Figure qui corrige ou rectifie ce qu'on vient de dire",
+    "choices": [
+      "Corriger ou rectifier ce qu'on vient de dire",
+      "Répétition",
+      "Gradation",
+      "Métaphore"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Il était bon — ou plutôt, il était généreux'",
+    "expl": "CORRECTIO = corrección. Rectification de ce qu'on vient de dire. 'Il était bon — OU PLUTÔT, il était généreux.' 'C'était magnifique — NON, c'était sublime.' Montre le travail de précision du locuteur."
+  },
+  {
+    "id": "c1g3_18",
+    "q": "Qu'est-ce que la 'dilatation' et la 'condensation' stylistiques ?",
+    "a": "DILATATION = développer en beaucoup de mots / CONDENSATION = exprimer en peu de mots",
+    "choices": [
+      "Dilatation = développer / condensation = concentrer",
+      "Même chose",
+      "Dilatation = positif, condensation = négatif",
+      "Dilatation = oral, condensation = écrit"
+    ],
+    "tag": "Stylistique",
+    "hint": "AMPLIFICATION (dilatation) vs LACONISME (condensation)",
+    "expl": "DILATATION = amplificación. Développer longuement une idée (hyperbole, périphrase, accumulation). CONDENSATION = condensación (laconisme). Exprimer en peu de mots. 'Je pense, donc je suis.' Deux stratégies stylistiques opposées."
+  },
+  {
+    "id": "c1g3_19",
+    "q": "Qu'est-ce que la 'fausse question' ou 'question rhétorique' ?",
+    "a": "Question dont la réponse est évidente ou implicite, posée pour impliquer l'auditeur",
+    "choices": [
+      "Question à réponse évidente/implicite pour impliquer l'auditeur",
+      "Vraie question",
+      "Question de clarification",
+      "Question pédagogique"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'N'est-il pas évident que...' — la réponse est déjà contenue",
+    "expl": "QUESTION RHÉTORIQUE = pregunta retórica. Posée non pour obtenir une réponse mais pour affirmer ou impliquer. 'Ne méritait-il pas une meilleure fin ?' (= il la méritait). Engagement du lecteur/auditeur dans le raisonnement."
+  },
+  {
+    "id": "c1g3_20",
+    "q": "Qu'est-ce que la 'prétérition' ?",
+    "a": "Figure qui consiste à dire qu'on ne va pas dire quelque chose... tout en le disant",
+    "choices": [
+      "Dire qu'on ne va pas dire quelque chose tout en le disant",
+      "Ellipse",
+      "Restriction",
+      "Concession"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Je ne parlerai pas de ses défauts...' — on vient de les mentionner",
+    "expl": "PRÉTÉRITION = pretérición / paralipsis. 'Je ne mentionnerai pas ici ses nombreuses erreurs...' (on vient de les mentionner). Permet de dire en prétendant ne pas dire. Ironie rhétorique. Outil politique fréquent."
+  },
+  {
+    "id": "c1g3_21",
+    "q": "Qu'est-ce que l''hendiadys' ?",
+    "a": "Expression d'une idée complexe par deux substantifs coordonnés au lieu d'un substantif qualifié",
+    "choices": [
+      "Deux substantifs coordonnés pour une idée complexe",
+      "Répétition d'un substantif",
+      "Comparaison de deux substantifs",
+      "Métonymie double"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'La fureur et les cris' = 'les cris furieux' = HENDIADYS",
+    "expl": "HENDIADYS = hendíadis. 'La FUREUR ET les CRIS' = les cris furieux. Deux noms reliés par ET pour exprimer ce qui pourrait être dit par nom + adjectif. 'Il boit dans des coupes et de l'or' = des coupes en or."
+  },
+  {
+    "id": "c1g3_22",
+    "q": "Qu'est-ce que la 'modalité aléthique' ?",
+    "a": "Modalité exprimant la nécessité et la possibilité logiques (possible/impossible/nécessaire)",
+    "choices": [
+      "Nécessité et possibilité logiques (possible/impossible/nécessaire)",
+      "Obligation morale",
+      "Probabilité",
+      "Certitude subjective"
+    ],
+    "tag": "Logique/Linguistique",
+    "hint": "IL EST NÉCESSAIRE QUE = nécessité logique / aléthique",
+    "expl": "MODALITÉ ALÉTHIQUE = modalidad aléthica. Nécessité et possibilité LOGIQUES. IL EST NÉCESSAIRE QUE = logiquement inévitable. IL EST POSSIBLE QUE = logiquement non exclu. ≠ DÉONTIQUE (obligation morale) ≠ ÉPISTÉMIQUE (certitude)."
+  },
+  {
+    "id": "c1g3_23",
+    "q": "Qu'est-ce que l'euphonie et comment fonctionne-t-elle ?",
+    "a": "Qualité des sons agréables à l'oreille, recherchée par les poètes et les orateurs",
+    "choices": [
+      "Qualité des sons agréables à l'oreille",
+      "Harmonie sémantique",
+      "Cohérence logique",
+      "Rythme métrique seul"
+    ],
+    "tag": "Stylistique phonétique",
+    "hint": "Voyelles douces, absence de hiatus, fluidité = EUPHONIE",
+    "expl": "EUPHONIE = eufonía. Qualité agréable des sons. Atteinte par : éviter le hiatus (deux voyelles qui s'heurtent), choisir les phonèmes harmonieux, répartir les accents. Antonyme : CACOPHONIE."
+  },
+  {
+    "id": "c1g3_24",
+    "q": "Qu'est-ce que la 'syllepse sémantique' ?",
+    "a": "Un mot est pris simultanément dans deux sens différents (jeu de mots)",
+    "choices": [
+      "Un mot pris simultanément dans deux sens",
+      "Figure sonore",
+      "Répétition sémantique",
+      "Métonymie"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Il faut cultiver notre JARDIN' — jardin réel et jardin métaphorique",
+    "expl": "SYLLEPSE SÉMANTIQUE = silepsis semántica. Un terme vaut simultanément au sens propre et figuré. 'Il faut cultiver notre JARDIN' (Voltaire) = le jardin réel ET la vie intérieure. Ambiguïté productive et riche."
+  },
+  {
+    "id": "c1g3_25",
+    "q": "Qu'est-ce que la 'parataxe' comme stratégie argumentative ?",
+    "a": "Juxtaposer des propositions sans lien logique explicite, laissant au lecteur le soin d'inférer",
+    "choices": [
+      "Juxtaposer sans lien logique, laisser inférer au lecteur",
+      "Enchaîner avec beaucoup de connecteurs",
+      "Répéter les mêmes idées",
+      "Réduire le nombre de phrases"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Il est arrivé. Il a vu. Il a vaincu.' — pas de DONC ni ALORS",
+    "expl": "PARATAXE ARGUMENTATIVE : juxtaposer sans connecteur. 'Il a travaillé dur. Il a réussi.' Le lecteur infère la CAUSE. Effets : rapidité, confiance au lecteur, modernité stylistique. Plus puissant parfois que l'hypotaxe explicite."
+  }
+]

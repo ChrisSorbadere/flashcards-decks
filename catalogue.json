@@ -706,8 +706,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-1.json"
         },
         {
           "id": "c1-phonetique-2",
@@ -716,8 +715,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-phonetique-2.json"
         },
         {
           "id": "c1-expression-ecrite-1",
@@ -726,8 +724,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-1.json"
         },
         {
           "id": "c1-expression-ecrite-2",
@@ -736,8 +733,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-expression-ecrite-2.json"
         },
         {
           "id": "c1-civilisation-1",
@@ -746,8 +742,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-1.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-1.json"
         },
         {
           "id": "c1-civilisation-2",
@@ -756,8 +751,7 @@
           "cardCount": 17,
           "level": "C1",
           "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-2.json",
-          "comingSoon": true
+          "url": "https://chrissorbadere.github.io/flashcards-decks/c1-civilisation-2.json"
         }
       ]
     },

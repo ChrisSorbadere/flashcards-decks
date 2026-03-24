@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1gr1_01",
+    "q": "Qu'est-ce que la 'valence verbale' ?",
+    "a": "Nombre et type d'arguments qu'un verbe peut ou doit prendre",
+    "choices": [
+      "Nombre et type d'arguments d'un verbe",
+      "Temps et modes d'un verbe",
+      "Registre d'un verbe",
+      "Fréquence d'emploi"
+    ],
+    "tag": "Linguistique",
+    "hint": "DONNER = verbe trivalent (sujet + COD + COI)",
+    "expl": "VALENCE = valencia verbal. Verbe MONOVALENT (1 arg) : pleuvoir. BIVALENT (2) : manger (sujet + objet). TRIVALENT (3) : donner (sujet + COD + COI). La valence détermine la structure argumentale du verbe."
+  },
+  {
+    "id": "c1gr1_02",
+    "q": "Qu'est-ce que la 'transitivité directe' vs 'indirecte' ?",
+    "a": "DIRECTE = COD sans préposition / INDIRECTE = complément avec préposition (à, de, pour...)",
+    "choices": [
+      "Directe = sans préposition / indirecte = avec préposition",
+      "Directe = actif, indirecte = passif",
+      "Directe = action, indirecte = état",
+      "Directe = courte, indirecte = longue"
+    ],
+    "tag": "Syntaxe",
+    "hint": "MANGER qqch (direct) / PARLER à qqn (indirect)",
+    "expl": "TRANSITIF DIRECT : verbe + COD sans préposition. MANGER une pomme. TRANSITIF INDIRECT : verbe + complément avec préposition. PARLER à quelqu'un. OBÉIR à. RESSEMBLER à. PENSER à."
+  },
+  {
+    "id": "c1gr1_03",
+    "q": "Qu'est-ce qu'une 'proposition circonstancielle intégrée' ?",
+    "a": "Subordonnée qui occupe une fonction circonstancielle dans la principale",
+    "choices": [
+      "Subordonnée avec fonction circonstancielle dans la principale",
+      "Proposition principale",
+      "Proposition indépendante",
+      "Phrase nominale"
+    ],
+    "tag": "Syntaxe",
+    "hint": "QUAND il viendra, nous partirons — circonstancielle intégrée",
+    "expl": "PROPOSITION CIRCONSTANCIELLE INTÉGRÉE = subordonnée conjonctive à valeur circonstancielle. QUAND il viendra (temps). PARCE QU'il est là (cause). POUR QU'il comprenne (but). BIEN QU'il soit fatigué (concession)."
+  },
+  {
+    "id": "c1gr1_04",
+    "q": "Qu'est-ce que la 'subordination relative' vs 'coordination' ?",
+    "a": "SUBORDINATION = dépendance syntaxique d'une proposition / COORDINATION = même niveau",
+    "choices": [
+      "Subordination = dépendance syntaxique / coordination = même niveau",
+      "Même chose",
+      "Subordination = présent, coordination = passé",
+      "Subordination = formelle, coordination = orale"
+    ],
+    "tag": "Syntaxe",
+    "hint": "Il dort PARCE QU'il est fatigué (sub.) vs il dort ET il rêve (coord.)",
+    "expl": "SUBORDINATION : une proposition dépend syntaxiquement d'une autre. COORDINATION : propositions indépendantes liées par ET, MAIS, OU, DONC, OR, NI, CAR. JUXTAPOSITION : sans conjonction (virgule, point-virgule)."
+  },
+  {
+    "id": "c1gr1_05",
+    "q": "Qu'est-ce que la 'pronominalisation' et ses contraintes ?",
+    "a": "Remplacement d'un groupe nominal par un pronom, soumis à des règles d'accord et de place",
+    "choices": [
+      "Remplacement d'un GN par un pronom avec règles d'accord et de place",
+      "Synonymie",
+      "Ellipse",
+      "Répétition"
+    ],
+    "tag": "Syntaxe",
+    "hint": "La voiture → la, il lui en parle → en = de la voiture",
+    "expl": "PRONOMINALISATION = sustitución por pronombre. Règles : accord de genre/nombre, place avant le verbe, ordre hiérarchique (me/te avant le/la, le/la avant lui/leur, lui avant y, y avant en)."
+  },
+  {
+    "id": "c1gr1_06",
+    "q": "Qu'est-ce que la 'dislocation topicalisante' ?",
+    "a": "Construction qui déplace un élément en tête de phrase avec reprise pronominale",
+    "choices": [
+      "Déplacement en tête de phrase avec reprise pronominale",
+      "Inversion simple",
+      "Emphase par répétition",
+      "Phrase interrogative"
+    ],
+    "tag": "Syntaxe",
+    "hint": "Ce livre, je l'adore — dislocation à gauche",
+    "expl": "DISLOCATION = dislocación topicalizante. CE LIVRE, je L'adore (à gauche). Je L'adore, ce livre (à droite). Mise en relief d'un thème. Très fréquent à l'oral. Construction de la grammaire parlée."
+  },
+  {
+    "id": "c1gr1_07",
+    "q": "Qu'est-ce que la 'phrase clivée' et la 'phrase pseudo-clivée' ?",
+    "a": "CLIVÉE : C'EST X QUI/QUE / PSEUDO-CLIVÉE : CE QUI me plaît, C'EST X",
+    "choices": [
+      "Clivée = c'est X qui/que / pseudo-clivée = ce qui... c'est X",
+      "Même chose",
+      "Clivée = question, pseudo-clivée = affirmation",
+      "Clivée = sujet, pseudo-clivée = objet"
+    ],
+    "tag": "Syntaxe",
+    "hint": "C'EST LUI QUI a gagné (clivée) / CE QUI me plaît, C'EST la musique (pseudo-clivée)",
+    "expl": "PHRASE CLIVÉE : C'EST + focus + QUI/QUE. C'EST LUI QUI a gagné. PSEUDO-CLIVÉE : CE QUI/QUE + prop + C'EST + focus. CE QUI me plaît, C'EST la musique. Deux constructions emphatiques distinctes."
+  },
+  {
+    "id": "c1gr1_08",
+    "q": "Qu'est-ce que la 'portée de la négation' ?",
+    "a": "Étendue de ce que la négation affecte dans la phrase",
+    "choices": [
+      "Ce que la négation affecte dans la phrase",
+      "Simple présence de NE...PAS",
+      "Intensité de la négation",
+      "Style de la négation"
+    ],
+    "tag": "Négation",
+    "hint": "Je n'aime PAS tous les livres ≠ Je n'aime AUCUN livre",
+    "expl": "PORTÉE DE LA NÉGATION : ce qu'elle nie. JE N'AIME PAS tous les livres = je n'aime pas tous (certains oui). JE N'AIME AUCUN LIVRE = tous niés. La portée peut être partielle ou totale selon le quantificateur."
+  },
+  {
+    "id": "c1gr1_09",
+    "q": "Qu'est-ce que la 'structure argumentale' d'un verbe ?",
+    "a": "Ensemble des rôles thématiques (agent, patient, bénéficiaire...) associés à un verbe",
+    "choices": [
+      "Rôles thématiques associés au verbe",
+      "Arguments logiques du verbe",
+      "Régimes prépositionnels",
+      "Temps et modes du verbe"
+    ],
+    "tag": "Linguistique",
+    "hint": "DONNER : agent + patient + bénéficiaire",
+    "expl": "STRUCTURE ARGUMENTALE : AGENT (fait l'action), PATIENT (subit), THÈME (déplacé), BÉNÉFICIAIRE (profite), INSTRUMENT. DONNER : Marie (agent) donne le livre (patient) à Paul (bénéficiaire)."
+  },
+  {
+    "id": "c1gr1_10",
+    "q": "Comment fonctionne le 'soulignement prosodique' à l'écrit ?",
+    "a": "La mise en relief à l'oral (accent, intonation) se rend à l'écrit par la ponctuation, la syntaxe ou la mise en forme",
+    "choices": [
+      "Ponctuation, syntaxe, mise en forme remplacent l'intonation",
+      "Les deux systèmes sont identiques",
+      "L'écrit ne peut pas rendre l'emphase",
+      "Seulement la ponctuation"
+    ],
+    "tag": "Stylistique",
+    "hint": "Les italiques, les tirets, la dislocation = équivalents écrits de l'accent",
+    "expl": "À l'oral : accent de focalisation. À l'écrit : ITALIQUES, MAJUSCULES, tirets, dislocation syntaxique, phrase clivée. C'EST LUI qui a fait ça (écrit) = c'est LUI (oral avec accent). Équivalences grapho-prosodiques."
+  },
+  {
+    "id": "c1gr1_11",
+    "q": "Qu'est-ce que la 'non-restrictive' vs la 'restrictive' dans les relatives ?",
+    "a": "RESTRICTIVE : limite l'ensemble dénoté / NON-RESTRICTIVE : ajoute une information",
+    "choices": [
+      "Restrictive = limite l'ensemble / non-restrictive = ajoute une information",
+      "Même chose",
+      "Restrictive = virgules, non-restrictive = sans virgules",
+      "Restrictive = sujet, non-restrictive = objet"
+    ],
+    "tag": "Syntaxe",
+    "hint": "Les étudiants QUI ont révisé (restrictive) vs les étudiants, QUI ont révisé, (non-restrictive)",
+    "expl": "RESTRICTIVE : Les étudiants QUI ONT RÉVISÉ ont réussi (seulement ceux qui ont révisé). NON-RESTRICTIVE (avec virgules) : Les étudiants, QUI AVAIENT RÉVISÉ, ont réussi (= tous, et ils avaient révisé)."
+  },
+  {
+    "id": "c1gr1_12",
+    "q": "Qu'est-ce que le 'groupe prépositionnel' (GP) et ses fonctions ?",
+    "a": "Préposition + GN : peut être COI, circonstanciel, épithète ou attribut",
+    "choices": [
+      "Préposition + GN avec plusieurs fonctions possibles",
+      "Seulement complément de lieu",
+      "Seulement complément de temps",
+      "Toujours circonstanciel"
+    ],
+    "tag": "Syntaxe",
+    "hint": "'de la ville' peut être COI, épithète ou circonstanciel selon le contexte",
+    "expl": "GROUPE PRÉPOSITIONNEL = préposition + GN. Fonctions multiples : COI (parler DE lui). CIRCONSTANCIEL (partir DANS Paris). ÉPITHÈTE (une maison DE campagne). ATTRIBUT (être EN forme). La préposition encode la relation."
+  },
+  {
+    "id": "c1gr1_13",
+    "q": "Qu'est-ce que la 'lexie complexe' ?",
+    "a": "Unité lexicale formée de plusieurs mots fonctionnant comme un tout (locution, expression figée)",
+    "choices": [
+      "Plusieurs mots fonctionnant comme une unité lexicale",
+      "Mot composé seulement",
+      "Synonyme de syntagme",
+      "Mot technique"
+    ],
+    "tag": "Lexicologie",
+    "hint": "PRENDRE LA FUITE, COUP DE TÊTE = lexies complexes",
+    "expl": "LEXIE COMPLEXE = unidad léxica compleja. PRENDRE LA FUITE. AVOIR L'AIR. COUP DE MAIN. Fonctionne comme un seul mot. Non compositionnelle : le sens n'est pas la somme des parties. = LOCUTION FIGÉE."
+  },
+  {
+    "id": "c1gr1_14",
+    "q": "Qu'est-ce que la 'présupposition' vs 'l'implicature' ?",
+    "a": "PRÉSUPPOSITION = condition encodée dans la phrase / IMPLICATURE = inférée par le contexte",
+    "choices": [
+      "Présupposition = encodée dans la phrase / implicature = inférée par le contexte",
+      "Même chose",
+      "Présupposition = fausse, implicature = vraie",
+      "Présupposition = orale, implicature = écrite"
+    ],
+    "tag": "Pragmatique",
+    "hint": "'Jean a cessé de fumer' PRÉSUPPOSE qu'il fumait / IMPLIQUE qu'il est sage",
+    "expl": "PRÉSUPPOSITION : contenu implicite mais encodé. 'Jean A CESSÉ de fumer' → présuppose qu'il fumait (vrai même si nié). IMPLICATURE (Grice) : inférence conversationnelle. 'Pouvez-vous passer le sel ?' → implique une demande."
+  },
+  {
+    "id": "c1gr1_15",
+    "q": "Qu'est-ce que les 'maximes de Grice' ?",
+    "a": "Quantité, Qualité, Relation, Manière — règles implicites de la conversation coopérative",
+    "choices": [
+      "Quantité, Qualité, Relation, Manière",
+      "Politesse, clarté, concision",
+      "Pertinence, vérité, concision",
+      "Règles grammaticales"
+    ],
+    "tag": "Pragmatique",
+    "hint": "Les 4 maximes : ne dis pas trop, dis vrai, sois pertinent, sois clair",
+    "expl": "MAXIMES DE GRICE : (1) QUANTITÉ : ni trop ni trop peu. (2) QUALITÉ : dis la vérité. (3) RELATION : sois pertinent. (4) MANIÈRE : sois clair. La violation intentionnelle génère les implicatures conversationnelles."
+  },
+  {
+    "id": "c1gr1_16",
+    "q": "Qu'est-ce que la 'topicalisation' vs la 'focalisation' ?",
+    "a": "TOPICALISATION = mettre en topic (ce dont on parle) / FOCALISATION = mettre en focus (info nouvelle)",
+    "choices": [
+      "Topicalisation = de quoi on parle / focalisation = information nouvelle et saillante",
+      "Même chose",
+      "Topicalisation = début, focalisation = fin",
+      "Topicalisation = sujet grammatical, focalisation = COD"
+    ],
+    "tag": "Pragmatique",
+    "hint": "CE LIVRE, je l'adore (topic) / C'EST CE LIVRE que j'adore (focus)",
+    "expl": "TOPIC = ce dont on parle (thème). FOCUS = info nouvelle ou contrastive. CE LIVRE, je L'adore (topic à gauche). C'EST CE LIVRE que j'adore (focus clive). Structure informationnelle de la phrase."
+  },
+  {
+    "id": "c1gr1_17",
+    "q": "Qu'est-ce que la 'modalité épistémique' vs 'déontique' ?",
+    "a": "ÉPISTÉMIQUE = certitude/probabilité / DÉONTIQUE = obligation/permission",
+    "choices": [
+      "Épistémique = certitude/probabilité / déontique = obligation/permission",
+      "Même chose",
+      "Épistémique = passé, déontique = présent",
+      "Épistémique = féminin, déontique = masculin"
+    ],
+    "tag": "Modalité",
+    "hint": "Il DOIT être malade (épistémique) vs il DOIT partir (déontique)",
+    "expl": "MODALITÉ ÉPISTÉMIQUE : rapport à la vérité/probabilité. Il DOIT être malade = probablement. MODALITÉ DÉONTIQUE : rapport à l'obligation/permission. Il DOIT partir = obligation morale ou règle. DEVOIR = les deux."
+  },
+  {
+    "id": "c1gr1_18",
+    "q": "Comment fonctionne la 'coréférence' ?",
+    "a": "Deux expressions qui réfèrent au même référent dans le discours",
+    "choices": [
+      "Deux expressions référant au même référent",
+      "Synonymie",
+      "Répétition",
+      "Emphase"
+    ],
+    "tag": "Discours",
+    "hint": "Einstein... LE grand physicien... IL — tous coréférentiels",
+    "expl": "CORÉFÉRENCE = correferencia. Plusieurs expressions qui désignent le même individu ou objet. Einstein / le grand physicien / il / le génie de Princeton = coréférentiels. Assure la cohérence référentielle du texte."
+  },
+  {
+    "id": "c1gr1_19",
+    "q": "Qu'est-ce que l''accord zeugmatique' ?",
+    "a": "Un verbe ou adjectif régit deux sujets avec lesquels il ne peut s'accorder qu'avec l'un",
+    "choices": [
+      "Accord problématique avec deux sujets incompatibles",
+      "Accord avec deux sujets identiques",
+      "Désaccord voulu",
+      "Erreur grammaticale"
+    ],
+    "tag": "Accord",
+    "hint": "'Sa voix et son regard m'ont CHARMÉ(E)S' — accord zeugmatique",
+    "expl": "ACCORD ZEUGMATIQUE : un prédicat régit deux sujets mais ne peut s'accorder logiquement qu'avec l'un. 'Sa générosité et son courage l'ont RENDU célèbre.' Accord avec le plus proche (accord par attraction) ou accord global."
+  },
+  {
+    "id": "c1gr1_20",
+    "q": "Qu'est-ce que la 'portée d'un quantificateur' ?",
+    "a": "Étendue de ce sur quoi porte un quantificateur (tous, chaque, certains, aucun)",
+    "choices": [
+      "Ce sur quoi porte un quantificateur",
+      "Fréquence d'un mot",
+      "Force d'un adverbe",
+      "Degré d'un adjectif"
+    ],
+    "tag": "Sémantique",
+    "hint": "TOUS les étudiants ont réussi — TOUS porte sur 'les étudiants'",
+    "expl": "QUANTIFICATEUR : TOUS, CHAQUE, CERTAINS, AUCUN, PLUSIEURS. PORTÉE : ce sur quoi il porte. TOUS les étudiants (portée large) vs il n'a vu PERSONNE (portée étroite). Fondamental en logique et sémantique."
+  },
+  {
+    "id": "c1gr1_21",
+    "q": "Qu'est-ce que la 'phrase amalgamée' ?",
+    "a": "Construction dans laquelle la relative et la principale sont fusionnées en une seule structure",
+    "choices": [
+      "Principale et relative fusionnées",
+      "Phrase très longue",
+      "Phrase avec plusieurs relatives",
+      "Phrase ambiguë"
+    ],
+    "tag": "Syntaxe",
+    "hint": "QUI DORT DÎNE = celui qui dort dîne (relative et principale fusionnées)",
+    "expl": "PHRASE AMALGAMÉE = frase amalgamada. QUI DORT DÎNE = celui qui dort dîne. La relative est amalgamée à la principale (pas d'antécédent séparé). QUOI QU'IL EN SOIT. Qui vivra verra. Structures figées souvent."
+  },
+  {
+    "id": "c1gr1_22",
+    "q": "Qu'est-ce que la 'double articulation du langage' (Martinet) ?",
+    "a": "1ère articulation : monèmes (unités de sens) / 2ème : phonèmes (unités sonores distinctives)",
+    "choices": [
+      "1ère = monèmes (sens) / 2ème = phonèmes (sons distinctifs)",
+      "1ère = phonèmes, 2ème = morphèmes",
+      "1ère = mots, 2ème = syllabes",
+      "1ère = sens, 2ème = forme"
+    ],
+    "tag": "Linguistique",
+    "hint": "'chat' = 1 monème (sens) / 3 phonèmes [ʃ][a][t] (sons)",
+    "expl": "DOUBLE ARTICULATION (Martinet) = doble articulación. 1ère : phrase → MONÈMES (unités de sens = morphèmes). 2ème : monèmes → PHONÈMES (unités sonores distinctives sans sens). Économie du langage humain."
+  },
+  {
+    "id": "c1gr1_23",
+    "q": "Qu'est-ce que le 'connectivisme' dans la grammaire de texte ?",
+    "a": "Principes qui assurent la liaison logique et cohérente entre les phrases d'un texte",
+    "choices": [
+      "Liaison logique et cohérente entre les phrases",
+      "Connecteurs uniquement",
+      "Cohésion lexicale seule",
+      "Ponctuation"
+    ],
+    "tag": "Linguistique textuelle",
+    "hint": "Cohésion + cohérence = CONNEXITÉ du texte",
+    "expl": "CONNECTIVISME / CONNEXITÉ TEXTUELLE = principes de cohérence et cohésion d'un texte. COHÉSION = liens grammaticaux (pronoms, connecteurs). COHÉRENCE = liens logiques et sémantiques. Un texte COHÉRENT est connexe."
+  },
+  {
+    "id": "c1gr1_24",
+    "q": "Qu'est-ce que la 'diathèse' ?",
+    "a": "Catégorie grammaticale exprimant le rôle du sujet par rapport à l'action (actif, passif, moyen)",
+    "choices": [
+      "Rôle du sujet par rapport à l'action (actif, passif, moyen)",
+      "Temps verbal",
+      "Mode verbal",
+      "Aspect verbal"
+    ],
+    "tag": "Grammaire",
+    "hint": "DIATHÈSE ACTIVE, PASSIVE, MOYENNE (pronominale)",
+    "expl": "DIATHÈSE = voz / diátesis. ACTIVE : le sujet est agent. PASSIVE : le sujet est patient. MOYENNE/RÉFLÉCHIE : le sujet est à la fois agent et patient (se laver). Catégorie grammaticale fondamentale."
+  },
+  {
+    "id": "c1gr1_25",
+    "q": "Qu'est-ce que la 'gradation scalaire' des adverbes ?",
+    "a": "Certains adverbes placent un élément sur une échelle : presque, à peine, même, surtout",
+    "choices": [
+      "Adverbes plaçant un élément sur une échelle",
+      "Adverbes de degré simples",
+      "Adverbes de temps",
+      "Adverbes de lieu"
+    ],
+    "tag": "Adverbes",
+    "hint": "PRESQUE parti (pas tout à fait) / MÊME lui est venu (extrême)",
+    "expl": "ADVERBES SCALAIRES : PRESQUE (en deçà du seuil), À PEINE (à la limite basse), MÊME (extrême haut). 'Il est PRESQUE parti' = pas tout à fait. 'MÊME lui est venu' = l'élément le moins attendu. Grice : implication scalaire."
+  }
+]

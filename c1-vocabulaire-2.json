@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1v2_01",
+    "q": "Que signifie 'syncrétisme' ?",
+    "a": "Fusion de doctrines ou de pratiques différentes, parfois contradictoires",
+    "choices": [
+      "Fusion de doctrines différentes",
+      "Analyse comparative",
+      "Opposition de doctrines",
+      "Évolution d'une doctrine"
+    ],
+    "tag": "Philosophie/Religion",
+    "hint": "Le SYNCRÉTISME religieux = mélange de croyances",
+    "expl": "SYNCRÉTISME = sincretismo. Mélange de doctrines ou pratiques d'origines différentes. SYNCRÉTISME RELIGIEUX = fusion de pratiques de plusieurs religions. Péjoratif : manque de cohérence, mélange incohérent."
+  },
+  {
+    "id": "c1v2_02",
+    "q": "Que signifie 'ostracisme' ?",
+    "a": "Exclusion d'un groupe ou d'une société, mise à l'écart systématique",
+    "choices": [
+      "Exclusion mise à l'écart systématique",
+      "Inclusion forcée",
+      "Critique publique",
+      "Punition physique"
+    ],
+    "tag": "Société",
+    "hint": "Être victime d'OSTRACISME = être exclu du groupe",
+    "expl": "OSTRACISME = ostracismo. Exclusion d'un individu d'un groupe social. Origine : Athènes (vote d'expulsion). Il a été frappé d'OSTRACISME. Synonymes : exclusion, bannissement, mise à l'index, marginalisation."
+  },
+  {
+    "id": "c1v2_03",
+    "q": "Que signifie 'velléité' ?",
+    "a": "Volonté faible et sans suite, désir vague qui n'aboutit pas à l'action",
+    "choices": [
+      "Volonté faible sans suite",
+      "Volonté forte",
+      "Intention claire",
+      "Refus catégorique"
+    ],
+    "tag": "Psychologie",
+    "hint": "Une VELLÉITÉ de réforme = une envie qui n'ira pas loin",
+    "expl": "VELLÉITÉ = veleidad, propósito vago. Volonté hésitante qui n'aboutit pas. Des VELLÉITÉS de changement. VELLÉITAIRE = qui n'agit pas malgré ses intentions. Synonymes : lubie, envie passagère, tentation."
+  },
+  {
+    "id": "c1v2_04",
+    "q": "Que signifie 'irénisme' ?",
+    "a": "Disposition à la conciliation, à chercher la paix et l'accord plutôt qu'à souligner les différences",
+    "choices": [
+      "Disposition à la conciliation et à la paix",
+      "Bellicisme",
+      "Neutralité froide",
+      "Compromis politique"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'IRÉNISME œcuménique = chercher l'unité des Églises",
+    "expl": "IRÉNISME = irenismo. Disposition à chercher la paix, l'accord, à minimiser les divergences. IRÉNIQUE = irénico. Opposé : polémique, bellicisme. Surtout en théologie : recherche de l'unité interreligieuse."
+  },
+  {
+    "id": "c1v2_05",
+    "q": "Que signifie 'propédeutique' dans son sens élargi ?",
+    "a": "Enseignement préliminaire préparant à une discipline plus avancée",
+    "choices": [
+      "Enseignement préliminaire et préparatoire",
+      "Enseignement final",
+      "Révision",
+      "Examen préliminaire"
+    ],
+    "tag": "Éducation",
+    "hint": "Ce cours est une PROPÉDEUTIQUE à la philosophie",
+    "expl": "PROPÉDEUTIQUE = propedéutico. Enseignement préliminaire qui prépare à une discipline. Au sens large : tout ce qui prépare intellectuellement à aborder un sujet. La grammaire est PROPÉDEUTIQUE à la littérature."
+  },
+  {
+    "id": "c1v2_06",
+    "q": "Que signifie 'catégorème' vs 'syncatégorème' ?",
+    "a": "CATÉGORÈME = terme ayant un sens propre / SYNCATÉGORÈME = terme qui n'a sens qu'en contexte",
+    "choices": [
+      "Catégorème = sens propre, syncatégorème = sens contextuel",
+      "Même chose",
+      "Catégorème = adjectif, syncatégorème = verbe",
+      "Termes de phonétique"
+    ],
+    "tag": "Linguistique",
+    "hint": "CHIEN = catégorème / ET, LE = syncatégorèmes",
+    "expl": "CATÉGORÈME = término con significado propio (chien, courir). SYNCATÉGORÈME = término sin significado propio (et, le, non). Distinction de la logique médiévale. Les FONCTEURS logiques sont des syncatégorèmes."
+  },
+  {
+    "id": "c1v2_07",
+    "q": "Que signifie 'palimpseste' au sens figuré ?",
+    "a": "Texte (ou réalité) sous lequel on peut lire d'autres textes antérieurs",
+    "choices": [
+      "Réalité sous laquelle on lit des couches antérieures",
+      "Manuscrit ancien",
+      "Texte crypté",
+      "Texte incomplet"
+    ],
+    "tag": "Littérature",
+    "hint": "La ville comme PALIMPSESTE de son histoire",
+    "expl": "PALIMPSESTE (propre) = pergamino reutilizado. PALIMPSESTE (figuré) = texto o realidad donde se leen capas anteriores. Genette : la littérature comme palimpseste (tout texte porte les traces des textes précédents)."
+  },
+  {
+    "id": "c1v2_08",
+    "q": "Que signifie 'dialecte' vs 'idiolecte' vs 'sociolecte' ?",
+    "a": "DIALECTE = géographique / IDIOLECTE = individuel / SOCIOLECTE = social",
+    "choices": [
+      "Dialecte = géo, idiolecte = individuel, sociolecte = social",
+      "Trois termes identiques",
+      "Dialecte = écrit, idiolecte = oral",
+      "Selon l'époque"
+    ],
+    "tag": "Linguistique",
+    "hint": "DIALECTE : breton / IDIOLECTE : façon unique de parler / SOCIOLECTE : argot de classe",
+    "expl": "DIALECTE = variété géographique. IDIOLECTE = façon de parler d'un individu. SOCIOLECTE = variété sociale (argot des banlieues, langage des médecins). Trois niveaux de variation linguistique."
+  },
+  {
+    "id": "c1v2_09",
+    "q": "Que signifie 'mésestimer' ?",
+    "a": "Estimer à sa juste valeur en la sous-estimant, méconnaître la valeur de",
+    "choices": [
+      "Sous-estimer, méconnaître la valeur de",
+      "Surestimer",
+      "Ignorer totalement",
+      "Critiquer injustement"
+    ],
+    "tag": "Verbes",
+    "hint": "Ne MÉSESTIMEZ PAS la difficulté = ne la sous-estimez pas",
+    "expl": "MÉSESTIMER = subestimar, menospreciar. Ne PAS MÉSESTIMER = ne pas sous-estimer. On MÉSESTIME souvent les difficultés. Synonymes : sous-estimer, méconnaître, négliger. Antonymes : surestimer, surestime."
+  },
+  {
+    "id": "c1v2_10",
+    "q": "Que signifie 'immarcescible' ?",
+    "a": "Qui ne peut se flétrir, impérissable, durable éternellement",
+    "choices": [
+      "Impérissable qui ne se flétrit pas",
+      "Fragile",
+      "Temporaire",
+      "Éphémère"
+    ],
+    "tag": "Vocabulaire soutenu",
+    "hint": "Une gloire IMMARCESCIBLE = une gloire qui dure toujours",
+    "expl": "IMMARCESCIBLE = inmarcesible, imperecedero. Qui ne peut se flétrir (du latin marcescere = se flétrir). Une gloire IMMARCESCIBLE. Terme très soutenu, littéraire et religieux. Synonymes : impérissable, éternel."
+  },
+  {
+    "id": "c1v2_11",
+    "q": "Que signifie 'pléonasme' ?",
+    "a": "Répétition d'une même idée par des termes de sens équivalent (souvent fautive)",
+    "choices": [
+      "Répétition de la même idée en termes équivalents",
+      "Ellipse",
+      "Antithèse",
+      "Métaphore"
+    ],
+    "tag": "Rhétorique/Linguistique",
+    "hint": "'Monter en haut' = PLÉONASME (monter = déjà en haut)",
+    "expl": "PLÉONASME = pleonasmo. 'Monter en haut.' 'Un bébé tout petit.' 'Un vieillard très âgé.' Parfois stylistique et intentionnel. PLÉONASTIQUE = pleonástico. Distinct de la tautologie (répétition logique)."
+  },
+  {
+    "id": "c1v2_12",
+    "q": "Que signifie 'lapalissade' ?",
+    "a": "Vérité évidente au point d'être ridicule à énoncer",
+    "choices": [
+      "Vérité tellement évidente qu'elle est inutile",
+      "Paradoxe apparent",
+      "Erreur logique",
+      "Formule élégante"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Un homme vivant est en vie' = LAPALISSADE",
+    "expl": "LAPALISSADE = perogrullada, verdad de Perogrullo. Vérité évidente et triviale. Du maréchal de La Palice (1470-1525). 'Un quart d'heure avant sa mort, il était encore en vie.' Synonymes : truisme, tautologie évidente."
+  },
+  {
+    "id": "c1v2_13",
+    "q": "Que signifie 'pétition de principe' ?",
+    "a": "Raisonnement circulaire qui suppose vrai ce qu'il faut démontrer",
+    "choices": [
+      "Raisonnement circulaire supposant vrai ce qu'il faut prouver",
+      "Demande de principe",
+      "Principe axiomatique",
+      "Postulat accepté"
+    ],
+    "tag": "Logique",
+    "hint": "'Dieu existe parce que la Bible le dit, et la Bible est vraie parce que c'est la parole de Dieu'",
+    "expl": "PÉTITION DE PRINCIPE = petición de principio. Sophisme : on suppose vrai ce qu'on veut démontrer. 'Il faut croire la Bible car c'est la parole de Dieu, et Dieu existe car la Bible le dit.' Cercle vicieux logique."
+  },
+  {
+    "id": "c1v2_14",
+    "q": "Que signifie 'épiphénomène' ?",
+    "a": "Phénomène secondaire qui accompagne un phénomène principal sans en être la cause",
+    "choices": [
+      "Phénomène secondaire accompagnant sans causer",
+      "Phénomène principal",
+      "Cause première",
+      "Conséquence directe"
+    ],
+    "tag": "Philosophie",
+    "hint": "Pour certains, la conscience est un ÉPIPHÉNOMÈNE du cerveau",
+    "expl": "ÉPIPHÉNOMÈNE = epifenómeno. Phénomène secondaire qui accompagne un phénomène principal mais sans en être la cause. Pour les matérialistes : la conscience = épiphénomène du cerveau. Synonymes : phénomène accessoire, effet secondaire."
+  },
+  {
+    "id": "c1v2_15",
+    "q": "Que signifie 'axiologie' ?",
+    "a": "Étude philosophique des valeurs morales, esthétiques et sociales",
+    "choices": [
+      "Étude philosophique des valeurs",
+      "Étude des axiomes mathématiques",
+      "Théorie politique",
+      "Logique formelle"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'AXIOLOGIE se demande : quelles sont les valeurs ?",
+    "expl": "AXIOLOGIE = axiología. Branche de la philosophie étudiant les valeurs (morales, esthétiques, sociales). AXIOLOGIQUE = axiológico. JUGEMENT DE VALEUR vs JUGEMENT DE FAIT = distinction axiologique fondamentale."
+  },
+  {
+    "id": "c1v2_16",
+    "q": "Que signifie 'aporétique' ?",
+    "a": "Qui relève de l'aporie, qui génère une impasse intellectuelle",
+    "choices": [
+      "Qui génère une impasse intellectuelle",
+      "Qui résout les problèmes",
+      "Qui est évident",
+      "Qui est pragmatique"
+    ],
+    "tag": "Philosophie",
+    "hint": "Une question APORÉTIQUE n'a pas de réponse claire",
+    "expl": "APORÉTIQUE = aporético. Relatif à l'aporie, à l'impasse philosophique. Une situation APORÉTIQUE. Un raisonnement APORÉTIQUE. Socrate utilisait la méthode aporétique pour montrer que ses interlocuteurs ne savaient pas."
+  },
+  {
+    "id": "c1v2_17",
+    "q": "Que signifie 'prolixité' ?",
+    "a": "Défaut de celui qui parle ou écrit de façon trop abondante, verbosité",
+    "choices": [
+      "Verbosité abondance excessive de mots",
+      "Concision",
+      "Clarté",
+      "Élégance"
+    ],
+    "tag": "Style",
+    "hint": "La PROLIXITÉ de ce discours l'a rendu ennuyeux",
+    "expl": "PROLIXITÉ = prolijidad. Caractère de celui qui est prolixe (parle trop longtemps). Synonymes : verbosité, bavardage, diffusion. Antonymes : laconisme, concision, brièveté. PROLIXE = prolijo."
+  },
+  {
+    "id": "c1v2_18",
+    "q": "Que signifie 'syntagme' ?",
+    "a": "Groupe de mots formant une unité syntaxique (syntagme nominal, verbal, etc.)",
+    "choices": [
+      "Groupe de mots formant une unité syntaxique",
+      "Phrase entière",
+      "Mot isolé",
+      "Phonème"
+    ],
+    "tag": "Linguistique",
+    "hint": "SYNTAGME NOMINAL : le grand chien noir = SN",
+    "expl": "SYNTAGME = sintagma. Unité syntaxique composée de plusieurs mots fonctionnant ensemble. SYNTAGME NOMINAL (SN) = le grand chien. SYNTAGME VERBAL (SV) = court vite. Terme fondamental en linguistique structurale."
+  },
+  {
+    "id": "c1v2_19",
+    "q": "Que signifie 'catachrèse' ?",
+    "a": "Figure par laquelle un signe est détourné de son sens propre pour désigner une réalité sans nom",
+    "choices": [
+      "Détournement d'un signe pour nommer ce qui n'a pas de nom",
+      "Métaphore consciente",
+      "Erreur de sens",
+      "Néologisme"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Le 'pied' de la table — emploi figuré devenu usuel",
+    "expl": "CATACHRÈSE = catácresis. Extension de sens d'un mot pour combler un manque lexical. 'Le pied de la table', 'les bras d'un fauteuil', 'la feuille de papier'. Métaphore lexicalisée qu'on n'identifie plus comme figure."
+  },
+  {
+    "id": "c1v2_20",
+    "q": "Que signifie 'atonie' au sens figuré ?",
+    "a": "Manque de tonus, de vigueur, de dynamisme (individu ou groupe)",
+    "choices": [
+      "Manque de tonus de vigueur de dynamisme",
+      "Excès d'énergie",
+      "Calme sain",
+      "Neutralité"
+    ],
+    "tag": "Général",
+    "hint": "L'ATONIE économique = stagnation, manque de dynamisme",
+    "expl": "ATONIE (médicale) = atonía = manque de tonus musculaire. ATONIE (figurée) = flojedad, languidez. L'ATONIE du marché immobilier. Synonymes : langueur, inertie, stagnation, apathie."
+  },
+  {
+    "id": "c1v2_21",
+    "q": "Que signifie 'éristique' ?",
+    "a": "Art de disputer, de débattre pour vaincre à tout prix plutôt que de chercher la vérité",
+    "choices": [
+      "Art de débattre pour vaincre à tout prix",
+      "Art de chercher la vérité",
+      "Rhétorique honnête",
+      "Dialectique constructive"
+    ],
+    "tag": "Rhétorique",
+    "hint": "L'ÉRISTIQUE des sophistes : gagner le débat, pas chercher la vérité",
+    "expl": "ÉRISTIQUE = erística. Art de disputer en cherchant à vaincre, pas à trouver la vérité. Les sophistes pratiquaient l'éristique. Schopenhauer : L'Art d'avoir toujours raison = manuel d'éristique."
+  },
+  {
+    "id": "c1v2_22",
+    "q": "Que signifie 'stochastique' ?",
+    "a": "Qui relève du hasard, processus dont l'évolution est probabiliste et non déterministe",
+    "choices": [
+      "Probabiliste aléatoire non déterministe",
+      "Déterministe",
+      "Systématique",
+      "Cyclique"
+    ],
+    "tag": "Sciences",
+    "hint": "Un processus STOCHASTIQUE = aléatoire mais modélisable",
+    "expl": "STOCHASTIQUE = estocástico. Processus dont l'évolution est gouvernée par le hasard, mais modélisable statistiquement. MODÈLE STOCHASTIQUE ≠ DÉTERMINISTE. Terme de mathématiques, statistiques, physique."
+  },
+  {
+    "id": "c1v2_23",
+    "q": "Que signifie 'synoptique' ?",
+    "a": "Qui permet une vue d'ensemble, récapitulatif permettant de saisir d'un regard",
+    "choices": [
+      "Qui donne une vue d'ensemble récapitulative",
+      "Détaillé",
+      "Partiel",
+      "Chronologique seul"
+    ],
+    "tag": "Général",
+    "hint": "Un tableau SYNOPTIQUE = vue d'ensemble condensée",
+    "expl": "SYNOPTIQUE = sinóptico. Qui permet de saisir d'un coup d'œil. Tableau SYNOPTIQUE. Les évangiles SYNOPTIQUES (Matthieu, Marc, Luc) = peuvent être lus en parallèle. Synonymes : récapitulatif, synthétique."
+  },
+  {
+    "id": "c1v2_24",
+    "q": "Que signifie 'casuistique' dans son sens péjoratif ?",
+    "a": "Raisonnement subtil qui cherche des cas particuliers pour contourner une règle générale",
+    "choices": [
+      "Raisonnement cherchant des biais dans les cas particuliers",
+      "Méthode rigoureuse",
+      "Application stricte des règles",
+      "Jurisprudence honnête"
+    ],
+    "tag": "Péjoratif",
+    "hint": "La CASUISTIQUE des Jésuites critiquée par Pascal = chercher des exceptions",
+    "expl": "CASUISTIQUE (péj.) = casuística rebuscada. Chercher des cas particuliers pour contourner les règles générales. Pascal critique les Jésuites dans les Provinciales pour leur casuistique qui permettait tout."
+  },
+  {
+    "id": "c1v2_25",
+    "q": "Que signifie 'peccadille' ?",
+    "a": "Faute légère, péché véniel sans grande importance",
+    "choices": [
+      "Faute légère sans grande importance",
+      "Faute grave",
+      "Crime",
+      "Erreur de jugement"
+    ],
+    "tag": "Général",
+    "hint": "Ce n'est qu'une PECCADILLE = ce n'est pas grave",
+    "expl": "PECCADILLE = pecadillo, falta leve. Faute légère, péché sans gravité. Ce n'est qu'une PECCADILLE. On ne peut pas le condamner pour une PECCADILLE. Synonymes : vétille, bagatelle, broutille. Antonymes : crime, forfait."
+  }
+]

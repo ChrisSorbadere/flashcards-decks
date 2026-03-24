@@ -1,0 +1,239 @@
+[
+  {
+    "id": "c1ph2_01",
+    "q": "Qu'est-ce que la 'prosodie contrastive' ?",
+    "a": "Mise en relief d'un élément par contraste prosodique avec son environnement",
+    "choices": [
+      "Mise en relief par contraste prosodique",
+      "Prosodie régulière",
+      "Accent de groupe standard",
+      "Intonation neutre"
+    ],
+    "tag": "Prosodie",
+    "hint": "Ce n'est PAS un problème d'argent — PAS contrasté",
+    "expl": "PROSODIE CONTRASTIVE : CE N'EST PAS un problème d'argent (accent fort sur PAS). Je n'ai pas DIT ça, je l'ai SOUS-ENTENDU (contraste dit/sous-entendu). Outil rhétorique pour rectifier ou opposer."
+  },
+  {
+    "id": "c1ph2_02",
+    "q": "Qu'est-ce que l'écart entre 'norme prescriptive' et 'usage réel' en phonétique ?",
+    "a": "La norme académique prescrit des prononciations que l'usage réel ne respecte pas toujours",
+    "choices": [
+      "La norme prescrit ce que l'usage ne respecte pas toujours",
+      "La norme décrit l'usage",
+      "Il n'y a pas d'écart",
+      "L'usage suit toujours la norme"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "'Correct' ≠ 'naturel' en phonétique",
+    "expl": "NORME vs USAGE : la norme prescrit (on 'devrait' dire). L'usage décrit (ce qu'on dit vraiment). EX : 'plus' négatif = [ply] (usage) mais certains prescrivent [plys]. La linguistique descriptive observe, la prescriptive juge."
+  },
+  {
+    "id": "c1ph2_03",
+    "q": "Qu'est-ce que la 'coalescence' phonologique ?",
+    "a": "Fusion de deux sons adjacents en un seul son nouveau différent des deux originaux",
+    "choices": [
+      "Fusion de deux sons en un son nouveau différent",
+      "Assimilation simple",
+      "Élision",
+      "Métathèse"
+    ],
+    "tag": "Phonologie",
+    "hint": "TU + voyelle → [tʃ] au Québec (coalescence)",
+    "expl": "COALESCENCE = coalescencia. Deux sons fusionnent en un son nouveau. Québécois : TU + voyelle → [tʃ]. TU AS → [tʃa]. DU + voyelle → [dʒ]. Différent de l'assimilation (un son prend les traits de l'autre)."
+  },
+  {
+    "id": "c1ph2_04",
+    "q": "Qu'est-ce que la 'frontière prosodique forte' ?",
+    "a": "Pause marquée et chute tonale signalant une rupture majeure dans le discours",
+    "choices": [
+      "Pause marquée et chute tonale — rupture majeure",
+      "Simple pause respiratoire",
+      "Frontière de mot",
+      "Frontière de syllabe"
+    ],
+    "tag": "Prosodie",
+    "hint": "Entre deux paragraphes à l'oral : frontière prosodique forte",
+    "expl": "FRONTIÈRE PROSODIQUE FORTE = frontera prosódica fuerte. Pause longue + chute tonale décisive + reset de hauteur pour la phrase suivante. Signale fin de paragraphe, changement de thème, transition majeure."
+  },
+  {
+    "id": "c1ph2_05",
+    "q": "Qu'est-ce que la 'variation diastratique' en phonétique ?",
+    "a": "Variation liée au statut social du locuteur (accent populaire vs soutenu)",
+    "choices": [
+      "Variation liée au statut social",
+      "Variation régionale",
+      "Variation selon l'âge",
+      "Variation selon le sexe"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "Accent bourgeois vs accent populaire = diastratique",
+    "expl": "VARIATION DIASTRATIQUE = variación diastrática. Variation selon la classe sociale. Accent populaire (élisions, relâchements) vs accent soutenu (liaisons, articulation soignée). Lié au niveau d'éducation et au milieu social."
+  },
+  {
+    "id": "c1ph2_06",
+    "q": "Qu'est-ce que la 'variation diaphasique' ?",
+    "a": "Variation liée au registre ou à la situation de communication",
+    "choices": [
+      "Variation liée au registre et à la situation",
+      "Variation régionale",
+      "Variation sociale",
+      "Variation historique"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "Même locuteur : parle différemment au travail et avec ses amis",
+    "expl": "VARIATION DIAPHASIQUE = variación diafásica. Même locuteur change selon la situation. Réunion professionnelle → registre soigné. Entre amis → registre familier. Un seul locuteur, plusieurs styles."
+  },
+  {
+    "id": "c1ph2_07",
+    "q": "Qu'est-ce que la 'variation diachronique' en phonétique ?",
+    "a": "Évolution de la prononciation dans le temps",
+    "choices": [
+      "Variation régionale",
+      "Variation sociale",
+      "Variation selon le registre"
+    ],
+    "tag": "Sociolinguistique",
+    "hint": "Le français de 1700 ≠ français de 2024",
+    "expl": "VARIATION DIACHRONIQUE = variación diacrónica. Changement phonétique dans le temps. Le R grasseyé parisien s'est diffusé au XVIIIe. Les nasales ont évolué. La distinction [a]/[ɑ] disparaît. Langue vivante = langue qui change."
+  },
+  {
+    "id": "c1ph2_08",
+    "q": "Qu'est-ce que la 'prosodie émergente' dans l'interaction ?",
+    "a": "Prosodie co-construite entre locuteurs qui s'influencent mutuellement",
+    "choices": [
+      "Prosodie co-construite entre locuteurs",
+      "Prosodie d'un seul locuteur",
+      "Prosodie fixe et stable",
+      "Prosodie artificielle"
+    ],
+    "tag": "Pragmatique",
+    "hint": "L'accommodation prosodique mutuelle dans une conversation",
+    "expl": "PROSODIE ÉMERGENTE : dans une conversation, les locuteurs s'ACCOMMODENT mutuellement (s'alignent sur l'intonation, le débit de l'autre). Phénomène d'accommodation prosodique = rapprochement social."
+  },
+  {
+    "id": "c1ph2_09",
+    "q": "Comment distingue-t-on 'accent de fréquence' et 'accent d'intensité' ?",
+    "a": "Fréquence = hauteur de la voix (F0) / Intensité = volume sonore (dB)",
+    "choices": [
+      "Fréquence = hauteur (F0), intensité = volume (dB)",
+      "Même phénomène",
+      "Fréquence = volume, intensité = hauteur",
+      "Aucune distinction"
+    ],
+    "tag": "Phonétique acoustique",
+    "hint": "On peut parler fort et grave, ou doux et aigu",
+    "expl": "ACCENT DE FRÉQUENCE = variation de F0 (hauteur). ACCENT D'INTENSITÉ = variation de dB (volume). En français, l'accent est majoritairement TONAL (fréquence). Mais intensité et durée contribuent aussi à la proéminence syllabique."
+  },
+  {
+    "id": "c1ph2_10",
+    "q": "Qu'est-ce que le 'schwa instable' et ses conditions d'apparition ?",
+    "a": "E caduc qui apparaît ou disparaît selon des règles complexes de contexte phonétique",
+    "choices": [
+      "E caduc apparaissant ou disparaissant selon le contexte",
+      "E toujours prononcé",
+      "E jamais prononcé",
+      "E seulement en poésie"
+    ],
+    "tag": "Phonologie",
+    "hint": "La loi des trois consonnes : pas plus de 2 consonnes consécutives",
+    "expl": "SCHWA INSTABLE : la LOI DES TROIS CONSONNES guide son apparition. Il ne peut pas tomber si cela crée un groupe de 3 consonnes imprononçable. 'Samedi' : sam-di possible (2 cons). 'Vendredi' : vend-rdi impossible → E maintenu."
+  },
+  {
+    "id": "c1ph2_11",
+    "q": "Qu'est-ce que le 'trait suprasegmental' ?",
+    "a": "Propriété phonologique qui s'étend au-delà du segment (syllabe, mot, phrase) : ton, accent, intonation",
+    "choices": [
+      "Propriété s'étendant au-delà du segment",
+      "Propriété d'un seul phonème",
+      "Propriété d'une consonne",
+      "Propriété d'une voyelle"
+    ],
+    "tag": "Phonologie",
+    "hint": "Suprasegmental = au-dessus du son individuel",
+    "expl": "TRAITS SUPRASEGMENTAUX = suprasegmentales. S'étendent sur plusieurs sons : TON (langue tonale), ACCENT (proéminence syllabique), INTONATION (courbe mélodique de la phrase), QUANTITÉ (durée). En français : accent et intonation sont suprasegmentaux."
+  },
+  {
+    "id": "c1ph2_12",
+    "q": "Comment l'intonation encode-t-elle la MODALITÉ en français ?",
+    "a": "Montante = question / descendante = assertion ou ordre / suspensive = liste ou incomplétude",
+    "choices": [
+      "Montante = question, descendante = assertion/ordre, suspensive = liste",
+      "Toujours montante",
+      "Toujours descendante",
+      "Plate pour tout"
+    ],
+    "tag": "Intonation",
+    "hint": "Trois patrons de base : ↗ / ↘ / →",
+    "expl": "MODALITÉ INTONATIVE : ↗ MONTANTE = question totale, surprise. ↘ DESCENDANTE = assertion (certitude), ordre (catégorique). → SUSPENSIVE = liste non terminée, incomplétude, attente de suite."
+  },
+  {
+    "id": "c1ph2_13",
+    "q": "Qu'est-ce que la 'phonologie autosegmentale' ?",
+    "a": "Théorie représentant les tons et traits prosodiques sur des niveaux séparés (tiers)",
+    "choices": [
+      "Représentation sur niveaux séparés — tiers",
+      "Phonologie classique",
+      "Phonologie historique",
+      "Phonologie des segments seuls"
+    ],
+    "tag": "Théorie phonologique",
+    "hint": "Tiers mélodique, tonal, rythmique — représentations indépendantes",
+    "expl": "PHONOLOGIE AUTOSEGMENTALE (Goldsmith, 1976) : les traits prosodiques (tons, nasalité) sont représentés sur des TIERS indépendants associés aux segments. Permet d'expliquer les spread tonaux et la nasalité dépropagée."
+  },
+  {
+    "id": "c1ph2_14",
+    "q": "Qu'est-ce que la 'théorie de l'optimalité' (OT) appliquée au français ?",
+    "a": "Système de contraintes classées qui explique les formes phonologiques de surface",
+    "choices": [
+      "Contraintes classées expliquant les formes de surface",
+      "Règles séquentielles",
+      "Description historique",
+      "Phonétique articulatoire"
+    ],
+    "tag": "Théorie phonologique",
+    "hint": "OT : les contraintes universelles sont classées différemment selon les langues",
+    "expl": "THÉORIE DE L'OPTIMALITÉ (Prince & Smolensky) = teoría de la optimalidad. Contraintes universelles (ONSET, NOCODA, FAITHFULNESS) classées selon la langue. La forme gagnante = celle qui viole le moins de contraintes hautes."
+  },
+  {
+    "id": "c1ph2_15",
+    "q": "Qu'est-ce que la 'perception catégorielle' en phonétique ?",
+    "a": "Tendance à percevoir les sons comme appartenant à des catégories discrètes malgré un continuum physique",
+    "choices": [
+      "Perception en catégories discrètes malgré un continuum",
+      "Perception continue et graduelle",
+      "Perception uniquement des voyelles",
+      "Perception uniquement des consonnes"
+    ],
+    "tag": "Phonétique perceptive",
+    "hint": "[b] vs [p] — on perçoit l'un ou l'autre, jamais 'entre les deux'",
+    "expl": "PERCEPTION CATÉGORIELLE = percepción categorial. Le continuum acoustique [ba]→[pa] est perçu en deux catégories distinctes avec une frontière nette. Pas de percept intermédiaire. Phénomène universel mais la frontière varie selon la langue."
+  },
+  {
+    "id": "c1ph2_16",
+    "q": "Qu'est-ce que le 'VOT' (Voice Onset Time) ?",
+    "a": "Délai entre le relâchement d'une occlusive et le début de la voisement — distingue [p/b], [t/d]",
+    "choices": [
+      "Délai entre relâchement d'une occlusive et début du voisement",
+      "Durée totale d'une consonne",
+      "Durée d'une voyelle",
+      "Hauteur d'une voyelle"
+    ],
+    "tag": "Phonétique acoustique",
+    "hint": "VOT long = [p], [t], [k] / VOT court ou négatif = [b], [d], [g]",
+    "expl": "VOT = Voice Onset Time. En français : VOT COURT pour [p, t, k] (contrairement à l'anglais qui a un long VOT aspiré). [b, d, g] ont un VOT négatif (voisement avant le relâchement). Paramètre clé des occlusives."
+  },
+  {
+    "id": "c1ph2_17",
+    "q": "Comment analyse-t-on un 'contour intonatif' ?",
+    "a": "Description des mouvements de F0 : montée, descente, plateau, accent, frontière",
+    "choices": [
+      "F0 : montée, descente, plateau, accent, frontière",
+      "Seulement la hauteur finale",
+      "Seulement le début et la fin",
+      "Volume uniquement"
+    ],
+    "tag": "Intonation",
+    "hint": "Analyser F0 point par point dans une phrase",
+    "expl": "ANALYSE D'UN CONTOUR : mesure de F0 en Hz tout au long de l'énoncé. Identifier : ACCENT (pic ou creux), FRONTIÈRE (chute ou montée finale), REGISTRE (hauteur générale), DÉCLINAISON (abaissement progressif en fin d'énoncé)."
+  }
+]

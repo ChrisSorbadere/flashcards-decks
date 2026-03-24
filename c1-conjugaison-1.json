@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1c1_01",
+    "q": "Comment fonctionne le subjonctif après NIER QUE ?",
+    "a": "NIER QUE + subjonctif (car nier = ne pas reconnaître = doute)",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Il nie QU'IL SOIT coupable — subjonctif du doute",
+    "expl": "NIER QUE + subjonctif. Il nie QU'IL SOIT coupable. Car nier = mettre en doute. Opposé : RECONNAÎTRE QUE + indicatif (certitude). DOUTER QUE + subjonctif. ADMETTRE QUE + indicatif."
+  },
+  {
+    "id": "c1c1_02",
+    "q": "Quel mode après S'ATTENDRE À CE QUE vs ATTENDRE QUE ?",
+    "a": "Les deux + subjonctif, mais ATTENDRE QUE = patienter / S'ATTENDRE À CE QUE = anticiper",
+    "choices": [
+      "Les deux + subjonctif, nuance sémantique",
+      "Attendre = indicatif, s'attendre = subjonctif",
+      "Les deux + indicatif",
+      "S'attendre = conditionnel"
+    ],
+    "tag": "Subjonctif",
+    "hint": "ATTENDRE QU'IL VIENNE (patienter) vs S'ATTENDRE À CE QU'IL VIENNE (prévoir)",
+    "expl": "ATTENDRE QUE + subjonctif = patienter que. S'ATTENDRE À CE QUE + subjonctif = anticiper. Les deux prennent le subjonctif mais avec des sens très différents. Nuance fondamentale en C1."
+  },
+  {
+    "id": "c1c1_03",
+    "q": "Comment fonctionne le conditionnel dans les hypothèses non marquées ?",
+    "a": "Selon certains analystes, il SERAIT... — conditionnel épistémique, distanciation du locuteur",
+    "choices": [
+      "Conditionnel épistémique = distanciation du locuteur",
+      "Conditionnel futur du passé",
+      "Conditionnel de politesse",
+      "Conditionnel hypothétique classique"
+    ],
+    "tag": "Conditionnel",
+    "hint": "Les marchés AURAIENT réagi négativement — journalisme",
+    "expl": "CONDITIONNEL ÉPISTÉMIQUE = distanciation énonciative. Le locuteur ne s'engage pas sur la vérité de l'énoncé. Les marchés AURAIENT RÉAGI négativement. Il SERAIT impliqué dans l'affaire. Très fréquent en journalisme."
+  },
+  {
+    "id": "c1c1_04",
+    "q": "Qu'est-ce que l'imparfait dit 'contrefactuel' ?",
+    "a": "Si j'avais de l'argent, je PARTAIS — imparfait pour remplacer le conditionnel dans le registre oral",
+    "choices": [
+      "Imparfait remplaçant le conditionnel à l'oral",
+      "Imparfait habituel",
+      "Imparfait de description",
+      "Imparfait de narration"
+    ],
+    "tag": "Imparfait",
+    "hint": "'Si j'avais su, je VENAIS pas' — familier pour 'je ne serais pas venu'",
+    "expl": "IMPARFAIT CONTREFACTUEL (oral familier) : Si j'avais su, je VENAIS PAS = je ne serais pas venu. Remplace le conditionnel passé dans le registre très familier. Non standard mais très répandu."
+  },
+  {
+    "id": "c1c1_05",
+    "q": "Comment fonctionne le futur antérieur à valeur d'hypothèse ?",
+    "a": "Il aura oublié — futur antérieur exprimant une supposition sur le passé récent",
+    "choices": [
+      "Supposition sur le passé récent",
+      "Futur accompli",
+      "Futur antérieur chronologique",
+      "Certitude sur le passé"
+    ],
+    "tag": "Futur antérieur",
+    "hint": "Il N'EST PAS LÀ — il AURA OUBLIÉ notre rendez-vous",
+    "expl": "FUTUR ANTÉRIEUR HYPOTHÉTIQUE : Il n'est pas là, il AURA OUBLIÉ = il a probablement oublié (supposition sur le passé immédiat). Valeur voisine de 'il a dû oublier'. Registre soutenu."
+  },
+  {
+    "id": "c1c1_06",
+    "q": "Comment fonctionne le verbe VOIR dans 'j'ai vu venir ça' ?",
+    "a": "Voir venir = prévoir, anticiper — construction semi-figée",
+    "choices": [
+      "VOIR + infinitif = percevoir ou anticiper selon contexte",
+      "Voir = regarder seulement",
+      "Voir venir = attendre",
+      "Voir venir = douter"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "J'AI VU VENIR le problème = je l'avais anticipé",
+    "expl": "VOIR + infinitif : (1) perception : J'AI VU COURIR les enfants. (2) figé : VOIR VENIR = anticiper. J'ai vu VENIR ça de loin. VOIR ARRIVER quelqu'un. Construction causale-perceptive importante."
+  },
+  {
+    "id": "c1c1_07",
+    "q": "Quelle est la construction de RISQUER DE vs RISQUER QUE ?",
+    "a": "RISQUER DE + infinitif (même sujet) / RISQUER QUE + subjonctif (sujets différents)",
+    "choices": [
+      "Risquer de + inf (même sujet) / risquer que + subjonctif",
+      "Risquer de + inf toujours",
+      "Risquer que + indicatif",
+      "Risquer + conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il risque DE tomber / on risque QU'IL TOMBE",
+    "expl": "RISQUER DE + infinitif (même sujet). Il RISQUE DE TOMBER. RISQUER QUE + subjonctif (sujets différents). On RISQUE QU'IL TOMBE. La construction change selon la relation des sujets."
+  },
+  {
+    "id": "c1c1_08",
+    "q": "Comment fonctionne SUFFIRE DE vs SUFFIRE QUE ?",
+    "a": "SUFFIRE DE + infinitif / SUFFIRE QUE + subjonctif",
+    "choices": [
+      "Suffire de + infinitif / suffire que + subjonctif",
+      "Suffire + indicatif toujours",
+      "Suffire de + subjonctif",
+      "Suffire que + indicatif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il SUFFIT DE DEMANDER / il suffit QU'ON DEMANDE",
+    "expl": "IL SUFFIT DE + infinitif (impersonnel général). IL SUFFIT QUE + subjonctif. Il SUFFIT DE DEMANDER pour obtenir. Il SUFFIT QU'IL PARLE pour convaincre. Nuance : de = action simple / que = condition suffisante."
+  },
+  {
+    "id": "c1c1_09",
+    "q": "Quelle est la valeur du présent dans 'si tu bouges, je tire' ?",
+    "a": "Présent dans la condition = valeur d'imminence réelle (pas hypothèse irréelle)",
+    "choices": [
+      "Valeur d'imminence réelle dans SI + présent",
+      "Hypothèse irréelle",
+      "Habitude",
+      "Description"
+    ],
+    "tag": "Hypothèse",
+    "hint": "SI tu bouges, je tire — condition immédiate et réelle",
+    "expl": "SI + PRÉSENT → conséquence immédiate/certaine. SI TU BOUGES, JE TIRE. Condition RÉELLE et immédiate. Différent de SI + imparfait (hypothèse) ou SI + PQP (passé irréel). Niveau de réalité variable."
+  },
+  {
+    "id": "c1c1_10",
+    "q": "Comment fonctionne 'quand + futur antérieur' vs 'quand + futur simple' ?",
+    "a": "Futur antérieur = action accomplie avant une autre future / Futur simple = action simultanée",
+    "choices": [
+      "FTA = accomplie avant / FS = simultanée ou presque",
+      "Les deux identiques",
+      "FTA = futur proche, FS = futur lointain",
+      "FTA = certain, FS = incertain"
+    ],
+    "tag": "Futur",
+    "hint": "Quand TU AURAS FINI, viens (avant) vs quand TU VIENDRAS, mange (simultané)",
+    "expl": "QUAND + FTA : antériorité. Quand TU AURAS FINI, tu pourras partir. QUAND + FS : simultanéité ou succession immédiate. Quand VIENDRA le printemps, les fleurs fleuriront. Distinction aspectuelle fine."
+  },
+  {
+    "id": "c1c1_11",
+    "q": "Comment fonctionne le subjonctif après ADMETTRE QUE à la forme négative ?",
+    "a": "IL N'ADMET PAS QUE + subjonctif (négation crée le doute)",
+    "choices": [
+      "Subjonctif après négation d'admettre",
+      "Indicatif toujours",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Il N'ADMET PAS QUE ce soit vrai — subjonctif",
+    "expl": "ADMETTRE QUE affirmatif → indicatif. Il admet QU'IL A tort. ADMETTRE QUE négatif → subjonctif. Il N'ADMET PAS QUE CE SOIT vrai. La négation crée l'incertitude → subjonctif. Règle générale pour les verbes de déclaration."
+  },
+  {
+    "id": "c1c1_12",
+    "q": "Quel mode après SOIT QUE... SOIT QUE... ?",
+    "a": "Subjonctif dans les deux membres : soit qu'il soit malade, soit qu'il soit absent",
+    "choices": [
+      "Subjonctif dans les deux membres",
+      "Indicatif dans les deux",
+      "Conditionnel dans le second",
+      "Premier indicatif, second subjonctif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "SOIT QU'IL VEUILLE, SOIT QU'IL NE PUISSE — alternatives en subjonctif",
+    "expl": "SOIT QUE... SOIT QUE... = ya sea que... ya sea que... + subjonctif dans les DEUX membres. SOIT QU'IL SOIT MALADE, SOIT QU'IL SOIT ABSENT. Exprime l'alternative hypothétique."
+  },
+  {
+    "id": "c1c1_13",
+    "q": "Comment fonctionne NON QUE + subjonctif ?",
+    "a": "NON QUE + subjonctif = ce n'est pas parce que — écarte une explication possible",
+    "choices": [
+      "Non que + subjonctif écarte une explication",
+      "Non que + indicatif",
+      "Non que + conditionnel",
+      "Non que + infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Il est parti, NON QU'IL SOIT fâché, mais fatigué",
+    "expl": "NON QUE + subjonctif = no porque + subjuntivo. Il est parti, NON QU'IL SOIT FÂCHÉ, mais parce qu'il était fatigué. Écarte une interprétation possible. Registre soutenu, argumentation."
+  },
+  {
+    "id": "c1c1_14",
+    "q": "Quelle est la valeur de l'infinitif passé après APRÈS ?",
+    "a": "APRÈS AVOIR/ÊTRE + PP = antériorité : action terminée avant l'action principale",
+    "choices": [
+      "Antériorité : action terminée avant l'action principale",
+      "Simultanéité",
+      "Cause",
+      "But"
+    ],
+    "tag": "Infinitif passé",
+    "hint": "APRÈS AVOIR MANGÉ, il est sorti — antériorité",
+    "expl": "APRÈS + INFINITIF PASSÉ = après avoir fait / après être parti. Exprime l'antériorité (action terminée AVANT l'action principale). Même sujet obligatoire. APRÈS QUE + indicatif (sujets différents)."
+  },
+  {
+    "id": "c1c1_15",
+    "q": "Comment fonctionne SANS AVOIR + PP ?",
+    "a": "SANS AVOIR + PP = sans que l'action se soit produite (même sujet)",
+    "choices": [
+      "Sans que l'action se soit produite (même sujet)",
+      "Avec l'action qui s'est produite",
+      "Malgré l'action",
+      "Avant l'action"
+    ],
+    "tag": "Infinitif passé",
+    "hint": "Il est parti SANS AVOIR TERMINÉ son travail",
+    "expl": "SANS AVOIR/ÊTRE + PP : action qui ne s'est PAS produite. Il est parti SANS AVOIR TERMINÉ = sin haber terminado. SANS S'ÊTRE EXCUSÉ = sin haberse disculpado. Négation de l'antériorité."
+  },
+  {
+    "id": "c1c1_16",
+    "q": "Quelle est la différence entre POUR + infinitif présent et POUR + infinitif passé ?",
+    "a": "POUR + présent = but futur / POUR + passé = cause passée",
+    "choices": [
+      "Pour + présent = but / pour + passé = cause",
+      "Les deux = but",
+      "Les deux = cause",
+      "Dépend du contexte seul"
+    ],
+    "tag": "Infinitif",
+    "hint": "Il travaille POUR RÉUSSIR (but) / il a été puni POUR AVOIR MENTI (cause)",
+    "expl": "POUR + infinitif présent = BUT. Il travaille POUR RÉUSSIR. POUR + infinitif passé = CAUSE PASSÉE. Il a été puni POUR AVOIR MENTI = porque mintió. Distinction aspectuelle et sémantique fondamentale."
+  },
+  {
+    "id": "c1c1_17",
+    "q": "Comment fonctionne 'se voir + infinitif' ?",
+    "a": "SE VOIR + infinitif = être l'objet d'une action (passif pronominal)",
+    "choices": [
+      "Être l'objet d'une action (passif pronominal)",
+      "Se regarder",
+      "Se percevoir",
+      "S'obliger à"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il S'EST VU REFUSER l'entrée = l'entrée lui a été refusée",
+    "expl": "SE VOIR + infinitif = passif pronominal expressif. Il S'EST VU REFUSER l'entrée. Elle S'EST VU ATTRIBUER le prix. Construction plus expressive que la voix passive. Fréquent en langue soutenue."
+  },
+  {
+    "id": "c1c1_18",
+    "q": "Comment fonctionne 'se voir obligé de' vs 'être obligé de' ?",
+    "a": "SE VOIR OBLIGÉ DE = subir la contrainte / ÊTRE OBLIGÉ DE = simple état de contrainte",
+    "choices": [
+      "Se voir = subir la contrainte imposée / être = état de contrainte",
+      "Même sens",
+      "Se voir = plus poli",
+      "Être = plus fort"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Il S'EST VU OBLIGÉ DE démissionner (subi) vs il EST OBLIGÉ (état)",
+    "expl": "SE VOIR OBLIGÉ DE = implicite de contrainte subie (quelqu'un ou quelque chose l'y contraint). ÊTRE OBLIGÉ DE = simple constatation d'une obligation. Nuance importante dans les textes formels."
+  },
+  {
+    "id": "c1c1_19",
+    "q": "Quel est l'usage de l'indicatif après APRÈS QUE ?",
+    "a": "APRÈS QUE + indicatif (logiquement : le fait est réel et accompli)",
+    "choices": [
+      "Indicatif après après que",
+      "Subjonctif après après que",
+      "Conditionnel",
+      "Dépend du registre"
+    ],
+    "tag": "Mode",
+    "hint": "APRÈS QU'IL EST PARTI (indicatif) — norme officielle",
+    "expl": "APRÈS QUE + indicatif (norme académique) car l'action est réelle et accomplie. APRÈS QU'IL EST PARTI / APRÈS QU'IL A FINI. En pratique, beaucoup utilisent le subjonctif par analogie avec AVANT QUE. La norme : indicatif."
+  },
+  {
+    "id": "c1c1_20",
+    "q": "Comment fonctionne AVOIR À + infinitif vs DEVOIR ?",
+    "a": "AVOIR À = obligation concrète et immédiate / DEVOIR = obligation plus générale",
+    "choices": [
+      "Avoir à = obligation concrète/immédiate, devoir = obligation générale",
+      "Même sens",
+      "Avoir à = plus fort",
+      "Devoir = plus concret"
+    ],
+    "tag": "Modalité",
+    "hint": "J'AI À FAIRE ce rapport aujourd'hui (concret) vs je DOIS le faire (général)",
+    "expl": "AVOIR À + inf = obligation concrète, spécifique, immédiate. J'AI À RENDRE ce rapport ce soir. DEVOIR + inf = obligation plus générale ou morale. JE DOIS travailler (en général). Nuance d'immédiateté."
+  },
+  {
+    "id": "c1c1_21",
+    "q": "Comment fonctionne POUVOIR dans 'cela pourrait être vrai' ?",
+    "a": "POURRAIT = hypothèse modeste, possibilité envisagée avec prudence",
+    "choices": [
+      "Hypothèse modeste envisagée avec prudence",
+      "Futur incertain",
+      "Obligation molle",
+      "Permission"
+    ],
+    "tag": "Modalité",
+    "hint": "POURRAIT = degré d'incertitude élevé, prudence",
+    "expl": "POUVOIR conditionnel présent : POURRAIT = possibilité envisagée prudemment. Cela POURRAIT être vrai = es posible que sea verdad (pero no estoy seguro). Modalisation épistémique de prudence."
+  },
+  {
+    "id": "c1c1_22",
+    "q": "Quelle est la valeur de DEVOIR + conditionnel passé vs AVOIR DÛ ?",
+    "a": "AURAIT DÛ = reproche sur le passé non réalisé / A DÛ = déduction ou obligation réalisée",
+    "choices": [
+      "Aurait dû = reproche/regret / a dû = déduction ou obligation réalisée",
+      "Même sens",
+      "Aurait dû = plus fort",
+      "A dû = plus récent"
+    ],
+    "tag": "Modalité",
+    "hint": "Tu AURAIS DÛ prévenir (reproche) vs il A DÛ partir (déduction)",
+    "expl": "AURAIT DÛ : obligation non remplie → reproche ou regret. Tu AURAIS DÛ prévenir. A DÛ : (1) déduction : il A DÛ partir tôt. (2) obligation réalisée : il A DÛ partir (il était obligé). Distinguer les deux."
+  },
+  {
+    "id": "c1c1_23",
+    "q": "Comment fonctionne l'infinitif dans les propositions interrogatives indirectes ?",
+    "a": "Je ne sais COMMENT FAIRE = quoi faire, comment procéder — infinitif après si, comment, quoi",
+    "choices": [
+      "Infinitif dans interrogatives indirectes après si/comment/quoi",
+      "Toujours indicatif",
+      "Toujours subjonctif",
+      "Toujours conditionnel"
+    ],
+    "tag": "Infinitif",
+    "hint": "Je ne sais QUE FAIRE / OÙ ALLER / COMMENT RÉPONDRE",
+    "expl": "Infinitif dans interrogatives indirectes : JE NE SAIS QUE FAIRE = no sé qué hacer. IL IGNORE COMMENT PROCÉDER. IL N'A PAS DÉCIDÉ OÙ ALLER. Si le sujet de la principale = sujet de la subordonnée → infinitif."
+  },
+  {
+    "id": "c1c1_24",
+    "q": "Quelle est la construction de S'EN VOULOIR DE vs VOULOIR ?",
+    "a": "S'EN VOULOIR DE + infinitif = regretter, se reprocher d'avoir fait",
+    "choices": [
+      "S'en vouloir de = se reprocher d'avoir fait",
+      "Vouloir mal à quelqu'un",
+      "Être en colère contre",
+      "Refuser de faire"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je M'EN VEUX D'AVOIR OUBLIÉ = je me le reproche",
+    "expl": "S'EN VOULOIR DE + infinitif passé = reprochar algo que se hizo. Je M'EN VEUX D'AVOIR OUBLIÉ ton anniversaire. S'EN VOULOIR À SOI-MÊME. Construction pronominale à bien distinguer de VOULOIR DE (désirer)."
+  },
+  {
+    "id": "c1c1_25",
+    "q": "Comment fonctionne TENIR À CE QUE vs TENIR À + infinitif ?",
+    "a": "TENIR À CE QUE + subjonctif (sujets différents) / TENIR À + inf (même sujet)",
+    "choices": [
+      "Tenir à ce que + subjonctif / tenir à + inf (même sujet)",
+      "Les deux + subjonctif",
+      "Les deux + infinitif",
+      "Tenir à que + indicatif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je TIENS À VENIR / je tiens À CE QUE TU VIENNES",
+    "expl": "TENIR À + inf (même sujet) : Je TIENS À VENIR. TENIR À CE QUE + subjonctif (sujets différents) : Je TIENS À CE QUE TU VIENNES. Volonté forte. Construction identique à VOULOIR, SOUHAITER."
+  }
+]

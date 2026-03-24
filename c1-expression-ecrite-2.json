@@ -1,0 +1,240 @@
+[
+  {
+    "id": "c1ee2_01",
+    "q": "Qu'est-ce que l''hypotypose' ?",
+    "a": "Description si vivante et détaillée qu'elle met la scène sous les yeux du lecteur",
+    "choices": [
+      "Description si vivante qu'elle met la scène sous les yeux",
+      "Résumé d'une scène",
+      "Métaphore étendue",
+      "Narration rapide"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Tableau peint avec des mots",
+    "expl": "HYPOTYPOSE = hipotiposis. Description intense qui fait 'voir'. Zola décrivant la mine, Hugo décrivant Waterloo. Procédés : présent de narration, verbes d'action, détails sensoriels, accumulation."
+  },
+  {
+    "id": "c1ee2_02",
+    "q": "Qu'est-ce que la 'prosopopée' ?",
+    "a": "Faire parler un absent, un mort, une abstraction ou un objet inanimé",
+    "choices": [
+      "Faire parler un absent, un mort ou une abstraction",
+      "Personnification simple",
+      "Métaphore filée",
+      "Discours indirect"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Faire parler la Patrie, la Mort, la Justice comme des personnes",
+    "expl": "PROSOPOPÉE = prosopopeya. Prêter la parole à : un mort ('Si mon père pouvait parler...'), une abstraction ('La Liberté crie sa douleur'), un objet. Plus fort que la personnification car le sujet prend la parole."
+  },
+  {
+    "id": "c1ee2_03",
+    "q": "Qu'est-ce que la 'catachrèse' ?",
+    "a": "Métaphore lexicalisée devenue expression courante dont on a oublié l'origine figurée",
+    "choices": [
+      "Métaphore lexicalisée dont on a oublié l'origine figurée",
+      "Métaphore nouvelle",
+      "Métaphore poétique",
+      "Comparaison affaiblie"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Le pied de la table', 'les ailes de l'avion' — images mortes",
+    "expl": "CATACHRÈSE = catacresis. Métaphore 'morte' entrée dans la langue courante. LE PIED de la table (table n'a pas de pied). LES BRAS du fauteuil. LA TÊTE d'une épingle. On ne perçoit plus l'image."
+  },
+  {
+    "id": "c1ee2_04",
+    "q": "Comment utilise-t-on l''ironie socratique' dans un texte ?",
+    "a": "Feindre l'ignorance pour amener l'interlocuteur à découvrir lui-même la vérité",
+    "choices": [
+      "Feindre l'ignorance pour que l'autre découvre la vérité",
+      "Dire le contraire de sa pensée",
+      "Moquer ouvertement",
+      "Poser des questions rhétoriques simples"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Socrate feignait de ne rien savoir — la maïeutique",
+    "expl": "IRONIE SOCRATIQUE = ironía socrática. Socrate prétendait ignorer pour faire accoucher la vérité (maïeutique). À l'écrit : poser des questions naïves qui démasquent les contradictions de la thèse adverse."
+  },
+  {
+    "id": "c1ee2_05",
+    "q": "Qu'est-ce que la 'parrhésia' ?",
+    "a": "La franchise totale, dire la vérité même si elle déplaît — courage de la parole vraie",
+    "choices": [
+      "Franchise totale — dire la vérité même si elle déplaît",
+      "Flatterie",
+      "Ironie",
+      "Euphémisme"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Foucault a réhabilité ce concept grec de dire-vrai",
+    "expl": "PARRHÉSIA (Foucault, d'après les Grecs) = parresía. Dire la vérité à celui qui a le pouvoir, au risque de lui déplaire. Courage de la parole vraie. Le parrhésiaste s'expose à un danger pour dire ce qu'il croit juste."
+  },
+  {
+    "id": "c1ee2_06",
+    "q": "Comment construit-on une 'argumentation épidictique' ?",
+    "a": "Discours de louange ou de blâme qui célèbre ou condamne — genre des éloges et des réquisitoires",
+    "choices": [
+      "Louange ou blâme — célébrer ou condamner",
+      "Discours délibératif",
+      "Discours judiciaire",
+      "Discours informatif"
+    ],
+    "tag": "Rhétorique",
+    "hint": "Éloge funèbre, discours de remise de prix = épidictique",
+    "expl": "GENRE ÉPIDICTIQUE (Aristote) = género epidíctico. Ni délibérer ni juger mais CÉLÉBRER ou BLÂMER. Éloge funèbre, panégyrique, réquisitoire. Temps = présent. But = renforcer les valeurs communes."
+  },
+  {
+    "id": "c1ee2_07",
+    "q": "Qu'est-ce que le 'style coupé' vs le 'style périodique' ?",
+    "a": "COUPÉ = phrases courtes et indépendantes / PÉRIODIQUE = longue période unifiée",
+    "choices": [
+      "Coupé = phrases courtes, périodique = longue période unifiée",
+      "Même chose",
+      "Coupé = formel, périodique = familier",
+      "Coupé = poésie, périodique = prose"
+    ],
+    "tag": "Stylistique",
+    "hint": "Tacite = style coupé / Cicéron = style périodique",
+    "expl": "STYLE COUPÉ : phrases brèves, juxtaposées, effet de rapidité et d'impact (Tacite, Hemingway). STYLE PÉRIODIQUE : longue phrase structurée en membres qui convergent vers une conclusion (Cicéron, Bossuet). Effets opposés."
+  },
+  {
+    "id": "c1ee2_08",
+    "q": "Comment analyse-t-on la 'temporalité' d'un texte narratif ?",
+    "a": "Ordre (analepses/prolepses), durée (accélération/ralentissement), fréquence (singulatif/itératif)",
+    "choices": [
+      "Ordre, durée, fréquence (Genette)",
+      "Seulement les temps verbaux",
+      "Seulement les dates",
+      "Seulement le présent et le passé"
+    ],
+    "tag": "Narratologie",
+    "hint": "Genette : Ordre / Durée / Fréquence = trois dimensions du temps",
+    "expl": "TEMPORALITÉ NARRATIVE (Genette) : ORDRE (analepse/prolepse vs chronologie). DURÉE (pause = description longue / ellipse = temps sauté / scène = temps égal). FRÉQUENCE (singulatif = une fois / itératif = 'chaque matin')."
+  },
+  {
+    "id": "c1ee2_09",
+    "q": "Qu'est-ce que le 'monologue intérieur' et comment l'analyser ?",
+    "a": "Représentation du flux de pensée d'un personnage, souvent sans ponctuation ni ordre logique",
+    "choices": [
+      "Flux de pensée d'un personnage, souvent sans ponctuation ni ordre",
+      "Simple discours indirect libre",
+      "Narration à la première personne",
+      "Dialogue intérieur structuré"
+    ],
+    "tag": "Narratologie",
+    "hint": "Joyce, Woolf, Faulkner — stream of consciousness",
+    "expl": "MONOLOGUE INTÉRIEUR = stream of consciousness. Absence de ponctuation, de cohérence logique, de structure temporelle. Joyce (Ulysse), Woolf, Beckett. Différent du discours indirect libre (qui garde une syntaxe)."
+  },
+  {
+    "id": "c1ee2_10",
+    "q": "Qu'est-ce que la 'vraisemblance' dans la théorie littéraire classique ?",
+    "a": "Ce qui est conforme à l'opinion commune et à la bienséance — non ce qui est vrai",
+    "choices": [
+      "Ce qui est conforme à l'opinion commune — non ce qui est vrai",
+      "La vérité historique",
+      "La cohérence interne",
+      "La réalité factuelle"
+    ],
+    "tag": "Théorie littéraire",
+    "hint": "Au théâtre classique : on ne montre pas la mort sur scène (bienséance)",
+    "expl": "VRAISEMBLANCE CLASSIQUE : ce qui semble vrai selon les normes sociales et morales de l'époque, pas ce qui est factuellement vrai. Dans le théâtre classique, la mort sur scène est vraisemblable mais contraire à la bienséance."
+  },
+  {
+    "id": "c1ee2_11",
+    "q": "Comment rédige-t-on une 'notice de lecture critique' ?",
+    "a": "Résumé objectif + analyse du propos + évaluation argumentée + mise en contexte",
+    "choices": [
+      "Résumé objectif + analyse + évaluation + mise en contexte",
+      "Simple résumé",
+      "Opinion personnelle uniquement",
+      "Biographie de l'auteur"
+    ],
+    "tag": "Genres textuels",
+    "hint": "La notice critique = 4 moments : résumé / analyse / évaluation / contextualisation",
+    "expl": "NOTICE CRITIQUE : (1) Résumé objectif du contenu. (2) Analyse du propos et de la méthode. (3) Évaluation argumentée des forces et limites. (4) Mise en contexte (courant intellectuel, débats). Genre académique exigeant."
+  },
+  {
+    "id": "c1ee2_12",
+    "q": "Qu'est-ce que le 'style indirect libre' comme outil d'analyse littéraire ?",
+    "a": "Fusion de la voix du narrateur et de la pensée du personnage — ironie possible",
+    "choices": [
+      "Fusion voix narrateur et pensée personnage — ironie possible",
+      "Simple discours indirect",
+      "Discours direct sans guillemets",
+      "Monologue intérieur non structuré"
+    ],
+    "tag": "Narratologie",
+    "hint": "'Quelle belle journée !' — dit le narrateur ou le personnage ?",
+    "expl": "STYLE INDIRECT LIBRE : fusion voix-pensée. Permet l'ironie : 'Quelle belle journée !' dit en contexte de tragédie = l'auteur se moque de son personnage ou le plaint. Analyser QUI pense réellement cette phrase."
+  },
+  {
+    "id": "c1ee2_13",
+    "q": "Qu'est-ce que la 'cohésion textuelle' au niveau avancé ?",
+    "a": "Liens lexicaux (substitutions, répétitions), grammaticaux (pronoms, ellipses) et pragmatiques",
+    "choices": [
+      "Liens lexicaux, grammaticaux et pragmatiques",
+      "Seulement les pronoms",
+      "Seulement les connecteurs",
+      "Seulement la ponctuation"
+    ],
+    "tag": "Linguistique textuelle",
+    "hint": "Cohésion = tout ce qui 'colle' le texte ensemble",
+    "expl": "COHÉSION TEXTUELLE (Halliday & Hasan) : RÉFÉRENCE (pronoms). SUBSTITUTION (synonymes). ELLIPSE (suppression récupérable). CONJONCTION (connecteurs). COHÉSION LEXICALE (répétition, synonymie, hyponymie, collocation)."
+  },
+  {
+    "id": "c1ee2_14",
+    "q": "Comment utilise-t-on la 'focalisation interne variable' ?",
+    "a": "Le narrateur suit plusieurs personnages successivement, chacun avec sa perspective limitée",
+    "choices": [
+      "Plusieurs personnages successifs chacun avec perspective limitée",
+      "Un seul personnage toujours",
+      "Narrateur omniscient",
+      "Observateur extérieur"
+    ],
+    "tag": "Narratologie",
+    "hint": "Tolstoï dans Guerre et Paix alterne les focalisations",
+    "expl": "FOCALISATION INTERNE VARIABLE : le narrateur adopte tour à tour le point de vue de différents personnages. Chacun voit selon sa perspective limitée. Permet de montrer les contradictions, les malentendus, la complexité."
+  },
+  {
+    "id": "c1ee2_15",
+    "q": "Qu'est-ce que la 'phrase averbale' et son effet stylistique ?",
+    "a": "Phrase sans verbe conjugué — effet de rapidité, de notation, de titre, d'exclamation",
+    "choices": [
+      "Phrase sans verbe conjugué — rapidité, notation, exclamation",
+      "Phrase passive",
+      "Phrase longue",
+      "Phrase interrogative"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Silence. Puis une explosion.' — phrase averbale",
+    "expl": "PHRASE AVERBALE = frase nominal. 'Silence.' 'Magnifique !' 'Tout à coup, une explosion.' Effets : notation rapide (style journalistique), urgence, titre, interjection. Contraste avec la phrase verbale longue = choc stylistique."
+  },
+  {
+    "id": "c1ee2_16",
+    "q": "Comment construit-on un 'commentaire composé' au niveau C1 ?",
+    "a": "Plan thématique (non linéaire) avec axes interprétatifs fondés sur des citations analysées",
+    "choices": [
+      "Plan thématique avec axes interprétatifs fondés sur citations analysées",
+      "Résumé + opinion",
+      "Plan chronologique",
+      "Analyse ligne par ligne"
+    ],
+    "tag": "Commentaire littéraire",
+    "hint": "Axes = angles interprétatifs, pas simplement des thèmes",
+    "expl": "COMMENTAIRE COMPOSÉ C1 : axes interprétatifs (et non simples thèmes). Chaque partie = une idée sur le sens ou l'effet du texte. Citations analysées en profondeur (procédé → effet → sens). Pas de paraphrase."
+  },
+  {
+    "id": "c1ee2_17",
+    "q": "Qu'est-ce que la 'valeur d'un connecteur argumentatif' ?",
+    "a": "Chaque connecteur oriente l'argument vers une conclusion spécifique — analyser la direction",
+    "choices": [
+      "Chaque connecteur oriente vers une conclusion — analyser la direction",
+      "Les connecteurs sont tous synonymes",
+      "Les connecteurs sont seulement décoratifs",
+      "Les connecteurs n'ont pas de valeur sémantique"
+    ],
+    "tag": "Argumentation",
+    "hint": "DONC ≠ CEPENDANT ≠ OR — valeurs argumentatives différentes",
+    "expl": "VALEUR DES CONNECTEURS : DONC = conclure. CEPENDANT/MAIS = opposer. OR = retournement (en plus, or est adversatif). EN EFFET = justifier. PAR CONSÉQUENT = inférence. Chaque connecteur programme une direction argumentative précise."
+  }
+]

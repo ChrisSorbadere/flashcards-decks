@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1v1_01",
+    "q": "Que signifie 'acrimonie' ?",
+    "a": "Aigreur acerbe dans les propos, hostilité mordante",
+    "choices": [
+      "Aigreur acerbe et hostile",
+      "Douceur",
+      "Indifférence",
+      "Mélancolie"
+    ],
+    "tag": "Caractère",
+    "hint": "Il répondit avec ACRIMONIE = avec une aigreur blessante",
+    "expl": "ACRIMONIE = acrimonia. Aigreur dans les propos ou les manières, hostilité mordante. Répondre avec ACRIMONIE. Synonymes : aigreur, virulence, acerbité. Antonymes : aménité, douceur, suavité."
+  },
+  {
+    "id": "c1v1_02",
+    "q": "Que signifie 'prodiguer' ?",
+    "a": "Donner abondamment, dépenser sans compter (temps, éloges, soins)",
+    "choices": [
+      "Donner abondamment sans compter",
+      "Refuser",
+      "Mesurer avec soin",
+      "Économiser"
+    ],
+    "tag": "Verbes",
+    "hint": "PRODIGUER des soins, des éloges — donner en abondance",
+    "expl": "PRODIGUER = prodigar. PRODIGUER des soins = dispensar cuidados generosamente. PRODIGUER des éloges = prodiger des louanges. LE PRODIGUE (Bible) = el hijo pródigo. Synonymes : dispenser généreusement, multiplier."
+  },
+  {
+    "id": "c1v1_03",
+    "q": "Que signifie 'irréfragable' ?",
+    "a": "Qu'on ne peut réfuter, incontestable, indiscutable",
+    "choices": [
+      "Incontestable qu'on ne peut réfuter",
+      "Réfutable",
+      "Fragile",
+      "Contesté"
+    ],
+    "tag": "Vocabulaire soutenu",
+    "hint": "Une preuve IRRÉFRAGABLE ne peut être contestée",
+    "expl": "IRRÉFRAGABLE = irrefragable, irrebatible. Qu'on ne peut réfuter. Une preuve IRRÉFRAGABLE. Synonymes : irréfutable, incontestable, indiscutable, indéniable. Registre très soutenu, juridique et philosophique."
+  },
+  {
+    "id": "c1v1_04",
+    "q": "Que signifie 'prépondérant' ?",
+    "a": "Qui a une influence dominante, qui l'emporte sur les autres",
+    "choices": [
+      "Dominant qui l'emporte sur les autres",
+      "Secondaire",
+      "Égal aux autres",
+      "Négligeable"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Jouer un rôle PRÉPONDÉRANT = un rôle dominant",
+    "expl": "PRÉPONDÉRANT(E) = preponderante. Qui a un poids, une influence dominante. Rôle PRÉPONDÉRANT. Facteur PRÉPONDÉRANT. Synonymes : dominant, déterminant, primordial, capital. Antonyme : secondaire, accessoire."
+  },
+  {
+    "id": "c1v1_05",
+    "q": "Que signifie 'acception' ?",
+    "a": "Sens particulier d'un mot dans un contexte donné",
+    "choices": [
+      "Sens particulier d'un mot dans un contexte",
+      "Acceptation d'une offre",
+      "Signification générale",
+      "Définition officielle"
+    ],
+    "tag": "Linguistique",
+    "hint": "Dans son ACCEPTION la plus large = dans son sens le plus large",
+    "expl": "ACCEPTION = acepción. Sens particulier d'un mot selon le contexte. Dans l'ACCEPTION la plus stricte du terme. Ne pas confondre avec ACCEPTATION (fait d'accepter). Terme de lexicologie."
+  },
+  {
+    "id": "c1v1_06",
+    "q": "Que signifie 'aporie' ?",
+    "a": "Difficulté logique insoluble, impasse dans le raisonnement philosophique",
+    "choices": [
+      "Impasse logique insoluble",
+      "Solution évidente",
+      "Paradoxe résolu",
+      "Question simple"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'APORIE de Zénon : Achille et la tortue",
+    "expl": "APORIE = aporía. Impasse philosophique ou logique apparemment insoluble. Les APORIES de Zénon (Achille et la tortue). APORÉTIQUE = qui génère une aporie. Terme de philosophie ancienne (Platon, Aristote)."
+  },
+  {
+    "id": "c1v1_07",
+    "q": "Que signifie 'tautologie' ?",
+    "a": "Répétition inutile d'une idée sous des formes différentes",
+    "choices": [
+      "Répétition inutile de la même idée",
+      "Contradiction",
+      "Paradoxe",
+      "Raisonnement circulaire uniquement"
+    ],
+    "tag": "Logique/Rhétorique",
+    "hint": "'Un cercle est rond' = TAUTOLOGIE (dit deux fois la même chose)",
+    "expl": "TAUTOLOGIE = tautología. Répétition redondante de la même idée. 'Un cercle est rond' = tautologie. En logique : proposition vraie dans tous les cas (ex : P ou non-P). TAUTOLOGIQUE = tautológico."
+  },
+  {
+    "id": "c1v1_08",
+    "q": "Que signifie 'heuristique' ?",
+    "a": "Relatif à la démarche de découverte, méthode d'exploration par essais",
+    "choices": [
+      "Méthode de découverte par exploration",
+      "Méthode déductive certaine",
+      "Méthode descriptive",
+      "Méthode quantitative"
+    ],
+    "tag": "Sciences",
+    "hint": "La démarche HEURISTIQUE = chercher par soi-même",
+    "expl": "HEURISTIQUE = heurístico/a. Qui favorise la découverte. Méthode HEURISTIQUE = méthode d'exploration par essais. En informatique : algorithme heuristique (approximation). Du grec heureka (j'ai trouvé)."
+  },
+  {
+    "id": "c1v1_09",
+    "q": "Que signifie 'épistémologie' ?",
+    "a": "Étude critique des fondements, méthodes et portée des sciences",
+    "choices": [
+      "Étude critique des fondements et méthodes des sciences",
+      "Théorie de la connaissance en général",
+      "Histoire des sciences",
+      "Philosophie morale"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'ÉPISTÉMOLOGIE de la physique = étude de ses fondements",
+    "expl": "ÉPISTÉMOLOGIE = epistemología. Étude des fondements, méthodes et limites des sciences. ÉPISTÉMOLOGIQUE = epistemológico. Différent de GNOSÉOLOGIE (théorie de la connaissance en général)."
+  },
+  {
+    "id": "c1v1_10",
+    "q": "Que signifie 'ontologie' ?",
+    "a": "Partie de la métaphysique qui étudie l'être en tant qu'être",
+    "choices": [
+      "Étude de l'être en tant qu'être",
+      "Étude de la connaissance",
+      "Étude des valeurs",
+      "Étude du langage"
+    ],
+    "tag": "Philosophie",
+    "hint": "La question ONTOLOGIQUE : qu'est-ce que l'être ?",
+    "expl": "ONTOLOGIE = ontología. Branche de la métaphysique étudiant l'être en soi. ONTOLOGIQUE = ontológico. La différence ONTOLOGIQUE entre l'être et l'étant (Heidegger). Terme fondamental en philosophie."
+  },
+  {
+    "id": "c1v1_11",
+    "q": "Que signifie 'sérendipité' dans son sens précis ?",
+    "a": "Découverte par hasard d'une chose qu'on ne cherchait pas, accident productif",
+    "choices": [
+      "Découverte accidentelle non cherchée",
+      "Chance générale",
+      "Intuition",
+      "Méthode de recherche"
+    ],
+    "tag": "Général",
+    "hint": "SÉRENDIPITÉ : on cherche X, on trouve Y (plus important)",
+    "expl": "SÉRENDIPITÉ = serendipia (H. Walpole, 1754). Trouver par hasard quelque chose qu'on ne cherchait pas. Pénicilline (Fleming), rayon X (Röntgen). Distinct de la chance : il faut être prêt à voir l'inattendu."
+  },
+  {
+    "id": "c1v1_12",
+    "q": "Que signifie 'ubiquité' ?",
+    "a": "Faculté d'être présent en plusieurs endroits simultanément",
+    "choices": [
+      "Présence simultanée en plusieurs endroits",
+      "Ubiquité virtuelle",
+      "Vitesse de déplacement",
+      "Omniprésence temporelle"
+    ],
+    "tag": "Général",
+    "hint": "Don d'UBIQUITÉ = être partout à la fois",
+    "expl": "UBIQUITÉ = ubicuidad. Être présent partout simultanément. 'Je n'ai pas le don d'UBIQUITÉ.' UBIQUITAIRE = omniprésent. En biologie : espèce présente dans tous les milieux."
+  },
+  {
+    "id": "c1v1_13",
+    "q": "Que signifie 'inchoatif' ?",
+    "a": "Qui exprime le début d'une action ou d'un état (aspect verbal)",
+    "choices": [
+      "Qui exprime le début d'une action",
+      "Qui exprime la fin",
+      "Qui exprime la répétition",
+      "Qui exprime la durée"
+    ],
+    "tag": "Linguistique",
+    "hint": "'Commencer à' est inchoatif / 'rougir' a une valeur inchoative",
+    "expl": "INCHOATIF (ou INGRESSIF) = incoativo. Aspect verbal exprimant le début. COMMENCER À, SE METTRE À = périphrases inchoatives. ROUGIR = devenir rouge (inchoatif). Opposé : TERMINATIF (fin), DURATIF (durée)."
+  },
+  {
+    "id": "c1v1_14",
+    "q": "Que signifie 'performatif' en linguistique ?",
+    "a": "Énoncé qui accomplit l'action qu'il décrit : 'je promets', 'je déclare'",
+    "choices": [
+      "Énoncé qui accomplit l'action décrite",
+      "Énoncé qui décrit une action",
+      "Énoncé expressif",
+      "Énoncé impératif"
+    ],
+    "tag": "Linguistique",
+    "hint": "'Je vous déclare mariés' = PERFORMATIF — l'acte s'accomplit en disant",
+    "expl": "PERFORMATIF (Austin) = performativo. Un énoncé qui FAIT ce qu'il dit. 'Je promets' = c'est une promesse. 'Je déclare la séance ouverte' = elle est ouverte. Opposé : constatif (qui décrit)."
+  },
+  {
+    "id": "c1v1_15",
+    "q": "Que signifie 'pragmatique' en linguistique (sens précis) ?",
+    "a": "Étude des conditions d'utilisation du langage en contexte",
+    "choices": [
+      "Étude des conditions d'utilisation du langage en contexte",
+      "Pragmatisme pratique",
+      "Étude du sens des mots",
+      "Syntaxe"
+    ],
+    "tag": "Linguistique",
+    "hint": "La PRAGMATIQUE s'intéresse à 'qu'est-ce qu'on fait en disant ?'",
+    "expl": "PRAGMATIQUE (linguistique) = pragmática. Étude de l'usage du langage en contexte (implicites, actes de parole, contexte). Différent de SÉMANTIQUE (sens des mots) et SYNTAXE (structure des phrases)."
+  },
+  {
+    "id": "c1v1_16",
+    "q": "Que signifie 'dialectique' dans son sens philosophique ?",
+    "a": "Méthode de raisonnement par thèse, antithèse et dépassement (Hegel)",
+    "choices": [
+      "Méthode thèse/antithèse/dépassement",
+      "Simple dialogue",
+      "Opposition de deux idées",
+      "Méthode inductive"
+    ],
+    "tag": "Philosophie",
+    "hint": "La DIALECTIQUE hégélienne : thèse → antithèse → synthèse",
+    "expl": "DIALECTIQUE (Hegel, Marx) = dialéctica. Mouvement de la pensée par contradictions (thèse → antithèse → synthèse). MATÉRIALISME DIALECTIQUE (Marx). En rhétorique : art du dialogue et de l'argumentation."
+  },
+  {
+    "id": "c1v1_17",
+    "q": "Que signifie 'sophisme' vs 'paralogisme' ?",
+    "a": "SOPHISME = erreur intentionnelle / PARALOGISME = erreur de raisonnement involontaire",
+    "choices": [
+      "Sophisme = intentionnel, paralogisme = involontaire",
+      "Même chose",
+      "Sophisme = involontaire, paralogisme = intentionnel",
+      "Même chose que syllogisme"
+    ],
+    "tag": "Logique",
+    "hint": "Le SOPHISTE trompe volontairement / le PARALOGISME est sincère",
+    "expl": "SOPHISME = sofisma (intencional). Argument délibérément faux pour tromper. PARALOGISME = paralogismo. Erreur de raisonnement sincère, non intentionnelle. Distinction fondamentale en logique et rhétorique."
+  },
+  {
+    "id": "c1v1_18",
+    "q": "Que signifie 'herméneutique' ?",
+    "a": "Art et théorie de l'interprétation des textes, notamment sacrés",
+    "choices": [
+      "Art de l'interprétation des textes",
+      "Science de la communication",
+      "Étude de la rhétorique",
+      "Critique littéraire seule"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'HERMÉNEUTIQUE de Gadamer = théorie de l'interprétation",
+    "expl": "HERMÉNEUTIQUE = hermenéutica. Théorie de l'interprétation des textes. Origine : interprétation biblique. Étendu à tout texte (Dilthey, Gadamer, Ricoeur). Le CERCLE HERMÉNEUTIQUE : comprendre le tout par les parties."
+  },
+  {
+    "id": "c1v1_19",
+    "q": "Que signifie 'chimérique' ?",
+    "a": "Qui relève de la chimère, imaginaire, irréalisable, utopique",
+    "choices": [
+      "Imaginaire irréalisable utopique",
+      "Réel",
+      "Réalisable",
+      "Dangereusement ambitieux"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Un projet CHIMÉRIQUE = irréalisable, utopique",
+    "expl": "CHIMÉRIQUE = quimérico. De CHIMÈRE (monstre mythologique). Qui n'existe que dans l'imagination, irréalisable. Un espoir CHIMÉRIQUE. Synonymes : utopique, illusoire, fantasmagorique. Antonymes : réaliste, concret."
+  },
+  {
+    "id": "c1v1_20",
+    "q": "Que signifie 'laïus' ?",
+    "a": "Long discours ennuyeux, tirade verbosede",
+    "choices": [
+      "Long discours ennuyeux et verbeux",
+      "Discours court et précis",
+      "Plaidoyer",
+      "Conférence académique"
+    ],
+    "tag": "Registre",
+    "hint": "Faire un LAÏUS = faire un long discours fastidieux",
+    "expl": "LAÏUS (familier) = ladrillo, perorata, rollo. Long discours ennuyeux. Faire son LAÏUS. Terme argotique des grandes écoles (du nom d'Œdipe, fils de Laïos). Synonymes : tirade, sermon, discours interminable."
+  },
+  {
+    "id": "c1v1_21",
+    "q": "Que signifie 'casuistique' ?",
+    "a": "Méthode qui examine les cas particuliers pour en déduire des règles, parfois pour trouver des échappatoires",
+    "choices": [
+      "Examen de cas particuliers, parfois pour trouver des biais",
+      "Déduction logique pure",
+      "Induction générale",
+      "Méthode expérimentale"
+    ],
+    "tag": "Philosophie/Général",
+    "hint": "La CASUISTIQUE jésuite : trouver une règle pour chaque cas",
+    "expl": "CASUISTIQUE = casuística. Examen des cas particuliers pour en déduire des règles morales ou juridiques. Péjoratif : cherche des échappatoires. Pascal critique la casuistique des Jésuites dans les Provinciales."
+  },
+  {
+    "id": "c1v1_22",
+    "q": "Que signifie 'péremption' ?",
+    "a": "Extinction d'un droit par non-usage ou écoulement du délai",
+    "choices": [
+      "Extinction d'un droit par délai ou non-usage",
+      "Annulation",
+      "Renouvellement",
+      "Suspension"
+    ],
+    "tag": "Droit",
+    "hint": "PÉRIMÉ = dont le délai est expiré (produit PÉRIMÉ)",
+    "expl": "PÉREMPTION = prescripción, caducidad. DÉLAI DE PÉREMPTION = fecha de caducidad. Un droit PÉRIMÉ = caducado. En droit : extinction d'une instance judiciaire faute d'actes pendant 2 ans."
+  },
+  {
+    "id": "c1v1_23",
+    "q": "Que signifie 'anachronisme' ?",
+    "a": "Erreur de datation : placer un élément dans une époque où il n'existait pas encore",
+    "choices": [
+      "Erreur de datation — élément hors de son époque",
+      "Retard chronique",
+      "Archaïsme voulu",
+      "Mode rétro"
+    ],
+    "tag": "Général",
+    "hint": "Montrer un personnage médiéval avec un téléphone = ANACHRONISME",
+    "expl": "ANACHRONISME = anacronismo. Attribuer à une époque ce qui appartient à une autre. ANACHRONIQUE = anacrónicos. Aussi : attitude ou pratique dépassée. Syn : archaïsme (quand c'est du passé dans le présent)."
+  },
+  {
+    "id": "c1v1_24",
+    "q": "Que signifie 'rémanence' ?",
+    "a": "Persistance d'un effet après la cessation de la cause",
+    "choices": [
+      "Persistance d'un effet après la cause",
+      "Retour d'un phénomène",
+      "Réapparition",
+      "Amplification"
+    ],
+    "tag": "Sciences/Général",
+    "hint": "La RÉMANENCE de la mémoire = ce qui persiste",
+    "expl": "RÉMANENCE = remanencia. En physique : magnétisme résiduel. Au sens général : persistance d'un effet. La RÉMANENCE des traumatismes. La RÉMANENCE d'une image sur la rétine. Synonymes : persistance, résiduel."
+  },
+  {
+    "id": "c1v1_25",
+    "q": "Que signifie 'télologie' ?",
+    "a": "Doctrine selon laquelle tout phénomène a une finalité, est orienté vers un but",
+    "choices": [
+      "Doctrine de la finalité et des buts",
+      "Étude du futur",
+      "Science des télécommunications",
+      "Logique formelle"
+    ],
+    "tag": "Philosophie",
+    "hint": "La pensée TÉLÉOLOGIQUE : la nature a un but",
+    "expl": "TÉLÉOLOGIE = teleología. Du grec telos (fin, but). Doctrine selon laquelle tout est orienté vers une fin. Aristote = pensée téléologique. DÉONTOLOGIE (règles d'une profession) ≠ téléologie."
+  }
+]

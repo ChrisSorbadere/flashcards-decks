@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1c3_01",
+    "q": "Comment fonctionne S'INTERDIRE DE vs INTERDIRE À QQN DE ?",
+    "a": "S'INTERDIRE DE + inf = s'imposer une interdiction / INTERDIRE À QQN DE = imposer à quelqu'un",
+    "choices": [
+      "S'interdire = s'imposer / interdire à = imposer à autrui",
+      "Même sens",
+      "S'interdire = plus fort",
+      "Interdire = plus formel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je M'INTERDIS DE juger / je lui INTERDIS DE sortir",
+    "expl": "S'INTERDIRE DE + inf : se prohibir. Je M'INTERDIS DE juger les autres. INTERDIRE À QQN DE + inf : je lui INTERDIS DE sortir. Dans les deux cas, DE + infinitif. La nuance est le réfléchi vs le transitif."
+  },
+  {
+    "id": "c1c3_02",
+    "q": "Quel est l'usage de VOIR + subjonctif dans les formules optatives ?",
+    "a": "VOIR + subjonctif = souhait à la 3ème personne (subjonctif optatif)",
+    "choices": [
+      "Subjonctif optatif — souhait",
+      "Indicatif",
+      "Conditionnel",
+      "Impératif"
+    ],
+    "tag": "Subjonctif optatif",
+    "hint": "VIVE le roi ! SOIT ainsi ! — formes optatifs figées",
+    "expl": "SUBJONCTIF OPTATIF (sans QUE) : VIVE la France ! SOIT ! ADVIENNE QUE POURRA ! PÉRISSE l'ennemi ! Formes figées littéraires ou solennelles. Exprime un souhait ou une imprécation à la 3ème personne."
+  },
+  {
+    "id": "c1c3_03",
+    "q": "Comment fonctionne 'il n'est pas jusqu'à... qui ne' ?",
+    "a": "IL N'EST PAS JUSQU'À + nom + QUI NE + subjonctif = même... souligne l'extrême",
+    "choices": [
+      "Subjonctif — souligne l'extrême (même... ne manque pas)",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Structures littéraires",
+    "hint": "IL N'EST PAS JUSQU'AUX enfants QUI NE SACHENT ça = même les enfants le savent",
+    "expl": "IL N'EST PAS JUSQU'À + nom + QUI NE + subjonctif = hasta tal punto que incluso... Il N'EST PAS JUSQU'AUX ENFANTS QUI NE LE SACHENT = incluso los niños lo saben. Intensification maximale. Registre littéraire."
+  },
+  {
+    "id": "c1c3_04",
+    "q": "Comment fonctionne 'ne... que trop' ?",
+    "a": "NE... QUE TROP = hélas, malheureusement trop bien — affirmation excessive",
+    "choices": [
+      "Affirmation excédée, hélas trop bien",
+      "Négation renforcée",
+      "Restriction",
+      "Doute"
+    ],
+    "tag": "Structures",
+    "hint": "Il NE LE SAIT QUE TROP = il le sait hélas très bien",
+    "expl": "NE... QUE TROP = desgraciadamente demasiado bien. Il NE LE SAIT QUE TROP = lo sabe demasiado bien para su desgracia. Je NE LE CONNAIS QUE TROP. Affirmation avec nuance de regret ou de résignation."
+  },
+  {
+    "id": "c1c3_05",
+    "q": "Comment fonctionne 'que... ne' dans les comparatifs littéraires ?",
+    "a": "Il est plus intelligent QU'ON NE LE CROIT — ne explétif dans le comparatif",
+    "choices": [
+      "NE explétif dans comparatif d'inégalité",
+      "NE = négation",
+      "NE obligatoire dans comparatif",
+      "NE interdit"
+    ],
+    "tag": "NE explétif",
+    "hint": "Mieux QU'ON NE PENSAIT / plus grave QU'IL N'Y PARAÎT",
+    "expl": "NE explétif après PLUS QUE, MOINS QUE, MIEUX QUE, AUTREMENT QUE dans comparatifs d'inégalité. Il est plus fort QU'IL NE LE CROIT. Optionnel en courant, attendu en soutenu."
+  },
+  {
+    "id": "c1c3_06",
+    "q": "Comment utilise-t-on À EN CROIRE + nom ?",
+    "a": "À EN CROIRE les journaux = si l'on croit... (formule de distanciation)",
+    "choices": [
+      "Formule de distanciation : si l'on en croit",
+      "Formule de certitude",
+      "Citation directe",
+      "Formule de doute"
+    ],
+    "tag": "Constructions",
+    "hint": "À EN CROIRE les sondages, il gagnerait",
+    "expl": "À EN CROIRE + source = si hay que creer a... À EN CROIRE LES SONDAGES, il gagnerait. Formule de distanciation journalistique. Je rapporte sans m'engager sur la véracité. Conditionnel souvent associé."
+  },
+  {
+    "id": "c1c3_07",
+    "q": "Comment fonctionne BIEN + participe passé ?",
+    "a": "BIEN + PP = renforcement : BIEN DÉCIDÉ, BIEN DÉTERMINÉ, BIEN QUE...",
+    "choices": [
+      "Bien + PP = renforcement de l'état",
+      "Bien = correctement",
+      "Bien = seulement adverbe",
+      "Bien que = concession seule"
+    ],
+    "tag": "Adverbe",
+    "hint": "BIEN DÉCIDÉ à partir = vraiment décidé / BIEN ENTENDU = naturellement",
+    "expl": "BIEN + PP = adverbe de renforcement. BIEN DÉCIDÉ = firmemente decidido. BIEN ENTENDU = por supuesto. BIEN QU'ÉTABLI = aunque esté establecido. Bien renforce l'état ou l'action exprimé par le participe."
+  },
+  {
+    "id": "c1c3_08",
+    "q": "Comment fonctionne 'à n'en pas douter' ?",
+    "a": "À N'EN PAS DOUTER = sans aucun doute, assurément",
+    "choices": [
+      "Sans aucun doute, assurément",
+      "Avec doute",
+      "En doutant",
+      "Peut-être"
+    ],
+    "tag": "Expressions",
+    "hint": "C'est, À N'EN PAS DOUTER, la meilleure solution",
+    "expl": "À N'EN PAS DOUTER = sin lugar a dudas, a no dudar. Expression figée de certitude renforcée. C'est, À N'EN PAS DOUTER, la meilleure option. Registre soutenu. Synonymes : indubitablement, sans conteste."
+  },
+  {
+    "id": "c1c3_09",
+    "q": "Comment fonctionne 'force est de constater' vs 'il faut constater' ?",
+    "a": "FORCE EST DE CONSTATER = on est contraint de reconnaître (nuance de résignation)",
+    "choices": [
+      "Nuance de résignation ou de constat forcé",
+      "Simple obligation",
+      "Certitude positive",
+      "Hypothèse"
+    ],
+    "tag": "Expressions",
+    "hint": "FORCE EST DE CONSTATER que nous avons échoué — résignation",
+    "expl": "FORCE EST DE CONSTATER QUE / FORCE M'EST DE RECONNAÎTRE = hay que reconocer (a pesar de no quererlo). Implique une résignation ou une constatation qu'on aurait préféré ne pas faire. Nuance de regret/contrainte."
+  },
+  {
+    "id": "c1c3_10",
+    "q": "Comment fonctionne 'tant et si bien que' ?",
+    "a": "TANT ET SI BIEN QUE = de tal forma que, de telle sorte que + indicatif (résultat effectif)",
+    "choices": [
+      "Indicatif — résultat effectif réel",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Conséquence",
+    "hint": "Il a insisté TANT ET SI BIEN QU'ON A fini par accepter",
+    "expl": "TANT ET SI BIEN QUE + indicatif = conséquence effectivement réalisée. Il a insisté TANT ET SI BIEN QU'ON A FINI PAR ACCEPTER. Plus expressif que SI BIEN QUE, insiste davantage sur la persistance de la cause."
+  },
+  {
+    "id": "c1c3_11",
+    "q": "Comment fonctionne le passé composé dans 'j'ai eu + PP' (passé surcomposé) ?",
+    "a": "Passé surcomposé = J'AI EU FINI = antériorité par rapport à un autre passé composé (oral/régional)",
+    "choices": [
+      "Antériorité dans un contexte de passé composé (oral/méridional)",
+      "Futur antérieur",
+      "Plus-que-parfait standard",
+      "Conditionnel passé"
+    ],
+    "tag": "Temps rares",
+    "hint": "Quand j'AI EU FINI, je suis sorti — oral méridional",
+    "expl": "PASSÉ SURCOMPOSÉ : J'AI EU FINI. Quand j'AI EU TERMINÉ, je suis sorti. Exprime l'antériorité dans les contextes où le passé composé est le temps de base. Surtout français méridional et Suisse romande."
+  },
+  {
+    "id": "c1c3_12",
+    "q": "Comment fonctionne 'il ne s'est pas agi de' ?",
+    "a": "IL NE S'EST PAS AGI DE + inf/nom = ce n'était pas une question de, ce n'était pas le cas",
+    "choices": [
+      "Ce n'était pas une question de / ce n'était pas le cas",
+      "Il ne s'est pas produit",
+      "Il n'a pas été question de",
+      "Aucune action"
+    ],
+    "tag": "Constructions impersonnelles",
+    "hint": "Il NE S'EST PAS AGI DE fuir = ce n'était pas fuir",
+    "expl": "IL S'AGIT DE + inf/nom = se trata de. IL NE S'EST PAS AGI DE fuir = no se trataba de huir. IL S'AGISSAIT DE décider = se trataba de decidir. Construction impersonnelle très fréquente à tous les temps."
+  },
+  {
+    "id": "c1c3_13",
+    "q": "Comment fonctionne 'il serait temps que' + mode ?",
+    "a": "IL SERAIT TEMPS QUE + subjonctif = il est grand temps (avec nuance d'urgence)",
+    "choices": [
+      "Subjonctif — urgence",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "IL SERAIT TEMPS QU'ON AGISSE = il est urgent d'agir",
+    "expl": "IL SERAIT TEMPS QUE + subjonctif. Il SERAIT TEMPS QU'ON RÉAGISSE. Nuance d'urgence et parfois d'impatience. IL EST TEMPS QUE + subjonctif = même construction. IL EST GRAND TEMPS QUE = encore plus urgent."
+  },
+  {
+    "id": "c1c3_14",
+    "q": "Comment fonctionne 'il se peut que' + mode ?",
+    "a": "IL SE PEUT QUE + subjonctif = il est possible que",
+    "choices": [
+      "Subjonctif — possibilité",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "IL SE PEUT QU'IL VIENNE = c'est possible",
+    "expl": "IL SE PEUT QUE + subjonctif. Il SE PEUT QU'IL VIENNE. Synonyme : IL EST POSSIBLE QUE + subjonctif. Opposé : IL EST CERTAIN QUE + indicatif. IL NE SE PEUT PAS QUE + subjonctif = il est impossible que."
+  },
+  {
+    "id": "c1c3_15",
+    "q": "Quelle est la construction de TENIR COMPTE DE vs PRENDRE EN COMPTE ?",
+    "a": "TENIR COMPTE DE + nom / PRENDRE EN COMPTE + nom — deux constructions synonymes",
+    "choices": [
+      "Les deux + nom direct, synonymes",
+      "Tenir compte de + inf",
+      "Prendre en compte que + subjonctif",
+      "Tenir compte que + indicatif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "TENIR COMPTE DE ses remarques / PRENDRE EN COMPTE ses remarques",
+    "expl": "TENIR COMPTE DE + nom = tomar en cuenta. PRENDRE EN COMPTE + nom = tener en cuenta. Synonymes. Comparer : TENIR COMPTE QUE + indicatif (reconnaître que). Ne pas confondre avec COMPTER SUR."
+  },
+  {
+    "id": "c1c3_16",
+    "q": "Comment fonctionne 'prendre le parti de' ?",
+    "a": "PRENDRE LE PARTI DE + inf = décider de, choisir de (après délibération)",
+    "choices": [
+      "Décider après délibération",
+      "Prendre un parti politique",
+      "Prendre parti pour",
+      "Se mettre du côté de"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "Il A PRIS LE PARTI DE se taire = il a décidé de se taire",
+    "expl": "PRENDRE LE PARTI DE + inf = tomar la decisión de (tras deliberación). Il A PRIS LE PARTI DE SE TAIRE. PRENDRE PARTI POUR = soutenir. PRENDRE PARTI CONTRE = s'opposer. Trois constructions différentes."
+  },
+  {
+    "id": "c1c3_17",
+    "q": "Comment fonctionne 'en venir à' ?",
+    "a": "EN VENIR À + inf = finir par, arriver à un point (souvent négatif)",
+    "choices": [
+      "Finir par, arriver à un point inattendu",
+      "Venir de + récent",
+      "Aller vers",
+      "Commencer à"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "Il EN EST VENU À douter de tout = il a fini par douter",
+    "expl": "EN VENIR À + inf = llegar a (a menudo con sorpresa o lamentación). Il EN EST VENU À douter de tout. Où en viendrons-nous ? EN VENIR AUX MAINS = en llegar a las manos. Progression vers un point."
+  },
+  {
+    "id": "c1c3_18",
+    "q": "Comment fonctionne 'se garder de' ?",
+    "a": "SE GARDER DE + inf = faire attention de ne pas, éviter soigneusement",
+    "choices": [
+      "Éviter soigneusement de faire",
+      "Garder quelque chose",
+      "S'abstenir seulement",
+      "Se méfier de"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "SE GARDEZ BIEN DE le contredire = évitez surtout de",
+    "expl": "SE GARDER DE + inf = guardarse de + inf, evitar cuidadosamente. GARDEZ-VOUS BIEN DE le contredire. SE GARDER D'INTERVENIR. Expression de prudence délibérée. Registre soutenu."
+  },
+  {
+    "id": "c1c3_19",
+    "q": "Comment fonctionne 'avoir gain de cause' ?",
+    "a": "AVOIR GAIN DE CAUSE = obtenir ce qu'on voulait, gagner après une dispute",
+    "choices": [
+      "Obtenir ce qu'on voulait après une dispute",
+      "Gagner de l'argent",
+      "Avoir raison",
+      "Trouver une solution"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "Il A EU GAIN DE CAUSE = il a obtenu ce qu'il demandait",
+    "expl": "AVOIR GAIN DE CAUSE = ganar la partida, salirse con la suya. Il A FINI PAR AVOIR GAIN DE CAUSE. Origine juridique (gagner un procès). Maintenant : obtenir ce qu'on voulait après une dispute ou négociation."
+  },
+  {
+    "id": "c1c3_20",
+    "q": "Comment fonctionne 'faire suite à' ?",
+    "a": "FAIRE SUITE À + nom = venir après, être la conséquence de, répondre à",
+    "choices": [
+      "Venir après, être la suite de ou répondre à",
+      "Précéder",
+      "Remplacer",
+      "Résumer"
+    ],
+    "tag": "Expressions verbales",
+    "hint": "FAISANT SUITE À votre lettre du... — formule épistolaire",
+    "expl": "FAIRE SUITE À = ser la continuación de, en respuesta a. FAISANT SUITE À votre lettre. Cette décision FAIT SUITE À notre réunion. Très fréquent dans les écrits professionnels et diplomatiques."
+  },
+  {
+    "id": "c1c3_21",
+    "q": "Quel est l'usage de 'il ressort de' + indicatif ?",
+    "a": "IL RESSORT DE + analyse + QUE + indicatif = il résulte de, on conclut de",
+    "choices": [
+      "Il résulte de, on conclut de + indicatif",
+      "Subjonctif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Constructions impersonnelles",
+    "hint": "IL RESSORT DE cette étude QUE... = il résulte de",
+    "expl": "IL RESSORT DE + source + QUE + indicatif = se desprende de, resulta de. IL RESSORT DE CES DONNÉES QU'UNE RÉFORME EST NÉCESSAIRE. Très utilisé dans les rapports académiques et professionnels."
+  },
+  {
+    "id": "c1c3_22",
+    "q": "Comment fonctionne 'être à même de' vs 'être en mesure de' ?",
+    "a": "Les deux signifient 'être capable de' — ÊTRE À MÊME DE légèrement plus soutenu",
+    "choices": [
+      "Être capable de — à même = légèrement plus soutenu",
+      "Sens très différents",
+      "Être à même = plus fort",
+      "Être en mesure = plus formel"
+    ],
+    "tag": "Expressions",
+    "hint": "Je suis À MÊME DE vous aider / EN MESURE DE vous aider",
+    "expl": "ÊTRE À MÊME DE + inf = estar en condiciones de. ÊTRE EN MESURE DE + inf = estar en condiciones de. Synonymes, même sens. ÊTRE À MÊME DE légèrement plus littéraire. ÊTRE CAPABLE DE = plus courant."
+  },
+  {
+    "id": "c1c3_23",
+    "q": "Comment fonctionne 'à défaut de' ?",
+    "a": "À DÉFAUT DE + nom/inf = faute de, en l'absence de, si on n'a pas",
+    "choices": [
+      "Faute de, en l'absence de, si on n'a pas",
+      "Grâce à",
+      "À cause de",
+      "Avant de"
+    ],
+    "tag": "Prépositions",
+    "hint": "À DÉFAUT D'argent, il offrit son temps",
+    "expl": "À DÉFAUT DE + nom/inf = a falta de, en ausencia de. À DÉFAUT D'argent, il offrit son aide. À DÉFAUT DE POUVOIR venir, il envoya un message. Synonymes : faute de, en l'absence de."
+  },
+  {
+    "id": "c1c3_24",
+    "q": "Comment fonctionne 'sous peine de' ?",
+    "a": "SOUS PEINE DE + nom/inf = sinon, avec la menace de, sous l'effet de la sanction",
+    "choices": [
+      "Sinon, sous la menace d'une sanction",
+      "À cause de",
+      "Grâce à",
+      "Pour éviter"
+    ],
+    "tag": "Prépositions",
+    "hint": "SOUS PEINE DE mort / SOUS PEINE D'ÊTRE licencié",
+    "expl": "SOUS PEINE DE + nom/inf = so pena de, bajo amenaza de. Respectez la loi SOUS PEINE DE sanctions. SOUS PEINE DE MORT. Introduit la sanction qui découlerait de l'action ou de l'inaction."
+  },
+  {
+    "id": "c1c3_25",
+    "q": "Comment fonctionne 'sauf à' + infinitif ?",
+    "a": "SAUF À + inf = à moins de, avec le risque de — restriction ou conséquence acceptée",
+    "choices": [
+      "À moins de, avec le risque de",
+      "Sauf si",
+      "Excepté",
+      "Avant de"
+    ],
+    "tag": "Prépositions",
+    "hint": "Il faut agir SAUF À se tromper = en acceptant le risque de se tromper",
+    "expl": "SAUF À + inf = salvo que, a riesgo de. Il faut décider, SAUF À TOUT PERDRE = quitte à tout perdre. Exprime une restriction ou une conséquence qu'on accepte. Registre soutenu."
+  }
+]

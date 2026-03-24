@@ -1,0 +1,240 @@
+[
+  {
+    "id": "c1civ2_01",
+    "q": "Qu'est-ce que la 'Françafrique' ?",
+    "a": "Réseau d'influence néocolonial entre la France et ses anciennes colonies africaines",
+    "choices": [
+      "Réseau néocolonial France-Afrique",
+      "Coopération officielle",
+      "Aide au développement",
+      "Organisation internationale"
+    ],
+    "tag": "Géopolitique",
+    "hint": "Terme de François-Xavier Verschave, 1998",
+    "expl": "FRANÇAFRIQUE (terme de Verschave, 1998) : réseaux occultes entre dirigeants français, entreprises françaises et élites africaines corrompues. Soutien à des régimes autoritaires en échange de ressources et d'influence. Sujet toujours sensible."
+  },
+  {
+    "id": "c1civ2_02",
+    "q": "Qu'est-ce que la 'théorie du genre' et son débat en France ?",
+    "a": "Théorie académique distinguant sexe biologique et genre social, très débattue en France",
+    "choices": [
+      "Distinction sexe biologique et genre social — très débattue",
+      "Théorie biologique",
+      "Idéologie politique seule",
+      "Théorie médicale"
+    ],
+    "tag": "Société",
+    "hint": "Butler, études de genre — résistance française au communautarisme",
+    "expl": "THÉORIE DU GENRE (Gender theory) : le genre est socialement construit (Butler). En France, débattu dans le cadre républicain (tension avec l'universalisme). Polémique sur les 'théories du genre' à l'école en 2013."
+  },
+  {
+    "id": "c1civ2_03",
+    "q": "Qu'est-ce que la 'crise de la représentation politique' en France ?",
+    "a": "Écart croissant entre élus et citoyens — abstention, crise des partis, montée des populismes",
+    "choices": [
+      "Écart élus/citoyens — abstention, crise des partis, populismes",
+      "Simple baisse de l'engagement",
+      "Crise économique",
+      "Problème institutionnel technique"
+    ],
+    "tag": "Politique",
+    "hint": "Moins de 50% de participation aux législatives de 2022",
+    "expl": "CRISE DE LA REPRÉSENTATION : abstention record (50% aux législatives 2022). Méfiance envers les élus. Crise des partis traditionnels (effondrement PS, dilution LR). Montée des extrêmes. Gilets jaunes = symptôme."
+  },
+  {
+    "id": "c1civ2_04",
+    "q": "Qu'est-ce que la 'mondialisation culturelle' et ses effets sur la France ?",
+    "a": "Diffusion mondiale de modèles culturels dominants (américain surtout) et réactions de protection",
+    "choices": [
+      "Diffusion de modèles culturels dominants et réactions de protection",
+      "Enrichissement mutuel sans tension",
+      "Uniformisation totale",
+      "Phénomène sans impact"
+    ],
+    "tag": "Culture",
+    "hint": "McDonald's, Netflix, anglicismes = mondialisation culturelle",
+    "expl": "MONDIALISATION CULTURELLE : diffusion du modèle culturel américain (musique, films, fast-food, langue). France = résistance via l'EXCEPTION CULTURELLE, quotas, TV5Monde. Tension entre universalisme français et américanisation."
+  },
+  {
+    "id": "c1civ2_05",
+    "q": "Qu'est-ce que le 'droit à la différence' vs le 'droit à l'indifférence' ?",
+    "a": "DIFFÉRENCE = valoriser les identités / INDIFFÉRENCE = traiter tout le monde pareil sans communautarisme",
+    "choices": [
+      "Différence = valoriser identités / Indifférence = traiter pareil sans communautarisme",
+      "Même concept",
+      "Différence = discrimination",
+      "Indifférence = racisme"
+    ],
+    "tag": "Société",
+    "hint": "Tension entre modèle républicain français et multiculturalisme",
+    "expl": "DROIT À LA DIFFÉRENCE (années 80) : valoriser les identités culturelles. DROIT À L'INDIFFÉRENCE (Alain Finkielkraut) : être traité comme citoyen, non comme membre d'un groupe. Tension fondamentale du modèle républicain français."
+  },
+  {
+    "id": "c1civ2_06",
+    "q": "Qu'est-ce que le 'communautarisme' et pourquoi la France s'y oppose-t-elle ?",
+    "a": "Organisation sociale en communautés distinctes — contredit le modèle républicain d'assimilation",
+    "choices": [
+      "Organisation en communautés distinctes — contredit le modèle républicain",
+      "Multiculturalisme positif",
+      "Séparatisme",
+      "Communauté nationale"
+    ],
+    "tag": "Société",
+    "hint": "Le modèle anglais ou américain = communautariste / France = universaliste",
+    "expl": "COMMUNAUTARISME : coexistence de groupes culturels distincts avec leurs propres règles. France s'y OPPOSE : la République ne reconnaît que des individus-citoyens, pas des communautés. Tension avec la réalité sociale des minorités."
+  },
+  {
+    "id": "c1civ2_07",
+    "q": "Qu'est-ce que le 'conflit israélo-palestinien' dans le débat français ?",
+    "a": "Sujet très polarisant en France — communautés juive et arabo-musulmane importantes, accusation d'antisémitisme et islamophobie",
+    "choices": [
+      "Sujet très polarisant entre communautés importantes — accusations croisées",
+      "Sujet mineur",
+      "Position officielle unique",
+      "Débat résolu"
+    ],
+    "tag": "Société",
+    "hint": "La France = pays avec la plus grande diaspora juive et la plus grande communauté musulmane d'Europe",
+    "expl": "CONFLIT ISRAÉLO-PALESTINIEN EN FRANCE : sujet ultra-sensible. France = plus grande diaspora juive d'Europe + communauté musulmane très importante. Accusations croisées d'antisémitisme et d'islamophobie. Débat permanent."
+  },
+  {
+    "id": "c1civ2_08",
+    "q": "Qu'est-ce que la 'politique de mémoire' en France ?",
+    "a": "Lois mémorielles, commémorations officielles et travail de mémoire sur les traumatismes historiques",
+    "choices": [
+      "Lois mémorielles, commémorations, travail de mémoire sur les traumatismes",
+      "Politique archivistique",
+      "Enseignement de l'histoire",
+      "Programme scolaire"
+    ],
+    "tag": "Société",
+    "hint": "Loi Gayssot, loi sur l'esclavage, débat sur la colonisation",
+    "expl": "POLITIQUE DE MÉMOIRE : LOI GAYSSOT (1990, négationnisme). LOI TAUBIRA (2001, esclavage crime contre l'humanité). Débat sur la REPENTANCE coloniale. DEVOIR DE MÉMOIRE vs LIBERTÉ HISTORIQUE. Tension entre histoire et mémoire."
+  },
+  {
+    "id": "c1civ2_09",
+    "q": "Qu'est-ce que la 'crise de l'hôpital public' en France ?",
+    "a": "Manque de personnel, fermeture de lits, déserts médicaux — malgré un système réputé excellent",
+    "choices": [
+      "Manque de personnel, lits, déserts médicaux malgré réputation excellente",
+      "Hôpital en bonne santé",
+      "Manque de financement seulement",
+      "Problème uniquement rural"
+    ],
+    "tag": "Société",
+    "hint": "Clap de mains pour les soignants en 2020 / mais burn-out et démissions",
+    "expl": "CRISE DE L'HÔPITAL PUBLIC : manque de personnels (infirmiers, médecins), fermeture de lits, DÉSERTS MÉDICAUX (zones sans médecins), burn-out des soignants. Paradoxe : système de santé réputé excellent mais en crise structurelle."
+  },
+  {
+    "id": "c1civ2_10",
+    "q": "Qu'est-ce que la 'philosophie des Lumières' et son héritage en France ?",
+    "a": "XVIIIe siècle : raison, progrès, critique des institutions — Voltaire, Rousseau, Montesquieu, Diderot",
+    "choices": [
+      "XVIIIe : raison, progrès, critique — Voltaire, Rousseau, Montesquieu",
+      "Courant du XIXe siècle",
+      "Philosophie médiévale",
+      "Courant post-moderne"
+    ],
+    "tag": "Histoire intellectuelle",
+    "hint": "'Aude sapere' — ose savoir (Kant) — héritage des Lumières",
+    "expl": "LES LUMIÈRES (Aufklärung) : VOLTAIRE (tolérance, critique religieuse), ROUSSEAU (contrat social, volonté générale), MONTESQUIEU (séparation des pouvoirs), DIDEROT (Encyclopédie). Héritage direct de la Révolution française et des droits de l'Homme."
+  },
+  {
+    "id": "c1civ2_11",
+    "q": "Qu'est-ce que le 'mouvement ouvrier' français et ses spécificités ?",
+    "a": "Tradition syndicale combative, CGT influente, grèves générales — modèle de conflictualité sociale",
+    "choices": [
+      "Tradition combative, CGT, grèves générales — conflictualité sociale",
+      "Mouvement pacifiste",
+      "Syndicats intégrés",
+      "Coopération patronat-syndicats"
+    ],
+    "tag": "Société",
+    "hint": "La France = pays des grèves et des manifestations",
+    "expl": "MOUVEMENT OUVRIER FRANÇAIS : tradition conflictuelle (vs modèle nordique négocié). CGT (proche PCF) = syndicat historique. GRÈVES GÉNÉRALES (1936, 1968). MANIFESTATIONS comme outil politique. Taux de syndicalisation très faible mais syndicats influents."
+  },
+  {
+    "id": "c1civ2_12",
+    "q": "Qu'est-ce que la 'diplomatie française' au Moyen-Orient ?",
+    "a": "Tradition d'équilibre — liens avec Israël ET monde arabe, non-alignement sur les USA",
+    "choices": [
+      "Équilibre entre Israël et monde arabe, non-alignement sur les USA",
+      "Alliance exclusive avec Israël",
+      "Soutien exclusif aux Arabes",
+      "Neutralité totale"
+    ],
+    "tag": "Géopolitique",
+    "hint": "La France cherche à jouer un rôle propre au Moyen-Orient",
+    "expl": "DIPLOMATIE FRANÇAISE AU MOYEN-ORIENT : tradition d'équilibre entre Israël et monde arabe. Gaullisme = autonomie par rapport aux USA. LIBAN = présence historique française. ACCORD SYKES-PICOT (1916) = héritage colonial sensible."
+  },
+  {
+    "id": "c1civ2_13",
+    "q": "Qu'est-ce que le 'modèle d'intégration républicain' français et ses limites ?",
+    "a": "Assimilation des immigrés en citoyens français — critiqué pour son échec pratique malgré l'idéal",
+    "choices": [
+      "Assimilation en citoyens français — critiqué pour son échec pratique",
+      "Modèle communautariste",
+      "Multiculturalisme",
+      "Séparation des communautés"
+    ],
+    "tag": "Société",
+    "hint": "L'idéal = Marianne de toutes couleurs / la réalité = discriminations",
+    "expl": "MODÈLE RÉPUBLICAIN D'INTÉGRATION : l'immigré doit adopter les valeurs républicaines et s'assimiler. Critiques : discriminations réelles à l'embauche et au logement, ghettoïsation, racisme systémique. Tension idéal/réalité."
+  },
+  {
+    "id": "c1civ2_14",
+    "q": "Qu'est-ce que la 'philosophie de l'éducation' française ?",
+    "a": "Instruction publique laïque et universelle — former des citoyens éclairés selon les Lumières",
+    "choices": [
+      "Instruction publique laïque universelle — former des citoyens éclairés",
+      "Éducation confessionnelle",
+      "Formation professionnelle seule",
+      "Éducation privée dominante"
+    ],
+    "tag": "Éducation",
+    "hint": "Jules Ferry (1881-1882) = école obligatoire, gratuite, laïque",
+    "expl": "PHILOSOPHIE ÉDUCATIVE FRANÇAISE : JULES FERRY (1881-82) = école OBLIGATOIRE, GRATUITE, LAÏQUE. Former des CITOYENS ÉCLAIRÉS selon l'idéal des Lumières. L'école = ascenseur social théorique. Critiqué pour la reproduction sociale (Bourdieu)."
+  },
+  {
+    "id": "c1civ2_15",
+    "q": "Qu'est-ce que la 'crise de la presse écrite' en France ?",
+    "a": "Déclin des ventes, pertes financières, concentration des médias, questionnement sur l'indépendance",
+    "choices": [
+      "Déclin des ventes, pertes, concentration, questionnement sur l'indépendance",
+      "Presse en pleine croissance",
+      "Médias d'État dominants",
+      "Crise uniquement numérique"
+    ],
+    "tag": "Médias",
+    "hint": "Bolloré, Lagardère, Arnault = concentration des médias français",
+    "expl": "CRISE DE LA PRESSE : ventes en chute depuis 20 ans. CONCENTRATION : Vincent Bolloré (CNews, Europe 1), Bernard Arnault (Le Parisien), Lagardère. Questionnement sur l'INDÉPENDANCE éditoriale. Débat sur le pluralisme médiatique."
+  },
+  {
+    "id": "c1civ2_16",
+    "q": "Qu'est-ce que l''affaire des caricatures' et la liberté d'expression en France ?",
+    "a": "Tension entre liberté d'expression (Charlie Hebdo) et respect des religions — débat post-attentats 2015",
+    "choices": [
+      "Tension liberté expression et respect des religions — post-attentats 2015",
+      "Débat sur la presse",
+      "Affaire politique",
+      "Débat économique"
+    ],
+    "tag": "Société",
+    "hint": "Charlie Hebdo — 'Je suis Charlie' vs débats sur les limites",
+    "expl": "AFFAIRE DES CARICATURES / CHARLIE HEBDO : attentats du 7 janvier 2015. Débat : la liberté d'expression a-t-elle des limites ? 'JE SUIS CHARLIE' vs certains qui nuancent. Tension entre laïcité française et sentiment religieux."
+  },
+  {
+    "id": "c1civ2_17",
+    "q": "Qu'est-ce que la 'politique de santé publique' française face aux crises ?",
+    "a": "Gestion centralisée des crises sanitaires (COVID, canicule 2003) — forces et faiblesses du système",
+    "choices": [
+      "Gestion centralisée des crises sanitaires — forces et faiblesses",
+      "Système décentralisé",
+      "Sans politique définie",
+      "Gestion uniquement locale"
+    ],
+    "tag": "Société",
+    "hint": "COVID-19 : masques manquants, vaccin, confinements — bilan mitigé",
+    "expl": "SANTÉ PUBLIQUE EN CRISE : canicule 2003 (15 000 morts, coordination ratée). COVID-19 (masques insuffisants, vaccin, confinements). Forces : Sécurité sociale universelle. Faiblesses : centralisation excessive, manque de réactivité."
+  }
+]

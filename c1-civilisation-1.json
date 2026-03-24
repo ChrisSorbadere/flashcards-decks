@@ -1,0 +1,240 @@
+[
+  {
+    "id": "c1civ1_01",
+    "q": "Qu'est-ce que le 'structuralisme' et ses figures françaises ?",
+    "a": "Courant intellectuel analysant les structures sous-jacentes — Lévi-Strauss, Lacan, Barthes, Saussure",
+    "choices": [
+      "Analyse des structures sous-jacentes — Lévi-Strauss, Lacan, Barthes",
+      "Courant historique",
+      "Philosophie existentialiste",
+      "École économique"
+    ],
+    "tag": "Pensée française",
+    "hint": "Les grandes années 60 de la pensée française",
+    "expl": "STRUCTURALISME : analyser les structures cachées qui organisent les phénomènes. SAUSSURE (langue), LÉVI-STRAUSS (mythes), LACAN (inconscient), BARTHES (mythologies), ALTHUSSER (idéologie). Dominant dans les années 1960."
+  },
+  {
+    "id": "c1civ1_02",
+    "q": "Qu'est-ce que la 'French Theory' aux États-Unis ?",
+    "a": "Réception américaine de Derrida, Foucault, Deleuze, Lyotard — influence sur les cultural studies",
+    "choices": [
+      "Réception américaine de Derrida, Foucault, Deleuze",
+      "Philosophie française classique",
+      "Existentialisme exporté",
+      "Structuralisme uniquement"
+    ],
+    "tag": "Pensée française",
+    "hint": "Derrida sur les campus américains = 'French Theory'",
+    "expl": "FRENCH THEORY : réception aux USA des post-structuralistes (DERRIDA = déconstruction, FOUCAULT = pouvoir/savoir, DELEUZE, LYOTARD). Influence massive sur les CULTURAL STUDIES, GENDER STUDIES, POSTCOLONIAL STUDIES américains."
+  },
+  {
+    "id": "c1civ1_03",
+    "q": "Qu'est-ce que la 'phénoménologie' et son impact en France ?",
+    "a": "Philosophie de l'expérience vécue — Husserl → Heidegger → Sartre, Merleau-Ponty, Levinas",
+    "choices": [
+      "Philosophie de l'expérience vécue — Husserl→Sartre→Merleau-Ponty",
+      "Courant analytique",
+      "Structuralisme",
+      "Philosophie du langage"
+    ],
+    "tag": "Philosophie",
+    "hint": "L'expérience vécue du sujet incarné",
+    "expl": "PHÉNOMÉNOLOGIE : HUSSERL (intentionnalité). HEIDEGGER (être-au-monde). En France : SARTRE (liberté, mauvaise foi), MERLEAU-PONTY (corps vécu), LEVINAS (visage de l'autre). Influence sur la psychologie, la médecine, les sciences sociales."
+  },
+  {
+    "id": "c1civ1_04",
+    "q": "Qu'est-ce que la 'déconstruction' de Derrida ?",
+    "a": "Stratégie de lecture qui déstabilise les oppositions binaires et révèle leurs hiérarchies implicites",
+    "choices": [
+      "Déstabiliser les oppositions binaires et révèles leurs hiérarchies implicites",
+      "Démolition des textes",
+      "Critique littéraire simple",
+      "Structuralisme inversé"
+    ],
+    "tag": "Philosophie",
+    "hint": "Nature/culture, oral/écrit, présence/absence — binaires à déconstruire",
+    "expl": "DÉCONSTRUCTION (Derrida) : les oppositions binaires (nature/culture, homme/femme) ne sont pas neutres — un terme domine l'autre. Déconstruire = révéler et déplacer cette hiérarchie. Ni destruction ni interprétation."
+  },
+  {
+    "id": "c1civ1_05",
+    "q": "Qu'est-ce que la 'biopolitique' chez Foucault ?",
+    "a": "Pouvoir qui s'exerce sur la vie des populations : contrôle des corps, de la santé, de la reproduction",
+    "choices": [
+      "Pouvoir s'exerçant sur la vie des populations",
+      "Politique de la biologie",
+      "Politique écologique",
+      "Pouvoir médical uniquement"
+    ],
+    "tag": "Philosophie",
+    "hint": "Foucault : 'faire vivre et laisser mourir'",
+    "expl": "BIOPOLITIQUE (Foucault) : pouvoir qui investit la VIE ELLE-MÊME comme objet de contrôle. Démographie, santé publique, sexualité, hygiène. 'FAIRE VIVRE ET LAISSER MOURIR'. Agamben a prolongé avec la notion de vie nue."
+  },
+  {
+    "id": "c1civ1_06",
+    "q": "Qu'est-ce que la 'République des lettres' ?",
+    "a": "Réseau transnational d'intellectuels européens (XVIe-XVIIIe) communiquant en latin puis en français",
+    "choices": [
+      "Réseau transnational d'intellectuels communiquant en latin puis en français",
+      "République littéraire française",
+      "Académie française ancienne",
+      "Mouvement littéraire"
+    ],
+    "tag": "Histoire intellectuelle",
+    "hint": "Érasme, Voltaire, Diderot = citoyens de la République des lettres",
+    "expl": "RÉPUBLIQUE DES LETTRES (XVIe-XVIIIe) : réseau européen d'érudits correspondant en latin puis en français. Transcende les frontières nationales. Précurseur de la communauté scientifique internationale. Erasme, Leibniz, Voltaire, Diderot."
+  },
+  {
+    "id": "c1civ1_07",
+    "q": "Qu'est-ce que l'Encyclopédie (1751-1772) et son enjeu ?",
+    "a": "Projet de Diderot et d'Alembert : rassembler tous les savoirs et diffuser la pensée des Lumières",
+    "choices": [
+      "Rassembler tous les savoirs et diffuser les Lumières (Diderot/d'Alembert)",
+      "Dictionnaire de l'Académie",
+      "Bibliothèque royale",
+      "Traité philosophique"
+    ],
+    "tag": "Histoire intellectuelle",
+    "hint": "L'Encyclopédie = bombe intellectuelle contre l'ordre établi",
+    "expl": "L'ENCYCLOPÉDIE (Diderot, d'Alembert, 1751-1772) : 28 volumes, 72 000 articles, 150 contributeurs dont Voltaire, Rousseau. But : diffuser les Lumières, combattre le fanatisme et la superstition. Censuré par l'Église."
+  },
+  {
+    "id": "c1civ1_08",
+    "q": "Qu'est-ce que le 'cartésianisme' comme trait culturel français ?",
+    "a": "Méthode déductive, clarté et distinction, rationalisme — héritage de Descartes dans la culture française",
+    "choices": [
+      "Méthode déductive, clarté, rationalisme — héritage de Descartes",
+      "Empirisme français",
+      "Pragmatisme",
+      "Romantisme rationnel"
+    ],
+    "tag": "Culture",
+    "hint": "'Je pense donc je suis' — la raison comme fondement",
+    "expl": "CARTÉSIANISME CULTUREL : la France est perçue comme profondément rationnelle et déductive. Héritage de DESCARTES (Discours de la méthode, 1637). Clarté, distinction, méthode. Contraste avec l'empirisme britannique ou le pragmatisme américain."
+  },
+  {
+    "id": "c1civ1_09",
+    "q": "Qu'est-ce que la 'Querelle des Anciens et des Modernes' ?",
+    "a": "Débat littéraire (XVIIe-XVIIIe) : les Anciens (Grecs/Latins) sont-ils supérieurs aux Modernes ?",
+    "choices": [
+      "Débat sur la supériorité des Anciens vs les Modernes (XVIIe-XVIIIe)",
+      "Querelle politique",
+      "Débat religieux",
+      "Conflit académique récent"
+    ],
+    "tag": "Histoire littéraire",
+    "hint": "Boileau (Anciens) vs Perrault (Modernes) — 1687",
+    "expl": "QUERELLE DES ANCIENS ET DES MODERNES : Boileau défend l'imitation des Anciens. Perrault affirme que les Modernes les dépassent. Débat fondateur sur le progrès et la valeur du patrimoine culturel. Annonce les Lumières."
+  },
+  {
+    "id": "c1civ1_10",
+    "q": "Qu'est-ce que le 'roman à thèse' ?",
+    "a": "Roman qui illustre et défend une idée philosophique, politique ou morale — Sartre, Camus, Zola",
+    "choices": [
+      "Roman illustrant et défendant une thèse philosophique/politique",
+      "Roman historique",
+      "Roman d'apprentissage",
+      "Roman psychologique"
+    ],
+    "tag": "Littérature",
+    "hint": "La Nausée (Sartre), L'Assommoir (Zola) = romans à thèse",
+    "expl": "ROMAN À THÈSE : la fiction sert de véhicule à une idée. ZOLA (naturalisme, La Bête humaine). SARTRE (existentialisme, La Nausée). CAMUS (absurde, L'Étranger). La thèse peut être explicite ou émergente."
+  },
+  {
+    "id": "c1civ1_11",
+    "q": "Qu'est-ce que le 'Nouveau Roman' français ?",
+    "a": "Mouvement littéraire des années 50-70 : refus de l'intrigue, du personnage, du narrateur omniscient",
+    "choices": [
+      "Refus de l'intrigue, du personnage et du narrateur omniscient",
+      "Roman contemporain",
+      "Roman policier",
+      "Littérature engagée"
+    ],
+    "tag": "Littérature",
+    "hint": "Robbe-Grillet, Sarraute, Simon, Butor — 'Les Éditions de Minuit'",
+    "expl": "NOUVEAU ROMAN (années 50-70) : ROBBE-GRILLET, NATHALIE SARRAUTE, CLAUDE SIMON, MICHEL BUTOR. Refus de l'intrigue traditionnelle, du personnage psychologique, de la chronologie. Description minutieuse d'objets, fragmentation."
+  },
+  {
+    "id": "c1civ1_12",
+    "q": "Qu'est-ce que le 'théâtre de l'absurde' ?",
+    "a": "Théâtre qui met en scène l'absurdité de la condition humaine — Beckett, Ionesco, Adamov",
+    "choices": [
+      "Mise en scène de l'absurdité humaine — Beckett, Ionesco, Adamov",
+      "Théâtre comique",
+      "Théâtre classique",
+      "Théâtre engagé"
+    ],
+    "tag": "Littérature",
+    "hint": "'En attendant Godot' — Godot ne vient jamais",
+    "expl": "THÉÂTRE DE L'ABSURDE (années 50) : BECKETT (En attendant Godot), IONESCO (La Cantatrice chauve), ADAMOV. Langage qui se désintègre, attente sans objet, répétition absurde. Forme qui exprime le fond : l'absurdité de l'existence."
+  },
+  {
+    "id": "c1civ1_13",
+    "q": "Qu'est-ce que la 'littérature engagée' selon Sartre ?",
+    "a": "Littérature qui prend position sur les enjeux du monde et assume sa responsabilité sociale",
+    "choices": [
+      "Littérature qui prend position et assume sa responsabilité sociale",
+      "Littérature politique uniquement",
+      "Propagande",
+      "Littérature de combat"
+    ],
+    "tag": "Littérature",
+    "hint": "Sartre : 'Qu'est-ce que la littérature ?' (1947)",
+    "expl": "LITTÉRATURE ENGAGÉE (Sartre, 1947) : l'écrivain est responsable de ce qu'il dit. La prose PEUT et DOIT s'engager. La poésie échappe à l'engagement (rapport non instrumental au langage). L'engagement = répondre à son époque."
+  },
+  {
+    "id": "c1civ1_14",
+    "q": "Qu'est-ce que la 'négritude' littéraire et son rapport au français ?",
+    "a": "Valorisation de l'identité noire en langue française — Césaire, Senghor, Damas (années 30)",
+    "choices": [
+      "Valorisation de l'identité noire en langue française — Césaire, Senghor",
+      "Mouvement littéraire brésilien",
+      "Littérature anticoloniale violente",
+      "Littérature africaine en anglais"
+    ],
+    "tag": "Littérature francophone",
+    "hint": "Paradoxe : affirmer l'identité africaine dans la langue du colonisateur",
+    "expl": "NÉGRITUDE (années 1930, Paris) : AIMÉ CÉSAIRE, LÉOPOLD SÉDAR SENGHOR, DAMAS. Valorisation de la culture africaine noire. Paradoxe productif : utiliser le FRANÇAIS comme langue d'émancipation. Fondateur de la littérature francophone."
+  },
+  {
+    "id": "c1civ1_15",
+    "q": "Qu'est-ce que le 'Prix Goncourt' et pourquoi est-il controversé ?",
+    "a": "Prix littéraire français le plus médiatisé, accusé de favoritisme éditorial et de consanguinité",
+    "choices": [
+      "Prix le plus médiatisé, accusé de favoritisme éditorial",
+      "Prix académique officiel",
+      "Prix international",
+      "Prix du public"
+    ],
+    "tag": "Vie littéraire",
+    "hint": "Gallimard, Grasset, Seuil = maisons qui 'gagnent' souvent",
+    "expl": "PRIX GONCOURT : 10 membres de l'Académie Goncourt, déjeuner Drouant. Controversé : accusé de favoritiser les grandes maisons (Gallimard notamment). Garantit les ventes mais critiqué pour son manque d'indépendance."
+  },
+  {
+    "id": "c1civ1_16",
+    "q": "Qu'est-ce que la 'politique cinématographique' française ?",
+    "a": "Soutien fort de l'État au cinéma national via le CNC et les quotas — exception culturelle",
+    "choices": [
+      "Soutien de l'État via le CNC et les quotas — exception culturelle",
+      "Cinéma entièrement privé",
+      "Sans politique particulière",
+      "Cinéma américain dominant sans résistance"
+    ],
+    "tag": "Culture",
+    "hint": "CNC + quotas de diffusion = protection du cinéma français",
+    "expl": "POLITIQUE CINÉMATOGRAPHIQUE : CENTRE NATIONAL DU CINÉMA (CNC) finance le cinéma français. QUOTAS de diffusion (40% de films francophones à la TV). Débat à l'OMC : le cinéma est-il un bien culturel ou une marchandise ? EXCEPTION CULTURELLE."
+  },
+  {
+    "id": "c1civ1_17",
+    "q": "Qu'est-ce que la 'Nouvelle Vague' et son impact mondial ?",
+    "a": "Mouvement cinématographique des années 60 (Godard, Truffaut) qui a révolutionné le langage cinématographique",
+    "choices": [
+      "Révolution cinématographique années 60 — Godard, Truffaut, Chabrol",
+      "Style des années 80",
+      "Cinéma documentaire",
+      "Comédie française"
+    ],
+    "tag": "Cinéma",
+    "hint": "Cahiers du Cinéma + caméra légère + tournage en extérieur",
+    "expl": "NOUVELLE VAGUE (1958-1968) : GODARD, TRUFFAUT, CHABROL, ROHMER, RIVETTE. Caméra légère, tournage extérieur, improvisation, ruptures de montage (jump cut). Influence mondiale : cinéma américain indépendant, cinéma brésilien (Cinema Novo)."
+  }
+]
