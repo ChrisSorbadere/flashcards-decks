@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2v2_01",
+    "q": "Que signifie 'gentrification' ?",
+    "a": "Transformation d'un quartier populaire sous l'effet de l'installation de catégories aisées",
+    "choices": [
+      "Transformation d'un quartier par l'installation de classes aisées",
+      "Dégradation d'un quartier",
+      "Construction de logements sociaux",
+      "Rénovation industrielle"
+    ],
+    "tag": "Société",
+    "hint": "La GENTRIFICATION de Belleville à Paris",
+    "expl": "GENTRIFICATION = gentrificación. Arrivée de classes aisées qui fait monter les prix et chasse les habitants originels. Souvent liée à la rénovation urbaine. Sujet de débat sociopolitique."
+  },
+  {
+    "id": "b2v2_02",
+    "q": "Que signifie 'précarité' ?",
+    "a": "Situation instable et fragile, manque de sécurité économique ou sociale",
+    "choices": [
+      "Instabilité et fragilité sociale/économique",
+      "Richesse",
+      "Stabilité professionnelle",
+      "Sécurité sociale"
+    ],
+    "tag": "Société",
+    "hint": "La PRÉCARITÉ de l'emploi = instabilité",
+    "expl": "PRÉCARITÉ = precariedad. LA PRÉCARITÉ DE L'EMPLOI = precariedad laboral. PRÉCAIRE = precario. Les TRAVAILLEURS PRÉCAIRES = trabajadores precarios. CDD, intérim, auto-entrepreneur."
+  },
+  {
+    "id": "b2v2_03",
+    "q": "Que signifie 'ubérisation' ?",
+    "a": "Transformation d'un secteur économique par des plateformes numériques qui contournent les règles",
+    "choices": [
+      "Transformation par plateformes numériques contournant les règles",
+      "Modernisation technologique",
+      "Numérisation des services",
+      "Concurrence normale"
+    ],
+    "tag": "Économie",
+    "hint": "L'UBÉRISATION du taxi, de l'hôtellerie",
+    "expl": "UBÉRISATION = uberización. Du nom Uber. Disruption d'un secteur par des plateformes qui mettent en relation directe clients et prestataires, contournant les intermédiaires et réglementations."
+  },
+  {
+    "id": "b2v2_04",
+    "q": "Que signifie 'populisme' ?",
+    "a": "Idéologie qui oppose le peuple pur à une élite corrompue et propose des solutions simples",
+    "choices": [
+      "Opposition peuple vertueux vs élite corrompue",
+      "Gouvernement du peuple",
+      "Démagogie simple",
+      "Nationalisme extrême"
+    ],
+    "tag": "Politique",
+    "hint": "Le POPULISME promet des solutions simples à des problèmes complexes",
+    "expl": "POPULISME = populismo. Idéologie qui construit une opposition PEUPLE vs ÉLITE. Appel aux émotions, promesses simples. Peut être de gauche ou de droite. Débattu : parfois utilisé comme insulte."
+  },
+  {
+    "id": "b2v2_05",
+    "q": "Que signifie 'néolibéralisme' ?",
+    "a": "Courant économique prônant le marché libre, la dérégulation et la réduction de l'État",
+    "choices": [
+      "Marché libre, dérégulation, réduction de l'État",
+      "Économie planifiée",
+      "État providence fort",
+      "Protectionnisme"
+    ],
+    "tag": "Économie",
+    "hint": "Le NÉOLIBÉRALISME depuis les années 80 (Thatcher, Reagan)",
+    "expl": "NÉOLIBÉRALISME = neoliberalismo. Courant depuis années 80. Dérégulation, privatisations, concurrence. Thatcher, Reagan = figures fondatrices. Critiqué pour les inégalités qu'il génère."
+  },
+  {
+    "id": "b2v2_06",
+    "q": "Que signifie 'sérendipité' ?",
+    "a": "Découverte fortuite et heureuse faite par hasard alors qu'on cherche autre chose",
+    "choices": [
+      "Découverte heureuse par hasard",
+      "Malchance",
+      "Planification",
+      "Intuition pure"
+    ],
+    "tag": "Sciences/Général",
+    "hint": "La SÉRENDIPITÉ en science : découvrir sans chercher",
+    "expl": "SÉRENDIPITÉ = serendipia. Terme de Horace Walpole (1754). La pénicilline (Fleming) = sérendipité. Découverte de l'Amérique = sérendipité. Hasard productif. Du mot anglais serendipity."
+  },
+  {
+    "id": "b2v2_07",
+    "q": "Que signifie 'écocide' ?",
+    "a": "Destruction massive et délibérée d'un écosystème",
+    "choices": [
+      "Destruction massive d'un écosystème",
+      "Protection de l'environnement",
+      "Pollution mineure",
+      "Exploitation durable"
+    ],
+    "tag": "Environnement",
+    "hint": "L'ÉCOCIDE pourrait devenir un crime international",
+    "expl": "ÉCOCIDE = ecocidio. Destruction massive délibérée d'un écosystème. Mouvement pour inclure l'écocide dans le droit international pénal. Ex : déforestation amazonienne, marées noires."
+  },
+  {
+    "id": "b2v2_08",
+    "q": "Que signifie 'extractivisme' ?",
+    "a": "Modèle économique basé sur l'extraction massive de ressources naturelles",
+    "choices": [
+      "Extraction massive de ressources naturelles",
+      "Agriculture durable",
+      "Économie de service",
+      "Économie numérique"
+    ],
+    "tag": "Environnement",
+    "hint": "L'EXTRACTIVISME minier en Amérique latine",
+    "expl": "EXTRACTIVISME = extractivismo. Économie fondée sur l'extraction de ressources (minières, pétrolières, forestières) exportées brutes. Critiqué pour ses impacts environnementaux et sociaux."
+  },
+  {
+    "id": "b2v2_09",
+    "q": "Que signifie 'sobriété' dans le contexte environnemental ?",
+    "a": "Réduction volontaire de la consommation d'énergie et de ressources",
+    "choices": [
+      "Réduction volontaire de consommation",
+      "Austérité économique",
+      "Végétarisme",
+      "Recyclage"
+    ],
+    "tag": "Environnement",
+    "hint": "La SOBRIÉTÉ énergétique = consommer moins",
+    "expl": "SOBRIÉTÉ ÉNERGÉTIQUE = sobriedad energética. Réduire volontairement sa consommation d'énergie. Différent de l'efficacité (même résultat avec moins). Enjeu politique en France depuis 2022."
+  },
+  {
+    "id": "b2v2_10",
+    "q": "Que signifie 'démocratie participative' ?",
+    "a": "Forme de démocratie impliquant les citoyens directement dans les décisions",
+    "choices": [
+      "Implication directe des citoyens dans les décisions",
+      "Démocratie représentative",
+      "Vote électronique",
+      "Référendum seulement"
+    ],
+    "tag": "Politique",
+    "hint": "Les budgets participatifs = DÉMOCRATIE PARTICIPATIVE",
+    "expl": "DÉMOCRATIE PARTICIPATIVE = democracia participativa. Au-delà du vote : référendums, budgets participatifs, assemblées citoyennes (Convention citoyenne pour le climat en France, 2019-2020)."
+  },
+  {
+    "id": "b2v2_11",
+    "q": "Que signifie 'fracture sociale' ?",
+    "a": "Division profonde de la société en groupes aux conditions de vie très différentes",
+    "choices": [
+      "Division profonde de la société",
+      "Simple inégalité",
+      "Différence culturelle",
+      "Crise économique ponctuelle"
+    ],
+    "tag": "Société",
+    "hint": "La FRACTURE SOCIALE : thème de Chirac en 1995",
+    "expl": "FRACTURE SOCIALE = fractura social. Terme popularisé par Jacques Chirac en 1995. Division croissante entre riches et pauvres, urbains et ruraux. Synonymes : inégalités, clivage, exclusion."
+  },
+  {
+    "id": "b2v2_12",
+    "q": "Que signifie 'intersectionnalité' ?",
+    "a": "Prise en compte du cumul de plusieurs discriminations (genre, race, classe...)",
+    "choices": [
+      "Cumul de plusieurs discriminations",
+      "Discrimination simple",
+      "Égalité des droits",
+      "Antiracisme seul"
+    ],
+    "tag": "Société",
+    "hint": "INTERSECTIONNALITÉ : être femme ET noire ET pauvre = discriminations cumulées",
+    "expl": "INTERSECTIONNALITÉ = interseccionalidad. Concept de Kimberlé Crenshaw (1989). Les discriminations se croisent et se cumulent : genre + race + classe + handicap... Terme central dans les études de genre."
+  },
+  {
+    "id": "b2v2_13",
+    "q": "Que signifie 'méritocratie' et pourquoi est-elle critiquée ?",
+    "a": "Idéal de réussite par le mérite, critiqué car il masque les inégalités de départ",
+    "choices": [
+      "Réussite par mérite, critiqué pour masquer les inégalités",
+      "Système équitable",
+      "Aristocratie modernisée",
+      "Égalité parfaite"
+    ],
+    "tag": "Société",
+    "hint": "La MÉRITOCRATIE suppose des chances égales au départ",
+    "expl": "MÉRITOCRATIE = meritocracia. Idéal : la réussite selon le mérite. Critique : elle oublie que les points de départ ne sont pas égaux. REPRODUCTION SOCIALE (Bourdieu) : le mérite reproduit les inégalités."
+  },
+  {
+    "id": "b2v2_14",
+    "q": "Que signifie 'radicalisation' dans le contexte sécuritaire ?",
+    "a": "Processus par lequel une personne adopte des idées extrémistes jusqu'à potentiellement passer à l'acte",
+    "choices": [
+      "Adoption d'idées extrémistes pouvant mener à l'action",
+      "Simple engagement politique",
+      "Pratique religieuse",
+      "Militantisme normal"
+    ],
+    "tag": "Sécurité",
+    "hint": "La RADICALISATION jihadiste = processus progressif",
+    "expl": "RADICALISATION = radicalización. Processus graduel vers l'idéologie extrémiste. DÉRADICALISATION = programas de desradicalización. PRÉVENTION DE LA RADICALISATION = plan national en France."
+  },
+  {
+    "id": "b2v2_15",
+    "q": "Que signifie 'désinformation' vs 'mésinformation' ?",
+    "a": "DÉSINFORMATION = intentionnelle / MÉSINFORMATION = involontaire mais fausse",
+    "choices": [
+      "Désinformation = intentionnelle, mésinformation = involontaire",
+      "Même sens",
+      "Désinformation = vraie, mésinformation = fausse",
+      "Désinformation = partielle, mésinformation = totale"
+    ],
+    "tag": "Médias",
+    "hint": "FAKE NEWS = désinformation",
+    "expl": "DÉSINFORMATION = desinformación (intencional). MÉSINFORMATION = información incorrecta pero no intencional. INFOX = fake news en français. Distinction importante dans le débat sur les médias."
+  },
+  {
+    "id": "b2v2_16",
+    "q": "Que signifie 'choc des civilisations' ?",
+    "a": "Théorie de Samuel Huntington selon laquelle les conflits futurs opposeraient les grandes civilisations",
+    "choices": [
+      "Théorie d'Huntington sur les conflits entre civilisations",
+      "Fait établi",
+      "Guerre mondiale",
+      "Dialogue interculturel"
+    ],
+    "tag": "Géopolitique",
+    "hint": "Samuel Huntington, 1993 — thèse très débattue",
+    "expl": "CHOC DES CIVILISATIONS (Huntington, 1993) = choque de civilizaciones. Thèse controversée : les conflits post-Guerre froide seront culturels/religieux. Critiqué pour son simplisme et son déterminisme."
+  },
+  {
+    "id": "b2v2_17",
+    "q": "Que signifie 'mondialisation heureuse' et qui la critique ?",
+    "a": "Vision optimiste de la mondialisation, critiquée pour minimiser ses effets négatifs",
+    "choices": [
+      "Vision optimiste critiquée pour minimiser les effets négatifs",
+      "Vision pessimiste",
+      "Vision réaliste",
+      "Vision économique seule"
+    ],
+    "tag": "Économie/Géopolitique",
+    "hint": "Alain Minc vs. les altermondialistes",
+    "expl": "MONDIALISATION HEUREUSE = globalización dichosa (Alain Minc). Vision optimiste des échanges libres. Critiquée par les ALTERMONDIALISTES (José Bové) et les SOUVERAINISTES pour ses effets inégalitaires."
+  },
+  {
+    "id": "b2v2_18",
+    "q": "Que signifie 'soft power' et comment la France le pratique-t-elle ?",
+    "a": "Pouvoir d'influence culturelle, diplomatique et médiatique (pas militaire)",
+    "choices": [
+      "Influence culturelle et diplomatique non militaire",
+      "Puissance militaire",
+      "Aide économique",
+      "Sanctions"
+    ],
+    "tag": "Géopolitique",
+    "hint": "La FRANCOPHONIE = soft power français",
+    "expl": "SOFT POWER (Joseph Nye) = poder blando. Influence par la culture, la langue, les valeurs. France : TV5 Monde, Institut français, gastronomie, mode, francophonie. Opposé au HARD POWER (militaire)."
+  },
+  {
+    "id": "b2v2_19",
+    "q": "Que signifie 'bouc émissaire' ?",
+    "a": "Personne ou groupe rendu injustement responsable de problèmes collectifs",
+    "choices": [
+      "Responsable injuste de problèmes collectifs",
+      "Vrai coupable",
+      "Victime consentante",
+      "Représentant élu"
+    ],
+    "tag": "Psychologie sociale",
+    "hint": "Les immigrés comme BOUCS ÉMISSAIRES de la crise",
+    "expl": "BOUC ÉMISSAIRE = chivo expiatorio. Mécanisme de René Girard. Désigner injustement un individu/groupe comme responsable. Permet à la collectivité d'évacuer ses tensions. Mécanisme politique fréquent."
+  },
+  {
+    "id": "b2v2_20",
+    "q": "Que signifie 'délégitimer' ?",
+    "a": "Faire perdre sa légitimité, remettre en question l'autorité de quelqu'un",
+    "choices": [
+      "Faire perdre la légitimité",
+      "Légitimer",
+      "Critiquer sans effet",
+      "Analyser"
+    ],
+    "tag": "Politique",
+    "hint": "DÉLÉGITIMER une institution = la faire perdre son crédit",
+    "expl": "DÉLÉGITIMER = deslegitimar. DÉLÉGITIMER une institution. LA DÉLÉGITIMATION du politique. Synonymes : discréditer, déconsidérer, miner l'autorité. Processus graduel de perte de légitimité."
+  },
+  {
+    "id": "b2v2_21",
+    "q": "Que signifie 'consensus mou' ?",
+    "a": "Accord de façade qui masque des divergences réelles, sans engagement véritable",
+    "choices": [
+      "Accord de façade masquant des divergences",
+      "Vrai consensus",
+      "Désaccord total",
+      "Négociation franche"
+    ],
+    "tag": "Politique",
+    "hint": "Un CONSENSUS MOU ne résout rien vraiment",
+    "expl": "CONSENSUS MOU = consenso blando. Accord superficiel qui masque des désaccords. Souvent dénoncé dans les négociations internationales. Synonymes : accord de façade, compromis a minima."
+  },
+  {
+    "id": "b2v2_22",
+    "q": "Que signifie 'consumérisme' ?",
+    "a": "Idéologie qui promeut la consommation comme valeur centrale",
+    "choices": [
+      "La consommation comme valeur centrale",
+      "Économie de marché",
+      "Protection du consommateur",
+      "Commerce équitable"
+    ],
+    "tag": "Société",
+    "hint": "Le CONSUMÉRISME = plus on consomme, mieux on est",
+    "expl": "CONSUMÉRISME = consumismo. Société de consommation qui fait de l'achat une valeur. Critiqué par les écologistes et les philosophes (Veblen, Baudrillard). LA SOCIÉTÉ DE CONSOMMATION (Baudrillard)."
+  },
+  {
+    "id": "b2v2_23",
+    "q": "Que signifie 'déclassement social' ?",
+    "a": "Sentiment ou réalité de descendre dans la hiérarchie sociale",
+    "choices": [
+      "Descente dans la hiérarchie sociale",
+      "Ascension sociale",
+      "Mobilité neutre",
+      "Exclusion totale"
+    ],
+    "tag": "Société",
+    "hint": "Le DÉCLASSEMENT des classes moyennes",
+    "expl": "DÉCLASSEMENT = desclasamiento. Descente dans l'échelle sociale, réelle ou ressentie. Touchant surtout les classes moyennes. Analysé par Éric Maurin et Louis Chauvel. Vecteur de populisme."
+  },
+  {
+    "id": "b2v2_24",
+    "q": "Que signifie 'souverainisme' ?",
+    "a": "Doctrine qui défend la primauté de la souveraineté nationale sur les institutions supranationales",
+    "choices": [
+      "Primauté de la souveraineté nationale",
+      "Fédéralisme",
+      "Mondialisme",
+      "Régionalisme"
+    ],
+    "tag": "Politique",
+    "hint": "Le SOUVERAINISME s'oppose à l'intégration européenne",
+    "expl": "SOUVERAINISME = soberanismo. Défense de la souveraineté nationale contre l'intégration européenne ou internationale. SOUVERAINISTE = soberanista. De gauche (Mélenchon) ou de droite (Zemmour)."
+  },
+  {
+    "id": "b2v2_25",
+    "q": "Que signifie 'désenchantement du monde' ?",
+    "a": "Concept de Max Weber sur la perte du sens sacré au profit de la rationalisation",
+    "choices": [
+      "Perte du sens sacré par la rationalisation (Weber)",
+      "Simple pessimisme",
+      "Crise économique",
+      "Sécularisation simple"
+    ],
+    "tag": "Sociologie",
+    "hint": "MAX WEBER : rationalisation = DÉSENCHANTEMENT",
+    "expl": "DÉSENCHANTEMENT DU MONDE (Max Weber) = desencantamiento del mundo. La modernité rationnelle fait disparaître le sens magique/sacré du monde. Sécularisation, bureaucratisation. Concept fondamental en sociologie."
+  }
+]

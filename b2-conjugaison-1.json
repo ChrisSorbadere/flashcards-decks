@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2c1_01",
+    "q": "Quel mode utilise-t-on après 'à supposer que' ?",
+    "a": "Le subjonctif — à supposer qu'il vienne",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Hypothèse incertaine → subjonctif",
+    "expl": "À SUPPOSER QUE + subjonctif. À SUPPOSER QU'IL VIENNE. EN ADMETTANT QUE + subjonctif. POUR PEU QUE + subjonctif = pourvu que. Toutes ces locutions → subjonctif."
+  },
+  {
+    "id": "b2c1_02",
+    "q": "Quel mode utilise-t-on après 'de peur que' ?",
+    "a": "Le subjonctif — de peur qu'il ne parte",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Crainte → subjonctif + NE explétif possible",
+    "expl": "DE PEUR QUE + subjonctif (+ NE explétif facultatif). De peur QU'IL NE PARTE. DE CRAINTE QUE + subjonctif. Crainte = subjonctif toujours."
+  },
+  {
+    "id": "b2c1_03",
+    "q": "Quel mode utilise-t-on après 'si tant est que' ?",
+    "a": "Le subjonctif — si tant est qu'il soit capable",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Futur"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Concession très réservée → subjonctif",
+    "expl": "SI TANT EST QUE + subjonctif = suponiendo que (con mucha reserva). Si tant est QU'IL SOIT compétent = suponiendo que sea competente (lo cual dudo)."
+  },
+  {
+    "id": "b2c1_04",
+    "q": "Quel mode après 'quel que soit' ?",
+    "a": "Le subjonctif — quel que soit le résultat",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Concession totale → QUEL QUE + subjonctif de ÊTRE",
+    "expl": "QUEL QUE + subjonctif de ÊTRE. QUEL QUE SOIT le résultat. QUELLE QUE SOIT la raison. QUELS QUE SOIENT les problèmes. Accord de QUEL avec le nom."
+  },
+  {
+    "id": "b2c1_05",
+    "q": "Quel mode après 'pour autant que' ?",
+    "a": "Le subjonctif — pour autant qu'on sache",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Restriction/condition → subjonctif",
+    "expl": "POUR AUTANT QUE + subjonctif = en la medida en que, que yo sepa. POUR AUTANT QU'ON SACHE. AUTANT QUE JE SACHE + subjonctif. Restriction sur la connaissance."
+  },
+  {
+    "id": "b2c1_06",
+    "q": "Comment fonctionne le subjonctif après un superlatif ?",
+    "a": "C'est le meilleur film que j'aie vu — subjonctif car jugement subjectif",
+    "choices": [
+      "Subjonctif après superlatif subjectif",
+      "Indicatif toujours",
+      "Conditionnel",
+      "Dépend du sens"
+    ],
+    "tag": "Subjonctif",
+    "hint": "LE MEILLEUR QUE + subjonctif",
+    "expl": "SUPERLATIF + subjonctif : C'est le meilleur film QUE J'AIE VU. C'est la seule solution QUI SOIT viable. Subjectivité du jugement → subjonctif. Fait objectif → indicatif."
+  },
+  {
+    "id": "b2c1_07",
+    "q": "Quel est le conditionnel passé 2ème forme (forme littéraire) ?",
+    "a": "Il eût fait = conditionnel passé littéraire (équivalent de il aurait fait)",
+    "choices": [
+      "Il eût fait (subjonctif PQP valeur conditionnelle)",
+      "Il aurait fait",
+      "Il avait fait",
+      "Il aura fait"
+    ],
+    "tag": "Formes littéraires",
+    "hint": "EÛT FAIT = forme littéraire du conditionnel passé",
+    "expl": "CONDITIONNEL PASSÉ 2ème forme = subjonctif plus-que-parfait utilisé comme conditionnel. Il EÛT FAIT = il aurait fait. S'il EÛT SU = s'il avait su. Textes littéraires classiques."
+  },
+  {
+    "id": "b2c1_08",
+    "q": "Comment reconnaît-on le conditionnel passé 2ème forme ?",
+    "a": "Subjonctif imparfait de avoir/être + participe passé : il eût mangé / il fût parti",
+    "choices": [
+      "Subjonctif imparfait avoir/être + PP",
+      "Conditionnel présent + PP",
+      "Futur antérieur",
+      "Imparfait + PP"
+    ],
+    "tag": "Formes littéraires",
+    "hint": "Il EÛT MANGÉ / Il FÛT PARTI",
+    "expl": "Conditionnel passé 2ème forme : EÛT MANGÉ (= aurait mangé). FÛT PARTI (= serait parti). Se FUSSENT LEVÉS (= se seraient levés). Uniquement dans les textes littéraires."
+  },
+  {
+    "id": "b2c1_09",
+    "q": "Comment le passé simple interagit-il avec l'imparfait dans un récit ?",
+    "a": "Passé simple = actions du premier plan / imparfait = arrière-plan, durée",
+    "choices": [
+      "Passé simple = actions, imparfait = arrière-plan",
+      "Passé simple = long, imparfait = court",
+      "Passé simple = passé, imparfait = présent",
+      "Aucune différence"
+    ],
+    "tag": "Narration",
+    "hint": "Alternance passé simple / imparfait = architecture du récit",
+    "expl": "Récit littéraire : PASSÉ SIMPLE = actions principales séquentielles (premier plan). IMPARFAIT = descriptions, habitudes, actions de fond (arrière-plan). Architecture temporelle fondamentale."
+  },
+  {
+    "id": "b2c1_10",
+    "q": "Qu'est-ce que le 'présent de narration' (présent historique) ?",
+    "a": "Utiliser le présent pour narrer des événements passés, effet de vivacité",
+    "choices": [
+      "Présent pour events passés, effet de vivacité",
+      "Présent toujours factuel",
+      "Présent littéraire uniquement",
+      "Présent pour le futur"
+    ],
+    "tag": "Temps narratifs",
+    "hint": "'En 1789, la Révolution ÉCLATE...'",
+    "expl": "PRÉSENT DE NARRATION = présent utilisé pour des faits passés, crée un effet de vivacité. 'Napoléon ARRIVE à Moscou et DÉCOUVRE une ville déserte.' Fréquent à l'oral et dans la presse."
+  },
+  {
+    "id": "b2c1_11",
+    "q": "Quelle est la valeur du conditionnel dans les journaux ?",
+    "a": "Information non confirmée ou non assumée par le journaliste",
+    "choices": [
+      "Information non confirmée",
+      "Futur certain",
+      "Opinion du journaliste",
+      "Fait historique"
+    ],
+    "tag": "Conditionnel journalistique",
+    "hint": "Le président SERAIT favorable à... (non confirmé)",
+    "expl": "CONDITIONNEL JOURNALISTIQUE = information dont le journaliste ne garantit pas la véracité. Le ministre AURAIT DÉMISSIONNÉ. L'accord SERAIT signé. Conditionnel de prudence."
+  },
+  {
+    "id": "b2c1_12",
+    "q": "Comment fonctionne l'imparfait de politesse ?",
+    "a": "Je voulais vous demander... = présent poli atténué par l'imparfait",
+    "choices": [
+      "Imparfait pour atténuer une demande présente",
+      "Imparfait factuel",
+      "Imparfait habituel",
+      "Imparfait narratif"
+    ],
+    "tag": "Valeurs de l'imparfait",
+    "hint": "Je VOULAIS vous dire... (= je veux, mais poli)",
+    "expl": "IMPARFAIT DE POLITESSE : Je VOULAIS vous demander quelque chose = je veux (mais poli). Je VENAIS pour... Utilisé pour atténuer une demande ou s'excuser d'une intrusion."
+  },
+  {
+    "id": "b2c1_13",
+    "q": "Comment fonctionne l'imparfait hypocoristique ?",
+    "a": "Alors, on était malade ? — imparfait pour parler à un enfant ou avec tendresse",
+    "choices": [
+      "Imparfait affectif pour enfants/tendresse",
+      "Imparfait médical",
+      "Imparfait conditionnel",
+      "Imparfait narratif"
+    ],
+    "tag": "Valeurs de l'imparfait",
+    "hint": "Alors, on était fatigué, mon chéri ?",
+    "expl": "IMPARFAIT HYPOCORISTIQUE = imparfait affectif utilisé avec enfants ou tendresse. 'Alors, on était malade ?' Imitation du point de vue de l'enfant ou ton de sollicitude."
+  },
+  {
+    "id": "b2c1_14",
+    "q": "Quelle est la valeur de l'imparfait dit 'de rupture' ?",
+    "a": "Une heure de plus et il mourait — imparfait marquant un événement quasi-accompli",
+    "choices": [
+      "Événement quasi-accompli ou manqué",
+      "Habitude dans le passé",
+      "État continu",
+      "Action longue"
+    ],
+    "tag": "Valeurs de l'imparfait",
+    "hint": "Un pas de plus et il TOMBAIT dans le vide",
+    "expl": "IMPARFAIT DE RUPTURE = événement qui a failli se produire. Un pas de plus et il TOMBAIT = un paso más y se habría caído. Tension narrative. Très expressif."
+  },
+  {
+    "id": "b2c1_15",
+    "q": "Quelle est la valeur du subjonctif dans 'vive la France' ?",
+    "a": "Subjonctif optatif = souhait, vœu (équivalent de 'que vive la France')",
+    "choices": [
+      "Subjonctif optatif = souhait",
+      "Impératif",
+      "Indicatif présent",
+      "Futur"
+    ],
+    "tag": "Subjonctif optatif",
+    "hint": "VIVE le roi ! SOIT ! ADVIENNE que pourra !",
+    "expl": "SUBJONCTIF OPTATIF = souhait formulé sans QUE. VIVE la France ! (= que vive). SOIT ! (= que ce soit ainsi). ADVIENNE QUE POURRA ! Formules figées ou littéraires."
+  },
+  {
+    "id": "b2c1_16",
+    "q": "Comment fonctionne le futur dans les propositions temporelles ?",
+    "a": "DÈS QUE / QUAND / LORSQUE + futur (antérieur) — jamais conditionnel",
+    "choices": [
+      "Futur après dès que/quand/lorsque",
+      "Conditionnel après dès que",
+      "Présent après dès que",
+      "Subjonctif après dès que"
+    ],
+    "tag": "Futur",
+    "hint": "DÈS QU'IL ARRIVERA, prévenez-moi",
+    "expl": "Après DÈS QUE, QUAND, LORSQUE, AUSSITÔT QUE → FUTUR ou FUTUR ANTÉRIEUR. DÈS QU'IL ARRIVERA. QUAND ELLE AURA FINI. Jamais conditionnel après ces conjonctions."
+  },
+  {
+    "id": "b2c1_17",
+    "q": "Quelle est la valeur du futur dans les expressions de probabilité ?",
+    "a": "Ce sera lui — futur de probabilité ou déduction",
+    "choices": [
+      "Futur de probabilité/déduction",
+      "Futur calendaire",
+      "Futur d'injonction",
+      "Futur historique"
+    ],
+    "tag": "Futur",
+    "hint": "On sonne — CE SERA le facteur (déduction)",
+    "expl": "FUTUR DE PROBABILITÉ : On sonne, CE SERA le facteur = probablement le facteur. Il n'est pas là, IL SERA MALADE = il est probablement malade. Déduction sur le présent."
+  },
+  {
+    "id": "b2c1_18",
+    "q": "Comment fonctionne le futur d'injonction ?",
+    "a": "Tu ne tueras point — futur à valeur de commandement absolu",
+    "choices": [
+      "Futur à valeur de commandement",
+      "Futur calendaire",
+      "Futur de probabilité",
+      "Futur antérieur"
+    ],
+    "tag": "Futur",
+    "hint": "Tu ne tueras POINT (Bible/lois)",
+    "expl": "FUTUR D'INJONCTION = commandement absolu, solennel. TU NE TUERAS POINT. VOUS RENDREZ ce rapport vendredi. Plus catégorique que l'impératif. Lois, règlements, textes sacrés."
+  },
+  {
+    "id": "b2c1_19",
+    "q": "Quelle est la valeur aspectuelle du passé composé vs passé simple ?",
+    "a": "Les deux expriment l'accompli, mais PC = lien avec le présent / PS = coupure du passé",
+    "choices": [
+      "PC = lien présent, PS = coupure",
+      "PC = court, PS = long",
+      "PC = oral, PS = formel",
+      "Aucune différence aspectuelle"
+    ],
+    "tag": "Aspect",
+    "hint": "Aujourd'hui j'ai mangé (PC) / Hier il mangea (PS)",
+    "expl": "PC = aspect ACCOMPLI avec LIEN AU PRÉSENT (résultat actuel). PS = aspect ACCOMPLI RÉVOLU (coupure totale avec le présent). Distinction aspectuelle + stylistique + registre."
+  },
+  {
+    "id": "b2c1_20",
+    "q": "Comment fonctionne le verbe DEVOIR au passé composé ?",
+    "a": "Il a dû partir = il a été obligé de / il est probable qu'il soit parti",
+    "choices": [
+      "A dû = obligation passée ou probabilité passée",
+      "A dû = toujours obligation",
+      "A dû = toujours probabilité",
+      "A dû = regret"
+    ],
+    "tag": "Modalité",
+    "hint": "Il A DÛ partir = il était obligé OU il est probable qu'il soit parti",
+    "expl": "DEVOIR + PC : IL A DÛ PARTIR = (1) obligation : il a été forcé de. (2) déduction : il est probablement parti. Ambiguïté levée par le contexte."
+  },
+  {
+    "id": "b2c1_21",
+    "q": "Comment fonctionne POUVOIR au conditionnel passé ?",
+    "a": "Il aurait pu venir = il avait la capacité (mais n'est pas venu) / reproche",
+    "choices": [
+      "Capacité non réalisée ou reproche",
+      "Certitude passée",
+      "Obligation passée",
+      "Déduction passée"
+    ],
+    "tag": "Modalité",
+    "hint": "Tu AURAIS PU me prévenir ! (reproche)",
+    "expl": "POUVOIR conditionnel passé : IL AURAIT PU venir = il avait la capacité mais ne l'a pas fait. TU AURAIS PU me prévenir ! = reproche. Capacité non actualisée dans le passé."
+  },
+  {
+    "id": "b2c1_22",
+    "q": "Quelle est la différence entre DEVOIR et FALLOIR ?",
+    "a": "DEVOIR = obligation personnelle / FALLOIR = obligation impersonnelle et générale",
+    "choices": [
+      "Devoir = personnel, falloir = impersonnel",
+      "Même sens",
+      "Devoir = général, falloir = personnel",
+      "Devoir = obligation forte, falloir = faible"
+    ],
+    "tag": "Modalité",
+    "hint": "JE DOIS partir / IL FAUT partir",
+    "expl": "DEVOIR + sujet personnel : JE DOIS, TU DOIS. FALLOIR + IL impersonnel : IL FAUT. FALLOIR plus général et impersonnel. Nuance : IL FAUT QUE je parte (subjonctif) vs JE DOIS partir."
+  },
+  {
+    "id": "b2c1_23",
+    "q": "Comment fonctionne le verbe SEMBLER avec que ?",
+    "a": "Il semble que + subjonctif / il me semble que + indicatif",
+    "choices": [
+      "Semble que + subjonctif, me semble que + indicatif",
+      "Toujours subjonctif",
+      "Toujours indicatif",
+      "Toujours conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "IL SEMBLE QUE (impersonnel) ≠ IL ME SEMBLE QUE (personnel)",
+    "expl": "IL SEMBLE QUE + subjonctif (impersonnel, incertitude). Il semble QU'IL SOIT là. IL ME SEMBLE QUE + indicatif (opinion personnelle). Il me semble QU'IL EST là."
+  },
+  {
+    "id": "b2c1_24",
+    "q": "Quelle construction utilise-t-on pour exprimer un regret avec REGRETTER ?",
+    "a": "Je regrette que + subjonctif / je regrette de + infinitif (même sujet)",
+    "choices": [
+      "Regretter que + subjonctif / de + infinitif (même sujet)",
+      "Regretter + indicatif",
+      "Regretter + conditionnel",
+      "Regretter de + subjonctif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je regrette QU'IL SOIT parti / je regrette D'ÊTRE parti",
+    "expl": "REGRETTER QUE + subjonctif (sujets différents). Je regrette QU'IL SOIT parti. REGRETTER DE + infinitif (même sujet). Je regrette D'ÊTRE parti. Construction clé à maîtriser."
+  },
+  {
+    "id": "b2c1_25",
+    "q": "Quel est l'usage du subjonctif après les verbes de communication à la négative ?",
+    "a": "Je ne dis pas qu'il soit coupable — subjonctif car négation crée le doute",
+    "choices": [
+      "Subjonctif après négation de verbes de déclaration",
+      "Indicatif toujours",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "JE NE DIS PAS QU'IL SOIT... ≠ je dis QU'IL EST...",
+    "expl": "Verbes de déclaration NÉGATIFS + subjonctif : JE NE DIS PAS QU'IL SOIT coupable. JE NE PRÉTENDS PAS QU'IL AIT raison. Contraire : affirmation → indicatif."
+  }
+]

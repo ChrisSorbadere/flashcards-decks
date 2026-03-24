@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b2ee2_01",
+    "q": "Comment analyse-t-on la 'situation d'énonciation' ?",
+    "a": "QUI parle ? À QUI ? QUAND ? OÙ ? DANS QUEL CONTEXTE ? avec quel objectif ?",
+    "choices": [
+      "Qui parle, à qui, quand, où, dans quel contexte",
+      "Seulement l'auteur et la date",
+      "Seulement le lieu et le temps",
+      "Le contenu du texte seulement"
+    ],
+    "tag": "Analyse",
+    "hint": "L'énonciation = qui parle à qui dans quelle situation",
+    "expl": "SITUATION D'ÉNONCIATION = situación de enunciación. QUI (énonciateur). À QUI (destinataire). QUAND (moment). OÙ (lieu). DANS QUEL BUT (visée). DANS QUEL CONTEXTE (co-texte, contexte historique)."
+  },
+  {
+    "id": "b2ee2_02",
+    "q": "Comment distingue-t-on 'texte narratif' et 'texte descriptif' ?",
+    "a": "NARRATIF = séquence d'actions dans le temps / DESCRIPTIF = tableau d'un état",
+    "choices": [
+      "Narratif = actions dans le temps, descriptif = état statique",
+      "Même type de texte",
+      "Narratif = fiction, descriptif = réalité",
+      "Narratif = passé, descriptif = présent"
+    ],
+    "tag": "Typologies",
+    "hint": "Il courait (narratif) vs il était grand (descriptif)",
+    "expl": "TEXTE NARRATIF = séquence temporelle d'événements. TEXTE DESCRIPTIF = tableau statique d'un état. TEXTE ARGUMENTATIF = progression vers une thèse. TEXTE INJONCTIF = ordres, conseils. Souvent mélangés."
+  },
+  {
+    "id": "b2ee2_03",
+    "q": "Qu'est-ce que le 'temps de base' d'un texte narratif ?",
+    "a": "Le temps verbal dominant qui structure la narration : présent ou passé",
+    "choices": [
+      "Le temps verbal dominant structurant la narration",
+      "Le temps de l'écriture",
+      "La durée de l'action",
+      "La période historique"
+    ],
+    "tag": "Temps verbaux",
+    "hint": "TEMPS DE BASE = présent ou passé du récit",
+    "expl": "TEMPS DE BASE : Narration au PASSÉ = imparfait (fond) + passé simple (actions) + PQP (antérieur). Narration au PRÉSENT = présent (actions) + imparfait (fond). Le temps de base détermine tous les autres."
+  },
+  {
+    "id": "b2ee2_04",
+    "q": "Qu'est-ce que l''incipit' d'un texte ?",
+    "a": "L'incipit = l'incipit, l'ouverture du texte — les premières lignes ou le premier chapitre",
+    "choices": [
+      "Les premières lignes/le premier chapitre",
+      "La conclusion",
+      "Le titre",
+      "L'épigraphe"
+    ],
+    "tag": "Genres textuels",
+    "hint": "L'INCIPIT ouvre le roman / l'EXPLICIT le clôt",
+    "expl": "INCIPIT = incipit, comienzo. Premiers mots/pages d'un texte, particulièrement d'un roman. L'incipit pose le cadre, présente les personnages, amorce l'intrigue. EXPLICIT = la fin. Termes d'analyse littéraire."
+  },
+  {
+    "id": "b2ee2_05",
+    "q": "Qu'est-ce que la 'mise en abyme' ?",
+    "a": "Procédé narratif où une histoire contient une autre histoire qui la reflète",
+    "choices": [
+      "Histoire dans l'histoire qui la reflète",
+      "Simple récit enchâssé",
+      "Synonyme de métaphore",
+      "Retour en arrière"
+    ],
+    "tag": "Narratologie",
+    "hint": "Un tableau qui représente le tableau lui-même = mise en abyme",
+    "expl": "MISE EN ABYME = mise en abyme. Procédé où une œuvre contient en miniature une représentation d'elle-même. Le roman dans le roman. André Gide l'a théorisé. Effets de réflexivité et de vertige."
+  },
+  {
+    "id": "b2ee2_06",
+    "q": "Qu'est-ce que le 'pacte autobiographique' selon Philippe Lejeune ?",
+    "a": "Contrat implicite entre auteur et lecteur : auteur = narrateur = personnage",
+    "choices": [
+      "Contrat implicite : auteur = narrateur = personnage",
+      "Simple récit à la première personne",
+      "Biographie autorisée",
+      "Roman à clé"
+    ],
+    "tag": "Genres textuels",
+    "hint": "LEJEUNE : je = auteur = narrateur = personnage dans l'autobiographie",
+    "expl": "PACTE AUTOBIOGRAPHIQUE (Lejeune) = pacto autobiográfico. Identité entre auteur réel, narrateur et personnage. Je m'engage à dire la vérité sur moi-même. Distingue autobiographie du roman autobiographique."
+  },
+  {
+    "id": "b2ee2_07",
+    "q": "Qu'est-ce que le 'discours indirect libre' ?",
+    "a": "Fusion du discours du personnage et de la narration sans guillemets ni verbe introducteur",
+    "choices": [
+      "Fusion du discours du personnage et de la narration",
+      "Discours direct sans guillemets",
+      "Discours indirect normal",
+      "Monologue intérieur"
+    ],
+    "tag": "Narratologie",
+    "hint": "'Il prit son manteau. Il faisait froid dehors, décidément.' — indirect libre",
+    "expl": "DISCOURS INDIRECT LIBRE = estilo indirecto libre. Fusion voix narrateur/personnage. 'Il prit son manteau. Décidément, il faisait trop froid !' (pensée du personnage sans marqueur). Flaubert en est le maître."
+  },
+  {
+    "id": "b2ee2_08",
+    "q": "Comment réussit-on la 'reformulation de problématique' dans un commentaire ?",
+    "a": "Transformer le sujet en question ouverte, précise, qui mérite réflexion",
+    "choices": [
+      "Transformer en question ouverte précise et non triviale",
+      "Reformuler sans changer le sens",
+      "Résumer le sujet",
+      "Élargir vers tous les sujets"
+    ],
+    "tag": "Méthode",
+    "hint": "Sujet → QUELLE QUESTION précise et ouverte pose-t-il ?",
+    "expl": "REFORMULER LA PROBLÉMATIQUE : partir du sujet, identifier la tension/le paradoxe, formuler une QUESTION ouverte (pas oui/non), précise (pas vague), qui mérite réflexion. La problématique guide tout le devoir."
+  },
+  {
+    "id": "b2ee2_09",
+    "q": "Qu'est-ce que la 'distanciation critique' dans l'écriture académique ?",
+    "a": "Prendre du recul par rapport à ses émotions et au sujet pour analyser objectivement",
+    "choices": [
+      "Recul par rapport à ses émotions pour analyser objectivement",
+      "Être neutre à l'excès",
+      "Éviter tout point de vue",
+      "Écrire sans je"
+    ],
+    "tag": "Style académique",
+    "hint": "L'auteur prend du recul sur le sujet même difficile",
+    "expl": "DISTANCIATION CRITIQUE = distanciamiento crítico. Analyser des sujets difficiles (guerre, mort, souffrance) sans pathos excessif. Ne pas s'identifier au texte. Conserver la rigueur analytique même sur des sujets touchants."
+  },
+  {
+    "id": "b2ee2_10",
+    "q": "Comment évite-t-on la 'paraphrase' dans un commentaire ?",
+    "a": "Ne pas raconter le texte mais analyser POURQUOI l'auteur fait ce choix et QUEL EFFET il produit",
+    "choices": [
+      "Analyser pourquoi et quel effet, pas raconter",
+      "Résumer brièvement puis analyser",
+      "Citer abondamment",
+      "Poser des questions"
+    ],
+    "tag": "Commentaire littéraire",
+    "hint": "PARAPHRASE = raconter / COMMENTAIRE = analyser",
+    "expl": "ÉVITER LA PARAPHRASE : Ne pas dire 'l'auteur dit que le personnage souffre.' Dire : 'Le lexique de la douleur (souffre, déchire, brûle) traduit l'intensité du désespoir du personnage.' Analyser les EFFETS."
+  },
+  {
+    "id": "b2ee2_11",
+    "q": "Qu'est-ce qu'une 'figure d'amplification' ?",
+    "a": "Figure qui développe et renforce une idée : hyperbole, gradation, accumulation",
+    "choices": [
+      "Hyperbole, gradation, accumulation — développent et renforcent",
+      "Figures d'opposition",
+      "Figures de substitution",
+      "Figures de répétition uniquement"
+    ],
+    "tag": "Rhétorique",
+    "hint": "GRADATION, HYPERBOLE, ACCUMULATION = amplification",
+    "expl": "FIGURES D'AMPLIFICATION : GRADATION (crescendo). HYPERBOLE (exagération). ACCUMULATION (entassement de termes). But : renforcer, insister, souligner par l'excès. Contraire : figures d'atténuation (litote, euphémisme)."
+  },
+  {
+    "id": "b2ee2_12",
+    "q": "Comment analyse-t-on une 'image poétique' dans un texte ?",
+    "a": "Identifier le comparant/comparé, la nature de la figure, l'effet produit sur le sens",
+    "choices": [
+      "Comparant, comparé, nature de la figure, effet sur le sens",
+      "Seulement identifier la figure",
+      "Résumer l'image",
+      "Remplacer l'image par des mots simples"
+    ],
+    "tag": "Analyse littéraire",
+    "hint": "Identification + nature + interprétation de l'effet",
+    "expl": "ANALYSER UNE IMAGE : (1) Identifier (comparant/comparé si métaphore/comparaison). (2) Nature (métaphore, comparaison, personnification...). (3) EFFET PRODUIT : quelle idée cela exprime-t-il ? Pourquoi ce choix ?"
+  },
+  {
+    "id": "b2ee2_13",
+    "q": "Qu'est-ce que l''effet de réel' (Barthes) ?",
+    "a": "Détails descriptifs inutiles qui créent une illusion de réalité",
+    "choices": [
+      "Détails inutiles qui créent l'illusion de réalité",
+      "Réalisme documentaire",
+      "Style journalistique",
+      "Description précise"
+    ],
+    "tag": "Narratologie",
+    "hint": "BARTHES : les détails 'inutiles' servent à produire du réel",
+    "expl": "EFFET DE RÉEL (Roland Barthes) = efecto de realidad. Détails descriptifs sans fonction narrative (la couleur exacte d'un mur) qui créent l'illusion référentielle. La description 'inutile' est signe de réalisme."
+  },
+  {
+    "id": "b2ee2_14",
+    "q": "Comment structure-t-on une lettre de motivation efficace ?",
+    "a": "Vous > Moi > Nous — présenter l'entreprise, ses propres atouts, la convergence",
+    "choices": [
+      "Vous (l'entreprise) > Moi (mes atouts) > Nous (convergence)",
+      "Moi > Vous > Conclusion",
+      "Chronologique",
+      "Compétences par ordre d'importance"
+    ],
+    "tag": "Genres textuels",
+    "hint": "Structure VOUS/MOI/NOUS = accroche / développement / convergence",
+    "expl": "LETTRE DE MOTIVATION structure idéale : VOUS (montrer qu'on connaît l'entreprise). MOI (valoriser ses compétences et expériences pertinentes). NOUS (montrer la convergence, la valeur ajoutée mutuelle)."
+  },
+  {
+    "id": "b2ee2_15",
+    "q": "Comment rédige-t-on un 'rapport' professionnel ?",
+    "a": "Objet/contexte → constats/faits → analyse → recommandations → conclusion",
+    "choices": [
+      "Contexte + faits + analyse + recommandations + conclusion",
+      "Résumé + opinion",
+      "Chronologique",
+      "Argumentatif pur"
+    ],
+    "tag": "Genres professionnels",
+    "hint": "Le rapport suit une structure fonctionnelle",
+    "expl": "RAPPORT PROFESSIONNEL : Objet et contexte. Faits et constats (objectifs). Analyse et interprétation. Recommandations (avec justification). Conclusion. Style : sobre, concis, factuel, recommandations actionnables."
+  },
+  {
+    "id": "b2ee2_16",
+    "q": "Qu'est-ce que la 'neutralité axiologique' dans un texte académique ?",
+    "a": "Absence de jugement de valeur personnel dans l'analyse — décrire sans évaluer",
+    "choices": [
+      "Absence de jugement de valeur dans l'analyse",
+      "Absence d'opinion",
+      "Texte sans adjectifs",
+      "Texte sans verbes d'opinion"
+    ],
+    "tag": "Style académique",
+    "hint": "Décrire ce qui EST sans dire ce qui DEVRAIT être",
+    "expl": "NEUTRALITÉ AXIOLOGIQUE (Weber) = neutralidad valorativa. Décrire et analyser sans porter de jugements de valeur personnels. En sociologie/sciences humaines : séparer description (IS) et prescription (OUGHT)."
+  },
+  {
+    "id": "b2ee2_17",
+    "q": "Qu'est-ce que la 'polyphonie énonciative' dans un texte ?",
+    "a": "Présence de plusieurs voix et points de vue dans le même texte",
+    "choices": [
+      "Plusieurs voix et points de vue dans le texte",
+      "Un seul point de vue",
+      "Discours direct uniquement",
+      "Plusieurs styles"
+    ],
+    "tag": "Analyse",
+    "hint": "L'auteur laisse parler plusieurs voix (personnages, discours rapporté)",
+    "expl": "POLYPHONIE ÉNONCIATIVE = polifonía enunciativa. Dans un texte, l'auteur intègre d'autres voix : citations, discours indirect libre, ironie (où l'auteur dit le contraire de ce qu'il pense). Analyse des voix."
+  }
+]

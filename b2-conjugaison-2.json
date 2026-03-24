@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2c2_01",
+    "q": "Quel temps après 'il faudrait que' dans un contexte hypothétique ?",
+    "a": "Il faudrait que + subjonctif présent ou passé",
+    "choices": [
+      "Subjonctif présent ou passé",
+      "Conditionnel",
+      "Indicatif",
+      "Infinitif"
+    ],
+    "tag": "Concordance",
+    "hint": "IL FAUDRAIT QU'IL VIENNE / qu'il soit venu",
+    "expl": "FAUDRAIT QUE + subjonctif. IL FAUDRAIT QU'IL VIENNE (maintenant ou futur). IL FAUDRAIT QU'IL SOIT VENU (avant). La concordance dépend de l'antériorité, pas du mode."
+  },
+  {
+    "id": "b2c2_02",
+    "q": "Quel temps après 'j'aurais voulu que' ?",
+    "a": "J'aurais voulu que + subjonctif passé — action non réalisée dans le passé",
+    "choices": [
+      "Subjonctif passé",
+      "Subjonctif présent",
+      "Conditionnel passé",
+      "Indicatif passé"
+    ],
+    "tag": "Concordance",
+    "hint": "J'AURAIS VOULU QU'IL SOIT VENU",
+    "expl": "CONDITIONNEL PASSÉ + QUE + subjonctif PASSÉ pour exprimer un souhait non réalisé dans le passé. J'AURAIS VOULU QU'IL SOIT VENU = hubiera querido que hubiera venido."
+  },
+  {
+    "id": "b2c2_03",
+    "q": "Comment fonctionne la concordance des temps au subjonctif en français moderne ?",
+    "a": "En français moderne : présent ou passé du subjonctif suffisent (imparfait = littéraire)",
+    "choices": [
+      "Présent/passé du subjonctif suffisent",
+      "Imparfait obligatoire après verbe au passé",
+      "Concordance stricte comme en espagnol",
+      "Toujours présent du subjonctif"
+    ],
+    "tag": "Concordance",
+    "hint": "Français moderne ≠ espagnol (pas d'imparfait obligatoire)",
+    "expl": "Français MODERNE : subjonctif présent ou passé quelle que soit la concordance. Subjonctif imparfait (voulût, sût) = littéraire. Différent du français classique et de l'espagnol."
+  },
+  {
+    "id": "b2c2_04",
+    "q": "Comment rapporte-t-on une question indirecte au passé ?",
+    "a": "Il a demandé OÙ j'allais / SI je venais — mots interrogatifs conservés",
+    "choices": [
+      "Mots interrogatifs conservés + concordance",
+      "Question directe conservée",
+      "Subjonctif dans la question indirecte",
+      "Conditionnel toujours"
+    ],
+    "tag": "Discours indirect",
+    "hint": "'Où vas-tu ?' → il a demandé OÙ J'ALLAIS",
+    "expl": "Question indirecte : mot interrogatif conservé + concordance des temps. 'Où vas-tu ?' → il a demandé OÙ J'ALLAIS. 'Quand pars-tu ?' → il a demandé QUAND JE PARTAIS."
+  },
+  {
+    "id": "b2c2_05",
+    "q": "Comment rapporte-t-on une question totale au passé ?",
+    "a": "Il a demandé SI + proposition (avec concordance)",
+    "choices": [
+      "Si + proposition avec concordance",
+      "Est-ce que + proposition",
+      "Que + proposition",
+      "Subjonctif"
+    ],
+    "tag": "Discours indirect",
+    "hint": "'Viens-tu ?' → il a demandé SI JE VENAIS",
+    "expl": "Question totale (oui/non) → SI + concordance. 'Viens-tu ?' → il a demandé SI JE VENAIS. 'As-tu fini ?' → il a demandé SI J'AVAIS FINI. SI ne prend jamais de conditionnel."
+  },
+  {
+    "id": "b2c2_06",
+    "q": "Quels changements de pronoms au discours indirect : 'Aide-moi' ?",
+    "a": "Il m'a demandé de l'aider — ME devient LE/LUI selon le nouveau contexte",
+    "choices": [
+      "Pronoms adaptés au nouveau contexte",
+      "Pronoms identiques",
+      "Pronoms supprimés",
+      "Pronoms inversés"
+    ],
+    "tag": "Discours indirect",
+    "hint": "'Aide-MOI' → il m'a demandé de L'aider",
+    "expl": "Ordre au DI : 'Aide-moi !' → il m'a demandé DE L'AIDER (MOI → L', ME → LE selon fonction). Tous les éléments déictiques (pronoms, temps, lieu, adverbes) changent."
+  },
+  {
+    "id": "b2c2_07",
+    "q": "Comment change 'maintenant' au discours indirect passé ?",
+    "a": "Maintenant → à ce moment-là / à cet instant",
+    "choices": [
+      "À ce moment-là",
+      "Alors",
+      "Maintenant reste",
+      "Aujourd'hui"
+    ],
+    "tag": "Discours indirect",
+    "hint": "Déictiques temporels — tableau à maîtriser",
+    "expl": "Déictiques au DI passé : MAINTENANT → À CE MOMENT-LÀ. AUJOURD'HUI → CE JOUR-LÀ. ICI → LÀ. HIER → LA VEILLE. DEMAIN → LE LENDEMAIN. CE SOIR → CE SOIR-LÀ."
+  },
+  {
+    "id": "b2c2_08",
+    "q": "Comment rapporte-t-on 'j'irai demain' au discours indirect passé ?",
+    "a": "Il a dit qu'il irait le lendemain",
+    "choices": [
+      "Il a dit qu'il irait le lendemain",
+      "Il a dit qu'il ira demain",
+      "Il a dit qu'il allait le lendemain",
+      "Il a dit qu'il est allé le lendemain"
+    ],
+    "tag": "Discours indirect",
+    "hint": "Futur → conditionnel / demain → le lendemain",
+    "expl": "'J'IRAI DEMAIN' au DI passé : futur → CONDITIONNEL (IRAIT) + DEMAIN → LE LENDEMAIN. Il a dit QU'IL IRAIT LE LENDEMAIN. Double transformation : temps + déictique."
+  },
+  {
+    "id": "b2c2_09",
+    "q": "Quel est le fonctionnement des verbes 'performatifs' au discours indirect ?",
+    "a": "Promettre, jurer, déclarer : conservent leur sens performatif",
+    "choices": [
+      "Conservent leur sens performatif",
+      "Deviennent neutres",
+      "Changent de sens",
+      "Disparaissent"
+    ],
+    "tag": "Discours indirect",
+    "hint": "Il A PROMIS DE venir ≠ il a dit qu'il viendrait",
+    "expl": "Verbes PERFORMATIFS : PROMETTRE, JURER, DÉCLARER, ORDONNER. IL A PROMIS DE VENIR = il a promis (acte de langage). Plus fort que 'il a dit qu'il viendrait'. Nuance pragmatique."
+  },
+  {
+    "id": "b2c2_10",
+    "q": "Comment rapporte-t-on une exclamation au discours indirect ?",
+    "a": "Il s'est exclamé que / il a déclaré avec surprise que + indicatif",
+    "choices": [
+      "Il s'est exclamé que + indicatif",
+      "Il a crié que + subjonctif",
+      "Il a dit que + conditionnel",
+      "Il a affirmé que + futur"
+    ],
+    "tag": "Discours indirect",
+    "hint": "'Comme c'est beau !' → il s'est exclamé QUE C'ÉTAIT beau",
+    "expl": "Exclamation au DI : IL S'EST EXCLAMÉ QUE c'était beau. IL A DÉCLARÉ AVEC ENTHOUSIASME QUE... Verbe introducteur + concordance. L'exclamation devient une proposition normale."
+  },
+  {
+    "id": "b2c2_11",
+    "q": "Comment fonctionne le subjonctif dans les relatives indéfinies ?",
+    "a": "Je cherche quelqu'un QUI SACHE (subj) vs je connais quelqu'un QUI SAIT (indic)",
+    "choices": [
+      "Subjonctif si indéfini, indicatif si défini",
+      "Toujours subjonctif dans les relatives",
+      "Toujours indicatif",
+      "Conditionnel si indéfini"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Antécédent indéfini ou nié → subjonctif",
+    "expl": "Relative : antécédent INDÉFINI → subjonctif. Je cherche quelqu'un QUI SACHE cuisiner. IL N'Y A PERSONNE QUI PUISSE l'aider. Antécédent DÉFINI → indicatif. Je connais quelqu'un QUI SAIT."
+  },
+  {
+    "id": "b2c2_12",
+    "q": "Comment fonctionne QUOIQUE avec le subjonctif ?",
+    "a": "QUOIQUE + subjonctif = bien que — concession certaine",
+    "choices": [
+      "Quoique + subjonctif = bien que",
+      "Quoique + indicatif",
+      "Quoique + conditionnel",
+      "Quoique + infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QUOIQUE = BIEN QUE — même sens, même mode",
+    "expl": "QUOIQUE + subjonctif = BIEN QUE + subjonctif. Quoique = aunque + subjuntivo. QUOIQU'IL SOIT fatigué = BIEN QU'IL SOIT fatigué. Registre légèrement plus soutenu que BIEN QUE."
+  },
+  {
+    "id": "b2c2_13",
+    "q": "Quel mode après SANS QUE ?",
+    "a": "SANS QUE + subjonctif — il est parti sans qu'on le voie",
+    "choices": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Infinitif"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Sans que + subjonctif (sujets différents)",
+    "expl": "SANS QUE + subjonctif. Il est parti SANS QU'ON LE VOIE. Même sujet → SANS + infinitif. Il est parti SANS DIRE au revoir. Distinction fondamentale selon les sujets."
+  },
+  {
+    "id": "b2c2_14",
+    "q": "Comment fonctionne LE FAIT QUE avec le mode ?",
+    "a": "Le fait que + subjonctif (doute/émotion) ou indicatif (certitude)",
+    "choices": [
+      "Subjonctif ou indicatif selon le sens",
+      "Toujours subjonctif",
+      "Toujours indicatif",
+      "Toujours conditionnel"
+    ],
+    "tag": "Subjonctif",
+    "hint": "LE FAIT QU'IL SOIT là me surprend (subj) vs le fait qu'il est là est clair (indic)",
+    "expl": "LE FAIT QUE + subjonctif si émotion, doute ou jugement. LE FAIT QU'IL SOIT là me dérange (émotion). LE FAIT QU'IL EST là est indéniable (fait objectif → indicatif)."
+  },
+  {
+    "id": "b2c2_15",
+    "q": "Quel mode après QUE remplaçant une conjonction ?",
+    "a": "QUE reprend le mode de la conjonction qu'il remplace",
+    "choices": [
+      "QUE reprend le mode de la conjonction remplacée",
+      "Toujours subjonctif",
+      "Toujours indicatif",
+      "Toujours conditionnel"
+    ],
+    "tag": "Conjonctions",
+    "hint": "Quand il viendra et QU'IL VERRA ça — futur repris par QUE",
+    "expl": "QUE substitutif reprend le mode de la conjonction. QUAND il viendra et QU'IL VERRA (futur). SI tu viens et QUE tu as le temps (indicatif). BIEN QUE soit fatigué et QU'IL AIT froid (subjonctif)."
+  },
+  {
+    "id": "b2c2_16",
+    "q": "Quelle est la valeur du passé composé dans les systèmes hypothétiques ?",
+    "a": "Si tu as fini → viens ! — PC dans la condition = antériorité",
+    "choices": [
+      "PC dans la condition = antériorité",
+      "PC = futur",
+      "PC = habitude",
+      "PC = condition irréelle"
+    ],
+    "tag": "Hypothèse",
+    "hint": "SI tu AS FINI, tu peux partir",
+    "expl": "SI + PC = condition dont l'accomplissement est envisagé avant l'action principale. SI TU AS FINI ton travail, tu peux partir. PC marque l'antériorité et le résultat acquis."
+  },
+  {
+    "id": "b2c2_17",
+    "q": "Quel temps après SI dans la proposition condition au niveau B2 ?",
+    "a": "SI ne peut pas être suivi du futur ni du conditionnel en français",
+    "choices": [
+      "Jamais futur ni conditionnel après si",
+      "Toujours conditionnel après si",
+      "Toujours futur après si",
+      "Subjonctif possible après si"
+    ],
+    "tag": "Hypothèse",
+    "hint": "SI + conditionnel = ERREUR ABSOLUE en français",
+    "expl": "RÈGLE ABSOLUE : après SI conditionnel, jamais FUTUR ni CONDITIONNEL. *Si tu VIENDRAS = faux. *Si tu VIENDRAIS = faux. SI + présent / imparfait / PQP SEULEMENT."
+  },
+  {
+    "id": "b2c2_18",
+    "q": "Comment fonctionne AVOIR BEAU + infinitif à tous les temps ?",
+    "a": "AVOIR BEAU = beau que... malgré l'action exprimée (concession)",
+    "choices": [
+      "Avoir beau = concession à tous les temps",
+      "Avoir beau = seulement présent",
+      "Avoir beau = seulement passé",
+      "Avoir beau = seulement futur"
+    ],
+    "tag": "Structures",
+    "hint": "Il A EU BEAU essayer / il AURA BEAU essayer",
+    "expl": "AVOIR BEAU fonctionne à tous les temps. IL A EU BEAU ESSAYER, il a échoué. IL AURA BEAU INSISTER, personne ne cédera. IL AVAIT EU BEAU PROMETTRE... Concession à tout temps."
+  },
+  {
+    "id": "b2c2_19",
+    "q": "Comment fonctionne NE FAIRE QUE + infinitif ?",
+    "a": "NE FAIRE QUE + inf = faire uniquement cela, de façon répétée",
+    "choices": [
+      "Faire uniquement/répétitivement cela",
+      "Ne pas faire",
+      "Faire à peine",
+      "Venir de faire"
+    ],
+    "tag": "Structures",
+    "hint": "IL NE FAIT QUE SE PLAINDRE = il passe son temps à se plaindre",
+    "expl": "NE FAIRE QUE + inf = no hacer más que, no parar de. IL NE FAIT QUE DORMIR = no para de dormir, solo duerme. Nuance : NE FAIRE QUE DE + inf = venir tout juste de."
+  },
+  {
+    "id": "b2c2_20",
+    "q": "Quelle est la valeur de DEVOIR à l'imparfait ?",
+    "a": "Il devait arriver à 8h — obligation/prévision passée, réalisée ou non",
+    "choices": [
+      "Obligation ou prévision passée",
+      "Habitude passée",
+      "Déduction passée",
+      "Permission passée"
+    ],
+    "tag": "Modalité",
+    "hint": "IL DEVAIT venir mais il n'est pas venu",
+    "expl": "DEVOIR imparfait : obligation prévue dans le passé (réalisée ou non). IL DEVAIT arriver à 8h (et il est arrivé ou non). Comparer : IL A DÛ = obligation réalisée ou déduction."
+  },
+  {
+    "id": "b2c2_21",
+    "q": "Comment fonctionne le passé surcomposé ?",
+    "a": "J'ai eu fini — passé composé de l'auxiliaire + PP : antériorité dans un contexte oral",
+    "choices": [
+      "Passé composé avoir/être + PP — antériorité orale",
+      "Futur antérieur",
+      "Plus-que-parfait",
+      "Conditionnel passé"
+    ],
+    "tag": "Temps rares",
+    "hint": "Quand j'AI EU FINI, je suis sorti (oral, régional)",
+    "expl": "PASSÉ SURCOMPOSÉ = J'AI EU MANGÉ. Exprime l'antériorité en contexte oral, surtout dans le sud de la France et la Suisse romande. Quand j'AI EU FINI = après avoir fini (oral)."
+  },
+  {
+    "id": "b2c2_22",
+    "q": "Comment fonctionne QUE + subjonctif en début de phrase indépendante ?",
+    "a": "Ordre ou souhait : QU'IL ENTRE ! / QUE LA FÊTE COMMENCE !",
+    "choices": [
+      "Ordre ou souhait en phrase indépendante",
+      "Question",
+      "Condition",
+      "Concession"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QU'IL ENTRE ! = qu'on le fasse entrer",
+    "expl": "QUE + subjonctif en indépendante = ordre ou souhait à la 3ème personne. QU'IL ENTRE ! (= faites-le entrer). QUE LA LUMIÈRE SOIT ! Remplace impératif 3ème personne (inexistant)."
+  },
+  {
+    "id": "b2c2_23",
+    "q": "Quel est le subjonctif de PLEUVOIR ?",
+    "a": "Qu'il pleuve",
+    "choices": [
+      "Qu'il pleuve",
+      "Qu'il pleuvoie",
+      "Qu'il pleurait",
+      "Qu'il pleuverait"
+    ],
+    "tag": "Subjonctif",
+    "hint": "Verbe impersonnel — seulement 3ème personne",
+    "expl": "PLEUVOIR subjonctif : QU'IL PLEUVE. Verbe impersonnel = seulement 3ème personne du singulier. QU'IL PLEUVE ou non, nous partirons. FALLOIR : QU'IL FAILLE."
+  },
+  {
+    "id": "b2c2_24",
+    "q": "Quel est le subjonctif de VALOIR ?",
+    "a": "Qu'il vaille, nous valions",
+    "choices": [
+      "Qu'il vaille / nous valions",
+      "Qu'il vaillit",
+      "Qu'il valerait",
+      "Qu'il vaut"
+    ],
+    "tag": "Subjonctif",
+    "hint": "VALOIR — radical irrégulier : vaill-",
+    "expl": "VALOIR subjonctif : que je VAILLE, tu VAILLES, il VAILLE, nous VALIONS, vous VALIEZ, ils VAILLENT. Radical VAILL-. IL VAUT MIEUX → QU'IL VAILLE MIEUX (littéraire)."
+  },
+  {
+    "id": "b2c2_25",
+    "q": "Comment fonctionne l'aspect dans ÊTRE EN TRAIN DE vs VENIR DE vs ALLER ?",
+    "a": "EN TRAIN DE = progressif / VENIR DE = rétrospectif / ALLER = prospectif",
+    "choices": [
+      "Progressif / rétrospectif / prospectif",
+      "Tous synonymes",
+      "Présent / passé / futur",
+      "Durée / ponctualité / répétition"
+    ],
+    "tag": "Aspect",
+    "hint": "Je SUIS EN TRAIN DE / je VIENS DE / je VAIS",
+    "expl": "Trois aspects : EN TRAIN DE = en cours (progressif). VENIR DE = vient de se terminer (rétrospectif). ALLER + inf = sur le point de (prospectif). Complémentaires, non synonymes."
+  }
+]

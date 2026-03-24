@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2c3_01",
+    "q": "Quelle est la différence stylistique entre 'parce que' et 'car' ?",
+    "a": "PARCE QUE = cause directe / CAR = justification, argumentation plus distanciée",
+    "choices": [
+      "Parce que = cause directe, car = justification",
+      "Même sens",
+      "Parce que = formel, car = familier",
+      "Parce que = subordonné, car = coordonné seulement"
+    ],
+    "tag": "Causalité",
+    "hint": "CAR est une conjonction de coordination (argumentation)",
+    "expl": "PARCE QUE = subordination, cause directe. Il est parti PARCE QU'il était fatigué. CAR = coordination, justification/explication. Il ne viendra pas, CAR il est malade (explication donnée a posteriori)."
+  },
+  {
+    "id": "b2c3_02",
+    "q": "Quelle est la nuance entre 'puisque' et 'parce que' ?",
+    "a": "PUISQUE = cause connue des deux / PARCE QUE = cause nouvelle",
+    "choices": [
+      "Puisque = cause connue, parce que = cause nouvelle",
+      "Même sens",
+      "Puisque = formel, parce que = familier",
+      "Puisque = passé, parce que = présent"
+    ],
+    "tag": "Causalité",
+    "hint": "PUISQUE tu le sais déjà... / PARCE QUE je veux te l'apprendre",
+    "expl": "PUISQUE = cause évidente ou déjà connue des deux interlocuteurs. PUISQUE tu es là, aide-moi. PARCE QUE = cause nouvelle, informative. Je t'appelle PARCE QUE j'ai besoin d'aide."
+  },
+  {
+    "id": "b2c3_03",
+    "q": "Quelle est la nuance entre 'comme' et 'parce que' (cause) ?",
+    "a": "COMME = cause en tête de phrase, contextualisante / PARCE QUE = cause principale",
+    "choices": [
+      "Comme = cause en tête, parce que = cause principale",
+      "Même sens",
+      "Comme = conséquence, parce que = cause",
+      "Comme = formel, parce que = oral"
+    ],
+    "tag": "Causalité",
+    "hint": "COMME il pleuvait, je suis resté",
+    "expl": "COMME = cause placée EN TÊTE de phrase, elle contextualise. COMME il pleuvait, je suis resté. PARCE QUE = cause principale, peut être en tête ou en fin. Différence de mise en relief."
+  },
+  {
+    "id": "b2c3_04",
+    "q": "Comment fonctionne TANT que... QUE pour exprimer la conséquence intensive ?",
+    "a": "Il travaille TANT QU'il s'épuise — intensité → conséquence",
+    "choices": [
+      "Tant que = intensité entraînant conséquence",
+      "Tant que = durée",
+      "Tant que = condition",
+      "Tant que = opposition"
+    ],
+    "tag": "Conséquence",
+    "hint": "TANT... QUE = intensité + conséquence",
+    "expl": "TANT... QUE = tellement... que. Il travaille TANT QU'il s'épuise. TELLEMENT... QUE même sens. À distinguer de TANT QUE = aussi longtemps que (durée)."
+  },
+  {
+    "id": "b2c3_05",
+    "q": "Comment fonctionne AU POINT QUE / AU POINT DE + infinitif ?",
+    "a": "AU POINT QUE + indicatif / AU POINT DE + infinitif (même sujet) = degré extrême",
+    "choices": [
+      "Au point que + indicatif / au point de + inf (même sujet)",
+      "Au point que + subjonctif",
+      "Au point de + indicatif",
+      "Même construction toujours"
+    ],
+    "tag": "Conséquence",
+    "hint": "IL EST FATIGUÉ AU POINT QU'IL NE PEUT PLUS marcher",
+    "expl": "AU POINT QUE + indicatif (sujets différents). Il est malade AU POINT QU'IL ne reconnaît plus personne. AU POINT DE + infinitif (même sujet). Il est malade AU POINT DE ne plus reconnaître personne."
+  },
+  {
+    "id": "b2c3_06",
+    "q": "Quelle est la construction de SI BIEN QUE ?",
+    "a": "SI BIEN QUE + indicatif = de sorte que, avec résultat positif ou négatif",
+    "choices": [
+      "Si bien que + indicatif = de sorte que",
+      "Si bien que + subjonctif",
+      "Si bien que + conditionnel",
+      "Si bien que + infinitif"
+    ],
+    "tag": "Conséquence",
+    "hint": "Il a travaillé dur, SI BIEN QU'il a réussi",
+    "expl": "SI BIEN QUE + indicatif = de modo que, de manera que. Il a travaillé dur, SI BIEN QU'IL A RÉUSSI. Résultat effectif (+ indicatif). Comparer : de sorte que + subjonctif = but."
+  },
+  {
+    "id": "b2c3_07",
+    "q": "Comment fonctionne DE FAÇON À CE QUE / DE MANIÈRE À CE QUE ?",
+    "a": "DE FAÇON À CE QUE + subjonctif = pour que",
+    "choices": [
+      "De façon à ce que + subjonctif",
+      "De façon à ce que + indicatif",
+      "De façon à + infinitif (même sujet)",
+      "De façon que + conditionnel"
+    ],
+    "tag": "But",
+    "hint": "Organisez DE FAÇON À CE QUE tout soit prêt",
+    "expl": "DE FAÇON À CE QUE + subjonctif (sujets différents) = pour que. DE FAÇON À + infinitif (même sujet). Organisez-vous DE FAÇON À CE QU'IL ne manque rien."
+  },
+  {
+    "id": "b2c3_08",
+    "q": "Comment fonctionne POUR QUE vs POUR + infinitif ?",
+    "a": "POUR QUE + subjonctif (sujets diff.) / POUR + inf (même sujet)",
+    "choices": [
+      "Pour que + subjonctif / pour + infinitif (même sujet)",
+      "Pour que + indicatif",
+      "Pour que + conditionnel",
+      "Pour + subjonctif"
+    ],
+    "tag": "But",
+    "hint": "Je parle POUR QUE tu comprennes / je parle POUR comprendre",
+    "expl": "BUT : sujets DIFFÉRENTS → POUR QUE + subjonctif. Je t'explique POUR QUE TU COMPRENNES. Même SUJET → POUR + infinitif. Je parle POUR COMPRENDRE moi-même."
+  },
+  {
+    "id": "b2c3_09",
+    "q": "Comment fonctionne LOIN DE + infinitif ?",
+    "a": "LOIN D'améliorer la situation = au lieu d'améliorer, loin de là",
+    "choices": [
+      "Loin de = au lieu de, oppose à l'attente",
+      "Loin de = proche de",
+      "Loin de = avant de",
+      "Loin de = après de"
+    ],
+    "tag": "Structures",
+    "hint": "LOIN D'aider, il a compliqué les choses",
+    "expl": "LOIN DE + infinitif = lejos de + infinitivo, en lugar de. LOIN D'AMÉLIORER, il a aggravé. Indique que la réalité est à l'opposé de l'attendu. Effet de surprise rhétorique."
+  },
+  {
+    "id": "b2c3_10",
+    "q": "Comment fonctionne NON SANS + infinitif ?",
+    "a": "NON SANS RAISON = non sans raison — double négation = affirmation nuancée",
+    "choices": [
+      "Double négation = affirmation nuancée",
+      "Non sans = négation simple",
+      "Non sans = impossibilité",
+      "Non sans = interdiction"
+    ],
+    "tag": "Structures",
+    "hint": "NON SANS DIFFICULTÉ = avec beaucoup de difficulté",
+    "expl": "NON SANS + nom/infinitif = double négation affirmative nuancée. Il a réussi NON SANS MAL = en ayant du mal. NON SANS RAISON = pour de bonnes raisons. Registre soutenu."
+  },
+  {
+    "id": "b2c3_11",
+    "q": "Quelle valeur a le verbe DEVOIR dans 'il doit faire froid' ?",
+    "a": "Probabilité/déduction sur le présent",
+    "choices": [
+      "Probabilité/déduction",
+      "Obligation",
+      "Prévision",
+      "Permission"
+    ],
+    "tag": "Modalité",
+    "hint": "IL DOIT faire froid dehors = probablement froid",
+    "expl": "DEVOIR + inf au présent peut exprimer la DÉDUCTION : IL DOIT FAIRE FROID = probablement froid. Il doit être parti = il est probablement parti. Sens différent de l'obligation."
+  },
+  {
+    "id": "b2c3_12",
+    "q": "Comment distingue-t-on SEMBLER et PARAÎTRE ?",
+    "a": "SEMBLER = impression subjective / PARAÎTRE = apparence extérieure observable",
+    "choices": [
+      "Sembler = subjectif, paraître = observable",
+      "Même sens",
+      "Sembler = formel, paraître = familier",
+      "Sembler = présent, paraître = passé"
+    ],
+    "tag": "Nuances verbales",
+    "hint": "Il SEMBLE content (je le ressens) / il PARAÎT content (il en a l'air)",
+    "expl": "SEMBLER = impression personnelle subjective. Il me SEMBLE content. PARAÎTRE = apparence extérieure observable par tous. Il PARAÎT fatigué = il en a l'air. Nuance subtile mais réelle."
+  },
+  {
+    "id": "b2c3_13",
+    "q": "Comment fonctionne PRÉTENDRE vs AFFIRMER ?",
+    "a": "PRÉTENDRE = affirmer sans preuve (péjoratif) / AFFIRMER = déclarer avec assurance",
+    "choices": [
+      "Prétendre = sans preuve péjoratif, affirmer = avec assurance",
+      "Même sens",
+      "Prétendre = formel, affirmer = familier",
+      "Prétendre = vrai, affirmer = faux"
+    ],
+    "tag": "Nuances verbales",
+    "hint": "Il PRÉTEND être innocent = je doute de lui",
+    "expl": "PRÉTENDRE QUE = afirmar sin pruebas (connotación negativa). Il PRÉTEND ÊTRE innocent = dice serlo (pero lo dudo). AFFIRMER = declarar con convicción. Nuance de crédibilité."
+  },
+  {
+    "id": "b2c3_14",
+    "q": "Quelle est la valeur de CONSIDÉRER vs ESTIMER ?",
+    "a": "CONSIDÉRER = examiner attentivement / ESTIMER = évaluer, avoir une opinion",
+    "choices": [
+      "Considérer = examiner, estimer = évaluer/opinion",
+      "Même sens",
+      "Considérer = opinion forte, estimer = faible",
+      "Considérer = passé, estimer = présent"
+    ],
+    "tag": "Nuances verbales",
+    "hint": "J'ESTIME que c'est juste = j'ai l'opinion que",
+    "expl": "CONSIDÉRER = examiner, réfléchir à. CONSIDÉRER un problème. ESTIMER = avoir une opinion évaluée. J'ESTIME QUE c'est juste = j'évalue/j'ai l'opinion que. Registre soutenu pour les deux."
+  },
+  {
+    "id": "b2c3_15",
+    "q": "Comment RECONNAÎTRE diffère-t-il de ADMETTRE ?",
+    "a": "RECONNAÎTRE = constater un fait / ADMETTRE = accepter après résistance",
+    "choices": [
+      "Reconnaître = constater, admettre = accepter après résistance",
+      "Même sens",
+      "Reconnaître = positif, admettre = négatif",
+      "Reconnaître = présent, admettre = passé"
+    ],
+    "tag": "Nuances verbales",
+    "hint": "RECONNAÎTRE une qualité / ADMETTRE une erreur (à contrecœur)",
+    "expl": "RECONNAÎTRE = constater objectivement. Je RECONNAIS ses qualités. ADMETTRE = accepter après résistance ou réticence. Il a fini par ADMETTRE qu'il avait tort. Nuance de réticence."
+  },
+  {
+    "id": "b2c3_16",
+    "q": "Quel est l'emploi stylistique de l'infinitif de narration ?",
+    "a": "Et les grenouilles de se plaindre — infinitif narratif (fable, récit animé)",
+    "choices": [
+      "Infinitif narratif dans fables et récits animés",
+      "Infinitif toujours",
+      "Infinitif seulement dans les fables",
+      "Infinitif en question"
+    ],
+    "tag": "Infinitif",
+    "hint": "Et lui de rire / et tout le monde de courir — La Fontaine",
+    "expl": "INFINITIF DE NARRATION = DE + infinitif. 'Et les grenouilles DE SE PLAINDRE.' Exprime une réaction immédiate et animée. Très fréquent chez La Fontaine. Effet de vivacité."
+  },
+  {
+    "id": "b2c3_17",
+    "q": "Comment fonctionne le gérondif à valeur d'opposition ?",
+    "a": "TOUT EN + gérondif = opposition entre deux actions simultanées",
+    "choices": [
+      "Tout en + gérondif = opposition simultanée",
+      "En + gérondif = opposition",
+      "Gérondif seul = opposition",
+      "Gérondif = jamais d'opposition"
+    ],
+    "tag": "Gérondif",
+    "hint": "TOUT EN reconnaissant ses mérites, je critique sa méthode",
+    "expl": "TOUT EN + gérondif = opposition ou concession simultanée. TOUT EN RECONNAISSANT ses mérites, je critique. TOUT EN ÉTANT fatigué, il a continué. Simultanéité + concession."
+  },
+  {
+    "id": "b2c3_18",
+    "q": "Quelle est la construction du verbe CRAINDRE ?",
+    "a": "CRAINDRE QUE + subjonctif + NE explétif / CRAINDRE DE + infinitif",
+    "choices": [
+      "Craindre que + subjonctif + NE explétif / de + infinitif",
+      "Craindre que + indicatif",
+      "Craindre de + subjonctif",
+      "Craindre + conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je CRAINS QU'IL NE PARTE / je crains DE PARTIR",
+    "expl": "CRAINDRE QUE + subjonctif + NE explétif. Je CRAINS QU'IL NE PARTE. CRAINDRE DE + infinitif (même sujet). Je CRAINS DE PARTIR. NE explétif après CRAINDRE, EMPÊCHER, ÉVITER."
+  },
+  {
+    "id": "b2c3_19",
+    "q": "Quelle est la construction de TENIR À ?",
+    "a": "TENIR À + infinitif / TENIR À CE QUE + subjonctif",
+    "choices": [
+      "Tenir à + infinitif / tenir à ce que + subjonctif",
+      "Tenir à + indicatif",
+      "Tenir à + conditionnel",
+      "Tenir que + subjonctif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je TIENS À venir / je tiens À CE QUE tu viennes",
+    "expl": "TENIR À + infinitif (même sujet) : Je TIENS À VENIR. TENIR À CE QUE + subjonctif (sujets différents) : Je TIENS À CE QUE TU VIENNES. Volonté forte."
+  },
+  {
+    "id": "b2c3_20",
+    "q": "Comment fonctionne VEILLER À vs VEILLER À CE QUE ?",
+    "a": "VEILLER À + infinitif / VEILLER À CE QUE + subjonctif",
+    "choices": [
+      "Veiller à + infinitif / veiller à ce que + subjonctif",
+      "Veiller que + subjonctif",
+      "Veiller de + infinitif",
+      "Veiller + indicatif"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "VEILLEZ À fermer / veillez À CE QUE tout soit fermé",
+    "expl": "VEILLER À + infinitif (même sujet). VEILLER À CE QUE + subjonctif (sujets différents). VEILLEZ À FERMER la porte. VEILLEZ À CE QUE la porte SOIT fermée."
+  },
+  {
+    "id": "b2c3_21",
+    "q": "Comment fonctionne EMPÊCHER QUE + NE explétif ?",
+    "a": "EMPÊCHER QUE + subjonctif + NE explétif facultatif",
+    "choices": [
+      "Empêcher que + subjonctif + NE explétif",
+      "Empêcher que + indicatif",
+      "Empêcher de + subjonctif",
+      "Empêcher + conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "On l'a empêché QU'il NE PARTE",
+    "expl": "EMPÊCHER QUE + subjonctif. On l'a empêché QU'IL (NE) PARTE. NE explétif facultatif (registre soigné). EMPÊCHER DE + inf (même sujet). On l'a empêché DE PARTIR."
+  },
+  {
+    "id": "b2c3_22",
+    "q": "Comment fonctionne S'ATTENDRE À CE QUE ?",
+    "a": "S'ATTENDRE À CE QUE + subjonctif",
+    "choices": [
+      "S'attendre à ce que + subjonctif",
+      "S'attendre que + indicatif",
+      "S'attendre à + infinitif toujours",
+      "S'attendre + conditionnel"
+    ],
+    "tag": "Constructions verbales",
+    "hint": "Je M'ATTENDS À CE QU'IL VIENNE",
+    "expl": "S'ATTENDRE À CE QUE + subjonctif. Je M'ATTENDS À CE QU'IL VIENNE. Attente personnelle → subjonctif. S'attendre à + inf (même sujet) : Je M'ATTENDS À RÉUSSIR."
+  },
+  {
+    "id": "b2c3_23",
+    "q": "Quel est le participe passé de RÉSOUDRE ?",
+    "a": "Résolu — Il a résolu le problème",
+    "choices": [
+      "Résolu",
+      "Résous",
+      "Résout",
+      "Résoudé"
+    ],
+    "tag": "Participes irréguliers",
+    "hint": "RÉSOUDRE → RÉSOLU (irrégulier)",
+    "expl": "RÉSOUDRE → RÉSOLU. Il a RÉSOLU le problème. Autres irréguliers : DISSOUDRE → DISSOUS. ABSOUDRE → ABSOUS. Groupe particulier en -SOUDRE."
+  },
+  {
+    "id": "b2c3_24",
+    "q": "Quel est le participe passé de MOUVOIR ?",
+    "a": "Mû (féminin : mue) — Il a été mû par ses convictions",
+    "choices": [
+      "Mû / mue",
+      "Mouvé",
+      "Mu (sans accent)",
+      "Mouvant"
+    ],
+    "tag": "Participes irréguliers",
+    "hint": "MOUVOIR → MÛ (accent circonflexe pour distinguer de MU)",
+    "expl": "MOUVOIR → MÛ (avec accent). Il a été MÛ par ses convictions. Féminin : MUE. Émouvoir → ému. Promouvoir → promu. Distinctions orthographiques importantes."
+  },
+  {
+    "id": "b2c3_25",
+    "q": "Quel est le participe passé de CLORE ?",
+    "a": "Clos — La séance est close / un œil clos",
+    "choices": [
+      "Clos / close",
+      "Clôturé",
+      "Cloît",
+      "Cloru"
+    ],
+    "tag": "Participes irréguliers",
+    "hint": "CLORE → CLOS (irrégulier)",
+    "expl": "CLORE → CLOS/CLOSE. La séance est CLOSE. Un œil CLOS. ENCLORE → ENCLOS. ÉCLORE → ÉCLOS. Ces verbes ont des participes passés en -OS irréguliers."
+  }
+]

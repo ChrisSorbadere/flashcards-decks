@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2v1_01",
+    "q": "Que signifie 'paradigme' ?",
+    "a": "Modèle de référence, cadre conceptuel dominant dans un domaine",
+    "choices": [
+      "Modèle de référence dominant",
+      "Paradoxe",
+      "Exemple simple",
+      "Règle grammaticale"
+    ],
+    "tag": "Sciences/Philosophie",
+    "hint": "Un PARADIGME scientifique = cadre de pensée",
+    "expl": "PARADIGME (Kuhn) = modelo de referencia, marco conceptual. UN CHANGEMENT DE PARADIGME = un cambio de paradigma. La relativité a changé le paradigme de la physique."
+  },
+  {
+    "id": "b2v1_02",
+    "q": "Que signifie 'hégémonie' ?",
+    "a": "Domination, suprématie politique, culturelle ou économique",
+    "choices": [
+      "Domination suprématie",
+      "Équilibre",
+      "Alliance",
+      "Négociation"
+    ],
+    "tag": "Sciences/Géopolitique",
+    "hint": "L'HÉGÉMONIE américaine = domination des USA",
+    "expl": "HÉGÉMONIE = hegemonía. L'HÉGÉMONIE culturelle américaine. HÉGÉMONIQUE = hegemónico. Synonymes : domination, suprématie, prépondérance, empire."
+  },
+  {
+    "id": "b2v1_03",
+    "q": "Que signifie 'catalyser' ?",
+    "a": "Déclencher, accélérer un processus, servir de catalyseur",
+    "choices": [
+      "Déclencher accélérer",
+      "Freiner",
+      "Analyser",
+      "Critiquer"
+    ],
+    "tag": "Sciences",
+    "hint": "Cet événement a CATALYSÉ les changements",
+    "expl": "CATALYSER = catalizar (acelerar un proceso). Cet événement a CATALYSÉ la révolution. LE CATALYSEUR = el catalizador. Du vocabulaire chimique passé au sens figuré."
+  },
+  {
+    "id": "b2v1_04",
+    "q": "Que signifie 'itératif' ?",
+    "a": "Qui se répète, répétitif, qui implique une itération",
+    "choices": [
+      "Qui se répète répétitif",
+      "Unique",
+      "Progressif",
+      "Réversible"
+    ],
+    "tag": "Technique/Général",
+    "hint": "Un processus ITÉRATIF se répète en boucle",
+    "expl": "ITÉRATIF = iterativo, repetitivo. Un processus ITÉRATIF. En grammaire : aspect itératif = action répétée (il marchait = imparfait itératif). En informatique : boucle itérative."
+  },
+  {
+    "id": "b2v1_05",
+    "q": "Que signifie 'endémique' ?",
+    "a": "Propre à une région ou un groupe, qui y est permanent",
+    "choices": [
+      "Propre à une région/groupe permanent",
+      "Étranger",
+      "Temporaire",
+      "Universel"
+    ],
+    "tag": "Médecine/Général",
+    "hint": "La corruption ENDÉMIQUE = ancrée durablement",
+    "expl": "ENDÉMIQUE = endémico. Maladie ENDÉMIQUE = propre à une région. Problème ENDÉMIQUE = ancré durablement. Distinguer de PANDÉMIQUE (mondial) et ÉPIDÉMIQUE (expansion rapide)."
+  },
+  {
+    "id": "b2v1_06",
+    "q": "Que signifie 'vecteur' au sens figuré ?",
+    "a": "Agent, moyen de transmission ou de diffusion",
+    "choices": [
+      "Agent moyen de transmission",
+      "Obstacle",
+      "Direction",
+      "Résultat"
+    ],
+    "tag": "Général",
+    "hint": "Les réseaux sociaux sont des VECTEURS d'information",
+    "expl": "VECTEUR (sens figuré) = vector, vehículo. Les médias sont des VECTEURS d'influence. VECTEUR de changement. Du vocabulaire mathématique/médical au sens général."
+  },
+  {
+    "id": "b2v1_07",
+    "q": "Que signifie 'prégnant' ?",
+    "a": "Qui s'impose à l'esprit avec force, très présent, percutant",
+    "choices": [
+      "Très présent percutant",
+      "Sans importance",
+      "Discret",
+      "Agréable"
+    ],
+    "tag": "Style",
+    "hint": "Une image PRÉGNANTE reste en mémoire longtemps",
+    "expl": "PRÉGNANT(E) = pregnante, que se impone en la mente. Une image PRÉGNANTE. Synonymes : saisissant, frappant, marquant, percutant. Terme de psychologie de la forme (Gestalt)."
+  },
+  {
+    "id": "b2v1_08",
+    "q": "Que signifie 'dichotomie' ?",
+    "a": "Division en deux parties opposées et exclusives",
+    "choices": [
+      "Division en deux opposés",
+      "Contradiction",
+      "Complexité",
+      "Équilibre"
+    ],
+    "tag": "Sciences/Philosophie",
+    "hint": "La DICHOTOMIE corps/esprit en philosophie",
+    "expl": "DICHOTOMIE = dicotomía. Division en deux parties opposées et mutuellement exclusives. La dichotomie NATURE/CULTURE. Synonymes : opposition, dualité, clivage, binarité."
+  },
+  {
+    "id": "b2v1_09",
+    "q": "Que signifie 'résilience' ?",
+    "a": "Capacité à surmonter les épreuves et à se reconstruire",
+    "choices": [
+      "Capacité à surmonter et se reconstruire",
+      "Résistance passive",
+      "Rigidité",
+      "Acceptation"
+    ],
+    "tag": "Psychologie/Général",
+    "hint": "La RÉSILIENCE après un traumatisme",
+    "expl": "RÉSILIENCE = resiliencia. Concept de Boris Cyrulnik. Capacité à se reconstruire après une épreuve. RÉSILIENT(E) = résilient. Terme devenu très courant en management aussi."
+  },
+  {
+    "id": "b2v1_10",
+    "q": "Que signifie 'paradoxalement' ?",
+    "a": "De façon paradoxale, contrairement à l'intuition",
+    "choices": [
+      "Contrairement à l'intuition",
+      "Clairement",
+      "Logiquement",
+      "Progressivement"
+    ],
+    "tag": "Connecteurs",
+    "hint": "PARADOXALEMENT, plus on travaille, moins on est productif",
+    "expl": "PARADOXALEMENT = paradójicamente. Introduit une constatation contraire à ce qu'on attendrait. Synonymes : étonnamment, curieusement, contre toute attente, à l'inverse."
+  },
+  {
+    "id": "b2v1_11",
+    "q": "Que signifie 'inhérent à' ?",
+    "a": "Qui appartient naturellement à, qui est inséparable de",
+    "choices": [
+      "Inséparable de naturellement lié à",
+      "Extérieur à",
+      "Opposé à",
+      "Ajouté à"
+    ],
+    "tag": "Adjectifs",
+    "hint": "Le risque INHÉRENT à toute entreprise",
+    "expl": "INHÉRENT À = inherente a, inseparable de. Le risque INHÉRENT à l'aventure. Les difficultés INHÉRENTES au projet. Synonymes : intrinsèque, consubstantiel, constitutif."
+  },
+  {
+    "id": "b2v1_12",
+    "q": "Que signifie 'concomitant' ?",
+    "a": "Qui se produit en même temps, simultané, associé",
+    "choices": [
+      "Simultané qui se produit en même temps",
+      "Consécutif",
+      "Antérieur",
+      "Postérieur"
+    ],
+    "tag": "Temps",
+    "hint": "Des phénomènes CONCOMITANTS se produisent ensemble",
+    "expl": "CONCOMITANT(E) = concomitante, simultáneo/a. Des facteurs CONCOMITANTS. Une évolution CONCOMITANTE. Synonymes : simultané, coïncident, parallèle, contemporain."
+  },
+  {
+    "id": "b2v1_13",
+    "q": "Que signifie 'circonspect' ?",
+    "a": "Prudent, réfléchi, qui agit avec précaution",
+    "choices": [
+      "Prudent réfléchi précautionneux",
+      "Impulsif",
+      "Naïf",
+      "Sévère"
+    ],
+    "tag": "Caractère",
+    "hint": "Être CIRCONSPECT face à une proposition douteuse",
+    "expl": "CIRCONSPECT(E) = circunspecto, cauto, prudente. Il est CIRCONSPECT face aux promesses. Synonymes : prudent, mesuré, précautionneux, avisé. Antonymes : impulsif, téméraire."
+  },
+  {
+    "id": "b2v1_14",
+    "q": "Que signifie 'tangentiel' ?",
+    "a": "Qui effleure le sujet sans l'aborder directement, marginal",
+    "choices": [
+      "Marginal qui effleure le sujet",
+      "Central",
+      "Essentiel",
+      "Fondamental"
+    ],
+    "tag": "Style",
+    "hint": "Une remarque TANGENTIELLE = hors sujet",
+    "expl": "TANGENTIEL(LE) = tangencial. Une remarque TANGENTIELLE au sujet. Du sens géométrique (tangente) au sens figuré : qui touche de façon marginale. Synonymes : marginal, périphérique."
+  },
+  {
+    "id": "b2v1_15",
+    "q": "Que signifie 'ostensible' ?",
+    "a": "Que l'on montre volontairement, affiché, délibérément visible",
+    "choices": [
+      "Affiché délibérément visible",
+      "Caché",
+      "Discret",
+      "Involontaire"
+    ],
+    "tag": "Comportement",
+    "hint": "Un signe OSTENSIBLE d'appartenance religieuse",
+    "expl": "OSTENSIBLE = ostensible, manifiesto. Un signe OSTENSIBLE = un signo que se muestra deliberadamente. OSTENSIBLEMENT = de manera ostensible. Loi laïcité française (signes religieux OSTENSIBLES)."
+  },
+  {
+    "id": "b2v1_16",
+    "q": "Que signifie 'corrélatif' ?",
+    "a": "Qui est en relation de correspondance réciproque avec autre chose",
+    "choices": [
+      "En relation réciproque avec autre chose",
+      "Indépendant",
+      "Supérieur",
+      "Identique"
+    ],
+    "tag": "Relations",
+    "hint": "Des phénomènes CORRÉLATIFS s'influencent mutuellement",
+    "expl": "CORRÉLATIF (VE) = correlativo. Des phénomènes CORRÉLATIFS. LA CORRÉLATION entre deux variables. CORRÉLER = poner en correlación. Différent de causalité (qui implique cause-effet)."
+  },
+  {
+    "id": "b2v1_17",
+    "q": "Que signifie 'véhiculer' au sens figuré ?",
+    "a": "Transmettre, diffuser, porter (une idée, une image, une valeur)",
+    "choices": [
+      "Transmettre diffuser",
+      "Bloquer",
+      "Critiquer",
+      "Analyser"
+    ],
+    "tag": "Communication",
+    "hint": "Ce film VÉHICULE des valeurs humanistes",
+    "expl": "VÉHICULER = vehicular, transmitir. Ce discours VÉHICULE des idées dangereuses. Les médias VÉHICULENT des stéréotypes. Du sens concret (transport) au sens figuré (transmission d'idées)."
+  },
+  {
+    "id": "b2v1_18",
+    "q": "Que signifie 'corolaire' ?",
+    "a": "Conséquence directe et logique, ce qui découle naturellement",
+    "choices": [
+      "Conséquence directe et logique",
+      "Cause principale",
+      "Condition préalable",
+      "Exception"
+    ],
+    "tag": "Logique",
+    "hint": "La liberté et son COROLAIRE, la responsabilité",
+    "expl": "COROLAIRE = corolario. Proposition qui découle directement d'une autre. La responsabilité est le COROLAIRE de la liberté. Synonymes : conséquence, implication, résultante, suite logique."
+  },
+  {
+    "id": "b2v1_19",
+    "q": "Que signifie 'délétère' dans un sens élargi ?",
+    "a": "Nuisible, toxique, qui détruit graduellement",
+    "choices": [
+      "Nuisible toxique qui détruit",
+      "Bénéfique",
+      "Neutre",
+      "Temporaire"
+    ],
+    "tag": "Évaluation",
+    "hint": "Une influence DÉLÉTÈRE sur la jeunesse",
+    "expl": "DÉLÉTÈRE = deletéreo, nocivo, dañino. Une atmosphère DÉLÉTÈRE. Une influence DÉLÉTÈRE. Synonymes : nuisible, toxique, néfaste, pernicieux, nocif. Antonyme : salutaire, bénéfique."
+  },
+  {
+    "id": "b2v1_20",
+    "q": "Que signifie 'antinomique' ?",
+    "a": "Contradictoire, qui s'oppose par nature à une autre chose",
+    "choices": [
+      "Contradictoire opposé par nature",
+      "Complémentaire",
+      "Similaire",
+      "Parallèle"
+    ],
+    "tag": "Logique",
+    "hint": "Des objectifs ANTINOMIQUES ne peuvent pas coexister",
+    "expl": "ANTINOMIQUE = antinómico, contradictorio. Des objectifs ANTINOMIQUES = contradictorios. L'ANTINOMIE = la antinomia. Synonymes : contradictoire, incompatible, antagoniste."
+  },
+  {
+    "id": "b2v1_21",
+    "q": "Que signifie 'instrumentaliser' ?",
+    "a": "Utiliser à des fins autres que celles prévues, de façon intéressée",
+    "choices": [
+      "Utiliser de façon intéressée à d'autres fins",
+      "Analyser",
+      "Améliorer",
+      "Valoriser"
+    ],
+    "tag": "Société",
+    "hint": "INSTRUMENTALISER un conflit à des fins politiques",
+    "expl": "INSTRUMENTALISER = instrumentalizar. Utiliser quelque chose ou quelqu'un comme instrument à d'autres fins. INSTRUMENTALISER la souffrance = exploiter la souffrance."
+  },
+  {
+    "id": "b2v1_22",
+    "q": "Que signifie 'consubstantiel' ?",
+    "a": "Qui est de la même nature, inséparable, intrinsèquement lié",
+    "choices": [
+      "Intrinsèquement lié de même nature",
+      "Extérieur",
+      "Opposé",
+      "Accidentel"
+    ],
+    "tag": "Philosophie",
+    "hint": "La liberté est CONSUBSTANTIELLE à la dignité humaine",
+    "expl": "CONSUBSTANTIEL(LE) = consustancial, inseparable. La liberté est CONSUBSTANTIELLE à la démocratie. Plus fort qu'inhérent. Terme de théologie passé dans le vocabulaire philosophique."
+  },
+  {
+    "id": "b2v1_23",
+    "q": "Que signifie 'propédeutique' ?",
+    "a": "Enseignement préparatoire à une discipline plus poussée",
+    "choices": [
+      "Enseignement préparatoire",
+      "Enseignement final",
+      "Enseignement pratique",
+      "Enseignement théorique seul"
+    ],
+    "tag": "Éducation",
+    "hint": "Ce cours sert de PROPÉDEUTIQUE à l'analyse littéraire",
+    "expl": "PROPÉDEUTIQUE = propedéutico/a. Enseignement introductif et préparatoire. En France, ancienne 1ère année d'études supérieures. Sens élargi : préparation intellectuelle à une discipline."
+  },
+  {
+    "id": "b2v1_24",
+    "q": "Que signifie 'prolixe' ?",
+    "a": "Qui parle ou écrit de façon abondante, trop longtemps",
+    "choices": [
+      "Trop abondant trop long",
+      "Concis",
+      "Silencieux",
+      "Clair"
+    ],
+    "tag": "Style",
+    "hint": "Un discours PROLIXE est souvent ennuyeux",
+    "expl": "PROLIXE = prolijo, que habla o escribe en exceso. Un orateur PROLIXE = que habla demasiado. LA PROLIXITÉ = la prolijidad. Synonymes : bavard, verbeux, diffus. Contraire : concis, laconique."
+  },
+  {
+    "id": "b2v1_25",
+    "q": "Que signifie 'péremptoire' ?",
+    "a": "Qui ne tolère pas de réplique, catégorique, définitif",
+    "choices": [
+      "Catégorique définitif sans réplique",
+      "Hésitant",
+      "Nuancé",
+      "Provisoire"
+    ],
+    "tag": "Style/Caractère",
+    "hint": "Un ton PÉREMPTOIRE laisse peu de place au débat",
+    "expl": "PÉREMPTOIRE = perentorio, categórico. Un ton PÉREMPTOIRE. D'un air PÉREMPTOIRE. Synonymes : catégorique, tranchant, lapidaire, définitif, sans appel. Peut avoir une connotation négative (arrogant)."
+  }
+]

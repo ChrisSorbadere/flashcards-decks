@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2gr3_01",
+    "q": "Comment s'accorde 'tel quel' ?",
+    "a": "Tel quel s'accorde avec le nom : telle quelle, tels quels, telles quelles",
+    "choices": [
+      "Tel quel s'accorde avec le nom",
+      "Tel quel toujours invariable",
+      "Tel s'accorde, quel reste invariable",
+      "Quel s'accorde, tel reste invariable"
+    ],
+    "tag": "Accord",
+    "hint": "Je l'ai accepté TEL QUEL / La proposition TELLE QUELLE",
+    "expl": "TEL QUEL s'accorde avec le nom. Je l'ai reçu TEL QUEL (masc. sg.). La maison TELLE QUELLE (fém. sg.). Des résultats TELS QUELS (masc. pl.). Erreur fréquente : l'écrire invariable."
+  },
+  {
+    "id": "b2gr3_02",
+    "q": "Quelle est la règle d'accord de 'possible' après 'le plus/le moins' ?",
+    "a": "POSSIBLE invariable après LE PLUS + adj + POSSIBLE",
+    "choices": [
+      "Possible invariable après superlatif",
+      "Possible s'accorde",
+      "Possible au féminin seulement",
+      "Dépend du nom"
+    ],
+    "tag": "Accord",
+    "hint": "Les meilleurs résultats POSSIBLE / le moins d'erreurs POSSIBLE",
+    "expl": "POSSIBLE invariable dans : LE PLUS DE + nom + POSSIBLE. Le plus d'économies POSSIBLE (= qu'il est possible de faire). Mais : les meilleures solutions POSSIBLES (adj. qui s'accorde avec solutions)."
+  },
+  {
+    "id": "b2gr3_03",
+    "q": "Comment s'accorde l'adjectif dans 'avoir l'air' ?",
+    "a": "AVOIR L'AIR + adj : accord avec le sujet (personnes) ou avec AIR (choses)",
+    "choices": [
+      "Avec le sujet (personnes) ou avec air (choses)",
+      "Toujours avec l'air (masculin sg.)",
+      "Toujours avec le sujet",
+      "Invariable toujours"
+    ],
+    "tag": "Accord",
+    "hint": "Elle a l'air FATIGUÉE / la soupe a l'air BONNE",
+    "expl": "AVOIR L'AIR : (personnes) accord avec le SUJET. Elle a l'air FATIGUÉE (= elle semble fatiguée). (choses) accord avec AIR ou le sujet. La soupe a l'air BONNE ou BONNES selon le sens."
+  },
+  {
+    "id": "b2gr3_04",
+    "q": "Comment s'accorde 'nu' dans 'nu-pieds' et 'pieds nus' ?",
+    "a": "NI- composé (avant) invariable / séparé (après) accord",
+    "choices": [
+      "Nu invariable devant le nom, accordé après",
+      "Nu toujours invariable",
+      "Nu toujours accordé",
+      "Nu invariable toujours"
+    ],
+    "tag": "Accord",
+    "hint": "Nu-pieds (composé) vs pieds nus (séparé)",
+    "expl": "NU : NUE-TÊTE, NU-PIEDS (composé = invariable). Pieds NUS, tête NUE (séparé = accord). Même règle que DEMI, SEMI. NU-PROPRIÉTÉ (invariable), propriété NUE (accordé)."
+  },
+  {
+    "id": "b2gr3_05",
+    "q": "Comment s'accorde 'demi' ?",
+    "a": "DEMI invariable avant le nom / accordé après — DEMI-HEURE, mais trois heures et DEMIE",
+    "choices": [
+      "Invariable avant, accordé après",
+      "Toujours invariable",
+      "Toujours accordé",
+      "Accord avec l'heure"
+    ],
+    "tag": "Accord",
+    "hint": "DEMI-HEURE (invariable) vs une heure et DEMIE (accordé)",
+    "expl": "DEMI : (avant) invariable. Une DEMI-HEURE. (après ET) accordé. Une heure et DEMIE. Trois heures et DEMIE. À DEMI (adv.) invariable. À DEMI-MOT invariable."
+  },
+  {
+    "id": "b2gr3_06",
+    "q": "Comment s'accorde 'ci-joint' dans une lettre ?",
+    "a": "CI-JOINT invariable avant le nom / accordé après ou en attribut",
+    "choices": [
+      "Invariable avant le nom, accordé après ou attribut",
+      "Toujours invariable",
+      "Toujours accordé",
+      "Accord selon le genre du document"
+    ],
+    "tag": "Accord",
+    "hint": "CI-JOINT les pièces / veuillez trouver ci-joints les documents",
+    "expl": "CI-JOINT : (avant nom sans article) = invariable. CI-JOINT les documents. (avec article ou après nom) = accordé. Les pièces CI-JOINTES. Veuillez trouver CI-JOINTS les formulaires."
+  },
+  {
+    "id": "b2gr3_07",
+    "q": "Comment s'accorde 'fort' dans 'se faire fort de' ?",
+    "a": "SE FAIRE FORT DE : FORT invariable (locution figée)",
+    "choices": [
+      "Fort invariable dans se faire fort de",
+      "Fort accordé avec le sujet",
+      "Fort accordé avec le COD",
+      "Fort toujours masculin"
+    ],
+    "tag": "Accord",
+    "hint": "Elle SE FAIT FORT DE résoudre ce problème — FORT invariable",
+    "expl": "SE FAIRE FORT DE + infinitif : FORT est INVARIABLE. Elle SE FAIT FORT DE réussir. Ils SE FONT FORT D'obtenir des résultats. Locution figée. Erreur fréquente : écrire 'forte'."
+  },
+  {
+    "id": "b2gr3_08",
+    "q": "Quelle est la règle d'accord de 'feu' (défunt) ?",
+    "a": "FEU invariable devant l'article / accordé devant le prénom sans article",
+    "choices": [
+      "Invariable devant article, accordé devant prénom sans article",
+      "Toujours invariable",
+      "Toujours accordé",
+      "Accord avec le genre du défunt"
+    ],
+    "tag": "Accord",
+    "hint": "FEU la reine (invariable) / FEU-E la reine Marie (accordé)",
+    "expl": "FEU : (devant article/possessif) invariable. FEU la reine. (devant prénom sans article) accordé. FEUE Marie Stuart. FEU mon père (possessif → invariable). Rare mais important à connaître."
+  },
+  {
+    "id": "b2gr3_09",
+    "q": "Comment orthographie-t-on 'quelque' devant un nombre ?",
+    "a": "QUELQUE (adverbe = environ) invariable devant un nombre",
+    "choices": [
+      "Quelque invariable devant nombre (= environ)",
+      "Quelques toujours pluriel",
+      "Quelque toujours singulier",
+      "Quelques si >1"
+    ],
+    "tag": "Orthographe",
+    "hint": "QUELQUE deux cents personnes (= environ)",
+    "expl": "QUELQUE adverbe (= environ) INVARIABLE. QUELQUE deux cents personnes. QUELQUE trente kilomètres. QUELQUES + nom pluriel = un certain nombre de. QUELQUES livres (pluriel). Distinguer les deux !"
+  },
+  {
+    "id": "b2gr3_10",
+    "q": "Comment s'accordent les adjectifs de couleur composés ?",
+    "a": "Adjectifs de couleur composés = invariables (bleu marine, vert foncé)",
+    "choices": [
+      "Invariables si composés",
+      "Accordés en genre et nombre",
+      "Accordés en nombre seul",
+      "Accordés avec le mot qualifié"
+    ],
+    "tag": "Accord",
+    "hint": "Des robes BLEU MARINE, des chaussures VERT FONCÉ — invariables",
+    "expl": "COULEURS COMPOSÉES = invariables. Des robes BLEU MARINE. Des yeux VERT CLAIR. Des uniformes ROUGE BORDEAUX. Couleur simple seule = accord. Des robes BLEUES. Des yeux VERTS. Exception : ROSE, MAUVE, ÉCARLATE, INCARNAT = s'accordent (couleurs adjectivées)."
+  },
+  {
+    "id": "b2gr3_11",
+    "q": "Quels adjectifs de couleur issus de noms restent invariables ?",
+    "a": "Marron, orange, noisette, ivoire, kaki, ocre, beige — invariables",
+    "choices": [
+      "Marron, orange, noisette, kaki invariables",
+      "Tous les adjectifs de couleur invariables",
+      "Seul marron invariable",
+      "Orange s'accorde au pluriel"
+    ],
+    "tag": "Accord",
+    "hint": "Des robes MARRON (pas marrones)",
+    "expl": "Adjectifs de couleur INVARIABLES (origine nom) : MARRON, ORANGE, NOISETTE, IVOIRE, KAKI, OCRE, CITRON, ABRICOT, BORDEAUX. Des pantalons MARRON. Exceptions : ROSE, MAUVE, ÉCARLATE (s'accordent)."
+  },
+  {
+    "id": "b2gr3_12",
+    "q": "Comment s'accorde le titre 'madame/mesdames' dans une lettre ?",
+    "a": "MADAME + nom propre (sans accord) / MESDAMES pour le pluriel",
+    "choices": [
+      "Madame invariable, mesdames pour le pluriel",
+      "Madame s'accorde en genre",
+      "Madame = toujours féminin singulier",
+      "Mesdames uniquement formel"
+    ],
+    "tag": "Formules",
+    "hint": "Madame la Présidente / Mesdames et Messieurs",
+    "expl": "MADAME LE/LA directeur(trice) : débat style actuel. MESDAMES ET MESSIEURS = formule d'allocution plurielle. MADAME + nom propre = toujours singulier. Veuillez agréer, MADAME, ..."
+  },
+  {
+    "id": "b2gr3_13",
+    "q": "Quelle est la règle des majuscules pour les titres ?",
+    "a": "Premier mot + adjectif antéposé prennent la majuscule : Le Roi Soleil, la Belle au Bois Dormant",
+    "choices": [
+      "Premier mot et adjectif antéposé ont la majuscule",
+      "Tous les mots avec majuscule",
+      "Seul le premier mot",
+      "Aucune règle fixe"
+    ],
+    "tag": "Orthographe",
+    "hint": "Le Roi Soleil / La Belle au Bois Dormant",
+    "expl": "Titres : PREMIER MOT + adjectif ANTÉPOSÉ = majuscule. Le GRAND Siècle. La BELLE au Bois Dormant. Si commence par article défini : LE/LA/LES + adjectif (si avant) = majuscules. Complexe !"
+  },
+  {
+    "id": "b2gr3_14",
+    "q": "Comment s'orthographie 'par-delà, par-dessous, par-dessus' ?",
+    "a": "Avec un trait d'union : par-delà, par-dessus, par-dessous",
+    "choices": [
+      "Avec trait d'union toujours",
+      "Sans trait d'union",
+      "Selon le sens",
+      "Trait d'union optionnel"
+    ],
+    "tag": "Orthographe",
+    "hint": "PAR-DELÀ les frontières / PAR-DESSUS le marché",
+    "expl": "PAR-DELÀ, PAR-DESSUS, PAR-DESSOUS, PAR-DEVERS = avec trait d'union. PAR-DELÀ les mers. PAR-DESSUS le marché (en plus). PAR-DESSOUS la table (en cachette). Prépositions composées figées."
+  },
+  {
+    "id": "b2gr3_15",
+    "q": "Comment distingue-t-on 'davantage' de 'plus' dans les comparatifs ?",
+    "a": "DAVANTAGE = plus (quantité) sans complément / DAVANTAGE DE = incorrecto en français soigné",
+    "choices": [
+      "Davantage sans complément, davantage de = déconseillé",
+      "Synonymes exacts",
+      "Davantage = plus intensif",
+      "Davantage = informel, plus = formel"
+    ],
+    "tag": "Nuances",
+    "hint": "J'en veux DAVANTAGE / je veux PLUS DE temps",
+    "expl": "DAVANTAGE = más (sin complemento). J'en veux DAVANTAGE. Registre soutenu. DAVANTAGE DE + nom = fréquent mais critiqué par certains puristes. PLUS DE + nom = standard. À connaître pour l'écrit soigné."
+  },
+  {
+    "id": "b2gr3_16",
+    "q": "Quelle est la différence entre 'parmi' et 'entre' ?",
+    "a": "PARMI = au sein d'un ensemble (>2) / ENTRE = relation entre deux ou un nombre limité",
+    "choices": [
+      "Parmi = ensemble de plus de 2, entre = relation entre 2 ou peu",
+      "Même sens",
+      "Parmi = formel, entre = courant",
+      "Parmi = lieu, entre = relation"
+    ],
+    "tag": "Prépositions",
+    "hint": "PARMI les étudiants / ENTRE les deux candidats",
+    "expl": "PARMI + ensemble nombreux. PARMI les étudiants. ENTRE + deux éléments ou nombre limité. ENTRE les deux candidats. Erreur fréquente : *entre tous (→ parmi tous). ENTRE EUX = relation réciproque."
+  },
+  {
+    "id": "b2gr3_17",
+    "q": "Comment s'accorde le verbe avec 'la plupart' ?",
+    "a": "LA PLUPART + complément pluriel → verbe au pluriel",
+    "choices": [
+      "Verbe au pluriel avec la plupart + pluriel",
+      "Verbe au singulier toujours",
+      "Accord avec le complément du nom",
+      "Accord selon le sens"
+    ],
+    "tag": "Accord",
+    "hint": "LA PLUPART des étudiants SONT venus",
+    "expl": "LA PLUPART + complément pluriel → PLURIEL. La plupart des étudiants SONT venus. La plupart SONT d'accord (sans complément aussi pluriel). Exception : la plupart du temps = singulier (sens temporel)."
+  },
+  {
+    "id": "b2gr3_18",
+    "q": "Comment s'accorde le verbe avec 'plus d'un' et 'moins de deux' ?",
+    "a": "PLUS D'UN + sg (paradox.) / MOINS DE DEUX + pl",
+    "choices": [
+      "Plus d'un = singulier, moins de deux = pluriel",
+      "Les deux singuliers",
+      "Les deux pluriels",
+      "Accord selon le sens"
+    ],
+    "tag": "Accord",
+    "hint": "PLUS D'UN étudiant EST venu (singulier !)",
+    "expl": "PLUS D'UN + singulier (logiquement paradoxal mais usage établi). Plus d'un étudiant EST venu. MOINS DE DEUX + pluriel. Moins de deux heures ONT suffi. Règles d'usage à mémoriser."
+  },
+  {
+    "id": "b2gr3_19",
+    "q": "Comment accorde-t-on avec 'c'est' et 'ce sont' ?",
+    "a": "C'EST + singulier / CE SONT + pluriel — mais C'EST nous/vous = courant",
+    "choices": [
+      "C'est + singulier / ce sont + pluriel (sauf c'est nous/vous courant)",
+      "C'est toujours",
+      "Ce sont toujours",
+      "C'est ou ce sont selon le sens"
+    ],
+    "tag": "Accord",
+    "hint": "C'EST moi / CE SONT eux — mais C'EST nous (oral courant)",
+    "expl": "C'EST + singulier ou pronom sg. CE SONT + pluriel. C'EST lui. CE SONT eux. Mais : C'EST nous, c'est vous (courant et accepté). CE SONT nous = formel/littéraire. C'est moi QUI SUIS."
+  },
+  {
+    "id": "b2gr3_20",
+    "q": "Quelle est la règle du trait d'union dans les nombres ?",
+    "a": "Trait d'union entre tous les éléments inférieurs à cent sauf ceux reliés par ET",
+    "choices": [
+      "Trait d'union entre tous les éléments <100 sauf avec ET",
+      "Trait d'union entre dizaines et unités seulement",
+      "Pas de trait d'union dans les nombres",
+      "Trait d'union optionnel"
+    ],
+    "tag": "Orthographe",
+    "hint": "Vingt-deux / vingt et un (pas de trait d'union avec ET)",
+    "expl": "Réforme 1990 : TRAIT D'UNION entre tous les éléments d'un nombre. VINGT-DEUX. CENT-VINGT-TROIS. MILLE-DEUX-CENT-TRENTE-QUATRE. Ancienne règle : trait d'union seulement <100 sans ET."
+  },
+  {
+    "id": "b2gr3_21",
+    "q": "Comment accorde-t-on 'vingt' et 'cent' ?",
+    "a": "VINGT et CENT prennent S sauf s'ils sont suivis d'un autre chiffre",
+    "choices": [
+      "S sauf si suivis d'un autre chiffre",
+      "Toujours S",
+      "Jamais S",
+      "S au pluriel toujours"
+    ],
+    "tag": "Orthographe",
+    "hint": "Quatre-vingts / quatre-vingt-un / deux cents / deux cent un",
+    "expl": "VINGT : QUATRE-VINGTS (seul) mais QUATRE-VINGT-UN (suivi). CENT : DEUX CENTS (seul) mais DEUX CENT UN (suivi). MILLE = toujours invariable. Exception : VINGTIÈME, CENTIÈME (adjectif ordinal → invariable)."
+  },
+  {
+    "id": "b2gr3_22",
+    "q": "Quelle règle pour l'accord de 'possible' après 'le plus' ?",
+    "a": "POSSIBLE invariable après LE PLUS/MOINS DE quand il qualifie la quantité",
+    "choices": [
+      "Possible invariable si qualifie la quantité",
+      "Possible accordé toujours",
+      "Possible invariable toujours",
+      "Possible accordé avec le nom"
+    ],
+    "tag": "Accord",
+    "hint": "Le moins d'erreurs POSSIBLE (quantité) vs les solutions les plus efficaces POSSIBLES",
+    "expl": "POSSIBLE : invariable après LE PLUS/LE MOINS DE + nom (quantité). Le moins de fautes POSSIBLE. Mais : les meilleures solutions POSSIBLES (adjectif qualifiant directement le nom). Distinction essentielle."
+  },
+  {
+    "id": "b2gr3_23",
+    "q": "Comment s'orthographient 'quoi que' vs 'quoique' ?",
+    "a": "QUOI QUE (deux mots) = quelle que soit la chose / QUOIQUE (un mot) = bien que",
+    "choices": [
+      "Quoi que = quelle que soit la chose / quoique = bien que",
+      "Toujours deux mots",
+      "Toujours un mot",
+      "Selon le sens du verbe"
+    ],
+    "tag": "Orthographe",
+    "hint": "QUOI QUE tu fasses / QUOIQUE tu sois fatigué",
+    "expl": "QUOI QUE (séparé) = quelle que soit la chose que. QUOI QUE tu FASSES. QUOIQUE (fusionné) = bien que, encore que + subjonctif. QUOIQU'IL SOIT fatigué. Distinction orthographique essentielle."
+  },
+  {
+    "id": "b2gr3_24",
+    "q": "Comment distinguer 'quelque' de 'quel que' ?",
+    "a": "QUELQUE + nom (adj. indef.) / QUEL QUE + être + subjonctif",
+    "choices": [
+      "Quelque + nom (adj.) / quel que + verbe être + subjonctif",
+      "Même sens",
+      "Quelque = invariable, quel que = accordé",
+      "Quelque = formel, quel que = courant"
+    ],
+    "tag": "Orthographe",
+    "hint": "QUELQUE raison / QUELLE QUE soit la raison",
+    "expl": "QUELQUE + nom = adj. indéfini. QUELQUE raison. Pour QUEL QUE : QUEL/QUELLE/QUELS/QUELLES (accordé) + QUE + ÊTRE (subjonctif). QUELLE QUE SOIT la raison. QUELS QUE SOIENT les obstacles."
+  },
+  {
+    "id": "b2gr3_25",
+    "q": "Quelle est la règle pour 'leur' pronom vs 'leurs' adjectif ?",
+    "a": "LEUR pronom (COI, invariable) / LEURS adjectif possessif (accordé)",
+    "choices": [
+      "Leur pronom = invariable / leurs adjectif = accordé",
+      "Leur toujours accordé",
+      "Leur toujours invariable",
+      "Selon le nombre des possesseurs"
+    ],
+    "tag": "Orthographe",
+    "hint": "Je LEUR parle (pronom) / LEURS livres (adjectif)",
+    "expl": "LEUR pronom COI = INVARIABLE. Je LEUR ai donné les livres. LEUR / LEURS adjectif possessif = accord avec le nom possédé. LEUR livre (un livre). LEURS livres (plusieurs livres). Erreur très fréquente."
+  }
+]

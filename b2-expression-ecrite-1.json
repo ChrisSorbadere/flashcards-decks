@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b2ee1_01",
+    "q": "Qu'est-ce qu'une 'problématique' en dissertation ?",
+    "a": "Question précise qui oriente la réflexion et à laquelle le devoir répond",
+    "choices": [
+      "Question précise qui oriente le devoir",
+      "Résumé du sujet",
+      "Plan du devoir",
+      "Thèse finale"
+    ],
+    "tag": "Dissertation",
+    "hint": "La problématique = la question centrale à laquelle on répond",
+    "expl": "PROBLÉMATIQUE = problemática. Question précise, non triviale, qui guide tout le devoir. Bien différente du sujet (qui est une thématique). La problématique est une QUESTION à laquelle le plan répond."
+  },
+  {
+    "id": "b2ee1_02",
+    "q": "Qu'est-ce qu'un 'plan analytique' ?",
+    "a": "Plan qui analyse les aspects ou les composantes d'un problème sans thèse / antithèse",
+    "choices": [
+      "Plan analysant les aspects d'un problème",
+      "Plan avec thèse et antithèse",
+      "Plan chronologique",
+      "Plan argumentatif simple"
+    ],
+    "tag": "Dissertation",
+    "hint": "Partie 1 : aspect A / Partie 2 : aspect B / Partie 3 : aspect C",
+    "expl": "PLAN ANALYTIQUE = análisis de aspectos. Utile pour les sujets descriptifs/analytiques. Partie I : aspect économique. Partie II : aspect social. Partie III : aspect culturel. Pas de thèse/antithèse."
+  },
+  {
+    "id": "b2ee1_03",
+    "q": "Qu'est-ce qu'un 'plan thématique' ?",
+    "a": "Chaque partie développe un thème ou sous-thème du sujet",
+    "choices": [
+      "Chaque partie développe un thème du sujet",
+      "Chronologique",
+      "Dialectique",
+      "Analytique cause-effet"
+    ],
+    "tag": "Dissertation",
+    "hint": "Thème 1 : la liberté / Thème 2 : l'égalité / Thème 3 : la fraternité",
+    "expl": "PLAN THÉMATIQUE = plan par thèmes. Chaque partie développe un aspect thématique. Utile pour synthèse de documents, exposés descriptifs. Distinguer de plan dialectique (thèse/antithèse)."
+  },
+  {
+    "id": "b2ee1_04",
+    "q": "Qu'est-ce que le 'plan concessions-limites' ?",
+    "a": "Concéder les arguments adverses puis montrer leurs limites — structure rhétorique",
+    "choices": [
+      "Concéder puis montrer les limites",
+      "Uniquement des arguments pour",
+      "Uniquement des arguments contre",
+      "Chronologique"
+    ],
+    "tag": "Argumentation",
+    "hint": "CERTES... EN REVANCHE... CEPENDANT... NÉANMOINS...",
+    "expl": "PLAN CONCESSIONS-LIMITES : Partie I = concéder les arguments favorables (CERTES). Partie II = montrer leurs limites (MAIS). Partie III = dépasser vers une synthèse. Plan très efficace pour l'argumentation nuancée."
+  },
+  {
+    "id": "b2ee1_05",
+    "q": "Comment rédige-t-on une accroche efficace ?",
+    "a": "Citation, paradoxe, chiffre choc, anecdote, question rhétorique — brève et percutante",
+    "choices": [
+      "Citation, paradoxe, chiffre, anecdote, question rhétorique",
+      "Résumé du sujet",
+      "Plan annoncé directement",
+      "Définition du sujet"
+    ],
+    "tag": "Rédaction",
+    "hint": "L'accroche accroche le lecteur en quelques lignes",
+    "expl": "ACCROCHE : citation pertinente, paradoxe, chiffre inattendu, événement récent, question rhétorique. Brève (2-3 lignes). Doit amener naturellement au sujet. Ne jamais commencer par 'De nos jours...'."
+  },
+  {
+    "id": "b2ee1_06",
+    "q": "Qu'est-ce que la 'reformulation paraphrastique' dans une synthèse ?",
+    "a": "Exprimer une idée de source dans ses propres mots sans déformation ni copie",
+    "choices": [
+      "Exprimer l'idée source dans ses propres mots",
+      "Copier en changeant quelques mots",
+      "Résumer en une phrase",
+      "Citer directement"
+    ],
+    "tag": "Synthèse",
+    "hint": "Paraphraser = réécrire complètement, pas paraphraser superficiellement",
+    "expl": "REFORMULATION PARAPHRASTIQUE = reformulación paráfrastica. Réécrire l'idée avec ses propres mots, structures différentes, vocabulaire différent. Ni plagiat ni distorsion du sens. Exercice fondamental."
+  },
+  {
+    "id": "b2ee1_07",
+    "q": "Comment structure-t-on un paragraphe de synthèse de documents ?",
+    "a": "Idée directrice + référence aux sources + reformulation + lien entre sources",
+    "choices": [
+      "Idée directrice + sources + reformulation + lien",
+      "Résumé source 1 puis source 2",
+      "Citation + commentaire",
+      "Seulement les idées communes"
+    ],
+    "tag": "Synthèse",
+    "hint": "La synthèse met les documents en dialogue",
+    "expl": "Paragraphe de SYNTHÈSE : idée directrice (pas 'le document dit'). Référence aux sources : SELON X, D'APRÈS Y. Reformulation. MISE EN REGARD : X affirme... EN REVANCHE Y soutient... ou X ET Y s'accordent..."
+  },
+  {
+    "id": "b2ee1_08",
+    "q": "Qu'est-ce qu'une 'thèse implicite' dans un texte ?",
+    "a": "Position de l'auteur non formulée explicitement mais reconnaissable aux choix stylistiques",
+    "choices": [
+      "Position non dite mais reconnaissable aux choix stylistiques",
+      "Thèse cachée délibérément",
+      "Thèse fausse",
+      "Thèse secondaire"
+    ],
+    "tag": "Analyse",
+    "hint": "L'auteur ne dit pas 'je crois X' mais ses choix de mots le révèlent",
+    "expl": "THÈSE IMPLICITE = tesis implícita. L'auteur ne déclare pas sa position explicitement mais la révèle par ses choix lexicaux, les figures de style, l'ironie, les guillemets. À dégager dans l'analyse."
+  },
+  {
+    "id": "b2ee1_09",
+    "q": "Comment identifie-t-on le 'ton' d'un texte ?",
+    "a": "Ensemble des marqueurs d'attitude : registre, figures de style, champs lexicaux, modalisation",
+    "choices": [
+      "Registre, figures de style, champs lexicaux, modalisation",
+      "Seulement le registre",
+      "Seulement le vocabulaire",
+      "La syntaxe uniquement"
+    ],
+    "tag": "Analyse",
+    "hint": "Ton ironique, pathétique, polémique, lyrique...",
+    "expl": "TON = tono. Ensemble : registre (soutenu/familier), figures (ironie, hyperbole), champ lexical (guerre, mort, lumière...), modalisation (peut-être, certainement). TON IRONIQUE = ironie + guillemets + lexique décalé."
+  },
+  {
+    "id": "b2ee1_10",
+    "q": "Qu'est-ce que la 'cohérence isotopique' ?",
+    "a": "Maintien d'un même champ sémantique tout au long du texte",
+    "choices": [
+      "Maintien d'un même champ sémantique",
+      "Cohésion grammaticale",
+      "Logique argumentative",
+      "Unité de style"
+    ],
+    "tag": "Analyse",
+    "hint": "ISOTOPIE = champ sémantique dominant dans un texte",
+    "expl": "ISOTOPIE (Greimas) = isotopía. Récurrence d'un même champ sémantique qui assure la cohérence du texte. Dans un texte sur la guerre : bataille, défaite, victoire, ennemi = isotopie guerrière."
+  },
+  {
+    "id": "b2ee1_11",
+    "q": "Comment analyse-t-on la 'progression thématique' ?",
+    "a": "Comment le thème évolue de phrase en phrase : linéaire, constante, dérivée",
+    "choices": [
+      "Évolution du thème de phrase en phrase",
+      "Structure du paragraphe",
+      "Plan du texte",
+      "Choix lexicaux"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "Thème linéaire : rhème de P1 = thème de P2",
+    "expl": "PROGRESSION THÉMATIQUE : LINÉAIRE (rhème de P1 = thème de P2). À THÈME CONSTANT (même thème repris). À THÈMES DÉRIVÉS (thème général se fragmente). Analyse de la logique informationnelle du texte."
+  },
+  {
+    "id": "b2ee1_12",
+    "q": "Qu'est-ce qu'un 'opérateur argumentatif' ?",
+    "a": "Mot ou expression qui oriente l'argument vers une conclusion",
+    "choices": [
+      "Mot qui oriente l'argument vers une conclusion",
+      "Synonyme de connecteur",
+      "Terme logique pur",
+      "Indicateur de temps"
+    ],
+    "tag": "Argumentation",
+    "hint": "POURTANT, CEPENDANT, EN REVANCHE — orientent l'argument",
+    "expl": "OPÉRATEUR ARGUMENTATIF = operador argumentativo (Ducrot). POURTANT, CEPENDANT = orientent contre. EN PLUS, DE SURCROÎT = orientent pour. Ils indiquent la direction argumentative vers une conclusion."
+  },
+  {
+    "id": "b2ee1_13",
+    "q": "Qu'est-ce qu'un 'argument d'autorité' et quand est-il valide ?",
+    "a": "Citer une expertise reconnue pour appuyer — valide si source légitime sur le sujet",
+    "choices": [
+      "Citer une expertise reconnue légitime sur le sujet",
+      "Toujours invalide",
+      "Toujours suffisant",
+      "Valable pour n'importe quelle source"
+    ],
+    "tag": "Argumentation",
+    "hint": "'Einstein a dit...' — valable en physique, pas en politique",
+    "expl": "ARGUMENT D'AUTORITÉ = argumento de autoridad. Valide si la source est EXPERTE dans le domaine concerné. Invalide si hors domaine de compétence. À manier avec précaution : ne remplace pas la démonstration."
+  },
+  {
+    "id": "b2ee1_14",
+    "q": "Qu'est-ce qu'un 'sophisme' ?",
+    "a": "Argument qui semble valide mais repose sur un raisonnement faux",
+    "choices": [
+      "Argument apparemment valide mais faux",
+      "Argument valide",
+      "Argument émotionnel",
+      "Argument incomplet"
+    ],
+    "tag": "Argumentation",
+    "hint": "L'homme de paille, le faux dilemme, la généralisation hâtive",
+    "expl": "SOPHISME = sofisma. Raisonnements apparemment corrects mais fallacieux : HOMME DE PAILLE (déformer l'argument adverse), FAUX DILEMME (présenter deux options quand il y en a plus), GÉNÉRALISATION HÂTIVE."
+  },
+  {
+    "id": "b2ee1_15",
+    "q": "Comment construit-on un commentaire de texte littéraire ?",
+    "a": "Introduction (œuvre/auteur/enjeux) → parties thématiques → conclusion",
+    "choices": [
+      "Introduction + parties thématiques + conclusion",
+      "Résumé + opinion",
+      "Résumé + biographie de l'auteur",
+      "Plan chronologique"
+    ],
+    "tag": "Commentaire littéraire",
+    "hint": "On NE résume pas — on ANALYSE et INTERPRÈTE",
+    "expl": "COMMENTAIRE LITTÉRAIRE : Introduction (auteur, œuvre, extrait, enjeux). Développement THÉMATIQUE (pas chronologique). Conclusion (bilan + ouverture). On NE raconte pas : on ANALYSE, on interprète, on cite."
+  },
+  {
+    "id": "b2ee1_16",
+    "q": "Qu'est-ce que l''implicite' dans un texte ?",
+    "a": "Ce qui n'est pas dit explicitement mais présupposé ou sous-entendu",
+    "choices": [
+      "Ce qui est présupposé ou sous-entendu",
+      "Ce qui est dit clairement",
+      "Ce qui est faux",
+      "Ce qui est accessoire"
+    ],
+    "tag": "Analyse",
+    "hint": "PRÉSUPPOSÉ + SOUS-ENTENDU = deux formes d'implicite",
+    "expl": "IMPLICITE = implícito. PRÉSUPPOSÉ = ce qu'on admet sans le dire (il a cessé de fumer → présuppose qu'il fumait). SOUS-ENTENDU = ce qu'on veut faire comprendre sans le dire. À analyser dans tout texte."
+  },
+  {
+    "id": "b2ee1_17",
+    "q": "Qu'est-ce que la 'visée' (ou intention) d'un texte ?",
+    "a": "L'objectif communicatif : informer, persuader, émouvoir, amuser, inciter à l'action",
+    "choices": [
+      "L'objectif communicatif du texte",
+      "Le résumé du texte",
+      "La thèse du texte",
+      "Le plan du texte"
+    ],
+    "tag": "Analyse",
+    "hint": "VISÉE = ce que l'auteur veut faire sur le lecteur",
+    "expl": "VISÉE COMMUNICATIVE = intención comunicativa. INFORMER (article de presse). PERSUADER (publicité, plaidoyer). ÉMOUVOIR (texte littéraire). INCITER À L'ACTION (appel, tract). Un texte peut avoir plusieurs visées."
+  }
+]

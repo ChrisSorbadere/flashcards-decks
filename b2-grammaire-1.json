@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2gr1_01",
+    "q": "Quelle est la différence entre 'ce dont' et 'ce à quoi' ?",
+    "a": "CE DONT = de quoi (verbes avec DE) / CE À QUOI = à quoi (verbes avec À)",
+    "choices": [
+      "Ce dont = de quoi, ce à quoi = à quoi",
+      "Même sens",
+      "Ce dont = sujet, ce à quoi = objet",
+      "Interchangeables"
+    ],
+    "tag": "Pronoms relatifs",
+    "hint": "Ce DONT je parle / ce À QUOI je pense",
+    "expl": "CE DONT remplace DE + chose : parler DE → CE DONT je parle. CE À QUOI remplace À + chose : penser À → CE À QUOI je pense. Distinction selon la préposition du verbe."
+  },
+  {
+    "id": "b2gr1_02",
+    "q": "Comment fonctionne 'CE QUE' vs 'CE QUI' ?",
+    "a": "CE QUI = sujet de la relative / CE QUE = objet direct",
+    "choices": [
+      "Ce qui = sujet, ce que = objet direct",
+      "Même sens",
+      "Ce qui = animé, ce que = inanimé",
+      "Interchangeables"
+    ],
+    "tag": "Pronoms relatifs",
+    "hint": "CE QUI me plaît (sujet) / CE QUE je veux (objet)",
+    "expl": "CE QUI = sujet : CE QUI me plaît, c'est la musique. CE QUE = COD : CE QUE je veux, c'est partir. Test : peut-on remplacer par IL/ELLE (→ QUI) ou LE/LA (→ QUE) ?"
+  },
+  {
+    "id": "b2gr1_03",
+    "q": "Comment utilise-t-on QUOIQUE vs BIEN QUE vs ENCORE QUE ?",
+    "a": "QUOIQUE = bien que (même sens) / ENCORE QUE = nuance de restriction plus forte",
+    "choices": [
+      "Quoique = bien que / encore que = restriction plus forte",
+      "Tous synonymes exacts",
+      "Quoique = passé, bien que = présent",
+      "Encore que = plus faible"
+    ],
+    "tag": "Concession",
+    "hint": "ENCORE QUE je me demande si... = nuance plus forte",
+    "expl": "BIEN QUE = QUOIQUE (synonymes, + subjonctif). ENCORE QUE = nuance de restriction/réserve plus forte, souvent en fin de phrase. Encore QUE je me demande si c'est vrai (= mais je me demande...)."
+  },
+  {
+    "id": "b2gr1_04",
+    "q": "Comment fonctionne l'accord de l'adjectif avec deux noms ?",
+    "a": "Si les noms sont de genres différents, l'adjectif se met au masculin pluriel",
+    "choices": [
+      "Masculin pluriel si genres différents",
+      "Féminin pluriel toujours",
+      "Accord avec le dernier nom",
+      "Masculin singulier"
+    ],
+    "tag": "Accord",
+    "hint": "Une robe et un pantalon VERTS — masculin l'emporte",
+    "expl": "Adjectif + deux noms genres différents → MASCULIN PLURIEL. Une robe et un pantalon VERTS. Une qualité et un mérite RECONNUS. Le masculin l'emporte (règle classique, contestée aujourd'hui)."
+  },
+  {
+    "id": "b2gr1_05",
+    "q": "Comment fonctionne l'accord du participe passé avec FAIRE ?",
+    "a": "FAIRE + infinitif : le participe de FAIRE reste invariable",
+    "choices": [
+      "Fait invariable avec faire + infinitif",
+      "Fait s'accorde avec le COD",
+      "Fait s'accorde avec le sujet",
+      "Fait s'accorde toujours"
+    ],
+    "tag": "Accord participe",
+    "hint": "La voiture QUE j'ai fait réparer — FAIT invariable",
+    "expl": "FAIT + infinitif = INVARIABLE. La voiture que j'AI FAIT RÉPARER. Les enfants que j'AI FAIT ENTRER. FAIT ne s'accorde jamais dans la construction causative. Règle ferme."
+  },
+  {
+    "id": "b2gr1_06",
+    "q": "Comment fonctionne l'accord du participe passé avec LAISSER + infinitif ?",
+    "a": "LAISSÉ peut s'accorder avec le COD si ce dernier fait l'action",
+    "choices": [
+      "Accord possible si COD fait l'action",
+      "Laissé toujours invariable",
+      "Laissé toujours accordé",
+      "Accord avec le sujet"
+    ],
+    "tag": "Accord participe",
+    "hint": "Les enfants que j'ai LAISSÉS partir vs la lettre que j'ai LAISSÉ tomber",
+    "expl": "LAISSÉ + inf : accord si le COD FAIT l'action (les enfants QUE j'ai LAISSÉS partir = eux qui partent). Pas d'accord si le COD SUBIT l'action (la lettre QUE j'ai LAISSÉ tomber = la lettre ne tombe pas d'elle-même). Nouvelle orthographe 1990 : LAISSÉ toujours invariable."
+  },
+  {
+    "id": "b2gr1_07",
+    "q": "Comment accorde-t-on le participe passé des verbes pronominaux ?",
+    "a": "S'accorde avec le sujet sauf si le pronom est COI",
+    "choices": [
+      "Accord avec sujet sauf si pronom = COI",
+      "Accord avec sujet toujours",
+      "Toujours invariable",
+      "Accord avec le COD"
+    ],
+    "tag": "Accord participe",
+    "hint": "Elle s'est lavée / elle s'est lavé les mains — SE = COD ou COI ?",
+    "expl": "Pronominal : accord avec le sujet SAUF si le pronom est COI. Elle S'EST LAVÉE (SE = COD). Elle S'EST LAVÉ LES MAINS (SE = COI, LES MAINS = COD → pas d'accord avec se)."
+  },
+  {
+    "id": "b2gr1_08",
+    "q": "Comment accorde-t-on le participe passé de SE SOUVENIR ?",
+    "a": "Elle s'est souvenue — SE est COD donc accord avec le sujet",
+    "choices": [
+      "Accord avec le sujet (se = COD)",
+      "Invariable",
+      "Accord avec l'objet du souvenir",
+      "Accord avec l'événement rappelé"
+    ],
+    "tag": "Accord participe",
+    "hint": "SE SOUVENIR : on se souvient DE quelque chose, pas QUELQUE CHOSE",
+    "expl": "SE SOUVENIR : le pronom SE est COD (on ne se souvient pas de soi-même, le SE est le réfléchi = COD). Elle S'EST SOUVENUE. Ils SE SONT SOUVENUS. Accord obligatoire."
+  },
+  {
+    "id": "b2gr1_09",
+    "q": "Quelle est la règle d'accord avec les adverbes de quantité ?",
+    "a": "BEAUCOUP DE, NOMBRE DE, PEW DE + nom : accord avec le nom",
+    "choices": [
+      "Accord avec le nom qui suit",
+      "Accord avec l'adverbe",
+      "Toujours singulier",
+      "Toujours pluriel"
+    ],
+    "tag": "Accord",
+    "hint": "BEAUCOUP DE gens SONT venus — accord avec GENS",
+    "expl": "BEAUCOUP DE + nom : accord avec le NOM. BEAUCOUP DE gens SONT venus. UN GRAND NOMBRE DE personnes ÉTAIENT présentes. Exception : LA PLUPART accord au pluriel."
+  },
+  {
+    "id": "b2gr1_10",
+    "q": "Comment accorde-t-on avec L'UN ET L'AUTRE ?",
+    "a": "L'UN ET L'AUTRE = pluriel (les deux) / L'UN OU L'AUTRE = singulier (exclusif)",
+    "choices": [
+      "L'un et l'autre = pluriel / l'un ou l'autre = singulier",
+      "Toujours singulier",
+      "Toujours pluriel",
+      "Accord avec le premier"
+    ],
+    "tag": "Accord",
+    "hint": "L'UN ET L'AUTRE SONT venus / l'un OU l'autre EST venu",
+    "expl": "L'UN ET L'AUTRE + pluriel : L'UN ET L'AUTRE SONT venus. L'UN OU L'AUTRE + singulier : L'UN OU L'AUTRE VIENDRA. Logique : ET = les deux (pl.) / OU = exclusif (sg.)."
+  },
+  {
+    "id": "b2gr1_11",
+    "q": "Comment fonctionne la négation NE dans les comparatifs ?",
+    "a": "Plus grand qu'il NE le croit — NE explétif, sans valeur négative",
+    "choices": [
+      "NE explétif sans valeur négative dans comparatif inégalité",
+      "NE toujours négatif",
+      "NE obligatoire dans tout comparatif",
+      "NE interdit dans comparatif"
+    ],
+    "tag": "NE explétif",
+    "hint": "Plus que je NE pensais — ne = explétif",
+    "expl": "NE EXPLÉTIF dans comparatif d'inégalité : Il est PLUS grand QU'IL NE le croit. MIEUX QUE JE NE l'espérais. Ce NE est sans valeur négative, optionnel en langue courante, attendu en registre soutenu."
+  },
+  {
+    "id": "b2gr1_12",
+    "q": "Comment fonctionne l'inversion du sujet dans les incises ?",
+    "a": "Il est rentré, DIT-IL / a-t-elle expliqué — inversion sujet-verbe dans les incises",
+    "choices": [
+      "Inversion obligatoire dans les incises de discours rapporté",
+      "Inversion optionnelle",
+      "Pas d'inversion",
+      "Inversion seulement dans les questions"
+    ],
+    "tag": "Inversion",
+    "hint": "'Venez,' DIT-IL / 'Vraiment ?' DEMANDA-T-ELLE",
+    "expl": "INCISE de discours rapporté : inversion OBLIGATOIRE. 'Viens !' dit-il. 'Vraiment ?' demanda-t-elle. 'Je pars,' ajouta-t-il. L'incise peut se placer en début, milieu ou fin de réplique."
+  },
+  {
+    "id": "b2gr1_13",
+    "q": "Quel est le fonctionnement de 'quand bien même' ?",
+    "a": "QUAND BIEN MÊME + conditionnel = même si (hypothèse concessive)",
+    "choices": [
+      "Quand bien même + conditionnel = même si",
+      "Quand bien même + indicatif",
+      "Quand bien même + subjonctif",
+      "Quand bien même + infinitif"
+    ],
+    "tag": "Concession",
+    "hint": "QUAND BIEN MÊME il VIENDRAIT, ça ne changerait rien",
+    "expl": "QUAND BIEN MÊME + conditionnel = même si + conditionnel. QUAND BIEN MÊME IL VIENDRAIT, je refuserais. Locution conjonctive de concession hypothétique. Registre soutenu."
+  },
+  {
+    "id": "b2gr1_14",
+    "q": "Comment fonctionne 'si ce n'est' ?",
+    "a": "SI CE N'EST = sinon, sauf, à l'exception de",
+    "choices": [
+      "Si ce n'est = sinon, sauf, à part",
+      "Si ce n'est = c'est que",
+      "Si ce n'est = puisque",
+      "Si ce n'est = à condition que"
+    ],
+    "tag": "Structures",
+    "hint": "Que fait-il, SI CE N'EST se plaindre ?",
+    "expl": "SI CE N'EST = si no es, salvo. Que fait-il, SI CE N'EST SE PLAINDRE ? = si no es quejarse. Rien ne me plaît, SI CE N'EST la musique = a excepción de la música."
+  },
+  {
+    "id": "b2gr1_15",
+    "q": "Comment fonctionne 'il n'est que de' ?",
+    "a": "IL N'EST QUE DE + infinitif = il suffit de, il n'y a qu'à",
+    "choices": [
+      "Il n'est que de = il suffit de",
+      "Il n'est que de = il est impossible de",
+      "Il n'est que de = il est obligatoire de",
+      "Il n'est que de = il vaut mieux"
+    ],
+    "tag": "Structures",
+    "hint": "IL N'EST QUE DE REGARDER pour comprendre = il suffit de regarder",
+    "expl": "IL N'EST QUE DE + inf = il suffit de, solo hay que. IL N'EST QUE DE REGARDER autour de soi. Registre soutenu/littéraire. Synonymes : il suffit de, il n'y a qu'à."
+  },
+  {
+    "id": "b2gr1_16",
+    "q": "Comment utilise-t-on LE (neutre) avec les adjectifs ?",
+    "a": "LE neutre = reprend une qualité ou un état : je le sais / elle l'est",
+    "choices": [
+      "Le neutre reprend une qualité ou un état",
+      "Le = masculin toujours",
+      "Le = défini toujours",
+      "Le = objet concret"
+    ],
+    "tag": "Pronoms",
+    "hint": "Êtes-vous médecin ? — Oui, JE LE SUIS",
+    "expl": "LE NEUTRE reprend un attribut ou une proposition. Êtes-vous prêt ? JE LE SUIS. Est-elle compétente ? ELLE L'EST. Il est plus riche QU'IL NE LE PENSE. LE reprend 'riche'."
+  },
+  {
+    "id": "b2gr1_17",
+    "q": "Comment fonctionne la construction 'en + participe présent' avec accord ?",
+    "a": "Le gérondif est invariable — jamais d'accord",
+    "choices": [
+      "Gérondif invariable, jamais d'accord",
+      "Accord avec le sujet",
+      "Accord avec le COD",
+      "Accord selon le genre du sujet"
+    ],
+    "tag": "Gérondif",
+    "hint": "Elle chante EN TRAVAILLANT — EN TRAVAILLANT invariable",
+    "expl": "Le GÉRONDIF (EN + participe présent) est INVARIABLE. Elle réussit EN TRAVAILLANT. Elles réussissent EN TRAVAILLANT. Jamais d'accord. Différent du participe présent adjectif qui s'accorde."
+  },
+  {
+    "id": "b2gr1_18",
+    "q": "Quelle est la différence entre participe présent et adjectif verbal ?",
+    "a": "PP = action, invariable / Adjectif verbal = état, s'accorde",
+    "choices": [
+      "PP = action invariable / Adj verbal = état accordé",
+      "Même chose",
+      "PP = accordé, adj verbal = invariable",
+      "Pas de différence en français moderne"
+    ],
+    "tag": "Participe présent",
+    "hint": "Une eau COURANTE (adj) vs une eau COURANT dans un tuyau (PP)",
+    "expl": "PARTICIPE PRÉSENT = action, invariable. Une femme SOURIANT à l'enfant. ADJECTIF VERBAL = état permanent, s'accorde. Une femme SOURIANTE. Parfois orthographe différente : négligent (PP) / négligeable (adj)."
+  },
+  {
+    "id": "b2gr1_19",
+    "q": "Quels adjectifs verbaux ont une orthographe différente du participe présent ?",
+    "a": "CONVAINCANT (adj) / CONVAINQUANT (PP) / PROVOQUANT (PP) / PROVOCANT (adj)",
+    "choices": [
+      "Convaincant/convainquant, provocant/provoquant",
+      "Toujours même orthographe",
+      "Seulement les verbes en -guer",
+      "Seulement les verbes en -quer"
+    ],
+    "tag": "Participe présent",
+    "hint": "Des résultats CONVAINCANTS (adj) / en CONVAINQUANT (PP)",
+    "expl": "Orthographes différentes : FATIGANT (adj) / FATIGUANT (PP). CONVAINCANT / CONVAINQUANT. PROVOQUANT / PROVOCANT. SUFFOCANT / SUFFOQUANT. INTRIGUANT (adj et PP). À mémoriser."
+  },
+  {
+    "id": "b2gr1_20",
+    "q": "Comment fonctionne l'accord de TOUT adverbe ?",
+    "a": "TOUT adverbe = invariable SAUF devant adj. féminin commençant par consonne",
+    "choices": [
+      "Tout adverbe invariable sauf devant féminin à consonne",
+      "Tout toujours invariable",
+      "Tout toujours accordé",
+      "Tout accordé avec le sujet"
+    ],
+    "tag": "Accord",
+    "hint": "Elle est TOUTE émue (féminin à consonne) / TOUT heureuse (voyelle)",
+    "expl": "TOUT adverbe : invariable sauf devant ADJECTIF FÉMININ commençant par CONSONNE ou H aspiré. Elle est TOUTE petite. TOUTE honteuse. Mais : elle est TOUT heureuse (voyelle → invariable). Règle complexe."
+  },
+  {
+    "id": "b2gr1_21",
+    "q": "Comment fonctionne 'ne... que... ne' (double négation avec que) ?",
+    "a": "Il ne dépense que ce qu'il ne peut éviter — structure restrictive double",
+    "choices": [
+      "Structure restrictive complexe",
+      "Simple négation",
+      "Double négation = affirmation",
+      "Construction impossible"
+    ],
+    "tag": "Structures",
+    "hint": "'Il ne fait que ce qu'il ne peut refuser'",
+    "expl": "NE... QUE... NE : structure complexe. Il NE fait QUE CE QU'IL NE peut refuser = il fait seulement ce qu'il est obligé de faire. Analyse : NE...QUE (restriction) + NE...pas (négation dans la relative)."
+  },
+  {
+    "id": "b2gr1_22",
+    "q": "Comment fonctionne la construction 'c'est... que de + infinitif' ?",
+    "a": "C'EST + adj + QUE DE + inf = il est + adj + de + inf (mise en relief)",
+    "choices": [
+      "C'est + adj + que de + inf = mise en relief",
+      "C'est que de = parce que",
+      "C'est que de = seulement",
+      "C'est que de = dès lors que"
+    ],
+    "tag": "Mise en relief",
+    "hint": "C'est DIFFICILE QUE DE réussir = il est difficile de réussir (emphase)",
+    "expl": "C'EST + adj + QUE DE + inf = mise en relief emphatique. C'EST BEAU QUE DE VIVRE. C'EST DIFFICILE QUE DE TROUVER. Registre littéraire. Plus expressif que 'il est difficile de'."
+  },
+  {
+    "id": "b2gr1_23",
+    "q": "Comment fonctionne 'hormis' et 'excepté' comme prépositions ?",
+    "a": "HORMIS et EXCEPTÉ = sauf, à l'exception de — invariables avant le nom",
+    "choices": [
+      "Hormis/excepté invariables avant le nom, accordés après",
+      "Toujours invariables",
+      "Toujours accordés",
+      "Accord avec le sujet"
+    ],
+    "tag": "Prépositions",
+    "hint": "Excepté les enfants / les enfants exceptés",
+    "expl": "EXCEPTÉ, HORMIS, PASSÉ, VU : invariables AVANT le nom (prépositions). EXCEPTÉ LES ENFANTS. Accordés APRÈS le nom (participent adjectifs). LES ENFANTS EXCEPTÉS. Règle de place."
+  },
+  {
+    "id": "b2gr1_24",
+    "q": "Comment s'accorde 'étant donné' ?",
+    "a": "ÉTANT DONNÉ invariable avant le nom / accordé après comme adjectif",
+    "choices": [
+      "Invariable avant le nom, accordé après",
+      "Toujours invariable",
+      "Toujours accordé au féminin",
+      "Accord avec le sujet principal"
+    ],
+    "tag": "Accord",
+    "hint": "ÉTANT DONNÉ les circonstances / les circonstances ÉTANT DONNÉES",
+    "expl": "ÉTANT DONNÉ + nom (avant) = invariable (locution prépositionnelle). ÉTANT DONNÉ les circonstances. Nom + ÉTANT DONNÉ (après) = accordé. Les circonstances ÉTANT DONNÉES. Même règle que EXCEPTÉ."
+  },
+  {
+    "id": "b2gr1_25",
+    "q": "Comment fonctionne 'ne pas sans que' ?",
+    "a": "IL NE SE PASSE PAS DE JOUR SANS QUE + subjonctif",
+    "choices": [
+      "Sans que + subjonctif = il arrive toujours quelque chose",
+      "Sans que + indicatif",
+      "Sans que + conditionnel",
+      "Sans que = parce que"
+    ],
+    "tag": "Structures",
+    "hint": "Il ne passe pas de jour SANS QU'IL arrive quelque chose",
+    "expl": "IL NE SE PASSE PAS DE JOUR SANS QUE + subjonctif = no pasa un día sin que + subjuntivo. Structure littéraire pour exprimer la régularité absolue d'un événement."
+  }
+]

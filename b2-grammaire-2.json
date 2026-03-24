@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2gr2_01",
+    "q": "Qu'est-ce que la 'phrase nominale' en stylistique ?",
+    "a": "Phrase sans verbe conjugué, effet de concision ou d'impact",
+    "choices": [
+      "Phrase sans verbe conjugué",
+      "Phrase avec beaucoup de noms",
+      "Phrase passive",
+      "Phrase au présent"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Silence dans les rangs !' — phrase nominale",
+    "expl": "PHRASE NOMINALE = sans verbe conjugué. 'Silence !' 'Tout allait bien. Jusqu'à ce soir.' Effets : urgence, force lapidaire, titre, didascalie. Registre journalistique, publicitaire, littéraire."
+  },
+  {
+    "id": "b2gr2_02",
+    "q": "Qu'est-ce qu'un 'zeugme' stylistique ?",
+    "a": "Un seul verbe gouverne deux compléments de nature différente",
+    "choices": [
+      "Un verbe avec deux compléments incompatibles",
+      "Une métaphore",
+      "Une répétition",
+      "Un chiasme"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Il prit son chapeau et congé' — prendre chapeau ET congé",
+    "expl": "ZEUGME = zeugma. Un verbe régit deux compléments de natures différentes. 'Il prit son chapeau et congé.' 'Elle emporte ses affaires et son courage.' Effet comique ou poétique."
+  },
+  {
+    "id": "b2gr2_03",
+    "q": "Qu'est-ce que la 'parataxe' vs l''hypotaxe' ?",
+    "a": "PARATAXE = juxtaposition sans conjonction / HYPOTAXE = subordination avec conjonctions",
+    "choices": [
+      "Parataxe = juxtaposition, hypotaxe = subordination",
+      "Même structure",
+      "Parataxe = longue, hypotaxe = courte",
+      "Parataxe = orale, hypotaxe = écrite"
+    ],
+    "tag": "Stylistique",
+    "hint": "PARATAXE : Il pleut. Je reste. / HYPOTAXE : Comme il pleut, je reste.",
+    "expl": "PARATAXE = juxtaposition sans lien logique explicite. 'Il pleut. Je reste.' Effet : rapidité, tension. HYPOTAXE = subordination explicite. 'Comme il pleut, je reste.' Effet : logique, clarté."
+  },
+  {
+    "id": "b2gr2_04",
+    "q": "Qu'est-ce que l''asyndète' ?",
+    "a": "Suppression des conjonctions de coordination entre des éléments de même nature",
+    "choices": [
+      "Suppression des conjonctions de coordination",
+      "Répétition de conjonctions",
+      "Inversion syntaxique",
+      "Accumulation de subordonnées"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Veni, vidi, vici' — sans ET entre les éléments",
+    "expl": "ASYNDÈTE = asíndeton. Suppression des conjonctions. 'Veni, vidi, vici' (Caesar). Effet de rapidité, d'enchaînement. Contraire : POLYSYNDÈTE = multiplication des conjonctions (et... et... et...)."
+  },
+  {
+    "id": "b2gr2_05",
+    "q": "Qu'est-ce que la 'syllepse de nombre' ?",
+    "a": "Accord grammatical remplacé par l'accord de sens",
+    "choices": [
+      "Accord de sens plutôt que grammatical",
+      "Faute d'accord",
+      "Accord normal",
+      "Accord de genre"
+    ],
+    "tag": "Accord",
+    "hint": "'La foule grondaient' — accord avec l'idée de pluralité",
+    "expl": "SYLLEPSE DE NOMBRE = accord de SENS. 'La foule GRONDAIENT' (pluriel car la foule = des gens multiples). 'Un grand nombre de gens ÉTAIT/ÉTAIENT présents.' Toléré en style soutenu."
+  },
+  {
+    "id": "b2gr2_06",
+    "q": "Comment fonctionne le subjonctif de délibération (interro-négatif) ?",
+    "a": "Que faire ? Où aller ? — subjonctif dans questions rhétoriques délibératives",
+    "choices": [
+      "Subjonctif dans questions rhétoriques délibératives",
+      "Indicatif dans les questions",
+      "Conditionnel délibératif",
+      "Infinitif seulement"
+    ],
+    "tag": "Subjonctif",
+    "hint": "QUE FERIONS-NOUS sans lui ? QU'EST-IL ADVENU ?",
+    "expl": "Subjonctif délibératif dans question rhétorique : QUE FAIRE ? OÙ ALLER ? Forme ancienne et littéraire. Dans les propositions : Je ne sais QUE FAIRE = je ne sais pas quoi faire."
+  },
+  {
+    "id": "b2gr2_07",
+    "q": "Qu'est-ce que l''anacoluthe' ?",
+    "a": "Rupture de construction syntaxique en cours de phrase",
+    "choices": [
+      "Rupture de construction en cours de phrase",
+      "Répétition",
+      "Ellipse",
+      "Inversion"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Moi, les grandes questions, je m'en méfie' — rupture",
+    "expl": "ANACOLUTHE = anacolutia. Rupture de la construction. 'Moi, partir maintenant, c'est impossible.' Le 'moi' commence une construction abandonnée. Effet d'oralité, d'emphase, parfois de maladresse voulue."
+  },
+  {
+    "id": "b2gr2_08",
+    "q": "Qu'est-ce que l''ellipse' syntaxique ?",
+    "a": "Suppression d'éléments devinables par le contexte",
+    "choices": [
+      "Suppression d'éléments devinables",
+      "Répétition",
+      "Accumulation",
+      "Inversion"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Qui vivra verra' — ellipse du verbe dans la relative",
+    "expl": "ELLIPSE = elipsis. 'Qui vivra verra' = qui vivra [cela] verra. 'Je pars demain, lui après-demain' (ellipse de 'part'). Concision, fluidité. Très fréquente en langue courante."
+  },
+  {
+    "id": "b2gr2_09",
+    "q": "Comment utilise-t-on 'dont' avec un superlatif ?",
+    "a": "Le plus beau livre DONT je me souvienne — dont + subjonctif après superlatif",
+    "choices": [
+      "Dont + subjonctif après superlatif",
+      "Dont + indicatif toujours",
+      "Dont + conditionnel",
+      "Dont = que après superlatif"
+    ],
+    "tag": "Pronoms relatifs",
+    "hint": "Le meilleur vin DONT j'aie jamais entendu parler",
+    "expl": "Superlatif + relative avec DONT → subjonctif possible. Le plus beau livre DONT JE ME SOUVIENNE. La meilleure solution DONT ON DISPOSE. Subjectivité du superlatif → subjonctif."
+  },
+  {
+    "id": "b2gr2_10",
+    "q": "Comment fonctionne la phrase disloquée (ou clivée) ?",
+    "a": "C'EST... QUI/QUE met en relief un élément + phrase avec CE QUI/CE QUE",
+    "choices": [
+      "C'est + élément + qui/que met en relief",
+      "Phrase normale en deux parties",
+      "Phrase passive mise en relief",
+      "Inversion simple"
+    ],
+    "tag": "Mise en relief",
+    "hint": "C'EST LUI QUI a tout organisé — dislocation",
+    "expl": "DISLOCATION/CLIVAGE : C'EST LUI QUI a tout organisé (sujet mis en relief). C'EST CE LIVRE QUE je cherche (COD). C'EST À PARIS QU'il vit (lieu). Très fréquent à l'oral pour l'emphase."
+  },
+  {
+    "id": "b2gr2_11",
+    "q": "Comment fonctionne la 'période' rhétorique ?",
+    "a": "Longue phrase construite en plusieurs membres avec un crescendo vers la conclusion",
+    "choices": [
+      "Longue phrase en crescendo vers conclusion",
+      "Phrase nominale",
+      "Phrase courte et forte",
+      "Question rhétorique"
+    ],
+    "tag": "Rhétorique",
+    "hint": "La grande phrase de Cicéron ou Bossuet",
+    "expl": "LA PÉRIODE = frase periódica. Longue construction en plusieurs membres qui se termine par une conclusion attendue. Typique du style oratoire classique (Bossuet, Cicéron). Effet de majesté."
+  },
+  {
+    "id": "b2gr2_12",
+    "q": "Quelle est la valeur du présent dit 'gnomique' ?",
+    "a": "Présent exprimant une vérité générale, universelle et intemporelle",
+    "choices": [
+      "Vérité générale intemporelle",
+      "Présent factuel",
+      "Présent historique",
+      "Présent de narration"
+    ],
+    "tag": "Valeurs du présent",
+    "hint": "'L'homme est mortel' — présent gnomique",
+    "expl": "PRÉSENT GNOMIQUE = présent des vérités générales, proverbes, lois. 'L'homme est mortel.' 'L'argent ne fait pas le bonheur.' 'Les chats chassent les souris.' Intemporel."
+  },
+  {
+    "id": "b2gr2_13",
+    "q": "Qu'est-ce que le présent 'proleptique' ?",
+    "a": "Présent qui anticipe un événement futur comme s'il était déjà acquis",
+    "choices": [
+      "Présent qui anticipe un futur acquis",
+      "Présent historique",
+      "Présent de narration",
+      "Présent gnomique"
+    ],
+    "tag": "Valeurs du présent",
+    "hint": "'Dans un mois, je PARS à Paris' — futur certain",
+    "expl": "PRÉSENT PROLEPTIQUE = futur certain anticipé. 'Demain je PARS.' 'Dans trois jours, TOUT EST RÉGLÉ.' Le locuteur traite l'événement futur comme s'il était déjà accompli. Marque la certitude."
+  },
+  {
+    "id": "b2gr2_14",
+    "q": "Quelle différence entre 'au cas où' et 'dans le cas où' ?",
+    "a": "AU CAS OÙ = plus courant / DANS LE CAS OÙ = plus formel — tous deux + conditionnel",
+    "choices": [
+      "Même sens, au cas où = courant, dans le cas où = formel",
+      "Sens différents",
+      "Au cas où = passé, dans le cas où = futur",
+      "Au cas où = subjonctif, dans le cas où = conditionnel"
+    ],
+    "tag": "Hypothèse",
+    "hint": "AU CAS OÙ il VIENDRAIT... (conditionnel obligatoire)",
+    "expl": "AU CAS OÙ et DANS LE CAS OÙ = en caso de que. TOUJOURS + conditionnel (présent ou passé). Au cas où il VIENDRAIT. Dans le cas où tu AURAIS besoin. Synonymes mais registres différents."
+  },
+  {
+    "id": "b2gr2_15",
+    "q": "Comment fonctionne 'à ceci près que' ?",
+    "a": "À CECI PRÈS QUE = sauf que, avec cette seule différence que",
+    "choices": [
+      "À ceci près que = sauf que, avec cette différence",
+      "À ceci près que = parce que",
+      "À ceci près que = à condition que",
+      "À ceci près que = bien que"
+    ],
+    "tag": "Restriction",
+    "hint": "Tout va bien, À CECI PRÈS QU'il manque un document",
+    "expl": "À CECI PRÈS QUE = salvo que, a excepción de que. Tout va bien, À CECI PRÈS QU'IL manque un document. Introduit une restriction ou une réserve après une affirmation générale."
+  },
+  {
+    "id": "b2gr2_16",
+    "q": "Comment utilise-t-on 'c'est ainsi que' ?",
+    "a": "C'EST AINSI QUE + indicatif = voilà comment, de cette façon",
+    "choices": [
+      "C'est ainsi que = voilà comment, de cette façon",
+      "C'est ainsi que = parce que",
+      "C'est ainsi que = bien que",
+      "C'est ainsi que = à condition que"
+    ],
+    "tag": "Connecteurs",
+    "hint": "C'EST AINSI QU'il a réussi = voilà comment il a réussi",
+    "expl": "C'EST AINSI QUE + indicatif = así es como, de este modo. C'EST AINSI QU'IL A RÉUSSI. Introduit la façon ou la conséquence. Registre soutenu. Synonymes : c'est de cette façon que, voilà comment."
+  },
+  {
+    "id": "b2gr2_17",
+    "q": "Comment fonctionne 'il va de soi que' ?",
+    "a": "IL VA DE SOI QUE + indicatif = il est évident que, cela va sans dire",
+    "choices": [
+      "Il va de soi que + indicatif = il est évident que",
+      "Il va de soi que + subjonctif",
+      "Il va de soi que = à condition que",
+      "Il va de soi que = bien que"
+    ],
+    "tag": "Connecteurs",
+    "hint": "IL VA DE SOI QUE vous serez remboursé",
+    "expl": "IL VA DE SOI QUE + indicatif = huelga decir que, es obvio que, cae de su peso. IL VA DE SOI QUE VOUS SEREZ REMBOURSÉ. Synonymes : il va sans dire que, il est évident que, bien entendu."
+  },
+  {
+    "id": "b2gr2_18",
+    "q": "Comment fonctionne 'tant s'en faut' ?",
+    "a": "IL S'EN FAUT DE BEAUCOUP / TANT S'EN FAUT = loin de là, bien au contraire",
+    "choices": [
+      "Loin de là, bien au contraire",
+      "C'est presque vrai",
+      "Il faut beaucoup",
+      "Au contraire, moins"
+    ],
+    "tag": "Structures",
+    "hint": "Il n'est pas généreux, TANT S'EN FAUT !",
+    "expl": "TANT S'EN FAUT = ni mucho menos, lejos de ello. Il n'est pas honnête, TANT S'EN FAUT = ni mucho menos. IL S'EN FAUT DE BEAUCOUP = falta mucho. Formules d'atténuation ou de dénégation."
+  },
+  {
+    "id": "b2gr2_19",
+    "q": "Comment fonctionne 'force est de constater que' ?",
+    "a": "FORCE EST DE CONSTATER QUE = on est obligé de reconnaître que",
+    "choices": [
+      "On est obligé de reconnaître que",
+      "Il est difficile de constater que",
+      "Force est une intensification",
+      "Il est vrai que"
+    ],
+    "tag": "Connecteurs",
+    "hint": "FORCE EST DE CONSTATER QUE la situation empire",
+    "expl": "FORCE EST DE CONSTATER QUE = hay que reconocer que, es fuerza reconocer que. Locution impersonnelle de concession forcée. Registre soutenu. Synonymes : on ne peut que constater, force est d'admettre."
+  },
+  {
+    "id": "b2gr2_20",
+    "q": "Comment fonctionne 'il n'empêche que' ?",
+    "a": "IL N'EMPÊCHE QUE = malgré tout, néanmoins, quand même",
+    "choices": [
+      "Malgré tout néanmoins quand même",
+      "Parce que",
+      "À condition que",
+      "Bien que"
+    ],
+    "tag": "Concession",
+    "hint": "IL N'EMPÊCHE QU'il avait raison sur ce point",
+    "expl": "IL N'EMPÊCHE QUE = sin embargo, de todas formas, no obstante. IL N'EMPÊCHE QU'IL AVAIT RAISON. Introduit une concession ou une nuance après une affirmation. Synonymes : quand même, malgré tout."
+  },
+  {
+    "id": "b2gr2_21",
+    "q": "Comment fonctionne 'quoi qu'il en soit' ?",
+    "a": "QUOI QU'IL EN SOIT = de toute façon, dans tous les cas",
+    "choices": [
+      "De toute façon, dans tous les cas",
+      "Parce que",
+      "Malgré cela",
+      "En revanche"
+    ],
+    "tag": "Connecteurs",
+    "hint": "QUOI QU'IL EN SOIT, nous devons agir",
+    "expl": "QUOI QU'IL EN SOIT = sea como sea, en cualquier caso. Sert à clore une discussion ou à passer à la conclusion. Synonymes : en tout état de cause, quoi qu'il arrive, de toute façon."
+  },
+  {
+    "id": "b2gr2_22",
+    "q": "Comment utilise-t-on 'il reste que' ?",
+    "a": "IL RESTE QUE = il demeure que, la réalité est que malgré tout",
+    "choices": [
+      "Il demeure que, la réalité est que malgré tout",
+      "Il faut que",
+      "Il semble que",
+      "Il est temps que"
+    ],
+    "tag": "Connecteurs",
+    "hint": "IL RESTE QUE la situation est grave",
+    "expl": "IL RESTE QUE = a pesar de todo, lo que queda es que. Introduit un fait résiduel ou irréductible. IL RESTE QUE nous avons échoué. Synonymes : il n'en reste pas moins que, force est de reconnaître que."
+  },
+  {
+    "id": "b2gr2_23",
+    "q": "Qu'est-ce que 'la langue de bois' grammaticalement ?",
+    "a": "Utilisation de constructions impersonnelles, passives et nominales pour éviter l'engagement",
+    "choices": [
+      "Impersonnel, passif, nominal pour éviter l'engagement",
+      "Style familier",
+      "Style technique",
+      "Style journalistique"
+    ],
+    "tag": "Stylistique",
+    "hint": "'Il a été procédé à...' / 'des mesures ont été prises'",
+    "expl": "LANGUE DE BOIS = construcciones impersonales + voz pasiva + nominalización. 'Il a été procédé à une réorganisation' = on a réorganisé. Ces constructions effacent l'acteur et l'engagement."
+  },
+  {
+    "id": "b2gr2_24",
+    "q": "Qu'est-ce que la 'modalisation' dans un texte ?",
+    "a": "Ensemble des marques qui expriment l'attitude du locuteur par rapport à son énoncé",
+    "choices": [
+      "Marques de l'attitude du locuteur sur son énoncé",
+      "Temps verbaux uniquement",
+      "Ponctuation uniquement",
+      "Vocabulaire uniquement"
+    ],
+    "tag": "Stylistique",
+    "hint": "Peut-être, sans doute, il semble que... = modalisateurs",
+    "expl": "MODALISATION = conjunto de marcas que expresan la actitud del hablante. Lexique (peut-être, sans doute), verbes (sembler, paraître), conditionnel, subjonctif, guillemets d'ironie."
+  },
+  {
+    "id": "b2gr2_25",
+    "q": "Comment distingue-t-on 'soi-disant' de 'prétendument' ?",
+    "a": "SOI-DISANT = qui se prétend être (de lui-même) / PRÉTENDUMENT = selon ce qu'on affirme",
+    "choices": [
+      "Soi-disant = de lui-même, prétendument = selon d'autres",
+      "Même sens",
+      "Soi-disant = négatif, prétendument = neutre",
+      "Soi-disant = adjectif, prétendument = adverbe"
+    ],
+    "tag": "Nuances",
+    "hint": "Un SOI-DISANT expert (il se dit expert) / PRÉTENDUMENT neutre",
+    "expl": "SOI-DISANT = que dice serlo él mismo. Un SOI-DISANT médecin (qui se dit médecin). PRÉTENDUMENT = supuestamente (selon d'autres). Ils sont PRÉTENDUMENT neutres. Nuance de source du claim."
+  }
+]

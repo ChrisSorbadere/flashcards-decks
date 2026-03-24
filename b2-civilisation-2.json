@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b2civ2_01",
+    "q": "Qu'est-ce que le 'Grand Débat National' de 2019 ?",
+    "a": "Consultation publique lancée par Macron après la crise des Gilets jaunes",
+    "choices": [
+      "Consultation publique après les Gilets jaunes",
+      "Référendum national",
+      "Élection locale",
+      "Sondage d'opinion"
+    ],
+    "tag": "Société",
+    "hint": "Macron répond aux Gilets jaunes par un grand débat (2019)",
+    "expl": "GRAND DÉBAT NATIONAL (2019) : consultation publique lancée par Macron en réponse à la crise des Gilets jaunes. 10 000 réunions, 1,9 million de contributions en ligne. Résultats mitigés : pas de changement de cap majeur."
+  },
+  {
+    "id": "b2civ2_02",
+    "q": "Qu'est-ce que l''affaire Dreyfus' et son impact durable ?",
+    "a": "Fausse accusation d'espionnage d'un officier juif (1894), révélée par Zola, fracture durable gauche/droite",
+    "choices": [
+      "Fausse accusation révélée par Zola, fracture gauche/droite durable",
+      "Procès militaire ordinaire",
+      "Scandale financier",
+      "Affaire criminelle"
+    ],
+    "tag": "Histoire",
+    "hint": "'J'accuse' de Zola (1898) — l'Affaire avec un grand A",
+    "expl": "AFFAIRE DREYFUS (1894-1906) : capitaine Dreyfus faussement accusé de trahison. Dreyfusards (Zola, Clemenceau) vs antidreyfusards (militaires, antisémites). Impact durable sur la politique française, naissance de la ligue des droits de l'Homme."
+  },
+  {
+    "id": "b2civ2_03",
+    "q": "Qu'est-ce que le 'Front populaire' (1936) ?",
+    "a": "Coalition de gauche (SFIO, PCF, Radicaux) au pouvoir : congés payés, semaine de 40h",
+    "choices": [
+      "Coalition de gauche avec congés payés et 40h de travail",
+      "Gouvernement d'union nationale",
+      "Front militaire",
+      "Alliance de droite"
+    ],
+    "tag": "Histoire",
+    "hint": "Léon Blum, congés payés, 40h — acquis sociaux majeurs",
+    "expl": "FRONT POPULAIRE (1936) : victoire électorale de la gauche unie. Président du Conseil : Léon BLUM. Acquis sociaux : CONGÉS PAYÉS (2 semaines), SEMAINE DE 40H, CONVENTIONS COLLECTIVES. Fin en 1938."
+  },
+  {
+    "id": "b2civ2_04",
+    "q": "Qu'est-ce que la 'Résistance' et le CNR (Conseil National de la Résistance) ?",
+    "a": "CNR (1943) : unifie les mouvements de résistance et prépare le programme de la Libération",
+    "choices": [
+      "Unifie les mouvements de résistance et prépare la Libération",
+      "Gouvernement en exil",
+      "Organisation militaire pure",
+      "Mouvement politique d'après-guerre"
+    ],
+    "tag": "Histoire",
+    "hint": "CNR (1943) — Jean Moulin — programme de la Libération",
+    "expl": "CNR (Conseil National de la Résistance, 1943) : unifié par Jean MOULIN. Programme du CNR = plan pour la France libérée : Sécurité sociale, nationalisations, droit de vote des femmes. Fondateur de l'État-providence français."
+  },
+  {
+    "id": "b2civ2_05",
+    "q": "Qu'est-ce que la 'guerre d'Algérie' et ses séquelles en France ?",
+    "a": "Guerre 1954-1962 : indépendance algérienne, traumatisme non reconnu longtemps",
+    "choices": [
+      "Guerre 1954-1962 traumatisme longtemps non reconnu",
+      "Guerre coloniale banale",
+      "Conflit régional sans impact",
+      "Guerre oubliée"
+    ],
+    "tag": "Histoire",
+    "hint": "1954-1962 — 'les événements' — reconnaissance tardive",
+    "expl": "GUERRE D'ALGÉRIE (1954-1962) : longtemps appelée 'les événements'. Reconnue officiellement comme 'guerre' en 1999. Traumatisme des harkis, pieds-noirs, rapatriés. Séquelles dans la société française jusqu'à aujourd'hui."
+  },
+  {
+    "id": "b2civ2_06",
+    "q": "Qu'est-ce que le 'traité de l'Élysée' (1963) ?",
+    "a": "Traité d'amitié franco-allemand, socle de la construction européenne",
+    "choices": [
+      "Traité d'amitié franco-allemand, base de l'Europe",
+      "Traité de paix",
+      "Alliance militaire",
+      "Accord commercial"
+    ],
+    "tag": "Géopolitique",
+    "hint": "De Gaulle + Adenauer = réconciliation franco-allemande",
+    "expl": "TRAITÉ DE L'ÉLYSÉE (22 janvier 1963) : réconciliation franco-allemande entre De Gaulle et Adenauer. Coopération étroite entre les deux pays. Moteur de la construction européenne. Renouvelé et renforcé avec Traité d'Aix-la-Chapelle (2019)."
+  },
+  {
+    "id": "b2civ2_07",
+    "q": "Qu'est-ce que les 'accords de Grenelle' (1968) ?",
+    "a": "Accords signés après Mai 68 entre gouvernement, syndicats et patronat augmentant les salaires",
+    "choices": [
+      "Accords gouvernement/syndicats/patronat après Mai 68 augmentant les salaires",
+      "Accords de paix",
+      "Traités européens",
+      "Accords commerciaux"
+    ],
+    "tag": "Histoire",
+    "hint": "SMIC augmenté de 35%, salaires +10% après Mai 68",
+    "expl": "ACCORDS DE GRENELLE (mai 1968) : négociations entre gouvernement Pompidou, CGT et patronat. SMIG augmenté de 35%, salaires +10%, droits syndicaux élargis. Les ouvriers reprennent le travail. De Gaulle reste au pouvoir."
+  },
+  {
+    "id": "b2civ2_08",
+    "q": "Qu'est-ce que la 'loi Evin' (1991) ?",
+    "a": "Loi encadrant la publicité pour l'alcool et interdisant la publicité pour le tabac",
+    "choices": [
+      "Encadre publicité alcool et interdit pub tabac",
+      "Loi sur la santé générale",
+      "Loi sur la vente d'alcool",
+      "Loi sur les drogues"
+    ],
+    "tag": "Société",
+    "hint": "LOI ÉVIN (1991) = lutte contre tabac et alcool en France",
+    "expl": "LOI ÉVIN (1991) : interdit la publicité pour le tabac. Réglemente strictement la publicité pour l'alcool. Renforce les avertissements sanitaires. Modèle pour d'autres pays. Débattue lors de grands événements sportifs."
+  },
+  {
+    "id": "b2civ2_09",
+    "q": "Qu'est-ce que la 'loi Toubon' (1994) ?",
+    "a": "Loi imposant l'usage du français dans les domaines publics (travail, publicité, documents officiels)",
+    "choices": [
+      "Français obligatoire dans domaines publics travail publicité",
+      "Loi sur la culture",
+      "Loi sur l'immigration",
+      "Loi sur l'éducation"
+    ],
+    "tag": "Langue",
+    "hint": "LOI TOUBON = protège le français contre l'anglais",
+    "expl": "LOI TOUBON (1994) : français obligatoire dans la vie professionnelle, les documents officiels, la publicité, les services publics. Vise à protéger le français face à l'anglais. Critiquée pour son application difficile."
+  },
+  {
+    "id": "b2civ2_10",
+    "q": "Qu'est-ce que le 'Plan Vigipirate' ?",
+    "a": "Système d'alerte et de prévention du terrorisme en France, modifié après les attentats",
+    "choices": [
+      "Système d'alerte antiterroriste modifié après attentats",
+      "Plan de sécurité civile général",
+      "Plan de gestion des catastrophes",
+      "Plan militaire"
+    ],
+    "tag": "Sécurité",
+    "hint": "VIGIPIRATE : niveaux d'alerte terroriste en France",
+    "expl": "PLAN VIGIPIRATE (depuis 1978, refondu après 2015) : système de vigilance antiterroriste. Trois niveaux : VIGILANCE, SÉCURITÉ RENFORCÉE, URGENCE ATTENTAT. Visible : soldats dans les gares, contrôles renforcés."
+  },
+  {
+    "id": "b2civ2_11",
+    "q": "Qu'est-ce que la 'diplomatie culturelle' française ?",
+    "a": "Rayonnement de la culture française à l'étranger via Instituts français, Alliance française, TV5Monde",
+    "choices": [
+      "Rayonnement culturel via Instituts français, Alliance française, TV5Monde",
+      "Aide humanitaire",
+      "Exportation commerciale",
+      "Tourisme culturel"
+    ],
+    "tag": "Géopolitique",
+    "hint": "Soft power français = culture, langue, gastronomie",
+    "expl": "DIPLOMATIE CULTURELLE FRANÇAISE : INSTITUTS FRANÇAIS (dans 98 pays). ALLIANCE FRANÇAISE (850 implantations). TV5MONDE, RFI, FRANCE 24. GASTRONOMIE, MODE. La France = 2ème réseau culturel mondial. Vecteur d'influence majeur."
+  },
+  {
+    "id": "b2civ2_12",
+    "q": "Qu'est-ce que la 'Force de frappe' ou dissuasion nucléaire française ?",
+    "a": "Arsenal nucléaire autonome de la France, indépendant de l'OTAN, décidé par De Gaulle",
+    "choices": [
+      "Arsenal nucléaire autonome indépendant de l'OTAN",
+      "Armée conventionnelle",
+      "Alliance nucléaire",
+      "Programme civil seulement"
+    ],
+    "tag": "Géopolitique",
+    "hint": "De Gaulle : la France doit avoir sa propre bombe",
+    "expl": "FORCE DE FRAPPE (décision de Gaulle, 1960) : dissuasion nucléaire autonome. ~290 têtes nucléaires. Indépendante de l'OTAN. Principe : aucun État ne peut attaquer la France sans risquer une riposte nucléaire. Débattue mais maintenue."
+  },
+  {
+    "id": "b2civ2_13",
+    "q": "Qu'est-ce que la 'Francophonie institutionnelle' ?",
+    "a": "Organisation Internationale de la Francophonie (OIF) : 88 États, langue commune, coopération",
+    "choices": [
+      "OIF : 88 États partageant le français en coopération",
+      "Alliance militaire francophone",
+      "Union économique",
+      "Organisation culturelle seulement"
+    ],
+    "tag": "Francophonie",
+    "hint": "OIF : 88 États membres — bien plus que la France",
+    "expl": "OIF (Organisation Internationale de la Francophonie) : 88 États membres, 4 observateurs. Siège à Paris. Secrétaire général (Louise Mushikiwabo). Missions : langue française, démocratie, développement, diversité culturelle."
+  },
+  {
+    "id": "b2civ2_14",
+    "q": "Qu'est-ce que la 'Négritude' et son lien avec la francophonie ?",
+    "a": "Mouvement littéraire et politique de valorisation de la culture africaine noire, né en français",
+    "choices": [
+      "Valorisation culture africaine noire née en français",
+      "Mouvement contre la France",
+      "Courant littéraire brésilien",
+      "Mouvement anticolonial violent"
+    ],
+    "tag": "Littérature/Francophonie",
+    "hint": "SENGHOR, CÉSAIRE, DAMAS — en langue française",
+    "expl": "NÉGRITUDE (années 1930) : Léopold Sédar SENGHOR, Aimé CÉSAIRE, Léon-Gontran DAMAS. Valorisation des valeurs culturelles africaines. Paradoxe : en FRANÇAIS, langue du colonisateur. Fondatrice de la littérature francophone africaine."
+  },
+  {
+    "id": "b2civ2_15",
+    "q": "Qu'est-ce que la 'politique étrangère arabe' de De Gaulle ?",
+    "a": "De Gaulle cherche à développer des relations avec le monde arabe, indépendamment des USA et d'Israël",
+    "choices": [
+      "Relations autonomes avec le monde arabe indépendantes des USA et Israël",
+      "Alliance avec Israël",
+      "Neutralité totale",
+      "Soutien militaire aux pays arabes"
+    ],
+    "tag": "Géopolitique",
+    "hint": "'Peuple sûr de lui-même et dominateur' — discours de 1967",
+    "expl": "POLITIQUE ARABE DE DE GAULLE : après 1967 (guerre des Six Jours), embargo sur armes à Israël, rapprochement avec monde arabe. Autonomie stratégique par rapport aux USA et URSS. Tradition de la 'troisième voie' française."
+  },
+  {
+    "id": "b2civ2_16",
+    "q": "Qu'est-ce que la 'loi de 1901' sur les associations ?",
+    "a": "Loi fondatrice du droit associatif français : liberté de créer une association sans autorisation",
+    "choices": [
+      "Liberté de créer une association sans autorisation préalable",
+      "Loi sur les syndicats",
+      "Loi sur les partis politiques",
+      "Loi sur les entreprises"
+    ],
+    "tag": "Société",
+    "hint": "LOI 1901 = fondement du tissu associatif français",
+    "expl": "LOI DU 1ER JUILLET 1901 : liberté d'association sans autorisation préalable. 1,5 million d'associations en France. Fondement du tissu associatif et du bénévolat. Associations loi 1901 = forme juridique courante."
+  },
+  {
+    "id": "b2civ2_17",
+    "q": "Qu'est-ce que le 'service national universel' (SNU) ?",
+    "a": "Dispositif créé en 2019 remplaçant le service militaire : cohésion nationale pour les 15-17 ans",
+    "choices": [
+      "Dispositif de cohésion nationale pour les 15-17 ans depuis 2019",
+      "Service militaire obligatoire",
+      "Bénévolat obligatoire",
+      "Service civil adulte"
+    ],
+    "tag": "Société",
+    "hint": "SNU : remplacement du service militaire suspendu en 1996",
+    "expl": "SNU (Service National Universel, depuis 2019) : remplace le service militaire (suspendu en 1996). Destiné aux 15-17 ans. Phase 1 : séjour de cohésion. Phase 2 : mission d'intérêt général. Généralisé progressivement."
+  }
+]

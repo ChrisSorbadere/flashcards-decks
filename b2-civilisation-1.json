@@ -1,0 +1,240 @@
+[
+  {
+    "id": "b2civ1_01",
+    "q": "Qu'est-ce que la 'Déclaration des droits de l'Homme et du citoyen' (1789) ?",
+    "a": "Texte fondateur français proclamant les droits naturels et civils, base constitutionnelle",
+    "choices": [
+      "Texte fondateur des droits naturels et civils",
+      "Constitution de 1789",
+      "Loi ordinaire",
+      "Traité international"
+    ],
+    "tag": "Histoire",
+    "hint": "1789 — texte de référence constitutionnelle encore aujourd'hui",
+    "expl": "DDHC (1789) : libertés fondamentales, égalité, souveraineté nationale. Préambule de la Constitution de 1958. Articles clés : 1 (égalité), 4 (liberté), 11 (liberté d'expression), 16 (séparation des pouvoirs)."
+  },
+  {
+    "id": "b2civ1_02",
+    "q": "Qu'est-ce que le 'Préambule de 1946' dans la Constitution française ?",
+    "a": "Texte qui complète la DDHC : droits sociaux, égalité hommes/femmes, droit d'asile",
+    "choices": [
+      "Droits sociaux, égalité H/F, droit d'asile — valeur constitutionnelle",
+      "Simple déclaration",
+      "Loi ordinaire",
+      "Annexe sans valeur juridique"
+    ],
+    "tag": "Institutions",
+    "hint": "Le Préambule de 1946 a valeur constitutionnelle depuis 1971",
+    "expl": "PRÉAMBULE DE 1946 : droits économiques et sociaux (droit au travail, à la santé, à l'éducation), égalité hommes/femmes, droit d'asile. Fait partie du 'bloc de constitutionnalité' depuis CC 1971."
+  },
+  {
+    "id": "b2civ1_03",
+    "q": "Qu'est-ce que la 'Question Prioritaire de Constitutionnalité' (QPC) ?",
+    "a": "Mécanisme permettant à tout citoyen de contester la constitutionnalité d'une loi en vigueur",
+    "choices": [
+      "Citoyen peut contester la constitutionnalité d'une loi en vigueur",
+      "Contrôle avant promulgation seulement",
+      "Procédure parlementaire",
+      "Recours au Parlement"
+    ],
+    "tag": "Institutions",
+    "hint": "Depuis 2010 : tout citoyen peut invoquer la QPC",
+    "expl": "QPC (introduite en 2010) = cuestión de constitucionalidad prioritaria. Tout justiciable peut soulever lors d'un procès que la loi appliquée viole ses droits constitutionnels. Transmise au Conseil constitutionnel."
+  },
+  {
+    "id": "b2civ1_04",
+    "q": "Qu'est-ce que le 'Défenseur des droits' en France ?",
+    "a": "Autorité administrative indépendante qui défend les droits des citoyens face aux administrations",
+    "choices": [
+      "Autorité indépendante défendant les citoyens face aux administrations",
+      "Ombudsman privé",
+      "Juge administratif",
+      "Avocat public"
+    ],
+    "tag": "Institutions",
+    "hint": "Remplace le Médiateur de la République depuis 2011",
+    "expl": "DÉFENSEUR DES DROITS (depuis 2011) : autorité constitutionnelle indépendante. Reçoit les réclamations contre administrations, protège les lanceurs d'alerte, lutte contre les discriminations, défend les droits de l'enfant."
+  },
+  {
+    "id": "b2civ1_05",
+    "q": "Qu'est-ce que le 'Conseil économique, social et environnemental' (CESE) ?",
+    "a": "Assemblée consultative représentant la société civile, troisième chambre",
+    "choices": [
+      "Assemblée consultative représentant la société civile",
+      "Chambre parlementaire",
+      "Conseil des ministres élargi",
+      "Comité d'entreprise national"
+    ],
+    "tag": "Institutions",
+    "hint": "Le CESE = 3ème chambre consultative française",
+    "expl": "CESE (3ème chambre) : représente syndicats, patronat, associations, experts. CONSULTATIF : émet des avis sur les projets de loi économiques et sociaux. Récemment renforcé pour accueillir des conventionnels citoyens."
+  },
+  {
+    "id": "b2civ1_06",
+    "q": "Qu'est-ce que la 'jurisprudence' du Conseil d'État ?",
+    "a": "Ensemble des décisions du Conseil d'État qui font référence et guident les décisions futures",
+    "choices": [
+      "Décisions de référence guidant les décisions futures",
+      "Lois administratives",
+      "Règlements ministériels",
+      "Circulaires"
+    ],
+    "tag": "Droit",
+    "hint": "La jurisprudence COMMUNE DE GRENOBLE, NICOLO... — arrêts clés",
+    "expl": "JURISPRUDENCE DU CE : ensemble de ses décisions qui font référence. Arrêts fondateurs : BLANCO (1873, droit admin), NICOLO (1989, primauté du droit européen), COMMUNE DE GRENOBLE (libertés fondamentales)."
+  },
+  {
+    "id": "b2civ1_07",
+    "q": "Qu'est-ce que la 'décentralisation' en France ?",
+    "a": "Transfert de compétences de l'État vers les collectivités locales (régions, départements, communes)",
+    "choices": [
+      "Transfert de compétences vers les collectivités locales",
+      "Déconcentration de l'État",
+      "Privatisation",
+      "Régionalisation seule"
+    ],
+    "tag": "Institutions",
+    "hint": "Lois Defferre (1982) = grande décentralisation",
+    "expl": "DÉCENTRALISATION (Lois Defferre, 1982) : transfert de compétences à régions, départements, communes. Différent de DÉCONCENTRATION (délégation à des agents de l'État). Acte II (2003) : régions renforcées."
+  },
+  {
+    "id": "b2civ1_08",
+    "q": "Qu'est-ce que le 'principe de précaution' dans la Constitution française ?",
+    "a": "Charte de l'environnement (2005) : face à une menace grave et irréversible, prendre des mesures préventives",
+    "choices": [
+      "Mesures préventives face à menace grave et irréversible",
+      "Interdiction automatique",
+      "Étude d'impact seulement",
+      "Principe économique"
+    ],
+    "tag": "Droit",
+    "hint": "Charte de l'environnement (2005) = valeur constitutionnelle",
+    "expl": "PRINCIPE DE PRÉCAUTION (Charte de l'environnement, art. 5, 2005) : quand risque grave et irréversible, prendre des mesures préventives malgré incertitudes scientifiques. Débattu : frein à l'innovation ou protection nécessaire ?"
+  },
+  {
+    "id": "b2civ1_09",
+    "q": "Qu'est-ce que la 'primauté du droit européen' en France ?",
+    "a": "Le droit européen prime sur le droit national français (sauf la Constitution)",
+    "choices": [
+      "Droit européen prime sur droit national sauf Constitution",
+      "Droit français toujours supérieur",
+      "Égalité entre droits",
+      "Droit européen prime sur tout"
+    ],
+    "tag": "Droit européen",
+    "hint": "Arrêt NICOLO (CE, 1989) : le juge applique le traité contre la loi",
+    "expl": "PRIMAUTÉ DU DROIT EUROPÉEN : règlements et directives UE priment sur les lois françaises (CJCE, Costa/ENEL 1964). Sauf la Constitution (CC). Le CE a accepté cette primauté depuis l'arrêt NICOLO (1989)."
+  },
+  {
+    "id": "b2civ1_10",
+    "q": "Qu'est-ce que la 'Convention citoyenne pour le climat' (2019-2020) ?",
+    "a": "Assemblée de 150 citoyens tirés au sort proposant des mesures pour réduire les émissions de CO2",
+    "choices": [
+      "150 citoyens tirés au sort proposant des mesures climat",
+      "Parlement environnemental",
+      "Commission d'experts",
+      "Référendum"
+    ],
+    "tag": "Démocratie",
+    "hint": "Innovation démocratique : tirage au sort de 150 citoyens",
+    "expl": "CONVENTION CITOYENNE POUR LE CLIMAT (2019-2020) : 150 citoyens tirés au sort. 149 propositions pour réduire de 40% les émissions de GES. Expérience de DÉMOCRATIE DÉLIBÉRATIVE. Reprises partiellement dans la loi Climat et Résilience (2021)."
+  },
+  {
+    "id": "b2civ1_11",
+    "q": "Qu'est-ce que le 'rapport Meadows' (1972) et son impact en France ?",
+    "a": "Rapport sur les limites de la croissance : la croissance infinie est impossible sur une planète finie",
+    "choices": [
+      "La croissance infinie est impossible sur planète finie",
+      "Rapport économique optimiste",
+      "Plan de développement industriel",
+      "Rapport sur la démographie"
+    ],
+    "tag": "Environnement",
+    "hint": "1972 — 'Les limites à la croissance' : rapport fondateur",
+    "expl": "RAPPORT MEADOWS (1972) = Les Limites de la croissance (Club de Rome). La croissance infinie est incompatible avec une planète finie. Fondateur de la pensée de la décroissance et du développement durable."
+  },
+  {
+    "id": "b2civ1_12",
+    "q": "Qui est Nicolas Hulot et quel est son rôle dans l'histoire environnementale française ?",
+    "a": "Journaliste/militant écologiste, ministre de la Transition écologique (2017-2018), démissionne en direct",
+    "choices": [
+      "Militant écologiste et ministre démissionnaire en direct en 2018",
+      "Scientifique du GIEC",
+      "Président d'une ONG",
+      "Politicien professionnel"
+    ],
+    "tag": "Environnement",
+    "hint": "Sa démission en direct sur France Inter = choc politique",
+    "expl": "NICOLAS HULOT : journaliste, fondateur de la Fondation pour la Nature. MINISTRE DE LA TRANSITION ÉCOLOGIQUE (2017-2018) sous Macron. DÉMISSIONNE EN DIRECT sur France Inter (2018) en dénonçant l'inefficacité de l'action gouvernementale."
+  },
+  {
+    "id": "b2civ1_13",
+    "q": "Qu'est-ce que la 'ZAD' (Zone À Défendre) en France ?",
+    "a": "Territoire occupé par des militants pour bloquer un projet jugé néfaste (aéroport, autoroute...)",
+    "choices": [
+      "Territoire occupé pour bloquer un projet néfaste",
+      "Zone protégée par l'État",
+      "Réserve naturelle",
+      "Zone d'aménagement économique"
+    ],
+    "tag": "Société",
+    "hint": "ZAD de Notre-Dame-des-Landes = l'exemple le plus connu",
+    "expl": "ZAD = Zone À Défendre. Terme créé lors du mouvement contre l'aéroport de Notre-Dame-des-Landes (2012-2018). Occupation physique pour bloquer le projet. Tension entre droit de propriété/décisions publiques et résistance civile."
+  },
+  {
+    "id": "b2civ1_14",
+    "q": "Qu'est-ce que le 'féminisme intersectionnel' à la française ?",
+    "a": "Prise en compte du cumul des discriminations (genre + race + classe) dans le féminisme",
+    "choices": [
+      "Cumul des discriminations dans l'analyse féministe",
+      "Féminisme universaliste seul",
+      "Féminisme anti-hommes",
+      "Féminisme institutionnel"
+    ],
+    "tag": "Société",
+    "hint": "Tension entre féminisme universaliste républicain et intersectionnel",
+    "expl": "FÉMINISME INTERSECTIONNEL en France : tension avec le féminisme UNIVERSALISTE républicain (qui ne reconnaît pas les identités communautaires). Débat sur la compatibilité de l'intersectionnalité avec le modèle républicain français."
+  },
+  {
+    "id": "b2civ1_15",
+    "q": "Qu'est-ce que la 'Commission Stasi' et ses conclusions (2003) ?",
+    "a": "Commission sur la laïcité qui recommande l'interdiction des signes religieux ostensibles à l'école",
+    "choices": [
+      "Recommande l'interdiction des signes religieux ostensibles à l'école",
+      "Autorise tous les signes religieux",
+      "Supprime la laïcité",
+      "Crée un statut des religions"
+    ],
+    "tag": "Société",
+    "hint": "Commission Stasi → loi de 2004 sur la laïcité",
+    "expl": "COMMISSION STASI (2003) : rapport sur la laïcité commandé par Chirac. Recommande l'interdiction des signes religieux OSTENSIBLES dans les établissements publics. → LOI DU 15 MARS 2004. Débat toujours vif."
+  },
+  {
+    "id": "b2civ1_16",
+    "q": "Qu'est-ce que la 'politique de la ville' en France ?",
+    "a": "Politique publique ciblant les quartiers défavorisés : rénovation, emploi, cohésion sociale",
+    "choices": [
+      "Politique ciblant les quartiers défavorisés",
+      "Politique d'aménagement général",
+      "Politique culturelle",
+      "Politique du logement seule"
+    ],
+    "tag": "Société",
+    "hint": "ZUS, QPV, ANRU — sigles de la politique de la ville",
+    "expl": "POLITIQUE DE LA VILLE : depuis les années 80. ZONES URBAINES SENSIBLES (ZUS) → QUARTIERS PRIORITAIRES (QPV). ANRU = Agence Nationale pour la Rénovation Urbaine. Budget spécifique, contrats de ville, rénovation et insertion."
+  },
+  {
+    "id": "b2civ1_17",
+    "q": "Qu'est-ce que le 'droit au logement opposable' (DALO) ?",
+    "a": "Droit reconnu en 2007 : l'État doit garantir un logement aux personnes qui n'en ont pas",
+    "choices": [
+      "L'État doit garantir un logement à ceux qui n'en ont pas",
+      "Droit de propriété",
+      "Aide au logement financière",
+      "Quota de logements sociaux"
+    ],
+    "tag": "Société",
+    "hint": "Loi DALO (2007) — droit justiciable au logement",
+    "expl": "LOI DALO (2007) = Droit Au Logement Opposable. Droit JUSTICIABLE : les personnes sans logement peuvent saisir un tribunal pour que l'État les loge. Application difficile : nombreux recours non satisfaits."
+  }
+]

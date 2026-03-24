@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2v3_01",
+    "q": "Qu'est-ce qu'une 'antithèse' ?",
+    "a": "Figure d'opposition entre deux idées contraires dans un parallélisme",
+    "choices": [
+      "Opposition de deux idées contraires en parallèle",
+      "Répétition",
+      "Comparaison",
+      "Exagération"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Les uns font la guerre, les autres la paix' — antithèse",
+    "expl": "ANTITHÈSE = antítesis. Opposition de termes contraires. 'L'amour est enfant de bohème qui n'a jamais connu de loi' (Carmen). Crée un effet de contraste saisissant."
+  },
+  {
+    "id": "b2v3_02",
+    "q": "Qu'est-ce qu'une 'anaphore' ?",
+    "a": "Répétition d'un mot ou groupe en début de phrases successives",
+    "choices": [
+      "Répétition en début de phrases successives",
+      "Répétition en fin de phrase",
+      "Absence de répétition",
+      "Inversion du sujet"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Je veux la paix. Je veux la justice. Je veux la liberté.' = anaphore",
+    "expl": "ANAPHORE = anáfora. Répétition d'un terme en début de propositions. 'Je t'aime, je t'adore, que n'ai-je un peu plus de toi !' Effet d'insistance et de rythme. Très utilisé en politique."
+  },
+  {
+    "id": "b2v3_03",
+    "q": "Qu'est-ce qu'une 'litote' ?",
+    "a": "Atténuer ce qu'on dit pour le renforcer par l'understatement",
+    "choices": [
+      "Atténuer pour renforcer",
+      "Exagérer",
+      "Comparer",
+      "Opposer"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Ce n'est pas mal du tout' = 'c'est très bien'",
+    "expl": "LITOTE = lítote. Dire moins pour exprimer plus. 'Je ne vous hais point' (Chimène) = je vous aime. 'Ce n'est pas sans mérite' = c'est très méritoire. Atténuation qui renforce."
+  },
+  {
+    "id": "b2v3_04",
+    "q": "Qu'est-ce qu'une 'hyperbole' ?",
+    "a": "Exagération délibérée à des fins expressives",
+    "choices": [
+      "Exagération délibérée",
+      "Atténuation",
+      "Comparaison",
+      "Opposition"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Je meurs de faim' = hyperbole",
+    "expl": "HYPERBOLE = hipérbole. Exagération pour souligner. 'Je t'ai dit mille fois de ranger ta chambre.' 'Il est mort de rire.' Effet d'intensification. Fréquent dans la langue courante."
+  },
+  {
+    "id": "b2v3_05",
+    "q": "Qu'est-ce qu'un 'euphémisme' ?",
+    "a": "Terme atténué pour éviter un mot trop direct ou choquant",
+    "choices": [
+      "Terme atténué pour éviter un mot choquant",
+      "Exagération",
+      "Métaphore",
+      "Comparaison directe"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Il est décédé' = euphémisme pour 'il est mort'",
+    "expl": "EUPHÉMISME = eufemismo. Atténuation d'un mot trop dur. 'Il est décédé' = il est mort. 'Sans-papiers' = clandestins. 'Collateral damage' = victimes civiles. Peut masquer une réalité."
+  },
+  {
+    "id": "b2v3_06",
+    "q": "Qu'est-ce qu'une 'syllepse' ?",
+    "a": "Figure où un mot est pris à la fois au sens propre et figuré",
+    "choices": [
+      "Mot pris au sens propre et figuré simultanément",
+      "Répétition",
+      "Opposition",
+      "Comparaison"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Je me suis éteint dans ses bras' — éteindre au propre et au figuré",
+    "expl": "SYLLEPSE = silepsis. Un terme vaut simultanément au sens propre et figuré. 'Il faut cultiver notre jardin' (Voltaire) = jardin réel + vie intérieure. Équivoque productive."
+  },
+  {
+    "id": "b2v3_07",
+    "q": "Qu'est-ce qu'une 'périphrase' ?",
+    "a": "Désigner une chose par plusieurs mots au lieu du mot direct",
+    "choices": [
+      "Désigner par plusieurs mots au lieu du mot direct",
+      "Mot très court",
+      "Répétition",
+      "Inversion"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'L'astre du jour' = le soleil (périphrase)",
+    "expl": "PÉRIPHRASE = perífrasis. 'L'astre du jour' = le soleil. 'La ville lumière' = Paris. 'Le quatrième art' = le cinéma. Permet d'éviter la répétition ou de mettre en valeur."
+  },
+  {
+    "id": "b2v3_08",
+    "q": "Qu'est-ce que la 'syllogisme' ?",
+    "a": "Raisonnement déductif : majeure + mineure → conclusion",
+    "choices": [
+      "Raisonnement déductif en trois temps",
+      "Raisonnement inductif",
+      "Opinion personnelle",
+      "Exemple concret"
+    ],
+    "tag": "Logique",
+    "hint": "Tous les hommes sont mortels / Socrate est un homme / Socrate est mortel",
+    "expl": "SYLLOGISME = silogismo. Majeure (vérité générale) + Mineure (cas particulier) → Conclusion. Tous les hommes sont MORTELS. Socrate est un HOMME. Donc Socrate est MORTEL. Base de la logique aristotélicienne."
+  },
+  {
+    "id": "b2v3_09",
+    "q": "Qu'est-ce qu'un 'oxymore' ?",
+    "a": "Association de deux termes contradictoires en un groupe cohérent",
+    "choices": [
+      "Association de termes contradictoires",
+      "Comparaison simple",
+      "Répétition",
+      "Opposition séparée"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Cette obscure clarté qui tombe des étoiles' (Corneille)",
+    "expl": "OXYMORE = oxímoron. Deux termes qui s'excluent logiquement mis ensemble. 'Une obscure clarté.' 'Un silence éloquent.' 'Une hâte lente.' Crée une tension sémantique productive."
+  },
+  {
+    "id": "b2v3_10",
+    "q": "Qu'est-ce qu'une 'métonymie' ?",
+    "a": "Désigner une chose par une autre qui lui est logiquement associée",
+    "choices": [
+      "Désigner par association logique",
+      "Comparaison avec comme",
+      "Exagération",
+      "Opposition"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Boire un verre' — on boit le contenu, pas le verre",
+    "expl": "MÉTONYMIE = metonimia. Désigner par contiguïté : 'boire UN VERRE' (le contenu), 'lire BALZAC' (son œuvre), 'la COURONNE' (le roi), 'le BERCEAU de la civilisation' (le lieu d'origine)."
+  },
+  {
+    "id": "b2v3_11",
+    "q": "Qu'est-ce qu'une 'synecdoque' ?",
+    "a": "Désigner le tout par la partie, ou la partie par le tout",
+    "choices": [
+      "Partie pour le tout ou tout pour la partie",
+      "Comparaison directe",
+      "Opposition",
+      "Répétition"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Les voiles à l'horizon' = les bateaux",
+    "expl": "SYNECDOQUE = sinécdoque. LES VOILES = les bateaux (partie pour le tout). UNE TÊTE = une personne (partie pour le tout). LA FRANCE = les Français (tout pour la partie). Proche de la métonymie."
+  },
+  {
+    "id": "b2v3_12",
+    "q": "Qu'est-ce que le 'chiasme' ?",
+    "a": "Structure en croix : A B / B A — inversion symétrique",
+    "choices": [
+      "Inversion symétrique A-B/B-A",
+      "Parallélisme identique",
+      "Opposition",
+      "Répétition simple"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Il faut manger pour vivre / non vivre pour manger'",
+    "expl": "CHIASME = quiasmo. Structure ABBA. 'IL FAUT MANGER POUR VIVRE / non VIVRE POUR MANGER' (Molière). 'Ask not what your country can do for you / ask what you can do for your country' (Kennedy)."
+  },
+  {
+    "id": "b2v3_13",
+    "q": "Qu'est-ce que l'ironie' en rhétorique ?",
+    "a": "Dire le contraire de ce qu'on pense pour souligner par contraste",
+    "choices": [
+      "Dire le contraire de sa pensée pour souligner",
+      "Sincérité totale",
+      "Humour direct",
+      "Exagération simple"
+    ],
+    "tag": "Rhétorique",
+    "hint": "'Quel beau temps !' quand il pleut = ironie",
+    "expl": "IRONIE = ironía. Dire le contraire de sa pensée. L'ironie se reconnaît au contexte et à l'intonation. IRONIE SOCRATIQUE = feindre l'ignorance pour mieux enseigner. IRONIE TRAGIQUE = le spectateur sait ce que les personnages ignorent."
+  },
+  {
+    "id": "b2v3_14",
+    "q": "Qu'est-ce qu'un 'euphémisme politique' ?",
+    "a": "Terme officiel qui minimise ou déguise une réalité négative",
+    "choices": [
+      "Terme qui minimise ou déguise une réalité négative",
+      "Terme neutre",
+      "Terme positif honnête",
+      "Terme technique"
+    ],
+    "tag": "Langue politique",
+    "hint": "'Plan social' = licenciements massifs",
+    "expl": "EUPHÉMISME POLITIQUE : 'PLAN SOCIAL' = licenciements collectifs. 'EXTERNALISATION' = sous-traitance / délocalisations. 'RESTRUCTURATION' = suppressions de postes. Manipulation du langage pour atténuer."
+  },
+  {
+    "id": "b2v3_15",
+    "q": "Qu'est-ce que la 'novlangue' selon Orwell ?",
+    "a": "Langage appauvri et manipulé par le pouvoir pour limiter la pensée",
+    "choices": [
+      "Langage appauvri manipulé par le pouvoir",
+      "Langue nouvelle naturelle",
+      "Argot des jeunes",
+      "Langue technique"
+    ],
+    "tag": "Langue politique",
+    "hint": "1984 de Orwell : la NOVLANGUE = outil de contrôle",
+    "expl": "NOVLANGUE (newspeak, Orwell, 1984) = neolengua. Langue officielle qui réduisant le vocabulaire réduit la capacité de penser. 'La guerre c'est la paix.' Très utilisé pour critiquer la langue politique."
+  },
+  {
+    "id": "b2v3_16",
+    "q": "Qu'est-ce que le 'niveau de langue' dans l'analyse textuelle ?",
+    "a": "Registre lexical et syntaxique : soutenu, courant, familier, vulgaire",
+    "choices": [
+      "Registre lexical et syntaxique",
+      "Niveau de difficulté",
+      "Longueur des phrases",
+      "Nombre de figures"
+    ],
+    "tag": "Stylistique",
+    "hint": "Analyse du registre = niveau de langue",
+    "expl": "NIVEAUX DE LANGUE : SOUTENU (archaïsmes, vocabulaire rare). COURANT (standard). FAMILIER (niveau conversationnel relâché). ARGOTIQUE/POPULAIRE. VULGAIRE. Analyse essentielle en stylistique."
+  },
+  {
+    "id": "b2v3_17",
+    "q": "Qu'est-ce que la 'polyphonie' dans un texte ?",
+    "a": "Présence de plusieurs voix ou points de vue dans un même texte",
+    "choices": [
+      "Présence de plusieurs voix dans le texte",
+      "Un seul point de vue",
+      "Dialogue simple",
+      "Contradiction"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "POLYPHONIE = plusieurs voix dans le roman",
+    "expl": "POLYPHONIE (Bakhtine) = polifonía. Présence de plusieurs voix, plusieurs discours dans un texte. Le roman polyphonique = Dostoïevski (Bakhtine). Différent du monologisme (voix unique)."
+  },
+  {
+    "id": "b2v3_18",
+    "q": "Qu'est-ce que l''intertextualité' ?",
+    "a": "Relations qu'un texte entretient avec d'autres textes (citations, allusions, réécriture)",
+    "choices": [
+      "Relations entre textes (citations, allusions, réécriture)",
+      "Analyse d'un seul texte",
+      "Étude du contexte historique",
+      "Biographie de l'auteur"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "Une ALLUSION à Molière dans un roman moderne = intertextualité",
+    "expl": "INTERTEXTUALITÉ (Kristeva) = intertextualidad. Tout texte est un tissu de références à d'autres textes. Citation directe, allusion, pastiche, parodie, réécriture. Concept fondamental en analyse littéraire."
+  },
+  {
+    "id": "b2v3_19",
+    "q": "Qu'est-ce que le 'point de vue narratif' ?",
+    "a": "Perspective adoptée pour raconter : omniscient, interne, externe",
+    "choices": [
+      "Perspective de narration : omniscient/interne/externe",
+      "Style de l'auteur",
+      "Thème du texte",
+      "Structure du récit"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "QUI voit ? QUI parle ? Deux questions différentes",
+    "expl": "FOCALISATION (Genette) : ZÉRO = omniscient (narrateur sait tout). INTERNE = on suit un personnage (sa vision limitée). EXTERNE = observateur extérieur objectif. NARRATION = qui parle ? différent de qui voit ?"
+  },
+  {
+    "id": "b2v3_20",
+    "q": "Qu'est-ce que la 'prolepse' et l''analepse' dans un récit ?",
+    "a": "PROLEPSE = anticipation (flashforward) / ANALEPSE = retour en arrière (flashback)",
+    "choices": [
+      "Prolepse = anticipation, analepse = retour arrière",
+      "Prolepse = retour, analepse = anticipation",
+      "Deux termes pour la même chose",
+      "Rythme narratif seul"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "FLASHBACK = analepse / FLASHFORWARD = prolepse",
+    "expl": "ANALEPSE (Genette) = analepsis = flashback. Retour sur des événements antérieurs. PROLEPSE = anticipation d'événements futurs. Outils d'analyse de la chronologie narrative."
+  },
+  {
+    "id": "b2v3_21",
+    "q": "Qu'est-ce qu'un 'topos' littéraire ?",
+    "a": "Lieu commun, thème récurrent et conventionnel dans la littérature",
+    "choices": [
+      "Lieu commun thème récurrent",
+      "Sujet original",
+      "Figure de style",
+      "Ton du texte"
+    ],
+    "tag": "Littérature",
+    "hint": "Le TOPOS de la vie comme voyage, de la femme fatale...",
+    "expl": "TOPOS (pluriel : TOPOI) = tópico, lugar común literario. Thèmes récurrents : le locus amoenus (lieu agréable), la femme fatale, le carpe diem, la fuite du temps. Héritage antique."
+  },
+  {
+    "id": "b2v3_22",
+    "q": "Que signifie 'acmé' ?",
+    "a": "Point culminant, apogée, moment le plus intense",
+    "choices": [
+      "Point culminant apogée",
+      "Début",
+      "Déclin",
+      "Milieu"
+    ],
+    "tag": "Stylistique",
+    "hint": "L'ACMÉ d'une civilisation, d'une carrière",
+    "expl": "ACMÉ = apogeo, cénit, punto álgido. L'acmé de sa carrière = el punto más alto de su carrera. Terme médical (crise la plus intense) passé au sens général. Synonymes : apogée, zénith, sommet, paroxysme."
+  },
+  {
+    "id": "b2v3_23",
+    "q": "Que signifie 'catalexis' dans la terminologie littéraire ?",
+    "a": "Terme technique de métrique : vers dont la dernière syllabe est absente",
+    "choices": [
+      "Vers à dernière syllabe absente (métrique)",
+      "Figure de style",
+      "Type de rime",
+      "Rythme de prose"
+    ],
+    "tag": "Littérature",
+    "hint": "Terme de versification ancienne",
+    "expl": "CATALEXIS = verso cataléctico (métrique). Vers auquel manque la dernière syllabe attendue. Terme très technique de prosodie antique. Connaissance utile pour l'analyse de poésie classique."
+  },
+  {
+    "id": "b2v3_24",
+    "q": "Que signifie 'paratexte' ?",
+    "a": "Éléments qui entourent le texte principal : titre, préface, notes, illustrations",
+    "choices": [
+      "Éléments entourant le texte : titre, préface, notes",
+      "Texte principal",
+      "Résumé",
+      "Bibliographie seule"
+    ],
+    "tag": "Analyse textuelle",
+    "hint": "Le PARATEXTE de Genette : tout ce qui entoure le texte",
+    "expl": "PARATEXTE (Genette) = paratexto. Titre, sous-titre, préface, postface, dédicace, épigraphe, notes, illustrations, quatrième de couverture. Influence la réception du texte principal."
+  },
+  {
+    "id": "b2v3_25",
+    "q": "Que signifie 'diachronie' vs 'synchronie' ?",
+    "a": "DIACHRONIE = évolution dans le temps / SYNCHRONIE = état à un moment donné",
+    "choices": [
+      "Diachronie = évolution temporelle, synchronie = état fixe",
+      "Même sens",
+      "Diachronie = spatial, synchronie = temporel",
+      "Diachronie = général, synchronie = particulier"
+    ],
+    "tag": "Linguistique",
+    "hint": "Saussure : axe DIACHRONIQUE (temps) vs axe SYNCHRONIQUE (moment)",
+    "expl": "DIACHRONIE (Saussure) = diacronía = étude de la langue dans son évolution historique. SYNCHRONIE = sincronía = étude de la langue à un moment donné. Distinction fondamentale en linguistique."
+  }
+]
