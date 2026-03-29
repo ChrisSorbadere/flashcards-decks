@@ -1,0 +1,282 @@
+{
+  "id": "connecteurs",
+  "title": "Les connecteurs logiques",
+  "icon": "🔗",
+  "sections": [
+    {
+      "title": "Addition",
+      "type": "table",
+      "headers": [
+        "Français",
+        "Español",
+        "Niveau"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "et",
+          "y",
+          "familier"
+        ],
+        [
+          "aussi",
+          "también",
+          "courant"
+        ],
+        [
+          "de plus",
+          "además",
+          "courant"
+        ],
+        [
+          "en outre",
+          "además",
+          "formel"
+        ],
+        [
+          "également",
+          "igualmente",
+          "courant"
+        ],
+        [
+          "par ailleurs",
+          "por otro lado",
+          "formel"
+        ],
+        [
+          "de même",
+          "del mismo modo",
+          "formel"
+        ],
+        [
+          "voire",
+          "incluso / es más",
+          "formel"
+        ]
+      ]
+    },
+    {
+      "title": "Opposition / Concession",
+      "type": "table",
+      "headers": [
+        "Français",
+        "Español",
+        "Niveau"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "mais",
+          "pero",
+          "familier"
+        ],
+        [
+          "cependant",
+          "sin embargo",
+          "courant"
+        ],
+        [
+          "pourtant",
+          "sin embargo / no obstante",
+          "courant"
+        ],
+        [
+          "néanmoins",
+          "no obstante",
+          "formel"
+        ],
+        [
+          "or",
+          "ahora bien / pues bien",
+          "formel"
+        ],
+        [
+          "en revanche",
+          "en cambio",
+          "courant"
+        ],
+        [
+          "toutefois",
+          "sin embargo",
+          "formel"
+        ],
+        [
+          "bien que + subj.",
+          "aunque + subj.",
+          "formel"
+        ],
+        [
+          "même si",
+          "aunque + ind.",
+          "courant"
+        ],
+        [
+          "malgré + nom",
+          "a pesar de + nom",
+          "courant"
+        ]
+      ]
+    },
+    {
+      "title": "Cause",
+      "type": "table",
+      "headers": [
+        "Français",
+        "Español",
+        "Niveau"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "parce que",
+          "porque",
+          "courant"
+        ],
+        [
+          "car",
+          "pues / ya que",
+          "courant"
+        ],
+        [
+          "puisque",
+          "puesto que / ya que",
+          "courant"
+        ],
+        [
+          "étant donné que",
+          "dado que",
+          "formel"
+        ],
+        [
+          "vu que",
+          "visto que",
+          "courant"
+        ],
+        [
+          "grâce à + nom",
+          "gracias a + nom",
+          "courant"
+        ],
+        [
+          "à cause de + nom",
+          "a causa de + nom",
+          "courant"
+        ],
+        [
+          "en raison de + nom",
+          "debido a + nom",
+          "formel"
+        ]
+      ]
+    },
+    {
+      "title": "Conséquence",
+      "type": "table",
+      "headers": [
+        "Français",
+        "Español",
+        "Niveau"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "donc",
+          "por lo tanto / así que",
+          "courant"
+        ],
+        [
+          "alors",
+          "entonces",
+          "courant"
+        ],
+        [
+          "c'est pourquoi",
+          "por eso / es por eso que",
+          "courant"
+        ],
+        [
+          "ainsi",
+          "así pues",
+          "formel"
+        ],
+        [
+          "par conséquent",
+          "en consecuencia",
+          "formel"
+        ],
+        [
+          "de ce fait",
+          "por ello / por eso",
+          "formel"
+        ],
+        [
+          "du coup",
+          "entonces / por eso",
+          "familier"
+        ],
+        [
+          "si bien que",
+          "tanto que / de modo que",
+          "formel"
+        ]
+      ]
+    },
+    {
+      "title": "Structure du discours",
+      "type": "table",
+      "headers": [
+        "Rôle",
+        "Français",
+        "Español"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Début",
+          "tout d'abord / en premier lieu / premièrement",
+          "en primer lugar"
+        ],
+        [
+          "Suite",
+          "ensuite / puis / de plus",
+          "después / luego / además"
+        ],
+        [
+          "Fin",
+          "enfin / pour finir / pour conclure",
+          "finalmente / para concluir"
+        ],
+        [
+          "Résumé",
+          "en résumé / bref / en définitive",
+          "en resumen / en definitiva"
+        ],
+        [
+          "Illustration",
+          "par exemple / notamment / comme",
+          "por ejemplo / como"
+        ],
+        [
+          "But",
+          "pour / afin de + inf.",
+          "para + inf."
+        ],
+        [
+          "Hypothèse",
+          "si + présent → futur",
+          "si + presente → futuro"
+        ]
+      ]
+    }
+  ]
+}

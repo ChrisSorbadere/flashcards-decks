@@ -1,0 +1,150 @@
+{
+  "id": "accord-participe-passe",
+  "title": "Accord du participe passé",
+  "icon": "📏",
+  "sections": [
+    {
+      "title": "Règle 1 — Avec AVOIR",
+      "type": "rule",
+      "text": "Le PP ne s'accorde PAS avec le sujet.\nIl s'accorde avec le COD seulement si le COD est PLACÉ AVANT le verbe."
+    },
+    {
+      "title": "Exemples avec AVOIR",
+      "type": "table",
+      "headers": [
+        "Phrase",
+        "PP",
+        "Explication"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "J'ai mangé une tarte.",
+          "mangé",
+          "COD (tarte) APRÈS → pas d'accord"
+        ],
+        [
+          "La tarte que j'ai mangée.",
+          "mangée",
+          "COD (la tarte, fém.) AVANT → accord"
+        ],
+        [
+          "Je les ai vus.",
+          "vus",
+          "COD (les, masc. plur.) AVANT → accord"
+        ],
+        [
+          "Combien de pommes as-tu mangées ?",
+          "mangées",
+          "COD (pommes, fém. plur.) AVANT → accord"
+        ],
+        [
+          "Je lui ai donné des fleurs.",
+          "donné",
+          "LUI = COI (pas COD) → pas d'accord"
+        ],
+        [
+          "La lettre qu'il m'a envoyée.",
+          "envoyée",
+          "COD (la lettre, fém.) AVANT → accord"
+        ]
+      ]
+    },
+    {
+      "title": "Règle 2 — Avec ÊTRE",
+      "type": "rule",
+      "text": "Le PP s'accorde TOUJOURS avec le sujet en genre et en nombre."
+    },
+    {
+      "title": "Exemples avec ÊTRE",
+      "type": "table",
+      "headers": [
+        "Phrase",
+        "PP",
+        "Accord"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Elle est partie.",
+          "partie",
+          "féminin singulier"
+        ],
+        [
+          "Ils sont arrivés.",
+          "arrivés",
+          "masculin pluriel"
+        ],
+        [
+          "Elles sont venues.",
+          "venues",
+          "féminin pluriel"
+        ],
+        [
+          "Il est né en 1990.",
+          "né",
+          "masculin singulier"
+        ],
+        [
+          "Nous (f.) sommes allées au marché.",
+          "allées",
+          "féminin pluriel"
+        ]
+      ],
+      "note": "Verbes avec ÊTRE : aller, venir, partir, arriver, entrer, sortir, naître, mourir, rester, tomber, passer, retourner, monter, descendre + tous les pronominaux"
+    },
+    {
+      "title": "Règle 3 — Verbes pronominaux",
+      "type": "rule",
+      "text": "Accord avec le sujet SI le pronom réfléchi (se) est COD.\nPas d'accord si le pronom réfléchi est COI."
+    },
+    {
+      "title": "Exemples pronominaux",
+      "type": "table",
+      "headers": [
+        "Phrase",
+        "PP",
+        "Raison"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Elle s'est levée.",
+          "levée",
+          "se = COD (lever soi-même) → accord"
+        ],
+        [
+          "Elle s'est lavé les mains.",
+          "lavé",
+          "se = COI, les mains = COD après → pas d'accord"
+        ],
+        [
+          "Elles se sont parlé.",
+          "parlé",
+          "parler À qqn → se = COI → pas d'accord"
+        ],
+        [
+          "Elles se sont vues.",
+          "vues",
+          "voir qqn → se = COD → accord fém. plur."
+        ],
+        [
+          "Il s'est blessé.",
+          "blessé",
+          "se = COD → accord masc. sing."
+        ],
+        [
+          "Nous nous sommes rencontrés.",
+          "rencontrés",
+          "se = COD → accord masc. plur."
+        ]
+      ]
+    }
+  ]
+}

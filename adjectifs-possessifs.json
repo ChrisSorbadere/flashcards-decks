@@ -1,0 +1,163 @@
+{
+  "id": "adjectifs-possessifs",
+  "title": "Adjectifs possessifs & démonstratifs",
+  "icon": "👤",
+  "sections": [
+    {
+      "title": "Adjectifs possessifs",
+      "type": "rule",
+      "text": "L'adjectif possessif s'accorde avec le NOM POSSÉDÉ (et non avec le possesseur).\nExemple : Paul et Marie ont leurs livres. (leurs = masculin pluriel car 'livres')"
+    },
+    {
+      "title": "Tableau des adjectifs possessifs",
+      "type": "table",
+      "headers": [
+        "Possesseur",
+        "Masc. sing.",
+        "Fém. sing.",
+        "Pluriel (m. & f.)"
+      ],
+      "highlight": [
+        1,
+        2,
+        3
+      ],
+      "rows": [
+        [
+          "je",
+          "mon",
+          "ma (mon*)",
+          "mes"
+        ],
+        [
+          "tu",
+          "ton",
+          "ta (ton*)",
+          "tes"
+        ],
+        [
+          "il / elle",
+          "son",
+          "sa (son*)",
+          "ses"
+        ],
+        [
+          "nous",
+          "notre",
+          "notre",
+          "nos"
+        ],
+        [
+          "vous",
+          "votre",
+          "votre",
+          "vos"
+        ],
+        [
+          "ils / elles",
+          "leur",
+          "leur",
+          "leurs"
+        ]
+      ],
+      "note": "* Devant féminin commençant par voyelle ou h muet : ma → mon, ta → ton, sa → son\nEx. : mon amie ✓ (pas ma amie) · ton école ✓ · son histoire ✓"
+    },
+    {
+      "title": "Adjectifs démonstratifs",
+      "type": "table",
+      "headers": [
+        "Genre / Nombre",
+        "Adjectif",
+        "Devant voyelle / h muet",
+        "Exemple"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Masculin singulier",
+          "ce",
+          "cet",
+          "ce livre / cet homme"
+        ],
+        [
+          "Féminin singulier",
+          "cette",
+          "cette",
+          "cette maison / cette heure"
+        ],
+        [
+          "Pluriel (m. & f.)",
+          "ces",
+          "ces",
+          "ces enfants / ces arbres"
+        ]
+      ],
+      "note": "Pour distinguer : ce livre-ci (celui-ci) / ce livre-là (celui-là)"
+    },
+    {
+      "title": "Adjectifs indéfinis courants",
+      "type": "table",
+      "headers": [
+        "Adjectif",
+        "Espagnol",
+        "Accord",
+        "Exemple"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "chaque",
+          "cada",
+          "invariable",
+          "chaque jour / chaque personne"
+        ],
+        [
+          "tout / toute / tous / toutes",
+          "todo/a/os/as",
+          "4 formes",
+          "tout le monde / tous les jours"
+        ],
+        [
+          "quelque(s)",
+          "algún / alguno(s)",
+          "sing. & plur.",
+          "quelque chose / quelques amis"
+        ],
+        [
+          "certain(e)(s)",
+          "cierto(s)",
+          "4 formes",
+          "certains élèves / certaine idée"
+        ],
+        [
+          "plusieurs",
+          "varios/as",
+          "pluriel seul.",
+          "plusieurs fois / plusieurs idées"
+        ],
+        [
+          "aucun(e)",
+          "ningún/a",
+          "2 formes",
+          "aucun problème / aucune raison"
+        ],
+        [
+          "même(s)",
+          "mismo(s)/a(s)",
+          "sing. & plur.",
+          "le même livre / les mêmes règles"
+        ],
+        [
+          "autre(s)",
+          "otro(s)/a(s)",
+          "sing. & plur.",
+          "un autre jour / d'autres idées"
+        ]
+      ]
+    }
+  ]
+}
