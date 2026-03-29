@@ -1,19 +1,239 @@
-[
-  {"id":"a2civ1_01","q":"Quelles sont les grandes régions géographiques de France ?","a":"Île-de-France, Bretagne, Normandie, Alsace, PACA, Occitanie, Nouvelle-Aquitaine...","choices":["13 régions métropolitaines","22 régions","50 départements","7 zones"],"tag":"Géographie","hint":"Depuis la réforme de 2016 : 13 régions","expl":"Depuis 2016, la France métropolitaine compte 13 RÉGIONS. Ile-de-France (Paris), Bretagne, Normandie, Hauts-de-France, Grand Est, etc."},
-  {"id":"a2civ1_02","q":"Quelle est la région française connue pour ses menhirs et son identité celtique ?","a":"La Bretagne","choices":["La Bretagne","La Normandie","L'Alsace","La Corse"],"tag":"Régions","hint":"À l'extrême ouest, péninsule atlantique","expl":"La BRETAGNE : culture celtique, langue bretonne, menhirs de Carnac, crêpes et galettes, fest-noz, pêche. Capitale régionale : Rennes."},
-  {"id":"a2civ1_03","q":"Quelle région française est célèbre pour sa choucroute et son architecture à colombages ?","a":"L'Alsace","choices":["L'Alsace","La Lorraine","La Champagne","La Bourgogne"],"tag":"Régions","hint":"À l'est, frontière avec l'Allemagne","expl":"L'ALSACE : culture germanique, architecture à colombages, choucroute, vins blancs (Riesling), cathédrale de Strasbourg. Frontière franco-allemande."},
-  {"id":"a2civ1_04","q":"Quelle région française est connue pour la lavande et la mer ?","a":"La Provence-Alpes-Côte d'Azur (PACA)","choices":["PACA","Occitanie","Corse","Nouvelle-Aquitaine"],"tag":"Régions","hint":"Sud-est, Méditerranée","expl":"PACA : Côte d'Azur, Cannes, Nice, Aix-en-Provence, Marseille. Lavande, oliviers, bouillabaisse, Mistral. Soleil et mer Méditerranée."},
-  {"id":"a2civ1_05","q":"Quelle est la capitale de la région Occitanie ?","a":"Toulouse","choices":["Toulouse","Montpellier","Nîmes","Bordeaux"],"tag":"Régions","hint":"La ville rose","expl":"TOULOUSE = capitale de l'Occitanie. Surnommée 'LA VILLE ROSE' (briques roses). Airbus, industrie aéronautique, rugby. Stade du Capitole."},
-  {"id":"a2civ1_06","q":"Quel est le fromage produit dans les caves de Roquefort-sur-Soulzon ?","a":"Le Roquefort","choices":["Le Roquefort","Le Comté","L'Ossau-Iraty","Le Munster"],"tag":"Gastronomie","hint":"Fromage bleu du Massif central","expl":"Le ROQUEFORT = fromage à pâte persillée (bleu), fabriqué dans l'Aveyron. AOP (Appellation d'Origine Protégée). Caves naturelles."},
-  {"id":"a2civ1_07","q":"Qu'est-ce que l'AOC/AOP en France ?","a":"Appellation d'Origine Contrôlée/Protégée — garantit l'origine d'un produit","choices":["Label d'origine géographique","Label de qualité générale","Label de prix","Label écologique"],"tag":"Gastronomie","hint":"Champagne, Bordeaux, Roquefort...","expl":"AOC (France) / AOP (Europe) = APPELLATION D'ORIGINE PROTÉGÉE. Garantit l'origine géographique ET les méthodes de production. Champagne, Bordeaux, camembert de Normandie..."},
-  {"id":"a2civ1_08","q":"Quel est le repas traditionnel français du dimanche ?","a":"Le déjeuner dominical en famille avec plusieurs plats","choices":["Le déjeuner familial dominical","Le petit-déjeuner festif","Le dîner avec amis","Le brunch"],"tag":"Traditions","hint":"Rituel familial important","expl":"Le DÉJEUNER DU DIMANCHE = tradition familiale forte. Plusieurs plats, parfois apéritif. Réunit souvent 3 générations. Peut durer 2-3 heures."},
-  {"id":"a2civ1_09","q":"Qu'est-ce que le 'pourboire' et est-il obligatoire en France ?","a":"Non, le service est inclus dans les prix en France (15%)","choices":["Le service est inclus, le pourboire est facultatif","Le pourboire est obligatoire","Le service n'est pas inclus","15% obligatoire"],"tag":"Traditions","hint":"Différent des pays anglophones","expl":"En France, le SERVICE (15%) est INCLUS dans les prix affichés. Le POURBOIRE est facultatif et laissé à la discrétion du client. Souvent 1-5€."},
-  {"id":"a2civ1_10","q":"Qu'est-ce que la 'bise' en France ?","a":"Le baiser sur les joues — salutation courante entre personnes qui se connaissent","choices":["Baiser sur les joues","Poignée de main","Embrassade","Accolade"],"tag":"Traditions","hint":"De 1 à 4 bises selon les régions","expl":"LA BISE = se saluer en posant les joues (1 à 4 fois selon les régions). Paris = 2 bises. Normalement pas entre hommes (poignée de main). Très différent de l'Espagne."},
-  {"id":"a2civ1_11","q":"Qu'est-ce que le 'tutoiement' vs le 'vouvoiement' ?","a":"TU = familier entre proches / VOUS = formel, marque de respect","choices":["Tu = familier, vous = formel","Tu = jeunes, vous = vieux","Tu = masculin, vous = féminin","Aucune différence"],"tag":"Société","hint":"Distinction sociale et relationnelle","expl":"TUTOIEMENT (TU) : amis, famille, enfants, collègues proches. VOUVOIEMENT (VOUS) : inconnus, supérieurs, âgés, situations formelles. Passer du vous au tu = signe de rapprochement."},
-  {"id":"a2civ1_12","q":"Qu'est-ce que le 'baccalauréat' en France ?","a":"Examen de fin de lycée, nécessaire pour accéder à l'université","choices":["Examen de fin de lycée","Examen d'entrée à l'université","Diplôme universitaire","Concours de grandes écoles"],"tag":"Éducation","hint":"Le 'bac' — fin du lycée","expl":"Le BACCALAURÉAT (BAC) = examen de fin de terminale. Donne accès à l'enseignement supérieur. Taux de réussite ~90%. Créé par Napoléon en 1808."},
-  {"id":"a2civ1_13","q":"Qu'est-ce que les 'grandes écoles' en France ?","a":"Établissements d'élite (HEC, Polytechnique, ENA...) avec concours très sélectifs","choices":["Établissements d'élite avec concours","Les grandes universités","Les lycées réputés","Les écoles publiques"],"tag":"Éducation","hint":"HEC, Polytechnique, Sciences Po...","expl":"GRANDES ÉCOLES = établissements d'enseignement supérieur d'élite. Admission sur concours très sélectif. HEC (commerce), POLYTECHNIQUE (ingénieurs), ENA (hauts fonctionnaires)."},
-  {"id":"a2civ1_14","q":"Qu'est-ce que la 'Sécu' en France ?","a":"La Sécurité sociale — système de protection santé, retraite, chômage","choices":["La Sécurité sociale","La police","La sécurité privée","L'armée"],"tag":"Société","hint":"LA SÉCU = sistema de bienestar social","expl":"LA SÉCURITÉ SOCIALE = cotisations obligatoires qui financent santé, retraites, chômage, famille. Créée en 1945. Un des systèmes les plus protecteurs au monde."},
-  {"id":"a2civ1_15","q":"Qu'est-ce que le 'SMIC' en France ?","a":"Salaire Minimum Interprofessionnel de Croissance — salaire minimum légal","choices":["Salaire minimum légal","Salaire moyen","Salaire des fonctionnaires","Allocation chômage"],"tag":"Économie","hint":"Minimum légal de rémunération","expl":"Le SMIC = salaire minimum légal en France. Environ 1800€ brut/mois (2024). Augmenté chaque année. Protège les travailleurs les moins qualifiés."},
-  {"id":"a2civ1_16","q":"Qu'est-ce que le 'droit à la déconnexion' en France ?","a":"Le droit légal des employés de ne pas répondre aux emails hors du travail","choices":["Droit de ne pas répondre hors du travail","Droit de déconnecter internet","Droit aux congés","Droit aux pauses"],"tag":"Société","hint":"Loi El Khomri 2016","expl":"Le DROIT À LA DÉCONNEXION (loi 2016) = les employés n'ont pas l'obligation de répondre aux emails/messages professionnels en dehors des heures de travail."},
-  {"id":"a2civ1_17","q":"Combien de semaines de congés payés ont les Français ?","a":"5 semaines minimum par an (+ jours fériés)","choices":["5 semaines minimum","2 semaines","4 semaines","6 semaines"],"tag":"Société","hint":"Parmi les plus généreux d'Europe","expl":"5 SEMAINES DE CONGÉS PAYÉS minimum + 11 JOURS FÉRIÉS. La France est parmi les pays avec le plus de congés légaux en Europe. Acquis depuis 1936."}
-]
+{
+  "id": "a2-civilisation-1",
+  "name": "A2 — Civilisation 1 : La France et ses régions",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2cv1-01",
+      "q": "¿Cuántos departamentos tiene Francia en total?",
+      "a": "101 (96 en métropole + 5 en outre-mer)",
+      "choices": [
+        "75 departamentos en total",
+        "86 departamentos en total"
+      ],
+      "tag": "Géographie",
+      "expl": "101 départements : 96 en métropole et 5 DOM (Martinique, Guadeloupe...).",
+      "dictee": "cent un"
+    },
+    {
+      "id": "a2cv1-02",
+      "q": "¿Cómo se llama la región famosa por el Débarquement de 1944?",
+      "a": "La Normandie",
+      "choices": [
+        "La Bretagne",
+        "La Picardie",
+        "Le Nord-Pas-de-Calais"
+      ],
+      "tag": "Régions",
+      "expl": "La Normandie est célèbre pour le Débarquement du 6 juin 1944.",
+      "dictee": "Normandie"
+    },
+    {
+      "id": "a2cv1-03",
+      "q": "¿Cuál es el río más largo de Francia?",
+      "a": "La Loire (1 012 km)",
+      "choices": [
+        "La Seine (776 km)",
+        "Le Rhône (812 km)",
+        "La Garonne (650 km)"
+      ],
+      "tag": "Géographie",
+      "expl": "La Loire (1012 km) est le plus long fleuve de France.",
+      "dictee": "Loire"
+    },
+    {
+      "id": "a2cv1-04",
+      "q": "¿Qué celebra Francia el 14 de julio?",
+      "a": "La Fête nationale (prise de la Bastille en 1789)",
+      "choices": [
+        "La independencia de Francia",
+        "La victoria en la Primera Guerra Mundial",
+        "El cumpleaños de la República"
+      ],
+      "tag": "Fêtes",
+      "expl": "Le 14 juillet commémore la prise de la Bastille en 1789, symbole de la Révolution.",
+      "dictee": "nationale"
+    },
+    {
+      "id": "a2cv1-05",
+      "q": "¿Cuál es el lema de la República Francesa?",
+      "a": "Liberté, Égalité, Fraternité",
+      "choices": [
+        "Honneur et Patrie",
+        "Unité, Dignité, Paix",
+        "Force et Justice"
+      ],
+      "tag": "République",
+      "expl": "Liberté, Égalité, Fraternité est la devise de la République depuis la Révolution.",
+      "dictee": "Fraternité"
+    },
+    {
+      "id": "a2cv1-06",
+      "q": "¿Qué es 'la baguette' para los franceses?",
+      "a": "Pan largo y crujiente, símbolo nacional, patrimonio UNESCO (2022)",
+      "choices": [
+        "Un tipo de pan exclusivamente parisino",
+        "Una receta regional de Alsacia",
+        "Un pastel típico de la repostería francesa"
+      ],
+      "tag": "Culture",
+      "expl": "La baguette est un symbole national inscrit au patrimoine immatériel de l'UNESCO en 2022.",
+      "dictee": "baguette"
+    },
+    {
+      "id": "a2cv1-07",
+      "q": "¿Qué son los 'DOM' franceses?",
+      "a": "Departamentos de Ultramar (Martinique, Guadeloupe, Réunion, Guyane, Mayotte)",
+      "choices": [
+        "Regiones metropolitanas del norte",
+        "Ciudades con estatuto especial",
+        "Antiguos territorios coloniales independizados"
+      ],
+      "tag": "Géographie",
+      "expl": "Les DOM sont des départements français situés hors de l'hexagone.",
+      "dictee": "outre-mer"
+    },
+    {
+      "id": "a2cv1-08",
+      "q": "¿Qué es el 'Tour de France' ?",
+      "a": "Una carrera ciclista de 3 semanas que tiene lugar en julio",
+      "choices": [
+        "Una vuelta turística en autocar por Francia",
+        "Un recorrido gastronómico por las regiones",
+        "Una competición de atletismo nacional"
+      ],
+      "tag": "Sport",
+      "expl": "Le Tour de France est la plus célèbre course cycliste du monde, créée en 1903.",
+      "dictee": "cycliste"
+    },
+    {
+      "id": "a2cv1-09",
+      "q": "¿En qué ciudad se encuentra el museo del Louvre?",
+      "a": "À Paris",
+      "choices": [
+        "À Lyon",
+        "À Bordeaux",
+        "À Versailles"
+      ],
+      "tag": "Culture",
+      "expl": "Le Louvre est à Paris. C'est le plus grand musée du monde en superficie.",
+      "dictee": "Paris"
+    },
+    {
+      "id": "a2cv1-10",
+      "q": "¿Qué significa 'la laïcité' en Francia?",
+      "a": "La separación entre el Estado y las religiones (principio desde 1905)",
+      "choices": [
+        "La libertad de practicar cualquier culto",
+        "La religión oficial del Estado francés",
+        "La tolerancia entre todas las religiones"
+      ],
+      "tag": "Société",
+      "expl": "La laïcité = séparation de l'Église et de l'État, principe fondamental depuis 1905.",
+      "dictee": "laïcité"
+    },
+    {
+      "id": "a2cv1-11",
+      "q": "¿Qué es 'le baccalauréat' (le bac)?",
+      "a": "El examen al final del instituto, que da acceso a la universidad",
+      "choices": [
+        "El título universitario de grado",
+        "El examen de entrada a las grandes écoles",
+        "El diploma de formación profesional básica"
+      ],
+      "tag": "Éducation",
+      "expl": "Le bac est l'examen de fin de lycée. Il donne accès à l'université.",
+      "dictee": "baccalauréat"
+    },
+    {
+      "id": "a2cv1-12",
+      "q": "¿Cómo se llama el jefe del gobierno en Francia?",
+      "a": "Le Premier ministre",
+      "choices": [
+        "Le Président de la République",
+        "Le Chancelier de l'État",
+        "Le Premier consul de France"
+      ],
+      "tag": "Politique",
+      "expl": "France = régime semi-présidentiel : Président + Premier ministre.",
+      "dictee": "ministre"
+    },
+    {
+      "id": "a2cv1-13",
+      "q": "¿Cuántos metros mide la Torre Eiffel con su antena?",
+      "a": "330 mètres",
+      "choices": [
+        "200 mètres",
+        "280 mètres"
+      ],
+      "tag": "Monuments",
+      "expl": "La Tour Eiffel mesure 330m avec antenne. Construite en 1889.",
+      "dictee": "trois cent trente"
+    },
+    {
+      "id": "a2cv1-14",
+      "q": "¿Qué es 'le TGV' ?",
+      "a": "Train à Grande Vitesse — tren de alta velocidad (más de 300 km/h)",
+      "choices": [
+        "Un tipo de metro urbano rápido",
+        "Un servicio de autobús exprés",
+        "Un avión regional de corta distancia"
+      ],
+      "tag": "Transport",
+      "expl": "Le TGV (Train à Grande Vitesse) roule à plus de 300km/h depuis 1981.",
+      "dictee": "vitesse"
+    },
+    {
+      "id": "a2cv1-15",
+      "q": "¿Cuál es el significado de 'Marianne' ?",
+      "a": "El símbolo femenino de la República francesa",
+      "choices": [
+        "Una reina histórica de Francia",
+        "La patrona religiosa de Francia",
+        "La diosa griega de la libertad"
+      ],
+      "tag": "Symboles",
+      "expl": "Marianne est l'allégorie de la République. Elle figure sur les timbres et mairies.",
+      "dictee": "Marianne"
+    },
+    {
+      "id": "a2cv1-16",
+      "q": "¿Dónde se habla l'alsacien ?",
+      "a": "En Alsace, región fronteriza con Alemania",
+      "choices": [
+        "En Bretagne, en el noroeste",
+        "En Occitanie, en el sur",
+        "En Corse, en la isla mediterránea"
+      ],
+      "tag": "Langues",
+      "expl": "L'alsacien est un dialecte germanique parlé en Alsace, à la frontière allemande.",
+      "dictee": "Alsace"
+    },
+    {
+      "id": "a2cv1-17",
+      "q": "¿Qué es 'la Sécu' ?",
+      "a": "La Sécurité sociale — sistema público de salud y prestaciones sociales",
+      "choices": [
+        "La policía nacional francesa",
+        "Los servicios de inteligencia",
+        "Los seguros privados de salud"
+      ],
+      "tag": "Société",
+      "expl": "La Sécu couvre maladie, retraite, chômage, famille. Financée par cotisations.",
+      "dictee": "sociale"
+    },
+    {
+      "id": "a2cv1-18",
+      "q": "¿Qué región francesa es famosa por sus vinos de Burdeos?",
+      "a": "La Gironde / la région Bordeaux",
+      "choices": [
+        "La Bourgogne (Borgoña)",
+        "La Champagne",
+        "L'Alsace"
+      ],
+      "tag": "Régions",
+      "expl": "Bordeaux est dans la Gironde (Nouvelle-Aquitaine). Grands vins : Médoc, Saint-Émilion...",
+      "dictee": "Gironde"
+    }
+  ]
+}

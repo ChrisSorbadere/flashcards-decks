@@ -1,22 +1,257 @@
-[
-  {"id":"a2gr2_01","q":"Comment dit-on 'hace dos horas que espero' en français ?","a":"J'attends depuis deux heures / Ça fait deux heures que j'attends","choices":["J'attends depuis deux heures","J'ai attendu deux heures","Je suis en train d'attendre depuis","Il y a deux heures que j'attends"],"tag":"Depuis/Il y a","hint":"Action qui continue = DEPUIS + présent","expl":"DEPUIS + présent = action commencée dans le passé et qui continue. J'attends DEPUIS deux heures. ÇA FAIT 2h QUE j'attends. IL Y A 2h QUE j'attends."},
-  {"id":"a2gr2_02","q":"Que signifie 'Il y a deux jours' vs 'Depuis deux jours' ?","a":"IL Y A = dans le passé / DEPUIS = toujours en cours","choices":["IL Y A = passé ponctuel, DEPUIS = durée continue","Même sens","IL Y A = futur, DEPUIS = présent","IL Y A = habituel, DEPUIS = exceptionnel"],"tag":"Depuis/Il y a","hint":"IL Y A deux jours = hace dos días (passé)","expl":"IL Y A 2 jours = hace 2 días (le fait est passé). DEPUIS 2 jours = desde hace 2 días (ça continue). DANS 2 jours = en/dentro de 2 días (futur)."},
-  {"id":"a2gr2_03","q":"Quel pronom remplace 'à Paris' dans 'Je vais à Paris' ?","a":"J'y vais","choices":["J'y vais","J'en viens","Je le vais","Je lui vais"],"tag":"Pronoms Y et EN","hint":"Y remplace les compléments de lieu","expl":"Y remplace UN LIEU ou UN COMPLÉMENT avec À. Je vais À PARIS → J'Y vais. Je pense À ce problème → J'Y pense. Tu y vas ?"},
-  {"id":"a2gr2_04","q":"Quel pronom remplace 'du café' dans 'Je bois du café' ?","a":"J'en bois","choices":["J'en bois","J'y bois","Je le bois","Je en bois"],"tag":"Pronoms Y et EN","hint":"EN remplace les compléments avec DE","expl":"EN remplace DE + nom (partitif, quantité, lieu avec DE). Je bois DU café → J'EN bois. Il vient DE Paris → Il EN vient. Tu en veux ?"},
-  {"id":"a2gr2_05","q":"Dans 'J'en ai acheté trois', qu'est-ce que EN remplace ?","a":"Un nom avec un article indéfini ou partitif + quantité","choices":["Un nom avec DE","Un lieu","Un nom défini","Un pronom personnel"],"tag":"Pronoms Y et EN","hint":"EN + nombre = J'en ai acheté trois","expl":"EN + quantité : J'EN ai acheté TROIS (= j'ai acheté trois de ces choses). Il y en a beaucoup. J'en veux un peu. Elle en a trop."},
-  {"id":"a2gr2_06","q":"Où se placent Y et EN par rapport au verbe ?","a":"Avant le verbe conjugué (sauf à l'impératif affirmatif)","choices":["Avant le verbe conjugué","Après le verbe","Entre sujet et verbe","Après le participe"],"tag":"Pronoms Y et EN","hint":"J'y vais / J'en prends / Vas-y ! / Prends-en !","expl":"Y et EN avant le verbe conjugué. Impératif affirmatif : après le verbe avec tiret. VAS-Y ! PRENDS-EN ! À la négative : N'Y VA PAS ! N'EN PRENDS PAS !"},
-  {"id":"a2gr2_07","q":"Comment forme-t-on la voix passive en français ?","a":"ÊTRE (au temps voulu) + participe passé + PAR + agent","choices":["ÊTRE + participe + PAR + agent","AVOIR + participe + DE + agent","SE FAIRE + infinitif","AVOIR + participe passé"],"tag":"Voix passive","hint":"La lettre est écrite par Marie","expl":"Voix ACTIVE : Marie écrit la lettre. Voix PASSIVE : La lettre EST ÉCRITE PAR Marie. ÊTRE (conjugué) + participe accordé + PAR + agent."},
-  {"id":"a2gr2_08","q":"Comment dit-on 'El museo fue construido en 1900' en français ?","a":"Le musée a été construit en 1900","choices":["Le musée a été construit","Le musée était construit","Le musée fut construit","Le musée se construisit"],"tag":"Voix passive","hint":"Passé composé passif = a été + participe","expl":"PC passif : A ÉTÉ + participe passé. Le musée A ÉTÉ CONSTRUIT en 1900. Elle A ÉTÉ CHOISIE pour ce rôle. Ils ONT ÉTÉ INVITÉS."},
-  {"id":"a2gr2_09","q":"Quelle construction peut remplacer la voix passive en français ?","a":"ON + verbe actif","choices":["ON + verbe actif","SE FAIRE + infinitif","IL FAUT + infinitif","C'EST + participe"],"tag":"Voix passive","hint":"ON construit le musée = On parle de construire","expl":"ON remplace souvent le passif en français. ON A CONSTRUIT le musée en 1900. On parle français ici. ON = on/we/they/people (impersonnel)."},
-  {"id":"a2gr2_10","q":"Comment exprime-t-on une action en cours au présent ?","a":"ÊTRE EN TRAIN DE + infinitif","choices":["ÊTRE EN TRAIN DE + inf","ALLER + infinitif","VENIR DE + infinitif","FINIR DE + infinitif"],"tag":"Périphrases verbales","hint":"Je suis en train de manger = estoy comiendo","expl":"ÊTRE EN TRAIN DE + infinitif = estar + gerundio. Je SUIS EN TRAIN DE manger. C'est la forme progressive française."},
-  {"id":"a2gr2_11","q":"Comment exprime-t-on une action très récente ?","a":"VENIR DE + infinitif","choices":["VENIR DE + infinitif","ALLER + infinitif","ÊTRE EN TRAIN DE + infinitif","FINIR DE + infinitif"],"tag":"Périphrases verbales","hint":"Je viens de manger = acabo de comer","expl":"VENIR DE + infinitif = acabar de + infinitivo (passé récent). Je VIENS DE manger. Il VIENT DE partir. Nous VENONS D'arriver."},
-  {"id":"a2gr2_12","q":"Comment dit-on 'acabas de llegar' en français ?","a":"Tu viens d'arriver","choices":["Tu viens d'arriver","Tu as juste arrivé","Tu arrives de suite","Tu es arrivé maintenant"],"tag":"Périphrases verbales","hint":"VENIR DE + infinitif pour le passé récent","expl":"VENIR DE + infinitif = acabar de. Tu VIENS D'ARRIVER. Elle VIENT DE TERMINER son examen. Ils VIENNENT DE PARTIR."},
-  {"id":"a2gr2_13","q":"Comment dit-on une obligation personnelle en français ?","a":"DEVOIR + infinitif / IL FAUT QUE + subjonctif","choices":["DEVOIR + infinitif","IL FAUT + infinitif","ON DOIT + infinitif","ÊTRE OBLIGÉ DE + infinitif"],"tag":"Modalité","hint":"Je dois partir = tengo que irme","expl":"Obligation personnelle : JE DOIS partir. Obligation générale : IL FAUT partir. Obligation forte : JE SUIS OBLIGÉ DE partir."},
-  {"id":"a2gr2_14","q":"Comment exprime-t-on la possibilité en français ?","a":"POUVOIR + infinitif / IL EST POSSIBLE DE + infinitif","choices":["POUVOIR + infinitif","DEVOIR + infinitif","VOULOIR + infinitif","SAVOIR + infinitif"],"tag":"Modalité","hint":"Je peux venir = puedo venir","expl":"Possibilité : POUVOIR + infinitif. Je PEUX venir. IL EST POSSIBLE QUE + subjonctif. Il se PEUT QUE tu aies raison."},
-  {"id":"a2gr2_15","q":"Quelle est la différence entre POUVOIR et SAVOIR + infinitif ?","a":"POUVOIR = capacité physique / SAVOIR = compétence acquise","choices":["POUVOIR = capacité du moment, SAVOIR = compétence","Aucune différence","POUVOIR = permission, SAVOIR = intelligence","POUVOIR = toujours, SAVOIR = parfois"],"tag":"Modalité","hint":"Je peux nager (j'ai le droit) vs je sais nager (je maîtrise)","expl":"SAVOIR + inf = compétence apprise. Je SAIS nager. POUVOIR + inf = capacité/permission/possibilité. Je PEUX nager (j'en suis capable aujourd'hui)."},
-  {"id":"a2gr2_16","q":"Comment dit-on 'aunque' (même si/bien que) en français ?","a":"même si / bien que (+ subjonctif)","choices":["même si","bien que","quoique","encore que"],"tag":"Conjonctions","hint":"Concession : opposition entre deux faits","expl":"MÊME SI + indicatif = incluso si. BIEN QUE + subjonctif = aunque. QUOIQUE + subjonctif = si bien que. Nuances importantes à A2/B1."},
-  {"id":"a2gr2_17","q":"Comment introduit-on une conséquence en français ?","a":"donc / alors / c'est pourquoi / par conséquent","choices":["donc / alors","parce que / car","mais / cependant","si / quand"],"tag":"Conjonctions","hint":"Résultat ou effet d'une cause","expl":"Conséquence : DONC, ALORS, C'EST POURQUOI, PAR CONSÉQUENT = entonces, por eso, por lo tanto. Il pleut, DONC je prends le bus."},
-  {"id":"a2gr2_18","q":"Comment exprime-t-on le but en français ?","a":"POUR + infinitif / AFIN DE + infinitif","choices":["POUR + infinitif","PARCE QUE + indicatif","QUAND + indicatif","SI + conditionnel"],"tag":"Conjonctions","hint":"Il travaille pour gagner de l'argent","expl":"But avec même sujet : POUR / AFIN DE + infinitif. Il travaille POUR gagner de l'argent. But avec sujets différents : POUR QUE + subjonctif."},
-  {"id":"a2gr2_19","q":"Comment exprime-t-on la condition avec SI ?","a":"SI + présent → futur / SI + imparfait → conditionnel","choices":["SI + présent → futur","SI + conditionnel → futur","SI + futur → conditionnel","SI + imparfait → futur"],"tag":"Condition","hint":"Si tu travailles, tu réussiras / Si tu travaillais, tu réussirais","expl":"Condition RÉELLE : SI + présent → FUTUR. Si tu TRAVAILLES, tu RÉUSSIRAS. Condition HYPOTHÉTIQUE : SI + imparfait → conditionnel."},
-  {"id":"a2gr2_20","q":"Comment dit-on 'cuanto más... más' en français ?","a":"Plus... plus / Moins... moins","choices":["Plus... plus","Autant... autant","Tant... tant","Tel... tel"],"tag":"Corrélation","hint":"Relation proportionnelle","expl":"PLUS + verbe/adj + PLUS : Plus je travaille, plus je réussis. / MOINS... MOINS : Moins tu dors, moins tu es en forme."}
-]
+{
+  "id": "a2-grammaire-2",
+  "name": "A2 — Grammaire 2 : Le futur simple",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2g2-01",
+      "q": "Demain, je ___ (travailler) à la maison.",
+      "a": "travaillerai",
+      "choices": [
+        "travaillerais",
+        "travaillerais"
+      ],
+      "tag": "Futur simple",
+      "hint": "Je + infinitif + -ai",
+      "expl": "Futur simple : infinitif + terminaisons. Je travaillerai.",
+      "dictee": "travaillerai"
+    },
+    {
+      "id": "a2g2-02",
+      "q": "Ils ___ (partir) en vacances en août.",
+      "a": "partiront",
+      "choices": [
+        "partiraient",
+        "partiras",
+        "partiriez"
+      ],
+      "tag": "Futur simple",
+      "hint": "Ils + infinitif + -ont",
+      "expl": "Futur simple : partir + -ont = partiront.",
+      "dictee": "partiront"
+    },
+    {
+      "id": "a2g2-03",
+      "q": "Tu ___ (avoir) 30 ans l'année prochaine.",
+      "a": "auras",
+      "choices": [
+        "aurais",
+        "averas",
+        "aurez"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Avoir → radical aur-",
+      "expl": "Avoir → aur-. J'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
+      "dictee": "auras"
+    },
+    {
+      "id": "a2g2-04",
+      "q": "Nous ___ (être) en France dans deux jours.",
+      "a": "serons",
+      "choices": [
+        "serions",
+        "étiez",
+        "étions"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Être → radical ser-",
+      "expl": "Être → ser-. Je serai, tu seras, il sera, nous serons, vous serez, ils seront.",
+      "dictee": "serons"
+    },
+    {
+      "id": "a2g2-05",
+      "q": "Il ___ (faire) beau ce week-end selon la météo.",
+      "a": "fera",
+      "choices": [
+        "ferait",
+        "faira",
+        "faisait"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Faire → radical fer-",
+      "expl": "Faire → fer-. Il fera, nous ferons, vous ferez, ils feront.",
+      "dictee": "fera"
+    },
+    {
+      "id": "a2g2-06",
+      "q": "Vous ___ (aller) au concert vendredi soir ?",
+      "a": "irez",
+      "choices": [
+        "iriez",
+        "allerez",
+        "alliez"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Aller → radical ir-",
+      "expl": "Aller → ir-. J'irai, tu iras, il ira, nous irons, vous irez, ils iront.",
+      "dictee": "irez"
+    },
+    {
+      "id": "a2g2-07",
+      "q": "Elle ___ (venir) me voir demain matin.",
+      "a": "viendra",
+      "choices": [
+        "viendrais",
+        "venira",
+        "viennent"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Venir → radical viendr-",
+      "expl": "Venir → viendr-. Je viendrai, tu viendras, il viendra...",
+      "dictee": "viendra"
+    },
+    {
+      "id": "a2g2-08",
+      "q": "Quand tu ___ (finir), appelle-moi.",
+      "a": "finiras",
+      "choices": [
+        "finissais",
+        "finisses",
+        "finissas"
+      ],
+      "tag": "Futur après quand",
+      "hint": "Après 'quand' → futur en français",
+      "expl": "En français, après 'quand', on utilise le futur (pas le présent).",
+      "dictee": "finiras"
+    },
+    {
+      "id": "a2g2-09",
+      "q": "Je ___ (pouvoir) vous aider demain après-midi.",
+      "a": "pourrai",
+      "choices": [
+        "pourrais",
+        "pourrez",
+        "pouvais"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Pouvoir → radical pourr-",
+      "expl": "Pouvoir → pourr-. Je pourrai, tu pourras, il pourra...",
+      "dictee": "pourrai"
+    },
+    {
+      "id": "a2g2-10",
+      "q": "Ils ___ (vouloir) sûrement participer au projet.",
+      "a": "voudront",
+      "choices": [
+        "voudraient",
+        "veulent",
+        "voudriez"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Vouloir → radical voudr-",
+      "expl": "Vouloir → voudr-. Je voudrai, tu voudras, il voudra...",
+      "dictee": "voudront"
+    },
+    {
+      "id": "a2g2-11",
+      "q": "Nous ___ (devoir) réserver les billets à l'avance.",
+      "a": "devrons",
+      "choices": [
+        "devrions",
+        "devons",
+        "devrez"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Devoir → radical devr-",
+      "expl": "Devoir → devr-. Je devrai, tu devras, il devra, nous devrons...",
+      "dictee": "devrons"
+    },
+    {
+      "id": "a2g2-12",
+      "q": "Tu ___ (savoir) la réponse demain matin.",
+      "a": "sauras",
+      "choices": [
+        "saurais",
+        "saveras",
+        "savais"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Savoir → radical saur-",
+      "expl": "Savoir → saur-. Je saurai, tu sauras, il saura, nous saurons...",
+      "dictee": "sauras"
+    },
+    {
+      "id": "a2g2-13",
+      "q": "Elle ___ (voir) ses amis ce soir au café.",
+      "a": "verra",
+      "choices": [
+        "verrait",
+        "voiera",
+        "voyait"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Voir → radical verr-",
+      "expl": "Voir → verr-. Je verrai, tu verras, il verra, nous verrons...",
+      "dictee": "verra"
+    },
+    {
+      "id": "a2g2-14",
+      "q": "Il ___ (falloir) partir tôt pour éviter les embouteillages.",
+      "a": "faudra",
+      "choices": [
+        "faudrait",
+        "fallera",
+        "fallait"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Falloir → faudr-",
+      "expl": "Falloir → il faudra. Verbe impersonnel, une seule forme.",
+      "dictee": "faudra"
+    },
+    {
+      "id": "a2g2-15",
+      "q": "Quelle est la différence entre futur simple et futur proche ?",
+      "a": "Futur proche = imminent/prévu ; futur simple = plus lointain",
+      "choices": [
+        "Pas de différence de sens",
+        "Futur proche est plus formel",
+        "Futur simple s'emploie toujours avec aller"
+      ],
+      "tag": "Nuances",
+      "expl": "Futur proche (aller + inf.) = proche ou prévu. Futur simple = plus lointain ou catégorique.",
+      "dictee": "proche"
+    },
+    {
+      "id": "a2g2-16",
+      "q": "Nous ___ (s'installer) dans notre nouvelle maison en mars.",
+      "a": "nous installerons",
+      "choices": [
+        "nous installions",
+        "nous installeriez",
+        "nous installerions"
+      ],
+      "tag": "Futur pronominal",
+      "hint": "Verbe pronominal au futur",
+      "expl": "S'installer au futur : nous nous installerons. Le pronom reste devant le verbe.",
+      "dictee": "installerons"
+    },
+    {
+      "id": "a2g2-17",
+      "q": "Quand il ___ (pleuvoir), je prendrai mon parapluie.",
+      "a": "pleuvra",
+      "choices": [
+        "pleuvait",
+        "pleuve",
+        "pleuvrait"
+      ],
+      "tag": "Futur après quand",
+      "hint": "Après 'quand' → futur obligatoire",
+      "expl": "Après 'quand', le futur simple est obligatoire en français.",
+      "dictee": "pleuvra"
+    },
+    {
+      "id": "a2g2-18",
+      "q": "Vous ___ (recevoir) votre commande dans 3 jours ouvrables.",
+      "a": "recevrez",
+      "choices": [
+        "recevriez",
+        "receviez",
+        "recevait"
+      ],
+      "tag": "Futur irrégulier",
+      "hint": "Recevoir → radical recevr-",
+      "expl": "Recevoir → recevr-. Je recevrai, tu recevras, il recevra, vous recevrez...",
+      "dictee": "recevrez"
+    }
+  ]
+}

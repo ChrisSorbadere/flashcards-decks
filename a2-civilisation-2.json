@@ -1,19 +1,240 @@
-[
-  {"id":"a2civ2_01","q":"Qu'est-ce que la 'Francophonie' ?","a":"L'ensemble des pays et populations qui utilisent le français","choices":["L'ensemble des pays francophones","Seulement la France et ses DOM","Les pays africains francophones","Les anciens pays colonisés"],"tag":"Francophonie","hint":"300 millions de locuteurs","expl":"La FRANCOPHONIE = Organisation Internationale de la Francophonie (OIF). 88 États membres. ~300 millions de locuteurs. 5 continents. 2ème langue apprise au monde."},
-  {"id":"a2civ2_02","q":"Dans quels pays africains parle-t-on français ?","a":"Maroc, Sénégal, Côte d'Ivoire, RDC, Cameroun, Madagascar... (30+ pays)","choices":["Plus de 30 pays africains","Seulement quelques pays","Uniquement en Afrique du Nord","Uniquement en Afrique subsaharienne"],"tag":"Francophonie","hint":"L'Afrique est le continent le plus francophone","expl":"L'AFRIQUE compte plus de francophones que l'Europe ! RDC (Congo), Côte d'Ivoire, Sénégal, Cameroun, Madagascar... Le français y est souvent langue officielle."},
-  {"id":"a2civ2_03","q":"Quelle est la différence entre le français de France et le québécois ?","a":"Prononciation, vocabulaire et expressions différents mais compréhensibles","choices":["Prononciation et vocabulaire différents","Deux langues différentes","Aucune différence","Seulement l'accent"],"tag":"Francophonie","hint":"Québec = province canadienne francophone","expl":"QUÉBÉCOIS : accent particulier, mots différents (char = voiture, courriel = email, dépanneur = épicerie). Compréhensible mais distinct. 8 millions de locuteurs."},
-  {"id":"a2civ2_04","q":"Quel artiste français est considéré comme le 'roi de la chanson française' ?","a":"Édith Piaf (ou Charles Trenet, Georges Brassens selon la génération)","choices":["Édith Piaf","Johnny Hallyday","Serge Gainsbourg","Jacques Brel"],"tag":"Culture","hint":"'La Môme', 'La Vie en rose'","expl":"ÉDITH PIAF (1915-1963) = 'La Vie en rose', 'Non je ne regrette rien'. Symbole de la chanson française dans le monde entier. Connue internationalement."},
-  {"id":"a2civ2_05","q":"Qu'est-ce que la 'Nouvelle Vague' au cinéma ?","a":"Mouvement cinématographique français des années 1960 (Truffaut, Godard)","choices":["Mouvement ciné français années 60","Style de films d'horreur","Genre de comédie française","Cinéma américain des années 80"],"tag":"Culture","hint":"Truffaut, Godard, Chabrol...","expl":"LA NOUVELLE VAGUE (fin 50s-60s) : Truffaut ('Les 400 coups'), Godard ('À bout de souffle'). Style novateur, tournage extérieur, improvisation. Influencé le cinéma mondial."},
-  {"id":"a2civ2_06","q":"Qui a écrit 'Le Petit Prince' ?","a":"Antoine de Saint-Exupéry (1943)","choices":["Antoine de Saint-Exupéry","Jules Verne","Victor Hugo","Marcel Pagnol"],"tag":"Littérature","hint":"Livre le plus traduit au monde après la Bible","expl":"LE PETIT PRINCE (1943) par Antoine de SAINT-EXUPÉRY. Plus traduit dans le monde. 'On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.'"},
-  {"id":"a2civ2_07","q":"Qu'est-ce que la 'bande dessinée' (BD) en France et en Belgique ?","a":"9ème art très populaire : Tintin, Astérix, Lucky Luke...","choices":["Art très populaire — Tintin, Astérix","Seulement pour les enfants","Peu connue","Uniquement japonaise"],"tag":"Culture","hint":"9ème art selon Caniff","expl":"LA BD = 9ème ART en France/Belgique. ASTÉRIX (Goscinny/Uderzo), TINTIN (Hergé, belge), LUCKY LUKE. Festival d'Angoulême = festival mondial de la BD."},
-  {"id":"a2civ2_08","q":"Qu'est-ce que le 'Tour de France' gastronomique ?","a":"Voyage à travers les spécialités culinaires de chaque région","choices":["Voyage gastronomique régional","La course cycliste","Un concours culinaire","Un guide Michelin"],"tag":"Gastronomie","hint":"Chaque région = spécialité","expl":"Chaque région française a ses spécialités : BOURGOGNE (bœuf bourguignon), BRETAGNE (crêpes), ALSACE (choucroute), MARSEILLE (bouillabaisse), LYON (quenelles)."},
-  {"id":"a2civ2_09","q":"Qu'est-ce que le 'Guide Michelin' ?","a":"Guide de restaurants avec étoiles (1, 2, 3 étoiles)","choices":["Guide gastronomique avec étoiles","Un guide touristique","Un manuel de conduite","Un classement d'hôtels"],"tag":"Gastronomie","hint":"1, 2 ou 3 étoiles","expl":"LE GUIDE MICHELIN : 1 ÉTOILE = très bonne cuisine. 2 ÉTOILES = excellence, vaut le détour. 3 ÉTOILES = cuisine exceptionnelle, vaut le voyage. Créé en 1900."},
-  {"id":"a2civ2_10","q":"Qu'est-ce que le 'mouvement des Gilets Jaunes' de 2018 ?","a":"Mouvement social contre la hausse du carburant, symbole des inégalités","choices":["Mouvement social 2018","Parti politique","Festival musical","Événement sportif"],"tag":"Société","hint":"Gilet de sécurité jaune = symbole","expl":"LES GILETS JAUNES (2018-2019) : mouvement populaire contre hausse du carburant et inégalités. Gilet jaune = symbole de visibilité. Manifestations de ronds-points. Nouveauté : sans parti ni syndicat."},
-  {"id":"a2civ2_11","q":"Qu'est-ce que la 'laïcité' en France ?","a":"Séparation de l'Église et de l'État — principe fondamental depuis 1905","choices":["Séparation Église-État","Liberté de religion","Athéisme d'État","Neutralité politique"],"tag":"Société","hint":"Loi de séparation de 1905","expl":"La LAÏCITÉ (loi 1905) = séparation de l'Église et de l'État. L'État est neutre vis-à-vis des religions. Les signes religieux ostentatoires interdits à l'école publique."},
-  {"id":"a2civ2_12","q":"Qu'est-ce que 'Sciences Po' en France ?","a":"Institut d'études politiques, grande école formant les élites politiques","choices":["Grande école de sciences politiques","Université publique","École secondaire","Institut de recherche"],"tag":"Éducation","hint":"Former les futurs politiciens et hauts fonctionnaires","expl":"SCIENCES PO = Institut d'Études Politiques (IEP). Forme les élites : politiciens, diplomates, journalistes, hauts fonctionnaires. Très sélectif. Le plus célèbre : Sciences Po Paris."},
-  {"id":"a2civ2_13","q":"Qu'est-ce que le 'Musée d'Orsay' à Paris ?","a":"Musée d'art impressionniste (Monet, Renoir, Van Gogh...)","choices":["Musée d'art impressionniste","Musée d'art moderne","Musée d'art antique","Musée des sciences"],"tag":"Culture","hint":"Dans une ancienne gare","expl":"LE MUSÉE D'ORSAY = installé dans une ancienne gare (1986). Collections impressionnistes et post-impressionnistes. MONET, RENOIR, DEGAS, CÉZANNE, VAN GOGH. 3 millions de visiteurs/an."},
-  {"id":"a2civ2_14","q":"Quel peintre français est associé aux Nymphéas ?","a":"Claude Monet","choices":["Claude Monet","Pierre-Auguste Renoir","Edgar Degas","Paul Cézanne"],"tag":"Arts","hint":"Impressionniste, jardins de Giverny","expl":"CLAUDE MONET (1840-1926) = père de l'impressionnisme. LES NYMPHÉAS = série de peintures de son jardin à Giverny. Musée de l'Orangerie à Paris pour les grandes compositions."},
-  {"id":"a2civ2_15","q":"Qu'est-ce que la 'Fête de la Musique' en France ?","a":"Concert gratuit partout en France le 21 juin — premier jour de l'été","choices":["Concert gratuit le 21 juin","Festival payant d'été","Concours musical national","Cérémonie des victoires de la musique"],"tag":"Fêtes","hint":"Créée en 1982 par Jack Lang","expl":"LA FÊTE DE LA MUSIQUE (21 juin) = concerts GRATUITS dans toute la France. Musiciens professionnels et amateurs. Créée en 1982. Reprise dans 120 pays. Solstice d'été."},
-  {"id":"a2civ2_16","q":"Qu'est-ce que le 'Beaujolais Nouveau' ?","a":"Vin primeur du Beaujolais mis en vente le 3ème jeudi de novembre","choices":["Vin nouveau mis en vente en novembre","Vin de Bordeaux","Champagne","Festival du vin"],"tag":"Traditions","hint":"'Le Beaujolais Nouveau est arrivé !'","expl":"BEAUJOLAIS NOUVEAU = vin de l'année (vendanges de septembre), mis en vente le 3ème JEUDI DE NOVEMBRE. Tradition conviviale. 'LE BEAUJOLAIS NOUVEAU EST ARRIVÉ !'"},
-  {"id":"a2civ2_17","q":"Qu'est-ce que le 'Minitel' et pourquoi est-il important ?","a":"Premier réseau interactif français (1980) — ancêtre d'internet","choices":["Premier réseau interactif français","Ancien téléphone","Première TV","Premier ordinateur"],"tag":"Histoire","hint":"France = pionnière de l'internet avant internet","expl":"Le MINITEL (1980-2012) = terminal télématique français, ancêtre d'internet. La France était pionnière ! Services en ligne, annuaires, achats. Remplacé par internet."}
-]
+{
+  "id": "a2-civilisation-2",
+  "name": "A2 — Civilisation 2 : La vie quotidienne en France",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2cv2-01",
+      "q": "¿A qué hora es típico almorzar en Francia?",
+      "a": "Entre 12h et 14h (generalmente a las 12h30)",
+      "choices": [
+        "Entre 14h et 16h",
+        "Entre 10h et 11h30",
+        "Entre 15h et 17h"
+      ],
+      "tag": "Repas",
+      "expl": "Le déjeuner en France est entre 12h et 14h, moment social important.",
+      "dictee": "midi"
+    },
+    {
+      "id": "a2cv2-02",
+      "q": "¿Qué es 'la bise' en Francia?",
+      "a": "El saludo con besos en las mejillas (entre 1 y 4 según la región)",
+      "choices": [
+        "Un viento frío del norte de Francia",
+        "Un tipo de abrazo formal",
+        "Un gesto de despedida exclusivamente masculino"
+      ],
+      "tag": "Coutumes",
+      "expl": "La bise = beijos no rosto como cumprimento. Le nombre varie selon les régions.",
+      "dictee": "bise"
+    },
+    {
+      "id": "a2cv2-03",
+      "q": "¿Cuándo se usa 'vous' en lugar de 'tu' ?",
+      "a": "Con personas desconocidas, mayores o en contexto formal/profesional",
+      "choices": [
+        "Solo con los superiores jerárquicos directos",
+        "Solo con personas de más de 60 años",
+        "Siempre en el ámbito laboral sin excepción"
+      ],
+      "tag": "Vouvoiement",
+      "expl": "Le vouvoiement exprime le respect ou la distance sociale.",
+      "dictee": "formel"
+    },
+    {
+      "id": "a2cv2-04",
+      "q": "¿Qué se celebra durante 'la Chandeleur' (2 de febrero)?",
+      "a": "La fête des crêpes — se hacen y comen crepes",
+      "choices": [
+        "La Navidad ortodoxa",
+        "El inicio del Carnaval",
+        "La Epifanía con la galette"
+      ],
+      "tag": "Fêtes",
+      "expl": "La Chandeleur = fête des crêpes. On fait sauter les crêpes pour la bonne fortune.",
+      "dictee": "crêpes"
+    },
+    {
+      "id": "a2cv2-05",
+      "q": "¿Qué es 'le goûter' en Francia?",
+      "a": "La merienda de los niños, generalmente a las 16h",
+      "choices": [
+        "El desayuno completo francés",
+        "Una cena ligera antes de las 20h",
+        "El aperitivo antes de cenar"
+      ],
+      "tag": "Repas",
+      "expl": "Le goûter = la merienda, vers 16h. Les enfants mangent pain+beurre+chocolat.",
+      "dictee": "goûter"
+    },
+    {
+      "id": "a2cv2-06",
+      "q": "¿Cuántas semanas de vacaciones pagadas tienen los trabajadores franceses?",
+      "a": "5 semaines (25 jours ouvrables)",
+      "choices": [
+        "3 semaines (15 jours ouvrables)",
+        "4 semaines (20 jours ouvrables)"
+      ],
+      "tag": "Travail",
+      "expl": "En France, les salariés ont 5 semaines de congés payés par an.",
+      "dictee": "cinq semaines"
+    },
+    {
+      "id": "a2cv2-07",
+      "q": "¿Qué es 'un apéro' en la cultura francesa?",
+      "a": "El aperitivo — momento convivial antes de la cena con bebidas y snacks",
+      "choices": [
+        "Una cena informal entre amigos",
+        "Un brunch del fin de semana",
+        "Una merienda tardía de las 18h"
+      ],
+      "tag": "Coutumes",
+      "expl": "L'apéro est un moment convivial. On boit et grignote avant le repas.",
+      "dictee": "apéritif"
+    },
+    {
+      "id": "a2cv2-08",
+      "q": "¿En qué tipo de tienda compran el pan los franceses?",
+      "a": "À la boulangerie",
+      "choices": [
+        "À la supérette du coin",
+        "Au supermarché du quartier",
+        "À l'épicerie de proximité"
+      ],
+      "tag": "Commerce",
+      "expl": "La boulangerie = lieu traditionnel pour acheter la baguette et les viennoiseries.",
+      "dictee": "boulangerie"
+    },
+    {
+      "id": "a2cv2-09",
+      "q": "¿Qué es 'les 35 heures' en Francia?",
+      "a": "La duración legal de la jornada laboral semanal (35 horas desde 2000)",
+      "choices": [
+        "El número de días de vacaciones anuales",
+        "La edad de jubilación anticipada",
+        "Un impuesto sobre las horas trabajadas"
+      ],
+      "tag": "Travail",
+      "expl": "Les 35 heures = durée légale du travail depuis 2000. Au-delà = heures supplémentaires.",
+      "dictee": "trente-cinq"
+    },
+    {
+      "id": "a2cv2-10",
+      "q": "¿Qué compran los franceses el 1 de mayo?",
+      "a": "Du muguet (lirio de los valles) — símbolo de buena suerte",
+      "choices": [
+        "Des roses rouges para los trabajadores",
+        "Du mimosa amarillo de primavera",
+        "Des tulipes de colores variados"
+      ],
+      "tag": "Fêtes",
+      "expl": "Le 1er mai = Fête du Travail + tradition d'offrir du muguet pour la bonne chance.",
+      "dictee": "muguet"
+    },
+    {
+      "id": "a2cv2-11",
+      "q": "¿Qué es 'la carte Vitale' ?",
+      "a": "La tarjeta de la seguridad social francesa (tarjeta sanitaria)",
+      "choices": [
+        "Una tarjeta de crédito bancaria",
+        "Un carnet de vacunación oficial",
+        "Una tarjeta de transporte público"
+      ],
+      "tag": "Santé",
+      "expl": "La carte Vitale est la carte d'Assurance maladie pour le remboursement des soins.",
+      "dictee": "Vitale"
+    },
+    {
+      "id": "a2cv2-12",
+      "q": "¿Qué significa 'faire la grève' ?",
+      "a": "Hacer huelga — parar el trabajo como protesta colectiva",
+      "choices": [
+        "Manifestarse en la calle",
+        "Presentar una petición oficial",
+        "Boicotear un producto comercial"
+      ],
+      "tag": "Société",
+      "expl": "Faire la grève = parar el trabajo como protesta. Droit fondamental en France.",
+      "dictee": "grève"
+    },
+    {
+      "id": "a2cv2-13",
+      "q": "¿Qué es 'le RSA' (Revenu de Solidarité Active)?",
+      "a": "Una ayuda económica del Estado para personas sin recursos suficientes",
+      "choices": [
+        "Una prestación por desempleo",
+        "Una beca estudiantil universitaria",
+        "Un complemento salarial para trabajadores"
+      ],
+      "tag": "Société",
+      "expl": "Le RSA est une allocation versée aux personnes sans ressources suffisantes.",
+      "dictee": "solidarité"
+    },
+    {
+      "id": "a2cv2-14",
+      "q": "¿Cuándo se celebra 'la Fête des Mères' en Francia?",
+      "a": "Le dernier dimanche de mai",
+      "choices": [
+        "Le 8 mars (Journée des femmes)",
+        "Le premier dimanche de juin",
+        "Le 25 mai chaque année"
+      ],
+      "tag": "Fêtes",
+      "expl": "La Fête des Mères = le dernier dimanche de mai (sauf si Pentecôte = 1er juin).",
+      "dictee": "mai"
+    },
+    {
+      "id": "a2cv2-15",
+      "q": "¿Qué es 'un arrondissement' ?",
+      "a": "Una subdivisión administrativa de París, Lyon o Marsella con su propia mairie",
+      "choices": [
+        "Una región administrativa francesa",
+        "Un departamento de segunda categoría",
+        "Un barrio sin valor administrativo oficial"
+      ],
+      "tag": "Géographie",
+      "expl": "Paris a 20 arrondissements, Lyon 9, Marseille 16. Chacun a sa mairie annexe.",
+      "dictee": "arrondissement"
+    },
+    {
+      "id": "a2cv2-16",
+      "q": "¿Qué es 'le baccalauréat professionnel' ?",
+      "a": "Un diploma de formación profesional al final del instituto (3 ans)",
+      "choices": [
+        "El bac general que da acceso a la universidad",
+        "Un máster profesional universitario",
+        "Un certificado de aprendizaje para oficios"
+      ],
+      "tag": "Éducation",
+      "expl": "Le bac pro prépare à un métier. Le bac général prépare aux études supérieures.",
+      "dictee": "professionnel"
+    },
+    {
+      "id": "a2cv2-17",
+      "q": "¿A qué hora cenan habitualmente los franceses?",
+      "a": "Entre 19h et 21h (generalmente alrededor de las 20h)",
+      "choices": [
+        "Entre 17h et 19h",
+        "Entre 21h et 23h",
+        "Entre 22h et 00h"
+      ],
+      "tag": "Repas",
+      "expl": "Le dîner en France = entre 19h et 21h. Plus tôt qu'en Espagne.",
+      "dictee": "vingt heures"
+    },
+    {
+      "id": "a2cv2-18",
+      "q": "¿Qué es 'la Grande École' en el sistema educativo francés?",
+      "a": "Una escuela de educación superior de élite con concurso de entrada (très sélective)",
+      "choices": [
+        "Una escuela primaria de alta calidad",
+        "Una universidad pública de tamaño grande",
+        "Un instituto de bachillerato especializado"
+      ],
+      "tag": "Éducation",
+      "expl": "Les Grandes Écoles (HEC, Polytechnique...) sont très sélectives et prestigieuses.",
+      "dictee": "grande école"
+    }
+  ]
+}

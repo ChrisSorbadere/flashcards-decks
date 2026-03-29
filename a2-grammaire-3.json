@@ -1,22 +1,257 @@
-[
-  {"id":"a2gr3_01","q":"Comment passe-t-on du discours direct au discours indirect au présent ?","a":"Il dit que + indicatif présent","choices":["Il dit que + indicatif","Il dit + infinitif","Il dit de + infinitif","Il dit que + subjonctif"],"tag":"Discours indirect","hint":"'Je suis fatigué' → Il dit qu'il est fatigué","expl":"Discours indirect présent : 'Je suis fatigué' → Il dit QU'IL EST fatigué. Le verbe de la subordonnée reste au présent si le verbe principal est au présent."},
-  {"id":"a2gr3_02","q":"Comment rapporte-t-on un ordre au discours indirect ?","a":"Il dit/demande DE + infinitif","choices":["Il dit de + infinitif","Il dit que + subjonctif","Il dit que + infinitif","Il commande + infinitif"],"tag":"Discours indirect","hint":"'Viens !' → Il dit de venir","expl":"Ordre au discours indirect : 'Viens !' → Il dit DE VENIR. 'Ne pars pas !' → Il dit DE NE PAS PARTIR. DEMANDER DE + infinitif."},
-  {"id":"a2gr3_03","q":"Quel changement de temps au discours indirect avec un verbe principal au passé ?","a":"Présent → imparfait / PC → plus-que-parfait","choices":["Présent → imparfait","Présent → conditionnel","Présent → futur","Aucun changement"],"tag":"Discours indirect","hint":"'Je mange' → Il a dit qu'il mangeait","expl":"Passé → concordance : présent → IMPARFAIT. 'Je mange' → Il a dit QU'IL MANGEAIT. PC → plus-que-parfait. Futur → conditionnel."},
-  {"id":"a2gr3_04","q":"Comment exprimer la simultanéité de deux actions ?","a":"PENDANT QUE / TANDIS QUE + indicatif imparfait","choices":["Pendant que + imparfait","Quand + passé composé","Alors que + conditionnel","Lorsque + futur"],"tag":"Conjonctions temporelles","hint":"Pendant que je dormais, elle travaillait","expl":"PENDANT QUE / TANDIS QUE = mientras. Les deux verbes au même temps (souvent imparfait). PENDANT QUE je dormais, elle travaillait."},
-  {"id":"a2gr3_05","q":"Comment dit-on 'cuando llegues' (subjonctif) en français ?","a":"Quand tu arriveras (futur)","choices":["Quand tu arriveras","Quand tu arrives","Quand tu arrivais","Quand tu sois arrivé"],"tag":"Conjonctions temporelles","hint":"Futur après QUAND en français (pas de subjonctif)","expl":"QUAND + futur (pas de subjonctif en français !) QUAND tu ARRIVERAS, appelle-moi. Dès que tu ARRIVERAS = nada más llegar."},
-  {"id":"a2gr3_06","q":"Comment exprime-t-on l'antériorité dans le passé ?","a":"AVANT DE + infinitif / AVANT QUE + subjonctif","choices":["Avant de + infinitif","Après de + infinitif","Pendant que + indicatif","Quand + imparfait"],"tag":"Conjonctions temporelles","hint":"Avant de partir, il a dit au revoir","expl":"AVANT DE + infinitif (même sujet) : AVANT DE partir. AVANT QUE + subjonctif (sujets différents) : AVANT QU'il parte."},
-  {"id":"a2gr3_07","q":"Quelle est la différence entre QUI et QUE dans les pronoms relatifs ?","a":"QUI = sujet / QUE = COD","choices":["QUI = sujet, QUE = COD","QUI = animé, QUE = inanimé","QUI = masculin, QUE = féminin","Aucune différence"],"tag":"Pronoms relatifs","hint":"L'homme QUI parle (sujet) / L'homme QUE je vois (objet)","expl":"QUI = sujet du verbe subordonné. L'homme QUI PARLE. QUE/QU' = COD. L'homme QUE je VOIS. La femme QU'il aime."},
-  {"id":"a2gr3_08","q":"Comment utilise-t-on LEQUEL comme pronom relatif ?","a":"LEQUEL = après préposition (avec lequel, duquel...)","choices":["Après préposition","À la place de QUI","À la place de QUE","Avec les personnes"],"tag":"Pronoms relatifs","hint":"La table sur laquelle je travaille","expl":"LEQUEL/LAQUELLE/LESQUELS après préposition : La table SUR LAQUELLE je travaille. L'outil AVEC LEQUEL il travaille. La raison POUR LAQUELLE..."},
-  {"id":"a2gr3_09","q":"Comment exprime-t-on la conséquence avec une telle intensité ?","a":"SI + adjectif/adverbe + QUE / TELLEMENT + adjectif + QUE","choices":["Si ... que","Tellement ... que","Tant ... que","Tel ... que"],"tag":"Conséquence","hint":"Il est si fatigué qu'il dort debout","expl":"SI + adj/adv + QUE / TELLEMENT + adj + QUE : Il est SI FATIGUÉ QU'il dort. TANT DE + nom + QUE : Il a TANT DE travail QU'il ne dort pas."},
-  {"id":"a2gr3_10","q":"Comment forme-t-on le gérondif en français ?","a":"EN + participe présent (radical 'nous' + -ant)","choices":["EN + participe présent","ÉTANT + participe passé","EN + infinitif","AYANT + participe passé"],"tag":"Gérondif","hint":"En mangeant, en parlant, en faisant","expl":"GÉRONDIF = EN + participe présent. EN PARLANT. EN MANGEANT. EN FAISANT. Exprime la simultanéité ou le moyen. Il travaille EN ÉCOUTANT de la musique."},
-  {"id":"a2gr3_11","q":"Quel est l'usage principal du gérondif ?","a":"Exprimer la simultanéité ou le moyen","choices":["Simultanéité ou moyen","Opposition","Cause","Conséquence"],"tag":"Gérondif","hint":"En chantant, il est parti = simultanéité","expl":"Gérondif = EN + -ant. Simultanéité : Il écoute EN marchant. Moyen : Il a appris EN pratiquant. Condition : EN travaillant, tu réussiras."},
-  {"id":"a2gr3_12","q":"Comment exprime-t-on une action passée antérieure à une autre ?","a":"Plus-que-parfait = AVAIT/ÉTAIT + participe passé","choices":["Plus-que-parfait","Imparfait","Passé composé","Conditionnel passé"],"tag":"Plus-que-parfait","hint":"Il avait mangé avant que j'arrive","expl":"PLUS-QUE-PARFAIT = imparfait avoir/être + participe passé. Il AVAIT MANGÉ avant mon arrivée. Elle ÉTAIT PARTIE quand je suis arrivé."},
-  {"id":"a2gr3_13","q":"Comment dit-on 'había comido' en français ?","a":"Il avait mangé","choices":["Il avait mangé","Il a mangé","Il mangeait","Il aurait mangé"],"tag":"Plus-que-parfait","hint":"Plus-que-parfait = imparfait avoir + participe","expl":"HABÍA COMIDO = il AVAIT MANGÉ (plus-que-parfait). Formation : AVAIS/AVAIT/AVIONS... + participe passé. Pour les verbes avec ÊTRE : j'ÉTAIS PARTI(E)."},
-  {"id":"a2gr3_14","q":"Quelle préposition utilise-t-on pour exprimer le moyen de transport ?","a":"EN voiture / À pied / PAR le train","choices":["EN voiture, À pied, PAR le train","AVEC voiture, SUR pied","PAR voiture, EN pied","À voiture, EN pied"],"tag":"Prépositions","hint":"EN avion / À vélo / PAR avion (courrier)","expl":"Moyen de transport : EN voiture/bus/train/avion. À pied/vélo/cheval. PAR le train/avion (courrier, communications). PRENDRE LE/LA/L'..."},
-  {"id":"a2gr3_15","q":"Comment exprime-t-on la manière en français ?","a":"AVEC + nom (avec soin) / Adverbe en -ment","choices":["Avec + nom","Par + nom","En + nom","De + nom"],"tag":"Prépositions","hint":"Travailler avec soin = travailler soigneusement","expl":"Manière : AVEC + nom (avec soin, avec patience) = adverbe. Aussi : SANS + nom (sans effort). DE + nom (de façon claire, de manière efficace)."},
-  {"id":"a2gr3_16","q":"Comment introduit-on une explication ou précision ?","a":"C'EST-À-DIRE / EN FAIT / EN EFFET","choices":["C'est-à-dire","En fait","En effet","Autrement dit"],"tag":"Connecteurs","hint":"C'est-à-dire = es decir","expl":"EXPLICATION/PRÉCISION : C'EST-À-DIRE (es decir) / AUTREMENT DIT (dicho de otro modo) / EN D'AUTRES TERMES / À SAVOIR."},
-  {"id":"a2gr3_17","q":"Comment exprimer une concession en français ?","a":"CERTES... MAIS / BIEN QUE + subjonctif / MÊME SI + indicatif","choices":["Certes... mais","Bien que + subjonctif","Même si + indicatif","Quoique + subjonctif"],"tag":"Connecteurs","hint":"Certes il est intelligent, mais il est paresseux","expl":"CERTES... MAIS = si bien... pero. BIEN QUE/QUOIQUE + subjonctif = aunque + subjuntivo. MÊME SI + indicatif = incluso si + indicativo."},
-  {"id":"a2gr3_18","q":"Comment classe-t-on des arguments du moins important au plus important ?","a":"D'abord... ensuite... surtout... enfin... (et surtout)","choices":["D'abord, ensuite, surtout, enfin","D'abord, puis, donc, enfin","Premièrement, deuxièmement, troisièmement","Et, mais, donc, or"],"tag":"Connecteurs","hint":"Gradation ascendante","expl":"Gradation : D'ABORD... ENSUITE... EN OUTRE... SURTOUT... ENFIN (ET SURTOUT). Du moins important → plus important. Très utile pour l'argumentation."},
-  {"id":"a2gr3_19","q":"Comment exprime-t-on une restriction ?","a":"SEULEMENT / NE... QUE / MAIS","choices":["Seulement / Ne... que","Jamais / Ne... jamais","Encore / Toujours","Rien / Ne... rien"],"tag":"Restriction","hint":"Je n'ai mangé qu'une pomme = sólo comí una manzana","expl":"Restriction : NE... QUE = sólo, solo. Je N'AI MANGÉ QU'une pomme. SEULEMENT : J'ai mangé SEULEMENT une pomme. Même sens."},
-  {"id":"a2gr3_20","q":"Comment exprime-t-on la quantité totale négative ?","a":"NE... RIEN (objet) / NE... PERSONNE (sujet/objet) / NE... AUCUN","choices":["Ne... rien / ne... personne / ne... aucun","Ne... jamais / ne... plus / ne... guère","Ne... que / ne... pas / ne... point","Ne... nulle part / ne... ni... ni"],"tag":"Négation","hint":"Rien, personne, aucun = zéro","expl":"RIEN = nada (objet). PERSONNE = nadie (sujet ou objet). AUCUN(E) = ningún/ninguna. Je ne vois RIEN. Personne NE vient. Je n'ai AUCUN problème."}
-]
+{
+  "id": "a2-grammaire-3",
+  "name": "A2 — Grammaire 3 : Adjectifs et comparatifs",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2g3-01",
+      "q": "Une fille ___ (intelligent). Accord correct ?",
+      "a": "intelligente",
+      "choices": [
+        "intelligent",
+        "intelligents"
+      ],
+      "tag": "Accord",
+      "hint": "Féminin singulier → +e",
+      "expl": "L'adjectif s'accorde. Féminin singulier : intelligent → intelligente.",
+      "dictee": "intelligente"
+    },
+    {
+      "id": "a2g3-02",
+      "q": "Des garçons ___ (beau). Forme correcte ?",
+      "a": "beaux",
+      "choices": [
+        "beau",
+        "belle"
+      ],
+      "tag": "Irréguliers",
+      "hint": "Beau → pluriel masculin",
+      "expl": "Beau → bel (devant voyelle), beaux (pluriel masc.). Belle → belles.",
+      "dictee": "beaux"
+    },
+    {
+      "id": "a2g3-03",
+      "q": "Paul est ___ grand ___ Marc. (supériorité)",
+      "a": "plus grand que",
+      "choices": [
+        "aussi grand comme",
+        "plus grand de",
+        "si grand que"
+      ],
+      "tag": "Comparatif",
+      "hint": "Plus... que",
+      "expl": "Comparatif de supériorité : plus + adjectif + que.",
+      "dictee": "plus grand que"
+    },
+    {
+      "id": "a2g3-04",
+      "q": "Ce film est ___ intéressant ___ l'autre. (égalité)",
+      "a": "aussi intéressant que",
+      "choices": [
+        "plus intéressant que",
+        "autant intéressant que",
+        "si intéressant comme"
+      ],
+      "tag": "Comparatif",
+      "hint": "Aussi... que",
+      "expl": "Comparatif d'égalité : aussi + adjectif + que.",
+      "dictee": "aussi intéressant que"
+    },
+    {
+      "id": "a2g3-05",
+      "q": "Cette voiture est ___ rapide ___ la mienne. (infériorité)",
+      "a": "moins rapide que",
+      "choices": [
+        "plus rapide que",
+        "aussi rapide que",
+        "si rapide que"
+      ],
+      "tag": "Comparatif",
+      "hint": "Moins... que",
+      "expl": "Comparatif d'infériorité : moins + adjectif + que.",
+      "dictee": "moins rapide que"
+    },
+    {
+      "id": "a2g3-06",
+      "q": "C'est le ___ bon restaurant de la ville. (superlatif)",
+      "a": "meilleur",
+      "choices": [
+        "plus bon",
+        "mieux",
+        "bien meilleur"
+      ],
+      "tag": "Superlatif",
+      "hint": "Bon → superlatif irrégulier",
+      "expl": "Bon → comparatif : meilleur. Superlatif : le meilleur. Jamais 'le plus bon' !",
+      "dictee": "meilleur"
+    },
+    {
+      "id": "a2g3-07",
+      "q": "Elle chante ___ que moi. (bien → comparatif)",
+      "a": "mieux",
+      "choices": [
+        "plus bien",
+        "meilleure",
+        "bien plus"
+      ],
+      "tag": "Adverbe",
+      "hint": "Bien → comparatif d'adverbe",
+      "expl": "Bien → comparatif : mieux. Jamais 'plus bien' !",
+      "dictee": "mieux"
+    },
+    {
+      "id": "a2g3-08",
+      "q": "Un ___ homme (vieux). Quelle forme devant voyelle ?",
+      "a": "vieil",
+      "choices": [
+        "vieux",
+        "vieille",
+        "vieils"
+      ],
+      "tag": "Irréguliers",
+      "hint": "Vieux → forme spéciale devant voyelle",
+      "expl": "Vieux → vieil devant voyelle. Un vieil homme, un bel enfant, un nouvel ami.",
+      "dictee": "vieil"
+    },
+    {
+      "id": "a2g3-09",
+      "q": "Cette robe est ___ belle ___ l'autre. (supériorité)",
+      "a": "plus belle que",
+      "choices": [
+        "plus beau que",
+        "aussi belle comme",
+        "plus belle de"
+      ],
+      "tag": "Comparatif",
+      "hint": "Accord féminin + plus... que",
+      "expl": "Plus belle que (féminin de beau). L'adjectif s'accorde dans le comparatif.",
+      "dictee": "plus belle que"
+    },
+    {
+      "id": "a2g3-10",
+      "q": "Il travaille ___ que sa sœur. (davantage)",
+      "a": "plus",
+      "choices": [
+        "mieux",
+        "autant",
+        "beaucoup"
+      ],
+      "tag": "Comparatif verbe",
+      "hint": "Plus = davantage",
+      "expl": "Travailler plus = travailler davantage. Plus est le comparatif de supériorité.",
+      "dictee": "plus"
+    },
+    {
+      "id": "a2g3-11",
+      "q": "C'est la ___ belle ville que j'aie vue. (superlatif)",
+      "a": "plus",
+      "choices": [
+        "mieux",
+        "moins",
+        "bien"
+      ],
+      "tag": "Superlatif",
+      "hint": "Le/la + plus + adjectif",
+      "expl": "Superlatif : le/la/les plus + adjectif. La plus belle = la más hermosa.",
+      "dictee": "plus"
+    },
+    {
+      "id": "a2g3-12",
+      "q": "Ces fleurs sont ___. (adjectif 'frais' au féminin pluriel)",
+      "a": "fraîches",
+      "choices": [
+        "frais",
+        "fraîche",
+        "fraiche"
+      ],
+      "tag": "Accord",
+      "hint": "Frais → féminin → fraîche",
+      "expl": "Frais → fraîche (fém. sing.) → fraîches (fém. plur.).",
+      "dictee": "fraîches"
+    },
+    {
+      "id": "a2g3-13",
+      "q": "C'est un ___ appartement. ('nouveau' devant voyelle)",
+      "a": "nouvel",
+      "choices": [
+        "nouveau",
+        "nouvelle",
+        "nouveaux"
+      ],
+      "tag": "Irréguliers",
+      "hint": "Nouveau → forme spéciale devant voyelle",
+      "expl": "Nouveau → nouvel devant voyelle masculine. Un nouvel appartement.",
+      "dictee": "nouvel"
+    },
+    {
+      "id": "a2g3-14",
+      "q": "Elles sont ___ contentes. (adverbe d'intensité)",
+      "a": "très",
+      "choices": [
+        "beaucoup",
+        "trop",
+        "fort"
+      ],
+      "tag": "Adverbes",
+      "hint": "Adverbe + adjectif = très",
+      "expl": "Très modifie un adjectif. Beaucoup modifie un verbe.",
+      "dictee": "très"
+    },
+    {
+      "id": "a2g3-15",
+      "q": "Il mange ___. (adverbe d'intensité + verbe)",
+      "a": "beaucoup",
+      "choices": [
+        "très",
+        "bien plus",
+        "tellement"
+      ],
+      "tag": "Adverbes",
+      "hint": "Adverbe + verbe = beaucoup",
+      "expl": "Beaucoup modifie un verbe. Très modifie un adjectif ou adverbe.",
+      "dictee": "beaucoup"
+    },
+    {
+      "id": "a2g3-16",
+      "q": "Cette solution est ___ que l'autre. (mauvais → comparatif irrégulier)",
+      "a": "pire",
+      "choices": [
+        "plus mauvaise",
+        "plus mal",
+        "moins bonne"
+      ],
+      "tag": "Irréguliers",
+      "hint": "Mauvais → comparatif irrégulier",
+      "expl": "Mauvais → pire (comparatif irrégulier). Pire = peor.",
+      "dictee": "pire"
+    },
+    {
+      "id": "a2g3-17",
+      "q": "La plupart des adjectifs français se placent ___ le nom.",
+      "a": "après",
+      "choices": [
+        "avant",
+        "devant",
+        "entre l'article et"
+      ],
+      "tag": "Règle",
+      "hint": "Règle générale",
+      "expl": "En français, la plupart des adjectifs se placent APRÈS le nom. Une voiture rouge.",
+      "dictee": "après"
+    },
+    {
+      "id": "a2g3-18",
+      "q": "Lesquels se placent AVANT le nom ? (règle BAGS)",
+      "a": "Beauté, Âge, Grandeur, Sens moral (beau, jeune, grand, bon)",
+      "choices": [
+        "Les couleurs et nationalités",
+        "Les adjectifs longs uniquement",
+        "Les adjectifs en -ible et -able"
+      ],
+      "tag": "Règle",
+      "hint": "BAGS = Beauty Age Goodness Size",
+      "expl": "BAGS : un beau jardin, un jeune homme, un grand arbre, un bon repas.",
+      "dictee": "BAGS"
+    }
+  ]
+}
