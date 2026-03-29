@@ -1,6 +1,6 @@
 {
   "title": "Flashcards Pro — Catalogue",
-  "updated": "2026-03-23",
+  "updated": "2026-03-30",
   "levels": [
     {
       "id": "A1",
@@ -193,139 +193,166 @@
       "description": "Élémentaire",
       "decks": [
         {
-          "id": "a2-conjugaison-1",
-          "name": "A2 — Conjugaison & verbes (1/3)",
-          "description": "Imparfait : formation et usage",
-          "cardCount": 20,
-          "level": "A2",
-          "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-1.json"
-        },
-        {
-          "id": "a2-conjugaison-2",
-          "name": "A2 — Conjugaison & verbes (2/3)",
-          "description": "Futur simple et futur proche",
-          "cardCount": 20,
-          "level": "A2",
-          "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-2.json"
-        },
-        {
-          "id": "a2-conjugaison-3",
-          "name": "A2 — Conjugaison & verbes (3/3)",
-          "description": "Conditionnel présent",
-          "cardCount": 20,
-          "level": "A2",
-          "order": 3,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-3.json"
-        },
-        {
           "id": "a2-vocabulaire-1",
-          "name": "A2 — Vocabulaire thématique (1/3)",
-          "description": "Corps, santé, médecin",
-          "cardCount": 20,
+          "name": "A2 — Vocabulaire 1 : Vie quotidienne & maison",
+          "description": "Maison, logement, tâches ménagères",
+          "cardCount": 18,
           "level": "A2",
           "order": 1,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-1.json"
         },
         {
           "id": "a2-vocabulaire-2",
-          "name": "A2 — Vocabulaire thématique (2/3)",
-          "description": "Transports, voyages, hôtel",
-          "cardCount": 20,
+          "name": "A2 — Vocabulaire 2 : Travail & études",
+          "description": "Emploi, bureau, formation, école",
+          "cardCount": 18,
           "level": "A2",
           "order": 2,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-2.json"
         },
         {
           "id": "a2-vocabulaire-3",
-          "name": "A2 — Vocabulaire thématique (3/3)",
-          "description": "Travail, études, projets",
-          "cardCount": 20,
+          "name": "A2 — Vocabulaire 3 : Voyages & transports",
+          "description": "Transports, hébergement, documents",
+          "cardCount": 18,
           "level": "A2",
           "order": 3,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-3.json"
         },
         {
-          "id": "a2-grammaire-1",
-          "name": "A2 — Grammaire (1/3)",
-          "description": "Pronoms COD et COI",
-          "cardCount": 20,
+          "id": "a2-vocabulaire-4",
+          "name": "A2 — Vocabulaire 4 : Santé & corps",
+          "description": "Médecin, médicaments, symptômes",
+          "cardCount": 18,
           "level": "A2",
-          "order": 1,
+          "order": 4,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-4.json"
+        },
+        {
+          "id": "a2-vocabulaire-5",
+          "name": "A2 — Vocabulaire 5 : Alimentation & restaurants",
+          "description": "Nourriture, cuisine, restaurant",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 5,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-5.json"
+        },
+        {
+          "id": "a2-vocabulaire-6",
+          "name": "A2 — Vocabulaire 6 : Loisirs & culture",
+          "description": "Sport, spectacles, bibliothèque, jeux",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 6,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-vocabulaire-6.json"
+        },
+        {
+          "id": "a2-conjugaison-1",
+          "name": "A2 — Conjugaison 1 : Passé composé avec avoir",
+          "description": "PC avec avoir, participes irréguliers",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 7,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-1.json"
+        },
+        {
+          "id": "a2-conjugaison-2",
+          "name": "A2 — Conjugaison 2 : Passé composé avec être",
+          "description": "PC avec être, verbes pronominaux",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 8,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-2.json"
+        },
+        {
+          "id": "a2-conjugaison-3",
+          "name": "A2 — Conjugaison 3 : L'imparfait",
+          "description": "Formation et emplois de l'imparfait",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 9,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-conjugaison-3.json"
+        },
+        {
+          "id": "a2-grammaire-1",
+          "name": "A2 — Grammaire 1 : Pronoms COD et COI",
+          "description": "Le, la, les, lui, leur, y, en",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 10,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-1.json"
         },
         {
           "id": "a2-grammaire-2",
-          "name": "A2 — Grammaire (2/3)",
-          "description": "Comparatifs et superlatifs",
-          "cardCount": 20,
+          "name": "A2 — Grammaire 2 : Le futur simple",
+          "description": "Futur simple régulier et irrégulier",
+          "cardCount": 18,
           "level": "A2",
-          "order": 2,
+          "order": 11,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-2.json"
         },
         {
           "id": "a2-grammaire-3",
-          "name": "A2 — Grammaire (3/3)",
-          "description": "Pronoms relatifs qui/que",
-          "cardCount": 20,
+          "name": "A2 — Grammaire 3 : Adjectifs et comparatifs",
+          "description": "Accord, comparatif, superlatif",
+          "cardCount": 18,
           "level": "A2",
-          "order": 3,
+          "order": 12,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-grammaire-3.json"
         },
         {
           "id": "a2-phonetique-1",
-          "name": "A2 — Phonétique (1/2)",
-          "description": "Enchaînements et élision",
-          "cardCount": 17,
+          "name": "A2 — Phonétique 1 : Les sons du français",
+          "description": "Voyelles, nasales, liaisons, élision",
+          "cardCount": 18,
           "level": "A2",
-          "order": 1,
+          "order": 13,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-1.json"
         },
         {
           "id": "a2-phonetique-2",
-          "name": "A2 — Phonétique (2/2)",
-          "description": "Rythme et intonation",
-          "cardCount": 17,
+          "name": "A2 — Phonétique 2 : Prononciation des lettres",
+          "description": "C, G, R, J, CH, QU, groupes consonantiques",
+          "cardCount": 18,
           "level": "A2",
-          "order": 2,
+          "order": 14,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-phonetique-2.json"
         },
         {
-          "id": "a2-expression-ecrite-1",
-          "name": "A2 — Expression écrite (1/2)",
-          "description": "Raconter un événement passé",
-          "cardCount": 17,
-          "level": "A2",
-          "order": 1,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-1.json"
-        },
-        {
-          "id": "a2-expression-ecrite-2",
-          "name": "A2 — Expression écrite (2/2)",
-          "description": "Décrire un lieu ou une personne",
-          "cardCount": 17,
-          "level": "A2",
-          "order": 2,
-          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-2.json"
-        },
-        {
           "id": "a2-civilisation-1",
-          "name": "A2 — Civilisation & culture (1/2)",
-          "description": "Les régions françaises",
-          "cardCount": 17,
+          "name": "A2 — Civilisation 1 : La France et ses régions",
+          "description": "Géographie, institutions, symboles",
+          "cardCount": 18,
           "level": "A2",
-          "order": 1,
+          "order": 15,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-1.json"
         },
         {
           "id": "a2-civilisation-2",
-          "name": "A2 — Civilisation & culture (2/2)",
-          "description": "Gastronomie et traditions",
-          "cardCount": 17,
+          "name": "A2 — Civilisation 2 : La vie quotidienne en France",
+          "description": "Repas, coutumes, fêtes, société",
+          "cardCount": 18,
           "level": "A2",
-          "order": 2,
+          "order": 16,
           "url": "https://chrissorbadere.github.io/flashcards-decks/a2-civilisation-2.json"
+        },
+        {
+          "id": "a2-expression-ecrite-1",
+          "name": "A2 — Expression écrite 1 : Structures et connecteurs",
+          "description": "Cause, conséquence, opposition, lettre",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 17,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-1.json"
+        },
+        {
+          "id": "a2-expression-ecrite-2",
+          "name": "A2 — Expression écrite 2 : Rédiger des textes courts",
+          "description": "Carte postale, email, SMS, CV",
+          "cardCount": 18,
+          "level": "A2",
+          "order": 18,
+          "url": "https://chrissorbadere.github.io/flashcards-decks/a2-expression-ecrite-2.json"
         }
       ]
     },
