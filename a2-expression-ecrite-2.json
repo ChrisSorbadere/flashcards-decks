@@ -1,241 +1,236 @@
-{
-  "id": "a2-expression-ecrite-2",
-  "name": "A2 — Expression écrite 2 : Rédiger des textes courts",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2ee2-01",
-      "q": "Dans une carte postale, quel temps est le plus utilisé ?",
-      "a": "Le présent (pour décrire ce qu'on vit en ce moment)",
-      "choices": [
-        "Le passé composé pour les actions",
-        "L'imparfait pour les descriptions",
-        "Le futur pour les projets uniquement"
-      ],
-      "tag": "Carte postale",
-      "expl": "Carte postale : présent pour décrire ('Il fait beau...') + futur ('Je rentrerai...').",
-      "dictee": "présent"
-    },
-    {
-      "id": "a2ee2-02",
-      "q": "Comment commencer une carte postale à des amis ?",
-      "a": "Cher(s) ami(s), Bonjour à tous !, Coucou !",
-      "choices": [
-        "Madame, Monsieur,",
-        "À qui de droit,",
-        "Mes chers administrés,"
-      ],
-      "tag": "Carte postale",
-      "expl": "Carte postale informelle : Cher Paul, Bonjour à tous, Coucou !",
-      "dictee": "chers"
-    },
-    {
-      "id": "a2ee2-03",
-      "q": "Dans un message pour s'excuser d'un retard :",
-      "a": "Je suis désolé(e), je m'excuse, veuillez m'excuser",
-      "choices": [
-        "Je regrette que tu sois trop tôt",
-        "C'est de votre faute finalement",
-        "Je ne comprends pas le problème"
-      ],
-      "tag": "S'excuser",
-      "expl": "S'excuser : Je suis désolé(e) (direct), je m'excuse (formel).",
-      "dictee": "désolé"
-    },
-    {
-      "id": "a2ee2-04",
-      "q": "Comment accepter une invitation par écrit ?",
-      "a": "Je suis ravi(e) d'accepter ! / Avec plaisir, je serai là !",
-      "choices": [
-        "Je ne peux malheureusement pas venir",
-        "Je verrai si j'ai le temps disponible",
-        "C'est possible mais je ne sais pas encore"
-      ],
-      "tag": "Invitation",
-      "expl": "Accepter : Avec plaisir !, Je serai là !, Je suis ravi(e) d'accepter (formel).",
-      "dictee": "accepte"
-    },
-    {
-      "id": "a2ee2-05",
-      "q": "Comment refuser poliment une invitation ?",
-      "a": "Je suis désolé(e), malheureusement je ne pourrai pas venir...",
-      "choices": [
-        "Non, ça ne m'intéresse vraiment pas",
-        "Je n'ai absolument pas envie de venir",
-        "Peut-être une autre fois sans donner d'explication"
-      ],
-      "tag": "Invitation",
-      "expl": "Refus poli : Je suis désolé(e), mais malheureusement... + explication + alternative.",
-      "dictee": "malheureusement"
-    },
-    {
-      "id": "a2ee2-06",
-      "q": "Dans un formulaire français, 'NOM' désigne :",
-      "a": "Le nom de famille (apellido)",
-      "choices": [
-        "El nombre de pila (prénom)",
-        "El nombre completo con apellidos",
-        "El apodo o nombre artístico"
-      ],
-      "tag": "Formulaires",
-      "expl": "NOM = apellido. PRÉNOM = nombre de pila. S'écrivent souvent en MAJUSCULES.",
-      "dictee": "famille"
-    },
-    {
-      "id": "a2ee2-07",
-      "q": "Comment décrire ses goûts dans un message de présentation ?",
-      "a": "J'aime / J'adore / Je préfère / Je n'aime pas + nom ou infinitif",
-      "choices": [
-        "Je veux / Je dois / Il faut + infinitif",
-        "Je suis / J'ai / Je fais + nom",
-        "Je sais / Je peux / Je veux + infinitif"
-      ],
-      "tag": "Se présenter",
-      "expl": "Goûts : J'aime le sport, J'adore voyager, Je préfère la mer à la montagne.",
-      "dictee": "j'aime"
-    },
-    {
-      "id": "a2ee2-08",
-      "q": "Pour décrire quelqu'un physiquement, on utilise :",
-      "a": "Il/Elle a les yeux... / est grand(e), brun(e)... / porte des lunettes...",
-      "choices": [
-        "Il/Elle fait du sport / joue au foot...",
-        "Il/Elle dit que / pense que...",
-        "Il/Elle va à / vient de..."
-      ],
-      "tag": "Description",
-      "expl": "Description physique : avoir (yeux, cheveux) + être (grand, brun) + porter (lunettes).",
-      "dictee": "yeux"
-    },
-    {
-      "id": "a2ee2-09",
-      "q": "Comment rédiger un SMS pour proposer un rendez-vous ?",
-      "a": "Salut ! Dispo samedi ? On se retrouve à 15h au café ?",
-      "choices": [
-        "Madame, je sollicite un entretien officiel",
-        "Je vous contacte pour convenir d'un rendez-vous formel",
-        "Permettez-moi de vous proposer une réunion"
-      ],
-      "tag": "SMS",
-      "expl": "SMS entre amis : langage court, familier, abréviations (dispo, rdv). Emojis OK.",
-      "dictee": "dispo"
-    },
-    {
-      "id": "a2ee2-10",
-      "q": "Quelle est la différence entre 'objet' et 'sujet' dans un email ?",
-      "a": "'Objet' = titre/asunto del correo ; 'sujet' = tema del que se habla",
-      "choices": [
-        "Son des synonymes parfaits",
-        "'Objet' désigne le destinataire",
-        "'Sujet' désigne la pièce jointe"
-      ],
-      "tag": "Email",
-      "expl": "L'objet de l'email = asunto del correo. À ne pas confondre avec le sujet grammatical.",
-      "dictee": "objet"
-    },
-    {
-      "id": "a2ee2-11",
-      "q": "Comment exprimer sa surprise dans un message ?",
-      "a": "Quelle surprise ! Je n'en reviens pas ! C'est incroyable !",
-      "choices": [
-        "Je savais que ça allait arriver",
-        "Comme prévu, rien d'étonnant",
-        "Évidemment, je m'y attendais"
-      ],
-      "tag": "Émotions",
-      "expl": "Surprise : Quelle surprise !, Tu n'imagines pas !, Je suis stupéfait(e) !",
-      "dictee": "surprise"
-    },
-    {
-      "id": "a2ee2-12",
-      "q": "Pour exprimer sa joie dans un message :",
-      "a": "Je suis tellement content(e) ! Quelle bonne nouvelle ! Super !",
-      "choices": [
-        "C'est acceptable, merci",
-        "Pas mal comme résultat",
-        "Je suppose que c'est bien"
-      ],
-      "tag": "Émotions",
-      "expl": "Joie : Je suis content(e)/ravi(e) ! Quelle bonne nouvelle ! Génial ! Super !",
-      "dictee": "content"
-    },
-    {
-      "id": "a2ee2-13",
-      "q": "Dans un forum ou commentaire, comment donner son avis ?",
-      "a": "À mon avis... / Personnellement... / Je trouve que... / Il me semble que...",
-      "choices": [
-        "Tout le monde sait que c'est vrai...",
-        "Il est scientifiquement prouvé que...",
-        "Les experts affirment unanimement que..."
-      ],
-      "tag": "Opinion",
-      "expl": "Opinion dans un forum : Perso, je pense que... / À mon avis... / Moi, je trouve que...",
-      "dictee": "personnellement"
-    },
-    {
-      "id": "a2ee2-14",
-      "q": "Comment structurer un message de réclamation ?",
-      "a": "Problème → conséquences → demande de solution → formule de politesse",
-      "choices": [
-        "Insulter puis demander un remboursement",
-        "Décrire la solution sans expliquer le problème",
-        "Remercier d'abord puis expliquer le problème"
-      ],
-      "tag": "Réclamation",
-      "expl": "Réclamation : Contexte → Problème → Impact → Demande → Formule de politesse.",
-      "dictee": "solution"
-    },
-    {
-      "id": "a2ee2-15",
-      "q": "Comment faire une réservation par email ?",
-      "a": "Je souhaiterais réserver... + détails (date, nombre de personnes, type)",
-      "choices": [
-        "Je réserve immédiatement sans détails !",
-        "Donnez-moi une chambre disponible",
-        "J'ai besoin d'une chambre quelconque"
-      ],
-      "tag": "Réservation",
-      "expl": "Réservation : Je souhaiterais réserver une table pour 4 personnes le samedi 28 mars à 20h.",
-      "dictee": "réserver"
-    },
-    {
-      "id": "a2ee2-16",
-      "q": "Pour répondre à une annonce d'emploi, la lettre commence par :",
-      "a": "Suite à votre annonce parue le... / En réponse à votre offre d'emploi...",
-      "choices": [
-        "Je veux ce travail tout de suite",
-        "Bonjour, j'ai vu votre petite annonce",
-        "J'espère que vous allez bien"
-      ],
-      "tag": "Candidature",
-      "expl": "Lettre de motivation : Suite à votre annonce... J'ai l'honneur de poser ma candidature...",
-      "dictee": "suite"
-    },
-    {
-      "id": "a2ee2-17",
-      "q": "Comment décrire ses compétences dans un CV ?",
-      "a": "Maîtrise de... / Bonne connaissance de... / Capacité à... / Expérience en...",
-      "choices": [
-        "Je suis très bien dans tout / Je suis parfait",
-        "J'aime beaucoup / Je déteste faire",
-        "Je peux si je veux / Je ferai si nécessaire"
-      ],
-      "tag": "CV",
-      "expl": "CV : Maîtrise du français (C1), Bonne connaissance d'Excel, Capacité à travailler en équipe.",
-      "dictee": "maîtrise"
-    },
-    {
-      "id": "a2ee2-18",
-      "q": "Pour terminer une lettre de réclamation formellement :",
-      "a": "Dans l'attente de votre réponse, je vous adresse mes cordiales salutations.",
-      "choices": [
-        "Bisous et bonne journée",
-        "À bientôt j'espère vraiment",
-        "Je compte sur vous pour tout régler"
-      ],
-      "tag": "Lettre",
-      "expl": "Fin de lettre de réclamation : Dans l'attente d'une réponse favorable, veuillez agréer...",
-      "dictee": "attente"
-    }
-  ]
-}
+[
+  {
+    "id": "a2ee2-01",
+    "q": "Dans une carte postale, quel temps est le plus utilisé ?",
+    "a": "Le présent (pour décrire ce qu'on vit en ce moment)",
+    "choices": [
+      "Le passé composé pour les actions",
+      "L'imparfait pour les descriptions",
+      "Le futur pour les projets uniquement"
+    ],
+    "tag": "Carte postale",
+    "expl": "Carte postale : présent pour décrire ('Il fait beau...') + futur ('Je rentrerai...').",
+    "dictee": "présent"
+  },
+  {
+    "id": "a2ee2-02",
+    "q": "Comment commencer une carte postale à des amis ?",
+    "a": "Cher(s) ami(s), Bonjour à tous !, Coucou !",
+    "choices": [
+      "Madame, Monsieur,",
+      "À qui de droit,",
+      "Mes chers administrés,"
+    ],
+    "tag": "Carte postale",
+    "expl": "Carte postale informelle : Cher Paul, Bonjour à tous, Coucou !",
+    "dictee": "chers"
+  },
+  {
+    "id": "a2ee2-03",
+    "q": "Dans un message pour s'excuser d'un retard :",
+    "a": "Je suis désolé(e), je m'excuse, veuillez m'excuser",
+    "choices": [
+      "Je regrette que tu sois trop tôt",
+      "C'est de votre faute finalement",
+      "Je ne comprends pas le problème"
+    ],
+    "tag": "S'excuser",
+    "expl": "S'excuser : Je suis désolé(e) (direct), je m'excuse (formel).",
+    "dictee": "désolé"
+  },
+  {
+    "id": "a2ee2-04",
+    "q": "Comment accepter une invitation par écrit ?",
+    "a": "Je suis ravi(e) d'accepter ! / Avec plaisir, je serai là !",
+    "choices": [
+      "Je ne peux malheureusement pas venir",
+      "Je verrai si j'ai le temps disponible",
+      "C'est possible mais je ne sais pas encore"
+    ],
+    "tag": "Invitation",
+    "expl": "Accepter : Avec plaisir !, Je serai là !, Je suis ravi(e) d'accepter (formel).",
+    "dictee": "accepte"
+  },
+  {
+    "id": "a2ee2-05",
+    "q": "Comment refuser poliment une invitation ?",
+    "a": "Je suis désolé(e), malheureusement je ne pourrai pas venir...",
+    "choices": [
+      "Non, ça ne m'intéresse vraiment pas",
+      "Je n'ai absolument pas envie de venir",
+      "Peut-être une autre fois sans donner d'explication"
+    ],
+    "tag": "Invitation",
+    "expl": "Refus poli : Je suis désolé(e), mais malheureusement... + explication + alternative.",
+    "dictee": "malheureusement"
+  },
+  {
+    "id": "a2ee2-06",
+    "q": "Dans un formulaire français, 'NOM' désigne :",
+    "a": "Le nom de famille (apellido)",
+    "choices": [
+      "El nombre de pila (prénom)",
+      "El nombre completo con apellidos",
+      "El apodo o nombre artístico"
+    ],
+    "tag": "Formulaires",
+    "expl": "NOM = apellido. PRÉNOM = nombre de pila. S'écrivent souvent en MAJUSCULES.",
+    "dictee": "famille"
+  },
+  {
+    "id": "a2ee2-07",
+    "q": "Comment décrire ses goûts dans un message de présentation ?",
+    "a": "J'aime / J'adore / Je préfère / Je n'aime pas + nom ou infinitif",
+    "choices": [
+      "Je veux / Je dois / Il faut + infinitif",
+      "Je suis / J'ai / Je fais + nom",
+      "Je sais / Je peux / Je veux + infinitif"
+    ],
+    "tag": "Se présenter",
+    "expl": "Goûts : J'aime le sport, J'adore voyager, Je préfère la mer à la montagne.",
+    "dictee": "j'aime"
+  },
+  {
+    "id": "a2ee2-08",
+    "q": "Pour décrire quelqu'un physiquement, on utilise :",
+    "a": "Il/Elle a les yeux... / est grand(e), brun(e)... / porte des lunettes...",
+    "choices": [
+      "Il/Elle fait du sport / joue au foot...",
+      "Il/Elle dit que / pense que...",
+      "Il/Elle va à / vient de..."
+    ],
+    "tag": "Description",
+    "expl": "Description physique : avoir (yeux, cheveux) + être (grand, brun) + porter (lunettes).",
+    "dictee": "yeux"
+  },
+  {
+    "id": "a2ee2-09",
+    "q": "Comment rédiger un SMS pour proposer un rendez-vous ?",
+    "a": "Salut ! Dispo samedi ? On se retrouve à 15h au café ?",
+    "choices": [
+      "Madame, je sollicite un entretien officiel",
+      "Je vous contacte pour convenir d'un rendez-vous formel",
+      "Permettez-moi de vous proposer une réunion"
+    ],
+    "tag": "SMS",
+    "expl": "SMS entre amis : langage court, familier, abréviations (dispo, rdv). Emojis OK.",
+    "dictee": "dispo"
+  },
+  {
+    "id": "a2ee2-10",
+    "q": "Quelle est la différence entre 'objet' et 'sujet' dans un email ?",
+    "a": "'Objet' = titre/asunto del correo ; 'sujet' = tema del que se habla",
+    "choices": [
+      "Son des synonymes parfaits",
+      "'Objet' désigne le destinataire",
+      "'Sujet' désigne la pièce jointe"
+    ],
+    "tag": "Email",
+    "expl": "L'objet de l'email = asunto del correo. À ne pas confondre avec le sujet grammatical.",
+    "dictee": "objet"
+  },
+  {
+    "id": "a2ee2-11",
+    "q": "Comment exprimer sa surprise dans un message ?",
+    "a": "Quelle surprise ! Je n'en reviens pas ! C'est incroyable !",
+    "choices": [
+      "Je savais que ça allait arriver",
+      "Comme prévu, rien d'étonnant",
+      "Évidemment, je m'y attendais"
+    ],
+    "tag": "Émotions",
+    "expl": "Surprise : Quelle surprise !, Tu n'imagines pas !, Je suis stupéfait(e) !",
+    "dictee": "surprise"
+  },
+  {
+    "id": "a2ee2-12",
+    "q": "Pour exprimer sa joie dans un message :",
+    "a": "Je suis tellement content(e) ! Quelle bonne nouvelle ! Super !",
+    "choices": [
+      "C'est acceptable, merci",
+      "Pas mal comme résultat",
+      "Je suppose que c'est bien"
+    ],
+    "tag": "Émotions",
+    "expl": "Joie : Je suis content(e)/ravi(e) ! Quelle bonne nouvelle ! Génial ! Super !",
+    "dictee": "content"
+  },
+  {
+    "id": "a2ee2-13",
+    "q": "Dans un forum ou commentaire, comment donner son avis ?",
+    "a": "À mon avis... / Personnellement... / Je trouve que... / Il me semble que...",
+    "choices": [
+      "Tout le monde sait que c'est vrai...",
+      "Il est scientifiquement prouvé que...",
+      "Les experts affirment unanimement que..."
+    ],
+    "tag": "Opinion",
+    "expl": "Opinion dans un forum : Perso, je pense que... / À mon avis... / Moi, je trouve que...",
+    "dictee": "personnellement"
+  },
+  {
+    "id": "a2ee2-14",
+    "q": "Comment structurer un message de réclamation ?",
+    "a": "Problème → conséquences → demande de solution → formule de politesse",
+    "choices": [
+      "Insulter puis demander un remboursement",
+      "Décrire la solution sans expliquer le problème",
+      "Remercier d'abord puis expliquer le problème"
+    ],
+    "tag": "Réclamation",
+    "expl": "Réclamation : Contexte → Problème → Impact → Demande → Formule de politesse.",
+    "dictee": "solution"
+  },
+  {
+    "id": "a2ee2-15",
+    "q": "Comment faire une réservation par email ?",
+    "a": "Je souhaiterais réserver... + détails (date, nombre de personnes, type)",
+    "choices": [
+      "Je réserve immédiatement sans détails !",
+      "Donnez-moi une chambre disponible",
+      "J'ai besoin d'une chambre quelconque"
+    ],
+    "tag": "Réservation",
+    "expl": "Réservation : Je souhaiterais réserver une table pour 4 personnes le samedi 28 mars à 20h.",
+    "dictee": "réserver"
+  },
+  {
+    "id": "a2ee2-16",
+    "q": "Pour répondre à une annonce d'emploi, la lettre commence par :",
+    "a": "Suite à votre annonce parue le... / En réponse à votre offre d'emploi...",
+    "choices": [
+      "Je veux ce travail tout de suite",
+      "Bonjour, j'ai vu votre petite annonce",
+      "J'espère que vous allez bien"
+    ],
+    "tag": "Candidature",
+    "expl": "Lettre de motivation : Suite à votre annonce... J'ai l'honneur de poser ma candidature...",
+    "dictee": "suite"
+  },
+  {
+    "id": "a2ee2-17",
+    "q": "Comment décrire ses compétences dans un CV ?",
+    "a": "Maîtrise de... / Bonne connaissance de... / Capacité à... / Expérience en...",
+    "choices": [
+      "Je suis très bien dans tout / Je suis parfait",
+      "J'aime beaucoup / Je déteste faire",
+      "Je peux si je veux / Je ferai si nécessaire"
+    ],
+    "tag": "CV",
+    "expl": "CV : Maîtrise du français (C1), Bonne connaissance d'Excel, Capacité à travailler en équipe.",
+    "dictee": "maîtrise"
+  },
+  {
+    "id": "a2ee2-18",
+    "q": "Pour terminer une lettre de réclamation formellement :",
+    "a": "Dans l'attente de votre réponse, je vous adresse mes cordiales salutations.",
+    "choices": [
+      "Bisous et bonne journée",
+      "À bientôt j'espère vraiment",
+      "Je compte sur vous pour tout régler"
+    ],
+    "tag": "Lettre",
+    "expl": "Fin de lettre de réclamation : Dans l'attente d'une réponse favorable, veuillez agréer...",
+    "dictee": "attente"
+  }
+]

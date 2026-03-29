@@ -1,241 +1,236 @@
-{
-  "id": "a2-phonetique-1",
-  "name": "A2 — Phonétique 1 : Les sons du français",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2p1-01",
-      "q": "Comment se prononce le 'e' dans 'le', 'me', 'te' ?",
-      "a": "E muet/caduc [ə] — son neutre central",
-      "choices": [
-        "Comme le é fermé [e]",
-        "Comme le è ouvert [ɛ]",
-        "Comme le a [a]"
-      ],
-      "tag": "Voyelles",
-      "expl": "Le e caduc [ə] est le son le plus neutre du français. Il peut disparaître à l'oral.",
-      "dictee": "muet"
-    },
-    {
-      "id": "a2p1-02",
-      "q": "Quelle est la différence entre 'é' et 'è' ?",
-      "a": "é = fermé [e] comme dans 'été' ; è = ouvert [ɛ] comme dans 'fête'",
-      "choices": [
-        "é est plus long que è",
-        "è se prononce comme 'a'",
-        "Ils se prononcent pareil"
-      ],
-      "tag": "Voyelles",
-      "expl": "é [e] = bouche semi-fermée. è [ɛ] = bouche plus ouverte.",
-      "dictee": "fermé"
-    },
-    {
-      "id": "a2p1-03",
-      "q": "Comment se prononce 'gn' dans 'montagne' ?",
-      "a": "[ɲ] — identique au 'ñ' espagnol",
-      "choices": [
-        "Comme 'gn' en anglais",
-        "Comme 'n' seul [n]",
-        "Comme 'g' + 'n' séparés"
-      ],
-      "tag": "Consonnes",
-      "expl": "GN = [ɲ] : montagne, champignon, espagnol. Identique au ñ espagnol.",
-      "dictee": "ñ"
-    },
-    {
-      "id": "a2p1-04",
-      "q": "Le 'h' aspiré vs le 'h' muet : quelle est la différence pratique ?",
-      "a": "H muet → liaison/élision possible ; h aspiré → pas de liaison ni élision",
-      "choices": [
-        "H aspiré se prononce comme [h]",
-        "H muet est toujours silencieux en toutes positions",
-        "Ils fonctionnent exactement pareil"
-      ],
-      "tag": "Lettre H",
-      "expl": "L'heure → l'heure (h muet). Le hibou → le hibou (h aspiré, pas d'élision).",
-      "dictee": "aspiré"
-    },
-    {
-      "id": "a2p1-05",
-      "q": "Comment se prononce 'ou' dans 'vous', 'tour', 'mouton' ?",
-      "a": "[u] — identique au 'u' espagnol",
-      "choices": [
-        "Comme le 'u' français [y]",
-        "Comme 'oi' [wa]",
-        "Comme 'o' seul [o]"
-      ],
-      "tag": "Voyelles",
-      "expl": "OU = [u] comme en espagnol. À distinguer du U français [y].",
-      "dictee": "ou"
-    },
-    {
-      "id": "a2p1-06",
-      "q": "Comment se prononce le 'u' dans 'tu', 'vue', 'rue' ?",
-      "a": "[y] — lèvres arrondies en avant, langue en avant",
-      "choices": [
-        "Comme 'ou' [u]",
-        "Comme 'i' [i]",
-        "Comme 'eu' [ø]"
-      ],
-      "tag": "Voyelles",
-      "expl": "U [y] n'existe pas en espagnol. Dites 'i' et arrondissez les lèvres.",
-      "dictee": "arrondi"
-    },
-    {
-      "id": "a2p1-07",
-      "q": "Que se passe-t-il avec le 's' entre deux voyelles ?",
-      "a": "Il devient [z] : maison [mɛzɔ̃], chaise [ʃɛz]",
-      "choices": [
-        "Il reste [s]",
-        "Il devient muet",
-        "Il devient [ʒ]"
-      ],
-      "tag": "Consonnes",
-      "expl": "S entre deux voyelles = [z]. Maison, chaise, musique.",
-      "dictee": "z"
-    },
-    {
-      "id": "a2p1-08",
-      "q": "Comment se prononce 'ch' en français ?",
-      "a": "[ʃ] — comme 'sh' en anglais",
-      "choices": [
-        "[tʃ] comme en espagnol",
-        "[k] comme dans 'chaos'",
-        "[s] comme dans 'science'"
-      ],
-      "tag": "Consonnes",
-      "expl": "CH = [ʃ] : chat, cheval, manche. Exceptions savantes : orchestre [k].",
-      "dictee": "ch"
-    },
-    {
-      "id": "a2p1-09",
-      "q": "Quelle voyelle nasale correspond à 'an', 'en', 'am', 'em' ?",
-      "a": "[ã] — comme dans 'dans', 'temps', 'enfant'",
-      "choices": [
-        "[ɛ̃] comme 'in/ain'",
-        "[ɔ̃] comme 'on/om'",
-        "[œ̃] comme 'un/um'"
-      ],
-      "tag": "Nasales",
-      "expl": "AN/EN = [ã] : dans, temps, enfant. Ne pas prononcer le n séparément !",
-      "dictee": "an"
-    },
-    {
-      "id": "a2p1-10",
-      "q": "Comment se prononce 'on' dans 'bon', 'maison', 'onton' ?",
-      "a": "[ɔ̃] — voyelle nasale arrondie",
-      "choices": [
-        "[ɛ̃] comme 'in'",
-        "[ã] comme 'an'",
-        "[un] avec le n prononcé"
-      ],
-      "tag": "Nasales",
-      "expl": "ON/OM = [ɔ̃] : bon, maison, ombre. Ne pas prononcer le n séparément.",
-      "dictee": "on"
-    },
-    {
-      "id": "a2p1-11",
-      "q": "La liaison est-elle obligatoire dans 'vous avez' ?",
-      "a": "Oui : vous_avez [vuzave] — liaison obligatoire",
-      "choices": [
-        "Non, c'est facultatif",
-        "Non, liaison interdite ici",
-        "Oui, mais seulement à l'écrit"
-      ],
-      "tag": "Liaison",
-      "expl": "La liaison est obligatoire après les pronoms sujets : vous avez, ils ont, nous allons.",
-      "dictee": "obligatoire"
-    },
-    {
-      "id": "a2p1-12",
-      "q": "Le 'g' se prononce [ʒ] devant quelles lettres ?",
-      "a": "Devant e, i, y : génie [ʒeni], gilet [ʒilɛ]",
-      "choices": [
-        "Devant a, o, u",
-        "Devant toutes les voyelles",
-        "Devant les consonnes"
-      ],
-      "tag": "Consonnes",
-      "expl": "G + e/i/y = [ʒ]. G + a/o/u = [g]. Ex. : garage [gaʁaʒ].",
-      "dictee": "e i y"
-    },
-    {
-      "id": "a2p1-13",
-      "q": "Comment se prononce 'oi' dans 'moi', 'voir', 'voiture' ?",
-      "a": "[wa] — comme 'oua' rapide",
-      "choices": [
-        "[oe] comme 'peur'",
-        "[o]+[i] séparés",
-        "[we] comme en anglais"
-      ],
-      "tag": "Voyelles",
-      "expl": "OI = [wa] : moi [mwa], voir [vwaʁ], voiture [vwatyʁ].",
-      "dictee": "wa"
-    },
-    {
-      "id": "a2p1-14",
-      "q": "La consonne finale est-elle prononcée dans 'grand' ?",
-      "a": "Non, le 'd' final est muet (mais liaison possible)",
-      "choices": [
-        "Oui, toujours prononcé",
-        "Oui, devant consonne",
-        "Non, jamais, même en liaison"
-      ],
-      "tag": "Consonnes finales",
-      "expl": "Les consonnes finales sont souvent muettes. Liaison possible devant voyelle.",
-      "dictee": "muet"
-    },
-    {
-      "id": "a2p1-15",
-      "q": "Comment se prononce 'eu' dans 'peur', 'cœur', 'sœur' ?",
-      "a": "[œ] — voyelle ouverte arrondie",
-      "choices": [
-        "[e] fermé",
-        "[u] comme 'ou'",
-        "[o] comme dans 'mot'"
-      ],
-      "tag": "Voyelles",
-      "expl": "EU ouvert [œ] : peur, cœur, sœur. EU fermé [ø] : feu, bleu, jeu.",
-      "dictee": "ouvert"
-    },
-    {
-      "id": "a2p1-16",
-      "q": "Qu'est-ce que l'élision en français ?",
-      "a": "Suppression de la voyelle finale devant voyelle : le ami → l'ami",
-      "choices": [
-        "Ajout d'un son entre deux mots",
-        "Prononciation d'une consonne finale muette",
-        "Changement d'accent tonique"
-      ],
-      "tag": "Élision",
-      "expl": "Élision : le, la, me, te, se, de, que → l', m', t', s', d', qu' devant voyelle.",
-      "dictee": "élision"
-    },
-    {
-      "id": "a2p1-17",
-      "q": "Combien de syllabes dans 'continuellement' ?",
-      "a": "6 syllabes : con-ti-nu-el-le-ment",
-      "choices": [
-        "4 syllabes",
-        "5 syllabes",
-        "7 syllabes"
-      ],
-      "tag": "Syllabes",
-      "expl": "Con-ti-nu-el-le-ment = 6 syllabes. Chaque voyelle = une syllabe en français.",
-      "dictee": "six"
-    },
-    {
-      "id": "a2p1-18",
-      "q": "Où tombe l'accent tonique en français ?",
-      "a": "Sur la dernière syllabe du groupe rythmique",
-      "choices": [
-        "Sur la première syllabe",
-        "Sur la syllabe la plus longue",
-        "Variable selon le mot comme en espagnol"
-      ],
-      "tag": "Accent",
-      "expl": "En français, l'accent tombe TOUJOURS sur la dernière syllabe du groupe rythmique.",
-      "dictee": "dernière"
-    }
-  ]
-}
+[
+  {
+    "id": "a2p1-01",
+    "q": "Comment se prononce le 'e' dans 'le', 'me', 'te' ?",
+    "a": "E muet/caduc [ə] — son neutre central",
+    "choices": [
+      "Comme le é fermé [e]",
+      "Comme le è ouvert [ɛ]",
+      "Comme le a [a]"
+    ],
+    "tag": "Voyelles",
+    "expl": "Le e caduc [ə] est le son le plus neutre du français. Il peut disparaître à l'oral.",
+    "dictee": "muet"
+  },
+  {
+    "id": "a2p1-02",
+    "q": "Quelle est la différence entre 'é' et 'è' ?",
+    "a": "é = fermé [e] comme dans 'été' ; è = ouvert [ɛ] comme dans 'fête'",
+    "choices": [
+      "é est plus long que è",
+      "è se prononce comme 'a'",
+      "Ils se prononcent pareil"
+    ],
+    "tag": "Voyelles",
+    "expl": "é [e] = bouche semi-fermée. è [ɛ] = bouche plus ouverte.",
+    "dictee": "fermé"
+  },
+  {
+    "id": "a2p1-03",
+    "q": "Comment se prononce 'gn' dans 'montagne' ?",
+    "a": "[ɲ] — identique au 'ñ' espagnol",
+    "choices": [
+      "Comme 'gn' en anglais",
+      "Comme 'n' seul [n]",
+      "Comme 'g' + 'n' séparés"
+    ],
+    "tag": "Consonnes",
+    "expl": "GN = [ɲ] : montagne, champignon, espagnol. Identique au ñ espagnol.",
+    "dictee": "ñ"
+  },
+  {
+    "id": "a2p1-04",
+    "q": "Le 'h' aspiré vs le 'h' muet : quelle est la différence pratique ?",
+    "a": "H muet → liaison/élision possible ; h aspiré → pas de liaison ni élision",
+    "choices": [
+      "H aspiré se prononce comme [h]",
+      "H muet est toujours silencieux en toutes positions",
+      "Ils fonctionnent exactement pareil"
+    ],
+    "tag": "Lettre H",
+    "expl": "L'heure → l'heure (h muet). Le hibou → le hibou (h aspiré, pas d'élision).",
+    "dictee": "aspiré"
+  },
+  {
+    "id": "a2p1-05",
+    "q": "Comment se prononce 'ou' dans 'vous', 'tour', 'mouton' ?",
+    "a": "[u] — identique au 'u' espagnol",
+    "choices": [
+      "Comme le 'u' français [y]",
+      "Comme 'oi' [wa]",
+      "Comme 'o' seul [o]"
+    ],
+    "tag": "Voyelles",
+    "expl": "OU = [u] comme en espagnol. À distinguer du U français [y].",
+    "dictee": "ou"
+  },
+  {
+    "id": "a2p1-06",
+    "q": "Comment se prononce le 'u' dans 'tu', 'vue', 'rue' ?",
+    "a": "[y] — lèvres arrondies en avant, langue en avant",
+    "choices": [
+      "Comme 'ou' [u]",
+      "Comme 'i' [i]",
+      "Comme 'eu' [ø]"
+    ],
+    "tag": "Voyelles",
+    "expl": "U [y] n'existe pas en espagnol. Dites 'i' et arrondissez les lèvres.",
+    "dictee": "arrondi"
+  },
+  {
+    "id": "a2p1-07",
+    "q": "Que se passe-t-il avec le 's' entre deux voyelles ?",
+    "a": "Il devient [z] : maison [mɛzɔ̃], chaise [ʃɛz]",
+    "choices": [
+      "Il reste [s]",
+      "Il devient muet",
+      "Il devient [ʒ]"
+    ],
+    "tag": "Consonnes",
+    "expl": "S entre deux voyelles = [z]. Maison, chaise, musique.",
+    "dictee": "z"
+  },
+  {
+    "id": "a2p1-08",
+    "q": "Comment se prononce 'ch' en français ?",
+    "a": "[ʃ] — comme 'sh' en anglais",
+    "choices": [
+      "[tʃ] comme en espagnol",
+      "[k] comme dans 'chaos'",
+      "[s] comme dans 'science'"
+    ],
+    "tag": "Consonnes",
+    "expl": "CH = [ʃ] : chat, cheval, manche. Exceptions savantes : orchestre [k].",
+    "dictee": "ch"
+  },
+  {
+    "id": "a2p1-09",
+    "q": "Quelle voyelle nasale correspond à 'an', 'en', 'am', 'em' ?",
+    "a": "[ã] — comme dans 'dans', 'temps', 'enfant'",
+    "choices": [
+      "[ɛ̃] comme 'in/ain'",
+      "[ɔ̃] comme 'on/om'",
+      "[œ̃] comme 'un/um'"
+    ],
+    "tag": "Nasales",
+    "expl": "AN/EN = [ã] : dans, temps, enfant. Ne pas prononcer le n séparément !",
+    "dictee": "an"
+  },
+  {
+    "id": "a2p1-10",
+    "q": "Comment se prononce 'on' dans 'bon', 'maison', 'onton' ?",
+    "a": "[ɔ̃] — voyelle nasale arrondie",
+    "choices": [
+      "[ɛ̃] comme 'in'",
+      "[ã] comme 'an'",
+      "[un] avec le n prononcé"
+    ],
+    "tag": "Nasales",
+    "expl": "ON/OM = [ɔ̃] : bon, maison, ombre. Ne pas prononcer le n séparément.",
+    "dictee": "on"
+  },
+  {
+    "id": "a2p1-11",
+    "q": "La liaison est-elle obligatoire dans 'vous avez' ?",
+    "a": "Oui : vous_avez [vuzave] — liaison obligatoire",
+    "choices": [
+      "Non, c'est facultatif",
+      "Non, liaison interdite ici",
+      "Oui, mais seulement à l'écrit"
+    ],
+    "tag": "Liaison",
+    "expl": "La liaison est obligatoire après les pronoms sujets : vous avez, ils ont, nous allons.",
+    "dictee": "obligatoire"
+  },
+  {
+    "id": "a2p1-12",
+    "q": "Le 'g' se prononce [ʒ] devant quelles lettres ?",
+    "a": "Devant e, i, y : génie [ʒeni], gilet [ʒilɛ]",
+    "choices": [
+      "Devant a, o, u",
+      "Devant toutes les voyelles",
+      "Devant les consonnes"
+    ],
+    "tag": "Consonnes",
+    "expl": "G + e/i/y = [ʒ]. G + a/o/u = [g]. Ex. : garage [gaʁaʒ].",
+    "dictee": "e i y"
+  },
+  {
+    "id": "a2p1-13",
+    "q": "Comment se prononce 'oi' dans 'moi', 'voir', 'voiture' ?",
+    "a": "[wa] — comme 'oua' rapide",
+    "choices": [
+      "[oe] comme 'peur'",
+      "[o]+[i] séparés",
+      "[we] comme en anglais"
+    ],
+    "tag": "Voyelles",
+    "expl": "OI = [wa] : moi [mwa], voir [vwaʁ], voiture [vwatyʁ].",
+    "dictee": "wa"
+  },
+  {
+    "id": "a2p1-14",
+    "q": "La consonne finale est-elle prononcée dans 'grand' ?",
+    "a": "Non, le 'd' final est muet (mais liaison possible)",
+    "choices": [
+      "Oui, toujours prononcé",
+      "Oui, devant consonne",
+      "Non, jamais, même en liaison"
+    ],
+    "tag": "Consonnes finales",
+    "expl": "Les consonnes finales sont souvent muettes. Liaison possible devant voyelle.",
+    "dictee": "muet"
+  },
+  {
+    "id": "a2p1-15",
+    "q": "Comment se prononce 'eu' dans 'peur', 'cœur', 'sœur' ?",
+    "a": "[œ] — voyelle ouverte arrondie",
+    "choices": [
+      "[e] fermé",
+      "[u] comme 'ou'",
+      "[o] comme dans 'mot'"
+    ],
+    "tag": "Voyelles",
+    "expl": "EU ouvert [œ] : peur, cœur, sœur. EU fermé [ø] : feu, bleu, jeu.",
+    "dictee": "ouvert"
+  },
+  {
+    "id": "a2p1-16",
+    "q": "Qu'est-ce que l'élision en français ?",
+    "a": "Suppression de la voyelle finale devant voyelle : le ami → l'ami",
+    "choices": [
+      "Ajout d'un son entre deux mots",
+      "Prononciation d'une consonne finale muette",
+      "Changement d'accent tonique"
+    ],
+    "tag": "Élision",
+    "expl": "Élision : le, la, me, te, se, de, que → l', m', t', s', d', qu' devant voyelle.",
+    "dictee": "élision"
+  },
+  {
+    "id": "a2p1-17",
+    "q": "Combien de syllabes dans 'continuellement' ?",
+    "a": "6 syllabes : con-ti-nu-el-le-ment",
+    "choices": [
+      "4 syllabes",
+      "5 syllabes",
+      "7 syllabes"
+    ],
+    "tag": "Syllabes",
+    "expl": "Con-ti-nu-el-le-ment = 6 syllabes. Chaque voyelle = une syllabe en français.",
+    "dictee": "six"
+  },
+  {
+    "id": "a2p1-18",
+    "q": "Où tombe l'accent tonique en français ?",
+    "a": "Sur la dernière syllabe du groupe rythmique",
+    "choices": [
+      "Sur la première syllabe",
+      "Sur la syllabe la plus longue",
+      "Variable selon le mot comme en espagnol"
+    ],
+    "tag": "Accent",
+    "expl": "En français, l'accent tombe TOUJOURS sur la dernière syllabe du groupe rythmique.",
+    "dictee": "dernière"
+  }
+]

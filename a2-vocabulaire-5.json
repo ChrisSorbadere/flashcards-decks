@@ -1,241 +1,236 @@
-{
-  "id": "a2-vocabulaire-5",
-  "name": "A2 — Vocabulaire 5 : Alimentation & restaurants",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2v5-01",
-      "q": "¿Cómo se dice 'la carte' en un restaurante?",
-      "a": "la carta del restaurante",
-      "choices": [
-        "la lista de precios fijos",
-        "el menú del día",
-        "la reserva de mesa"
-      ],
-      "tag": "Restaurant",
-      "expl": "La carte liste tous les plats disponibles.",
-      "dictee": "carte"
-    },
-    {
-      "id": "a2v5-02",
-      "q": "¿Qué significa 'bien cuit'?",
-      "a": "muy hecho",
-      "choices": [
-        "poco hecho",
-        "al punto justo",
-        "casi crudo"
-      ],
-      "tag": "Cuisson",
-      "expl": "Cuisson : saignant = poco hecho, à point = al punto, bien cuit = muy hecho.",
-      "dictee": "cuit"
-    },
-    {
-      "id": "a2v5-03",
-      "q": "¿Cómo se dice 'l'entrée' d'un repas?",
-      "a": "el primer plato / el entrante",
-      "choices": [
-        "el plato principal",
-        "el postre del día",
-        "el aperitivo inicial"
-      ],
-      "tag": "Repas",
-      "expl": "Entrée = primer plato. Plat principal = segundo. Dessert = postre.",
-      "dictee": "entrée"
-    },
-    {
-      "id": "a2v5-04",
-      "q": "¿Qué es 'la boulangerie'?",
-      "a": "la panadería",
-      "choices": [
-        "la pastelería de dulces",
-        "la charcutería francesa",
-        "la frutería del mercado"
-      ],
-      "tag": "Commerce",
-      "expl": "On achète le pain et les viennoiseries à la boulangerie.",
-      "dictee": "boulangerie"
-    },
-    {
-      "id": "a2v5-05",
-      "q": "¿Cómo se dice 'avoir faim'?",
-      "a": "tener hambre",
-      "choices": [
-        "tener mucha sed",
-        "tener buen apetito",
-        "estar completamente lleno"
-      ],
-      "tag": "Sensations",
-      "expl": "Avoir faim = tener hambre. Avoir soif = tener sed.",
-      "dictee": "faim"
-    },
-    {
-      "id": "a2v5-06",
-      "q": "¿Qué significa 'les produits laitiers'?",
-      "a": "los productos lácteos",
-      "choices": [
-        "los productos frescos del día",
-        "los productos ecológicos bio",
-        "los productos congelados"
-      ],
-      "tag": "Alimentation",
-      "expl": "Les produits laitiers : lait, fromage, yaourt, crème...",
-      "dictee": "laitiers"
-    },
-    {
-      "id": "a2v5-07",
-      "q": "¿Cómo se dice 'le pourboire'?",
-      "a": "la propina",
-      "choices": [
-        "la factura del restaurante",
-        "el IVA incluido",
-        "el servicio del camarero"
-      ],
-      "tag": "Restaurant",
-      "expl": "Le pourboire est une somme laissée en plus pour le service.",
-      "dictee": "pourboire"
-    },
-    {
-      "id": "a2v5-08",
-      "q": "¿Qué es 'une recette de cuisine'?",
-      "a": "una receta de cocina",
-      "choices": [
-        "un ingrediente básico",
-        "una técnica culinaria avanzada",
-        "un utensilio de cocina"
-      ],
-      "tag": "Cuisine",
-      "expl": "Une recette indique les ingrédients et les étapes pour préparer un plat.",
-      "dictee": "recette"
-    },
-    {
-      "id": "a2v5-09",
-      "q": "¿Cómo se dice 'le marché'?",
-      "a": "el mercado (al aire libre)",
-      "choices": [
-        "el supermercado grande",
-        "el hipermercado de las afueras",
-        "la tienda de barrio pequeña"
-      ],
-      "tag": "Commerce",
-      "expl": "Le marché = mercado al aire libre, generalmente semanal.",
-      "dictee": "marché"
-    },
-    {
-      "id": "a2v5-10",
-      "q": "¿Qué significa 'être végétarien'?",
-      "a": "ser vegetariano",
-      "choices": [
-        "ser vegano estricto",
-        "no comer gluten",
-        "tener alergias alimentarias"
-      ],
-      "tag": "Régime",
-      "expl": "Végétarien = no come carne ni pescado. Végane = ningún producto animal.",
-      "dictee": "végétarien"
-    },
-    {
-      "id": "a2v5-11",
-      "q": "¿Cómo se dice 'l'addition'?",
-      "a": "la cuenta del restaurante",
-      "choices": [
-        "el ticket de compra",
-        "el recibo de pago",
-        "la factura fiscal"
-      ],
-      "tag": "Restaurant",
-      "expl": "L'addition est la note à payer dans un café ou restaurant.",
-      "dictee": "addition"
-    },
-    {
-      "id": "a2v5-12",
-      "q": "¿Qué es 'un apéritif'?",
-      "a": "un aperitivo antes de la comida",
-      "choices": [
-        "un digestivo después de comer",
-        "un entrante frío",
-        "una copa de vino con la comida"
-      ],
-      "tag": "Repas",
-      "expl": "L'apéritif est une boisson prise avant le repas principal.",
-      "dictee": "apéritif"
-    },
-    {
-      "id": "a2v5-13",
-      "q": "¿Cómo se dice 'faire la cuisine'?",
-      "a": "cocinar / preparar la comida",
-      "choices": [
-        "poner la mesa para comer",
-        "fregar los platos sucios",
-        "ir a hacer la compra"
-      ],
-      "tag": "Cuisine",
-      "expl": "Faire la cuisine = preparar los platos. Le cuisinier = el cocinero.",
-      "dictee": "cuisine"
-    },
-    {
-      "id": "a2v5-14",
-      "q": "¿Qué son 'les matières grasses'?",
-      "a": "las grasas alimentarias",
-      "choices": [
-        "los hidratos de carbono",
-        "las proteínas animales",
-        "las vitaminas y minerales"
-      ],
-      "tag": "Nutrition",
-      "expl": "Les matières grasses = aceite, mantequilla, crema... Importantes en petite quantité.",
-      "dictee": "grasses"
-    },
-    {
-      "id": "a2v5-15",
-      "q": "¿Cómo se dice 'commander' en un restaurante?",
-      "a": "pedir / hacer el pedido al camarero",
-      "choices": [
-        "reservar una mesa anticipadamente",
-        "pagar la cuenta al final",
-        "elegir el restaurante"
-      ],
-      "tag": "Restaurant",
-      "expl": "Commander = pedir al camarero lo que quieres comer.",
-      "dictee": "commander"
-    },
-    {
-      "id": "a2v5-16",
-      "q": "¿Qué es 'un plat du jour'?",
-      "a": "el plato del día",
-      "choices": [
-        "el menú degustación del chef",
-        "la especialidad permanente del local",
-        "el menú infantil especial"
-      ],
-      "tag": "Restaurant",
-      "expl": "Le plat du jour change chaque jour. Il est souvent moins cher.",
-      "dictee": "plat"
-    },
-    {
-      "id": "a2v5-17",
-      "q": "¿Cómo se dice 'les conserves'?",
-      "a": "las conservas alimentarias",
-      "choices": [
-        "los productos congelados",
-        "los alimentos envasados frescos",
-        "los productos ultracongelados"
-      ],
-      "tag": "Alimentation",
-      "expl": "Les conserves sont des aliments dans des boîtes hermétiques.",
-      "dictee": "conserves"
-    },
-    {
-      "id": "a2v5-18",
-      "q": "¿Qué significa 'goûter' (verbe)?",
-      "a": "probar / degustar un alimento",
-      "choices": [
-        "cocinar un plato nuevo",
-        "servir la comida caliente",
-        "presentar el plato con elegancia"
-      ],
-      "tag": "Cuisine",
-      "expl": "Goûter = probar para voir si c'est bon. Aussi : le goûter = la merienda.",
-      "dictee": "goûter"
-    }
-  ]
-}
+[
+  {
+    "id": "a2v5-01",
+    "q": "¿Cómo se dice 'la carte' en un restaurante?",
+    "a": "la carta del restaurante",
+    "choices": [
+      "la lista de precios fijos",
+      "el menú del día",
+      "la reserva de mesa"
+    ],
+    "tag": "Restaurant",
+    "expl": "La carte liste tous les plats disponibles.",
+    "dictee": "carte"
+  },
+  {
+    "id": "a2v5-02",
+    "q": "¿Qué significa 'bien cuit'?",
+    "a": "muy hecho",
+    "choices": [
+      "poco hecho",
+      "al punto justo",
+      "casi crudo"
+    ],
+    "tag": "Cuisson",
+    "expl": "Cuisson : saignant = poco hecho, à point = al punto, bien cuit = muy hecho.",
+    "dictee": "cuit"
+  },
+  {
+    "id": "a2v5-03",
+    "q": "¿Cómo se dice 'l'entrée' d'un repas?",
+    "a": "el primer plato / el entrante",
+    "choices": [
+      "el plato principal",
+      "el postre del día",
+      "el aperitivo inicial"
+    ],
+    "tag": "Repas",
+    "expl": "Entrée = primer plato. Plat principal = segundo. Dessert = postre.",
+    "dictee": "entrée"
+  },
+  {
+    "id": "a2v5-04",
+    "q": "¿Qué es 'la boulangerie'?",
+    "a": "la panadería",
+    "choices": [
+      "la pastelería de dulces",
+      "la charcutería francesa",
+      "la frutería del mercado"
+    ],
+    "tag": "Commerce",
+    "expl": "On achète le pain et les viennoiseries à la boulangerie.",
+    "dictee": "boulangerie"
+  },
+  {
+    "id": "a2v5-05",
+    "q": "¿Cómo se dice 'avoir faim'?",
+    "a": "tener hambre",
+    "choices": [
+      "tener mucha sed",
+      "tener buen apetito",
+      "estar completamente lleno"
+    ],
+    "tag": "Sensations",
+    "expl": "Avoir faim = tener hambre. Avoir soif = tener sed.",
+    "dictee": "faim"
+  },
+  {
+    "id": "a2v5-06",
+    "q": "¿Qué significa 'les produits laitiers'?",
+    "a": "los productos lácteos",
+    "choices": [
+      "los productos frescos del día",
+      "los productos ecológicos bio",
+      "los productos congelados"
+    ],
+    "tag": "Alimentation",
+    "expl": "Les produits laitiers : lait, fromage, yaourt, crème...",
+    "dictee": "laitiers"
+  },
+  {
+    "id": "a2v5-07",
+    "q": "¿Cómo se dice 'le pourboire'?",
+    "a": "la propina",
+    "choices": [
+      "la factura del restaurante",
+      "el IVA incluido",
+      "el servicio del camarero"
+    ],
+    "tag": "Restaurant",
+    "expl": "Le pourboire est une somme laissée en plus pour le service.",
+    "dictee": "pourboire"
+  },
+  {
+    "id": "a2v5-08",
+    "q": "¿Qué es 'une recette de cuisine'?",
+    "a": "una receta de cocina",
+    "choices": [
+      "un ingrediente básico",
+      "una técnica culinaria avanzada",
+      "un utensilio de cocina"
+    ],
+    "tag": "Cuisine",
+    "expl": "Une recette indique les ingrédients et les étapes pour préparer un plat.",
+    "dictee": "recette"
+  },
+  {
+    "id": "a2v5-09",
+    "q": "¿Cómo se dice 'le marché'?",
+    "a": "el mercado (al aire libre)",
+    "choices": [
+      "el supermercado grande",
+      "el hipermercado de las afueras",
+      "la tienda de barrio pequeña"
+    ],
+    "tag": "Commerce",
+    "expl": "Le marché = mercado al aire libre, generalmente semanal.",
+    "dictee": "marché"
+  },
+  {
+    "id": "a2v5-10",
+    "q": "¿Qué significa 'être végétarien'?",
+    "a": "ser vegetariano",
+    "choices": [
+      "ser vegano estricto",
+      "no comer gluten",
+      "tener alergias alimentarias"
+    ],
+    "tag": "Régime",
+    "expl": "Végétarien = no come carne ni pescado. Végane = ningún producto animal.",
+    "dictee": "végétarien"
+  },
+  {
+    "id": "a2v5-11",
+    "q": "¿Cómo se dice 'l'addition'?",
+    "a": "la cuenta del restaurante",
+    "choices": [
+      "el ticket de compra",
+      "el recibo de pago",
+      "la factura fiscal"
+    ],
+    "tag": "Restaurant",
+    "expl": "L'addition est la note à payer dans un café ou restaurant.",
+    "dictee": "addition"
+  },
+  {
+    "id": "a2v5-12",
+    "q": "¿Qué es 'un apéritif'?",
+    "a": "un aperitivo antes de la comida",
+    "choices": [
+      "un digestivo después de comer",
+      "un entrante frío",
+      "una copa de vino con la comida"
+    ],
+    "tag": "Repas",
+    "expl": "L'apéritif est une boisson prise avant le repas principal.",
+    "dictee": "apéritif"
+  },
+  {
+    "id": "a2v5-13",
+    "q": "¿Cómo se dice 'faire la cuisine'?",
+    "a": "cocinar / preparar la comida",
+    "choices": [
+      "poner la mesa para comer",
+      "fregar los platos sucios",
+      "ir a hacer la compra"
+    ],
+    "tag": "Cuisine",
+    "expl": "Faire la cuisine = preparar los platos. Le cuisinier = el cocinero.",
+    "dictee": "cuisine"
+  },
+  {
+    "id": "a2v5-14",
+    "q": "¿Qué son 'les matières grasses'?",
+    "a": "las grasas alimentarias",
+    "choices": [
+      "los hidratos de carbono",
+      "las proteínas animales",
+      "las vitaminas y minerales"
+    ],
+    "tag": "Nutrition",
+    "expl": "Les matières grasses = aceite, mantequilla, crema... Importantes en petite quantité.",
+    "dictee": "grasses"
+  },
+  {
+    "id": "a2v5-15",
+    "q": "¿Cómo se dice 'commander' en un restaurante?",
+    "a": "pedir / hacer el pedido al camarero",
+    "choices": [
+      "reservar una mesa anticipadamente",
+      "pagar la cuenta al final",
+      "elegir el restaurante"
+    ],
+    "tag": "Restaurant",
+    "expl": "Commander = pedir al camarero lo que quieres comer.",
+    "dictee": "commander"
+  },
+  {
+    "id": "a2v5-16",
+    "q": "¿Qué es 'un plat du jour'?",
+    "a": "el plato del día",
+    "choices": [
+      "el menú degustación del chef",
+      "la especialidad permanente del local",
+      "el menú infantil especial"
+    ],
+    "tag": "Restaurant",
+    "expl": "Le plat du jour change chaque jour. Il est souvent moins cher.",
+    "dictee": "plat"
+  },
+  {
+    "id": "a2v5-17",
+    "q": "¿Cómo se dice 'les conserves'?",
+    "a": "las conservas alimentarias",
+    "choices": [
+      "los productos congelados",
+      "los alimentos envasados frescos",
+      "los productos ultracongelados"
+    ],
+    "tag": "Alimentation",
+    "expl": "Les conserves sont des aliments dans des boîtes hermétiques.",
+    "dictee": "conserves"
+  },
+  {
+    "id": "a2v5-18",
+    "q": "¿Qué significa 'goûter' (verbe)?",
+    "a": "probar / degustar un alimento",
+    "choices": [
+      "cocinar un plato nuevo",
+      "servir la comida caliente",
+      "presentar el plato con elegancia"
+    ],
+    "tag": "Cuisine",
+    "expl": "Goûter = probar para voir si c'est bon. Aussi : le goûter = la merienda.",
+    "dictee": "goûter"
+  }
+]

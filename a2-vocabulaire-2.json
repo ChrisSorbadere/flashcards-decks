@@ -1,241 +1,236 @@
-{
-  "id": "a2-vocabulaire-2",
-  "name": "A2 — Vocabulaire 2 : Travail & études",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2v2-01",
-      "q": "¿Cómo se dice 'un entretien d'embauche'?",
-      "a": "una entrevista de trabajo",
-      "choices": [
-        "un contrato de trabajo",
-        "un período de prueba",
-        "una convocatoria"
-      ],
-      "tag": "Travail",
-      "expl": "Un entretien d'embauche est une réunion pour obtenir un emploi.",
-      "dictee": "entretien"
-    },
-    {
-      "id": "a2v2-02",
-      "q": "¿Qué significa 'le salaire'?",
-      "a": "el salario / el sueldo",
-      "choices": [
-        "el contrato",
-        "la nómina",
-        "el horario"
-      ],
-      "tag": "Travail",
-      "expl": "Le salaire est l'argent reçu en échange du travail effectué.",
-      "dictee": "salaire"
-    },
-    {
-      "id": "a2v2-03",
-      "q": "¿Cómo se dice 'travailler à temps partiel'?",
-      "a": "trabajar a tiempo parcial",
-      "choices": [
-        "trabajar de noche",
-        "trabajar a jornada completa",
-        "trabajar desde casa"
-      ],
-      "tag": "Travail",
-      "expl": "À temps partiel = menos de 35h/semaine.",
-      "dictee": "partiel"
-    },
-    {
-      "id": "a2v2-04",
-      "q": "¿Qué es 'une réunion'?",
-      "a": "una reunión",
-      "choices": [
-        "una formación",
-        "una pausa laboral",
-        "una entrevista"
-      ],
-      "tag": "Bureau",
-      "expl": "Une réunion est une rencontre professionnelle.",
-      "dictee": "réunion"
-    },
-    {
-      "id": "a2v2-05",
-      "q": "¿Cómo se dice 'les congés payés'?",
-      "a": "las vacaciones pagadas",
-      "choices": [
-        "los días festivos",
-        "las bajas por enfermedad",
-        "los permisos retribuidos"
-      ],
-      "tag": "Travail",
-      "expl": "Les congés payés = vacaciones retribuidas. En France, 5 semaines par an.",
-      "dictee": "congés"
-    },
-    {
-      "id": "a2v2-06",
-      "q": "¿Qué significa 'être au chômage'?",
-      "a": "estar en paro / desempleado",
-      "choices": [
-        "estar jubilado",
-        "estar de baja médica",
-        "trabajar por cuenta propia"
-      ],
-      "tag": "Emploi",
-      "expl": "Être au chômage = ne pas avoir d'emploi.",
-      "dictee": "chômage"
-    },
-    {
-      "id": "a2v2-07",
-      "q": "¿Cómo se dice 'une formation professionnelle'?",
-      "a": "una formación profesional",
-      "choices": [
-        "unas prácticas",
-        "un máster universitario",
-        "unas oposiciones"
-      ],
-      "tag": "Formation",
-      "expl": "Une formation professionnelle permet d'acquérir de nouvelles compétences.",
-      "dictee": "formation"
-    },
-    {
-      "id": "a2v2-08",
-      "q": "¿Qué es 'un stage'?",
-      "a": "unas prácticas laborales",
-      "choices": [
-        "un trabajo fijo",
-        "una beca de estudios",
-        "un contrato temporal"
-      ],
-      "tag": "Formation",
-      "expl": "Un stage est une période de travail en entreprise pour se former.",
-      "dictee": "stage"
-    },
-    {
-      "id": "a2v2-09",
-      "q": "¿Cómo se dice 'le bureau'?",
-      "a": "la oficina / el despacho",
-      "choices": [
-        "la fábrica",
-        "el almacén",
-        "el taller industrial"
-      ],
-      "tag": "Lieu",
-      "expl": "Le bureau = la oficina (lieu) ou le escritorio (meuble).",
-      "dictee": "bureau"
-    },
-    {
-      "id": "a2v2-10",
-      "q": "¿Qué significa 'une candidature'?",
-      "a": "una candidatura / una solicitud de empleo",
-      "choices": [
-        "un currículum vitae",
-        "una carta de presentación",
-        "una carta de recomendación"
-      ],
-      "tag": "Emploi",
-      "expl": "Poser sa candidature = presentar su candidatura.",
-      "dictee": "candidature"
-    },
-    {
-      "id": "a2v2-11",
-      "q": "¿Cómo se dice 'les horaires de travail'?",
-      "a": "el horario de trabajo",
-      "choices": [
-        "las horas extraordinarias",
-        "el turno de noche",
-        "la jornada laboral completa"
-      ],
-      "tag": "Travail",
-      "expl": "Les horaires indiquent quand on commence et finit de travailler.",
-      "dictee": "horaires"
-    },
-    {
-      "id": "a2v2-12",
-      "q": "¿Qué es 'un collègue'?",
-      "a": "un compañero de trabajo",
-      "choices": [
-        "un jefe directo",
-        "un cliente habitual",
-        "un socio comercial"
-      ],
-      "tag": "Bureau",
-      "expl": "Un collègue est une personne avec qui on travaille.",
-      "dictee": "collègue"
-    },
-    {
-      "id": "a2v2-13",
-      "q": "¿Cómo se dice 'prendre sa retraite'?",
-      "a": "jubilarse",
-      "choices": [
-        "dimitir del trabajo",
-        "ser despedido",
-        "cambiar de empresa"
-      ],
-      "tag": "Emploi",
-      "expl": "Prendre sa retraite = arrêter de travailler après un certain âge.",
-      "dictee": "retraite"
-    },
-    {
-      "id": "a2v2-14",
-      "q": "¿Qué significa 'un diplôme'?",
-      "a": "un diploma / un título académico",
-      "choices": [
-        "un expediente académico",
-        "una nota de examen",
-        "una matrícula de honor"
-      ],
-      "tag": "Études",
-      "expl": "Un diplôme est un document officiel qui certifie une formation.",
-      "dictee": "diplôme"
-    },
-    {
-      "id": "a2v2-15",
-      "q": "¿Cómo se dice 'passer un examen'?",
-      "a": "presentarse a un examen",
-      "choices": [
-        "aprobar un examen",
-        "suspender un examen",
-        "preparar un examen"
-      ],
-      "tag": "Études",
-      "expl": "Passer = presentarse. Réussir = aprobar. Échouer = suspender.",
-      "dictee": "examen"
-    },
-    {
-      "id": "a2v2-16",
-      "q": "¿Qué es 'une note' à l'école?",
-      "a": "una nota / una calificación",
-      "choices": [
-        "un apunte de clase",
-        "un comentario del profesor",
-        "una observación académica"
-      ],
-      "tag": "Études",
-      "expl": "Une note est la note attribuée par le professeur.",
-      "dictee": "note"
-    },
-    {
-      "id": "a2v2-17",
-      "q": "¿Cómo se dice 'les devoirs'?",
-      "a": "los deberes / las tareas escolares",
-      "choices": [
-        "los apuntes de clase",
-        "los libros de texto",
-        "los exámenes finales"
-      ],
-      "tag": "Études",
-      "expl": "Les devoirs sont les exercices à faire à la maison.",
-      "dictee": "devoirs"
-    },
-    {
-      "id": "a2v2-18",
-      "q": "¿Qué significa 'une matière scolaire'?",
-      "a": "una asignatura escolar",
-      "choices": [
-        "un curso académico",
-        "un nivel educativo",
-        "una clase particular"
-      ],
-      "tag": "Études",
-      "expl": "Les matières : le français, les maths, l'histoire, la géographie...",
-      "dictee": "matière"
-    }
-  ]
-}
+[
+  {
+    "id": "a2v2-01",
+    "q": "¿Cómo se dice 'un entretien d'embauche'?",
+    "a": "una entrevista de trabajo",
+    "choices": [
+      "un contrato de trabajo",
+      "un período de prueba",
+      "una convocatoria"
+    ],
+    "tag": "Travail",
+    "expl": "Un entretien d'embauche est une réunion pour obtenir un emploi.",
+    "dictee": "entretien"
+  },
+  {
+    "id": "a2v2-02",
+    "q": "¿Qué significa 'le salaire'?",
+    "a": "el salario / el sueldo",
+    "choices": [
+      "el contrato",
+      "la nómina",
+      "el horario"
+    ],
+    "tag": "Travail",
+    "expl": "Le salaire est l'argent reçu en échange du travail effectué.",
+    "dictee": "salaire"
+  },
+  {
+    "id": "a2v2-03",
+    "q": "¿Cómo se dice 'travailler à temps partiel'?",
+    "a": "trabajar a tiempo parcial",
+    "choices": [
+      "trabajar de noche",
+      "trabajar a jornada completa",
+      "trabajar desde casa"
+    ],
+    "tag": "Travail",
+    "expl": "À temps partiel = menos de 35h/semaine.",
+    "dictee": "partiel"
+  },
+  {
+    "id": "a2v2-04",
+    "q": "¿Qué es 'une réunion'?",
+    "a": "una reunión",
+    "choices": [
+      "una formación",
+      "una pausa laboral",
+      "una entrevista"
+    ],
+    "tag": "Bureau",
+    "expl": "Une réunion est une rencontre professionnelle.",
+    "dictee": "réunion"
+  },
+  {
+    "id": "a2v2-05",
+    "q": "¿Cómo se dice 'les congés payés'?",
+    "a": "las vacaciones pagadas",
+    "choices": [
+      "los días festivos",
+      "las bajas por enfermedad",
+      "los permisos retribuidos"
+    ],
+    "tag": "Travail",
+    "expl": "Les congés payés = vacaciones retribuidas. En France, 5 semaines par an.",
+    "dictee": "congés"
+  },
+  {
+    "id": "a2v2-06",
+    "q": "¿Qué significa 'être au chômage'?",
+    "a": "estar en paro / desempleado",
+    "choices": [
+      "estar jubilado",
+      "estar de baja médica",
+      "trabajar por cuenta propia"
+    ],
+    "tag": "Emploi",
+    "expl": "Être au chômage = ne pas avoir d'emploi.",
+    "dictee": "chômage"
+  },
+  {
+    "id": "a2v2-07",
+    "q": "¿Cómo se dice 'une formation professionnelle'?",
+    "a": "una formación profesional",
+    "choices": [
+      "unas prácticas",
+      "un máster universitario",
+      "unas oposiciones"
+    ],
+    "tag": "Formation",
+    "expl": "Une formation professionnelle permet d'acquérir de nouvelles compétences.",
+    "dictee": "formation"
+  },
+  {
+    "id": "a2v2-08",
+    "q": "¿Qué es 'un stage'?",
+    "a": "unas prácticas laborales",
+    "choices": [
+      "un trabajo fijo",
+      "una beca de estudios",
+      "un contrato temporal"
+    ],
+    "tag": "Formation",
+    "expl": "Un stage est une période de travail en entreprise pour se former.",
+    "dictee": "stage"
+  },
+  {
+    "id": "a2v2-09",
+    "q": "¿Cómo se dice 'le bureau'?",
+    "a": "la oficina / el despacho",
+    "choices": [
+      "la fábrica",
+      "el almacén",
+      "el taller industrial"
+    ],
+    "tag": "Lieu",
+    "expl": "Le bureau = la oficina (lieu) ou le escritorio (meuble).",
+    "dictee": "bureau"
+  },
+  {
+    "id": "a2v2-10",
+    "q": "¿Qué significa 'une candidature'?",
+    "a": "una candidatura / una solicitud de empleo",
+    "choices": [
+      "un currículum vitae",
+      "una carta de presentación",
+      "una carta de recomendación"
+    ],
+    "tag": "Emploi",
+    "expl": "Poser sa candidature = presentar su candidatura.",
+    "dictee": "candidature"
+  },
+  {
+    "id": "a2v2-11",
+    "q": "¿Cómo se dice 'les horaires de travail'?",
+    "a": "el horario de trabajo",
+    "choices": [
+      "las horas extraordinarias",
+      "el turno de noche",
+      "la jornada laboral completa"
+    ],
+    "tag": "Travail",
+    "expl": "Les horaires indiquent quand on commence et finit de travailler.",
+    "dictee": "horaires"
+  },
+  {
+    "id": "a2v2-12",
+    "q": "¿Qué es 'un collègue'?",
+    "a": "un compañero de trabajo",
+    "choices": [
+      "un jefe directo",
+      "un cliente habitual",
+      "un socio comercial"
+    ],
+    "tag": "Bureau",
+    "expl": "Un collègue est une personne avec qui on travaille.",
+    "dictee": "collègue"
+  },
+  {
+    "id": "a2v2-13",
+    "q": "¿Cómo se dice 'prendre sa retraite'?",
+    "a": "jubilarse",
+    "choices": [
+      "dimitir del trabajo",
+      "ser despedido",
+      "cambiar de empresa"
+    ],
+    "tag": "Emploi",
+    "expl": "Prendre sa retraite = arrêter de travailler après un certain âge.",
+    "dictee": "retraite"
+  },
+  {
+    "id": "a2v2-14",
+    "q": "¿Qué significa 'un diplôme'?",
+    "a": "un diploma / un título académico",
+    "choices": [
+      "un expediente académico",
+      "una nota de examen",
+      "una matrícula de honor"
+    ],
+    "tag": "Études",
+    "expl": "Un diplôme est un document officiel qui certifie une formation.",
+    "dictee": "diplôme"
+  },
+  {
+    "id": "a2v2-15",
+    "q": "¿Cómo se dice 'passer un examen'?",
+    "a": "presentarse a un examen",
+    "choices": [
+      "aprobar un examen",
+      "suspender un examen",
+      "preparar un examen"
+    ],
+    "tag": "Études",
+    "expl": "Passer = presentarse. Réussir = aprobar. Échouer = suspender.",
+    "dictee": "examen"
+  },
+  {
+    "id": "a2v2-16",
+    "q": "¿Qué es 'une note' à l'école?",
+    "a": "una nota / una calificación",
+    "choices": [
+      "un apunte de clase",
+      "un comentario del profesor",
+      "una observación académica"
+    ],
+    "tag": "Études",
+    "expl": "Une note est la note attribuée par le professeur.",
+    "dictee": "note"
+  },
+  {
+    "id": "a2v2-17",
+    "q": "¿Cómo se dice 'les devoirs'?",
+    "a": "los deberes / las tareas escolares",
+    "choices": [
+      "los apuntes de clase",
+      "los libros de texto",
+      "los exámenes finales"
+    ],
+    "tag": "Études",
+    "expl": "Les devoirs sont les exercices à faire à la maison.",
+    "dictee": "devoirs"
+  },
+  {
+    "id": "a2v2-18",
+    "q": "¿Qué significa 'une matière scolaire'?",
+    "a": "una asignatura escolar",
+    "choices": [
+      "un curso académico",
+      "un nivel educativo",
+      "una clase particular"
+    ],
+    "tag": "Études",
+    "expl": "Les matières : le français, les maths, l'histoire, la géographie...",
+    "dictee": "matière"
+  }
+]

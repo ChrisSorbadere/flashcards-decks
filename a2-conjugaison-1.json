@@ -1,259 +1,254 @@
-{
-  "id": "a2-conjugaison-1",
-  "name": "A2 — Conjugaison 1 : Passé composé avec avoir",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2c1-01",
-      "q": "Nous ___ (manger) au restaurant hier.",
-      "a": "avons mangé",
-      "choices": [
-        "avons manger",
-        "avons mangés",
-        "avions mangé"
-      ],
-      "tag": "PC avoir",
-      "hint": "Avoir + participe passé",
-      "expl": "Manger → mangé. Avec avoir, le participe ne s'accorde pas avec le sujet.",
-      "dictee": "avons mangé"
-    },
-    {
-      "id": "a2c1-02",
-      "q": "Tu ___ (finir) tes devoirs ?",
-      "a": "as fini",
-      "choices": [
-        "as finit",
-        "as finis",
-        "avais fini"
-      ],
-      "tag": "PC avoir",
-      "hint": "Finir → participe en -i",
-      "expl": "Finir → fini. Le participe des verbes en -ir est souvent en -i.",
-      "dictee": "as fini"
-    },
-    {
-      "id": "a2c1-03",
-      "q": "Elle ___ (prendre) le bus ce matin.",
-      "a": "a pris",
-      "choices": [
-        "a prendu",
-        "a prenu",
-        "a prendre"
-      ],
-      "tag": "PC avoir",
-      "hint": "Participe irrégulier",
-      "expl": "Prendre → pris. Participe irrégulier à mémoriser.",
-      "dictee": "a pris"
-    },
-    {
-      "id": "a2c1-04",
-      "q": "Ils ___ (voir) un film hier soir.",
-      "a": "ont vu",
-      "choices": [
-        "ont voyé",
-        "ont vus",
-        "ont voit"
-      ],
-      "tag": "PC avoir",
-      "hint": "Voir → participe très court",
-      "expl": "Voir → vu. Avec avoir, pas d'accord avec le sujet.",
-      "dictee": "ont vu"
-    },
-    {
-      "id": "a2c1-05",
-      "q": "Vous ___ (lire) ce livre ?",
-      "a": "avez lu",
-      "choices": [
-        "avez lisé",
-        "avez lit",
-        "avez lus"
-      ],
-      "tag": "PC avoir",
-      "hint": "Lire → participe court",
-      "expl": "Lire → lu. Participe irrégulier. Pas d'accord avec le sujet.",
-      "dictee": "avez lu"
-    },
-    {
-      "id": "a2c1-06",
-      "q": "J'___ (écrire) une lettre importante.",
-      "a": "ai écrit",
-      "choices": [
-        "ai écrire",
-        "ai écris",
-        "avais écrit"
-      ],
-      "tag": "PC avoir",
-      "hint": "Écrire → participe en -it",
-      "expl": "Écrire → écrit. Décrire → décrit. Inscrire → inscrit.",
-      "dictee": "ai écrit"
-    },
-    {
-      "id": "a2c1-07",
-      "q": "Il ___ (boire) tout le jus d'orange.",
-      "a": "a bu",
-      "choices": [
-        "a boire",
-        "a buvé",
-        "a bus"
-      ],
-      "tag": "PC avoir",
-      "hint": "Boire → participe très court",
-      "expl": "Boire → bu. Participe irrégulier.",
-      "dictee": "a bu"
-    },
-    {
-      "id": "a2c1-08",
-      "q": "Nous ___ (recevoir) une bonne nouvelle.",
-      "a": "avons reçu",
-      "choices": [
-        "avons recevé",
-        "avons recevait",
-        "avons reçus"
-      ],
-      "tag": "PC avoir",
-      "hint": "Recevoir → participe irrégulier",
-      "expl": "Recevoir → reçu. La cédille est importante !",
-      "dictee": "avons reçu"
-    },
-    {
-      "id": "a2c1-09",
-      "q": "Elles ___ (vouloir) partir tôt.",
-      "a": "ont voulu",
-      "choices": [
-        "ont voulé",
-        "ont voulez",
-        "ont voulues"
-      ],
-      "tag": "PC avoir",
-      "hint": "Vouloir → participe irrégulier",
-      "expl": "Vouloir → voulu. Pas d'accord avec avoir.",
-      "dictee": "ont voulu"
-    },
-    {
-      "id": "a2c1-10",
-      "q": "Tu ___ (pouvoir) venir hier ?",
-      "a": "as pu",
-      "choices": [
-        "as pouvé",
-        "as pouvait",
-        "as pus"
-      ],
-      "tag": "PC avoir",
-      "hint": "Pouvoir → participe très court",
-      "expl": "Pouvoir → pu. Devoir → dû. Savoir → su.",
-      "dictee": "as pu"
-    },
-    {
-      "id": "a2c1-11",
-      "q": "J'___ (mettre) les clés sur la table.",
-      "a": "ai mis",
-      "choices": [
-        "ai metté",
-        "ai metts",
-        "avais mis"
-      ],
-      "tag": "PC avoir",
-      "hint": "Mettre → participe irrégulier",
-      "expl": "Mettre → mis. Promettre → promis. Permettre → permis.",
-      "dictee": "ai mis"
-    },
-    {
-      "id": "a2c1-12",
-      "q": "Vous ___ (dire) la vérité ?",
-      "a": "avez dit",
-      "choices": [
-        "avez disu",
-        "avez diré",
-        "avez dis"
-      ],
-      "tag": "PC avoir",
-      "hint": "Dire → participe irrégulier",
-      "expl": "Dire → dit. Contredire → contredit. Interdire → interdit.",
-      "dictee": "avez dit"
-    },
-    {
-      "id": "a2c1-13",
-      "q": "Il ___ (faire) beau hier toute la journée.",
-      "a": "a fait",
-      "choices": [
-        "a faisé",
-        "a faite",
-        "a fais"
-      ],
-      "tag": "PC avoir",
-      "hint": "Faire → participe irrégulier",
-      "expl": "Faire → fait. Satisfaire → satisfait. Défaire → défait.",
-      "dictee": "a fait"
-    },
-    {
-      "id": "a2c1-14",
-      "q": "Nous ___ (choisir) la même couleur.",
-      "a": "avons choisi",
-      "choices": [
-        "avons choisis",
-        "avons choisit",
-        "avons choisissé"
-      ],
-      "tag": "PC avoir",
-      "hint": "Choisir → participe en -i",
-      "expl": "Choisir → choisi. Finir → fini. Ouvrir → ouvert.",
-      "dictee": "avons choisi"
-    },
-    {
-      "id": "a2c1-15",
-      "q": "Elle ___ (attendre) deux heures au café.",
-      "a": "a attendu",
-      "choices": [
-        "a attendé",
-        "a attendit",
-        "a attendus"
-      ],
-      "tag": "PC avoir",
-      "hint": "Attendre → participe en -u",
-      "expl": "Attendre → attendu. Vendre → vendu. Entendre → entendu.",
-      "dictee": "a attendu"
-    },
-    {
-      "id": "a2c1-16",
-      "q": "Ils ___ (apprendre) le français rapidement.",
-      "a": "ont appris",
-      "choices": [
-        "ont apprendu",
-        "ont apprenait",
-        "ont comprendu"
-      ],
-      "tag": "PC avoir",
-      "hint": "Apprendre → comme prendre",
-      "expl": "Apprendre → appris. Comprendre → compris. Surprendre → surpris.",
-      "dictee": "ont appris"
-    },
-    {
-      "id": "a2c1-17",
-      "q": "J'___ (ouvrir) la fenêtre ce matin.",
-      "a": "ai ouvert",
-      "choices": [
-        "ai ouvri",
-        "ai ouvrais",
-        "ai ouverts"
-      ],
-      "tag": "PC avoir",
-      "hint": "Ouvrir → participe irrégulier",
-      "expl": "Ouvrir → ouvert. Couvrir → couvert. Offrir → offert.",
-      "dictee": "ai ouvert"
-    },
-    {
-      "id": "a2c1-18",
-      "q": "Tu ___ (rire) pendant tout le film.",
-      "a": "as ri",
-      "choices": [
-        "as rit",
-        "as rire",
-        "as ris"
-      ],
-      "tag": "PC avoir",
-      "hint": "Rire → participe très court",
-      "expl": "Rire → ri. Sourire → souri.",
-      "dictee": "as ri"
-    }
-  ]
-}
+[
+  {
+    "id": "a2c1-01",
+    "q": "Nous ___ (manger) au restaurant hier.",
+    "a": "avons mangé",
+    "choices": [
+      "avons manger",
+      "avons mangés",
+      "avions mangé"
+    ],
+    "tag": "PC avoir",
+    "hint": "Avoir + participe passé",
+    "expl": "Manger → mangé. Avec avoir, le participe ne s'accorde pas avec le sujet.",
+    "dictee": "avons mangé"
+  },
+  {
+    "id": "a2c1-02",
+    "q": "Tu ___ (finir) tes devoirs ?",
+    "a": "as fini",
+    "choices": [
+      "as finit",
+      "as finis",
+      "avais fini"
+    ],
+    "tag": "PC avoir",
+    "hint": "Finir → participe en -i",
+    "expl": "Finir → fini. Le participe des verbes en -ir est souvent en -i.",
+    "dictee": "as fini"
+  },
+  {
+    "id": "a2c1-03",
+    "q": "Elle ___ (prendre) le bus ce matin.",
+    "a": "a pris",
+    "choices": [
+      "a prendu",
+      "a prenu",
+      "a prendre"
+    ],
+    "tag": "PC avoir",
+    "hint": "Participe irrégulier",
+    "expl": "Prendre → pris. Participe irrégulier à mémoriser.",
+    "dictee": "a pris"
+  },
+  {
+    "id": "a2c1-04",
+    "q": "Ils ___ (voir) un film hier soir.",
+    "a": "ont vu",
+    "choices": [
+      "ont voyé",
+      "ont vus",
+      "ont voit"
+    ],
+    "tag": "PC avoir",
+    "hint": "Voir → participe très court",
+    "expl": "Voir → vu. Avec avoir, pas d'accord avec le sujet.",
+    "dictee": "ont vu"
+  },
+  {
+    "id": "a2c1-05",
+    "q": "Vous ___ (lire) ce livre ?",
+    "a": "avez lu",
+    "choices": [
+      "avez lisé",
+      "avez lit",
+      "avez lus"
+    ],
+    "tag": "PC avoir",
+    "hint": "Lire → participe court",
+    "expl": "Lire → lu. Participe irrégulier. Pas d'accord avec le sujet.",
+    "dictee": "avez lu"
+  },
+  {
+    "id": "a2c1-06",
+    "q": "J'___ (écrire) une lettre importante.",
+    "a": "ai écrit",
+    "choices": [
+      "ai écrire",
+      "ai écris",
+      "avais écrit"
+    ],
+    "tag": "PC avoir",
+    "hint": "Écrire → participe en -it",
+    "expl": "Écrire → écrit. Décrire → décrit. Inscrire → inscrit.",
+    "dictee": "ai écrit"
+  },
+  {
+    "id": "a2c1-07",
+    "q": "Il ___ (boire) tout le jus d'orange.",
+    "a": "a bu",
+    "choices": [
+      "a boire",
+      "a buvé",
+      "a bus"
+    ],
+    "tag": "PC avoir",
+    "hint": "Boire → participe très court",
+    "expl": "Boire → bu. Participe irrégulier.",
+    "dictee": "a bu"
+  },
+  {
+    "id": "a2c1-08",
+    "q": "Nous ___ (recevoir) une bonne nouvelle.",
+    "a": "avons reçu",
+    "choices": [
+      "avons recevé",
+      "avons recevait",
+      "avons reçus"
+    ],
+    "tag": "PC avoir",
+    "hint": "Recevoir → participe irrégulier",
+    "expl": "Recevoir → reçu. La cédille est importante !",
+    "dictee": "avons reçu"
+  },
+  {
+    "id": "a2c1-09",
+    "q": "Elles ___ (vouloir) partir tôt.",
+    "a": "ont voulu",
+    "choices": [
+      "ont voulé",
+      "ont voulez",
+      "ont voulues"
+    ],
+    "tag": "PC avoir",
+    "hint": "Vouloir → participe irrégulier",
+    "expl": "Vouloir → voulu. Pas d'accord avec avoir.",
+    "dictee": "ont voulu"
+  },
+  {
+    "id": "a2c1-10",
+    "q": "Tu ___ (pouvoir) venir hier ?",
+    "a": "as pu",
+    "choices": [
+      "as pouvé",
+      "as pouvait",
+      "as pus"
+    ],
+    "tag": "PC avoir",
+    "hint": "Pouvoir → participe très court",
+    "expl": "Pouvoir → pu. Devoir → dû. Savoir → su.",
+    "dictee": "as pu"
+  },
+  {
+    "id": "a2c1-11",
+    "q": "J'___ (mettre) les clés sur la table.",
+    "a": "ai mis",
+    "choices": [
+      "ai metté",
+      "ai metts",
+      "avais mis"
+    ],
+    "tag": "PC avoir",
+    "hint": "Mettre → participe irrégulier",
+    "expl": "Mettre → mis. Promettre → promis. Permettre → permis.",
+    "dictee": "ai mis"
+  },
+  {
+    "id": "a2c1-12",
+    "q": "Vous ___ (dire) la vérité ?",
+    "a": "avez dit",
+    "choices": [
+      "avez disu",
+      "avez diré",
+      "avez dis"
+    ],
+    "tag": "PC avoir",
+    "hint": "Dire → participe irrégulier",
+    "expl": "Dire → dit. Contredire → contredit. Interdire → interdit.",
+    "dictee": "avez dit"
+  },
+  {
+    "id": "a2c1-13",
+    "q": "Il ___ (faire) beau hier toute la journée.",
+    "a": "a fait",
+    "choices": [
+      "a faisé",
+      "a faite",
+      "a fais"
+    ],
+    "tag": "PC avoir",
+    "hint": "Faire → participe irrégulier",
+    "expl": "Faire → fait. Satisfaire → satisfait. Défaire → défait.",
+    "dictee": "a fait"
+  },
+  {
+    "id": "a2c1-14",
+    "q": "Nous ___ (choisir) la même couleur.",
+    "a": "avons choisi",
+    "choices": [
+      "avons choisis",
+      "avons choisit",
+      "avons choisissé"
+    ],
+    "tag": "PC avoir",
+    "hint": "Choisir → participe en -i",
+    "expl": "Choisir → choisi. Finir → fini. Ouvrir → ouvert.",
+    "dictee": "avons choisi"
+  },
+  {
+    "id": "a2c1-15",
+    "q": "Elle ___ (attendre) deux heures au café.",
+    "a": "a attendu",
+    "choices": [
+      "a attendé",
+      "a attendit",
+      "a attendus"
+    ],
+    "tag": "PC avoir",
+    "hint": "Attendre → participe en -u",
+    "expl": "Attendre → attendu. Vendre → vendu. Entendre → entendu.",
+    "dictee": "a attendu"
+  },
+  {
+    "id": "a2c1-16",
+    "q": "Ils ___ (apprendre) le français rapidement.",
+    "a": "ont appris",
+    "choices": [
+      "ont apprendu",
+      "ont apprenait",
+      "ont comprendu"
+    ],
+    "tag": "PC avoir",
+    "hint": "Apprendre → comme prendre",
+    "expl": "Apprendre → appris. Comprendre → compris. Surprendre → surpris.",
+    "dictee": "ont appris"
+  },
+  {
+    "id": "a2c1-17",
+    "q": "J'___ (ouvrir) la fenêtre ce matin.",
+    "a": "ai ouvert",
+    "choices": [
+      "ai ouvri",
+      "ai ouvrais",
+      "ai ouverts"
+    ],
+    "tag": "PC avoir",
+    "hint": "Ouvrir → participe irrégulier",
+    "expl": "Ouvrir → ouvert. Couvrir → couvert. Offrir → offert.",
+    "dictee": "ai ouvert"
+  },
+  {
+    "id": "a2c1-18",
+    "q": "Tu ___ (rire) pendant tout le film.",
+    "a": "as ri",
+    "choices": [
+      "as rit",
+      "as rire",
+      "as ris"
+    ],
+    "tag": "PC avoir",
+    "hint": "Rire → participe très court",
+    "expl": "Rire → ri. Sourire → souri.",
+    "dictee": "as ri"
+  }
+]

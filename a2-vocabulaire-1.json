@@ -1,245 +1,240 @@
-{
-  "id": "a2-vocabulaire-1",
-  "name": "A2 — Vocabulaire 1 : Vie quotidienne & maison",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2v1-01",
-      "q": "¿Cómo se dice 'la chambre' en francés?",
-      "a": "la chambre",
-      "choices": [
-        "la cuisine",
-        "le salon",
-        "la salle de bain"
-      ],
-      "tag": "Maison",
-      "hint": "C'est là où on dort",
-      "expl": "La chambre = la pièce pour dormir.",
-      "dictee": "chambre"
-    },
-    {
-      "id": "a2v1-02",
-      "q": "¿Qué significa 'le loyer'?",
-      "a": "el alquiler",
-      "choices": [
-        "el préstamo",
-        "la factura",
-        "el seguro"
-      ],
-      "tag": "Logement",
-      "hint": "Se paga cada mes al propietario",
-      "expl": "Le loyer est la somme payée chaque mois pour habiter un logement.",
-      "dictee": "loyer"
-    },
-    {
-      "id": "a2v1-03",
-      "q": "¿Cómo se dice 'déménager'?",
-      "a": "mudarse",
-      "choices": [
-        "limpiar",
-        "decorar",
-        "reformar"
-      ],
-      "tag": "Logement",
-      "hint": "Changer de domicile",
-      "expl": "Déménager = cambiar de casa.",
-      "dictee": "déménager"
-    },
-    {
-      "id": "a2v1-04",
-      "q": "¿Qué es 'une armoire'?",
-      "a": "un armario",
-      "choices": [
-        "una cama",
-        "una mesa",
-        "una silla"
-      ],
-      "tag": "Meuble",
-      "expl": "Une armoire est un grand meuble pour ranger les vêtements.",
-      "dictee": "armoire"
-    },
-    {
-      "id": "a2v1-05",
-      "q": "¿Cómo se dice 'brancher' un aparato?",
-      "a": "enchufar",
-      "choices": [
-        "apagar",
-        "romper",
-        "limpiar"
-      ],
-      "tag": "Maison",
-      "hint": "Conectar a la corriente",
-      "expl": "Brancher = conectar a la electricidad.",
-      "dictee": "brancher"
-    },
-    {
-      "id": "a2v1-06",
-      "q": "¿Qué significa 'les charges'?",
-      "a": "los gastos (agua, luz...)",
-      "choices": [
-        "los muebles",
-        "las habitaciones",
-        "los vecinos"
-      ],
-      "tag": "Logement",
-      "expl": "Les charges = gastos incluidos en el alquiler.",
-      "dictee": "charges"
-    },
-    {
-      "id": "a2v1-07",
-      "q": "¿Cómo se dice 'le rez-de-chaussée'?",
-      "a": "la planta baja",
-      "choices": [
-        "el primer piso",
-        "el sótano",
-        "el ático"
-      ],
-      "tag": "Immeuble",
-      "expl": "Le rez-de-chaussée est le niveau au niveau de la rue.",
-      "dictee": "rez-de-chaussée"
-    },
-    {
-      "id": "a2v1-08",
-      "q": "¿Qué es 'un aspirateur'?",
-      "a": "una aspiradora",
-      "choices": [
-        "una lavadora",
-        "un lavavajillas",
-        "una plancha"
-      ],
-      "tag": "Électroménager",
-      "expl": "Un aspirateur sert à aspirer la poussière du sol.",
-      "dictee": "aspirateur"
-    },
-    {
-      "id": "a2v1-09",
-      "q": "¿Cómo se dice 'ranger sa chambre'?",
-      "a": "ordenar su habitación",
-      "choices": [
-        "decorar su habitación",
-        "limpiar el baño",
-        "hacer la cama"
-      ],
-      "tag": "Tâches",
-      "expl": "Ranger = poner en orden.",
-      "dictee": "ranger"
-    },
-    {
-      "id": "a2v1-10",
-      "q": "¿Qué significa 'un voisin'?",
-      "a": "un vecino",
-      "choices": [
-        "un inquilino",
-        "un propietario",
-        "un portero"
-      ],
-      "tag": "Logement",
-      "expl": "Un voisin est une personne qui habite près de chez vous.",
-      "dictee": "voisin"
-    },
-    {
-      "id": "a2v1-11",
-      "q": "¿Cómo se dice 'faire la lessive'?",
-      "a": "hacer la colada",
-      "choices": [
-        "fregar los platos",
-        "pasar el aspirador",
-        "hacer la cama"
-      ],
-      "tag": "Tâches",
-      "expl": "Faire la lessive = lavar la ropa.",
-      "dictee": "lessive"
-    },
-    {
-      "id": "a2v1-12",
-      "q": "¿Qué es 'un robinet'?",
-      "a": "un grifo",
-      "choices": [
-        "una ducha",
-        "una bañera",
-        "un lavabo"
-      ],
-      "tag": "Salle de bain",
-      "expl": "Un robinet permet de faire couler l'eau.",
-      "dictee": "robinet"
-    },
-    {
-      "id": "a2v1-13",
-      "q": "¿Cómo se dice 'la poubelle'?",
-      "a": "la basura / el cubo de basura",
-      "choices": [
-        "el reciclaje",
-        "la escoba",
-        "el fregadero"
-      ],
-      "tag": "Maison",
-      "expl": "La poubelle sert à jeter les déchets.",
-      "dictee": "poubelle"
-    },
-    {
-      "id": "a2v1-14",
-      "q": "¿Qué significa 'emménager'?",
-      "a": "instalarse en un nuevo hogar",
-      "choices": [
-        "salir de casa",
-        "reformar la casa",
-        "alquilar un piso"
-      ],
-      "tag": "Logement",
-      "expl": "Emménager = entrar a vivir en un nuevo alojamiento.",
-      "dictee": "emménager"
-    },
-    {
-      "id": "a2v1-15",
-      "q": "¿Cómo se dice 'le propriétaire'?",
-      "a": "el propietario / el dueño",
-      "choices": [
-        "el inquilino",
-        "el vecino",
-        "el portero"
-      ],
-      "tag": "Logement",
-      "expl": "Le propriétaire est la personne à qui appartient le logement.",
-      "dictee": "propriétaire"
-    },
-    {
-      "id": "a2v1-16",
-      "q": "¿Qué es 'un couloir'?",
-      "a": "un pasillo",
-      "choices": [
-        "una escalera",
-        "un ascensor",
-        "una entrada"
-      ],
-      "tag": "Maison",
-      "expl": "Un couloir est un passage étroit entre les pièces.",
-      "dictee": "couloir"
-    },
-    {
-      "id": "a2v1-17",
-      "q": "¿Cómo se dice 'les rideaux'?",
-      "a": "las cortinas",
-      "choices": [
-        "las persianas",
-        "los estores",
-        "las contraventanas"
-      ],
-      "tag": "Décoration",
-      "expl": "Les rideaux sont des tissus suspendus devant les fenêtres.",
-      "dictee": "rideaux"
-    },
-    {
-      "id": "a2v1-18",
-      "q": "¿Qué significa 'la sonnette'?",
-      "a": "el timbre",
-      "choices": [
-        "la cerradura",
-        "el buzón",
-        "el portero automático"
-      ],
-      "tag": "Maison",
-      "expl": "La sonnette est le bouton qu'on appuie pour signaler sa présence.",
-      "dictee": "sonnette"
-    }
-  ]
-}
+[
+  {
+    "id": "a2v1-01",
+    "q": "¿Cómo se dice 'la chambre' en francés?",
+    "a": "la chambre",
+    "choices": [
+      "la cuisine",
+      "le salon",
+      "la salle de bain"
+    ],
+    "tag": "Maison",
+    "hint": "C'est là où on dort",
+    "expl": "La chambre = la pièce pour dormir.",
+    "dictee": "chambre"
+  },
+  {
+    "id": "a2v1-02",
+    "q": "¿Qué significa 'le loyer'?",
+    "a": "el alquiler",
+    "choices": [
+      "el préstamo",
+      "la factura",
+      "el seguro"
+    ],
+    "tag": "Logement",
+    "hint": "Se paga cada mes al propietario",
+    "expl": "Le loyer est la somme payée chaque mois pour habiter un logement.",
+    "dictee": "loyer"
+  },
+  {
+    "id": "a2v1-03",
+    "q": "¿Cómo se dice 'déménager'?",
+    "a": "mudarse",
+    "choices": [
+      "limpiar",
+      "decorar",
+      "reformar"
+    ],
+    "tag": "Logement",
+    "hint": "Changer de domicile",
+    "expl": "Déménager = cambiar de casa.",
+    "dictee": "déménager"
+  },
+  {
+    "id": "a2v1-04",
+    "q": "¿Qué es 'une armoire'?",
+    "a": "un armario",
+    "choices": [
+      "una cama",
+      "una mesa",
+      "una silla"
+    ],
+    "tag": "Meuble",
+    "expl": "Une armoire est un grand meuble pour ranger les vêtements.",
+    "dictee": "armoire"
+  },
+  {
+    "id": "a2v1-05",
+    "q": "¿Cómo se dice 'brancher' un aparato?",
+    "a": "enchufar",
+    "choices": [
+      "apagar",
+      "romper",
+      "limpiar"
+    ],
+    "tag": "Maison",
+    "hint": "Conectar a la corriente",
+    "expl": "Brancher = conectar a la electricidad.",
+    "dictee": "brancher"
+  },
+  {
+    "id": "a2v1-06",
+    "q": "¿Qué significa 'les charges'?",
+    "a": "los gastos (agua, luz...)",
+    "choices": [
+      "los muebles",
+      "las habitaciones",
+      "los vecinos"
+    ],
+    "tag": "Logement",
+    "expl": "Les charges = gastos incluidos en el alquiler.",
+    "dictee": "charges"
+  },
+  {
+    "id": "a2v1-07",
+    "q": "¿Cómo se dice 'le rez-de-chaussée'?",
+    "a": "la planta baja",
+    "choices": [
+      "el primer piso",
+      "el sótano",
+      "el ático"
+    ],
+    "tag": "Immeuble",
+    "expl": "Le rez-de-chaussée est le niveau au niveau de la rue.",
+    "dictee": "rez-de-chaussée"
+  },
+  {
+    "id": "a2v1-08",
+    "q": "¿Qué es 'un aspirateur'?",
+    "a": "una aspiradora",
+    "choices": [
+      "una lavadora",
+      "un lavavajillas",
+      "una plancha"
+    ],
+    "tag": "Électroménager",
+    "expl": "Un aspirateur sert à aspirer la poussière du sol.",
+    "dictee": "aspirateur"
+  },
+  {
+    "id": "a2v1-09",
+    "q": "¿Cómo se dice 'ranger sa chambre'?",
+    "a": "ordenar su habitación",
+    "choices": [
+      "decorar su habitación",
+      "limpiar el baño",
+      "hacer la cama"
+    ],
+    "tag": "Tâches",
+    "expl": "Ranger = poner en orden.",
+    "dictee": "ranger"
+  },
+  {
+    "id": "a2v1-10",
+    "q": "¿Qué significa 'un voisin'?",
+    "a": "un vecino",
+    "choices": [
+      "un inquilino",
+      "un propietario",
+      "un portero"
+    ],
+    "tag": "Logement",
+    "expl": "Un voisin est une personne qui habite près de chez vous.",
+    "dictee": "voisin"
+  },
+  {
+    "id": "a2v1-11",
+    "q": "¿Cómo se dice 'faire la lessive'?",
+    "a": "hacer la colada",
+    "choices": [
+      "fregar los platos",
+      "pasar el aspirador",
+      "hacer la cama"
+    ],
+    "tag": "Tâches",
+    "expl": "Faire la lessive = lavar la ropa.",
+    "dictee": "lessive"
+  },
+  {
+    "id": "a2v1-12",
+    "q": "¿Qué es 'un robinet'?",
+    "a": "un grifo",
+    "choices": [
+      "una ducha",
+      "una bañera",
+      "un lavabo"
+    ],
+    "tag": "Salle de bain",
+    "expl": "Un robinet permet de faire couler l'eau.",
+    "dictee": "robinet"
+  },
+  {
+    "id": "a2v1-13",
+    "q": "¿Cómo se dice 'la poubelle'?",
+    "a": "la basura / el cubo de basura",
+    "choices": [
+      "el reciclaje",
+      "la escoba",
+      "el fregadero"
+    ],
+    "tag": "Maison",
+    "expl": "La poubelle sert à jeter les déchets.",
+    "dictee": "poubelle"
+  },
+  {
+    "id": "a2v1-14",
+    "q": "¿Qué significa 'emménager'?",
+    "a": "instalarse en un nuevo hogar",
+    "choices": [
+      "salir de casa",
+      "reformar la casa",
+      "alquilar un piso"
+    ],
+    "tag": "Logement",
+    "expl": "Emménager = entrar a vivir en un nuevo alojamiento.",
+    "dictee": "emménager"
+  },
+  {
+    "id": "a2v1-15",
+    "q": "¿Cómo se dice 'le propriétaire'?",
+    "a": "el propietario / el dueño",
+    "choices": [
+      "el inquilino",
+      "el vecino",
+      "el portero"
+    ],
+    "tag": "Logement",
+    "expl": "Le propriétaire est la personne à qui appartient le logement.",
+    "dictee": "propriétaire"
+  },
+  {
+    "id": "a2v1-16",
+    "q": "¿Qué es 'un couloir'?",
+    "a": "un pasillo",
+    "choices": [
+      "una escalera",
+      "un ascensor",
+      "una entrada"
+    ],
+    "tag": "Maison",
+    "expl": "Un couloir est un passage étroit entre les pièces.",
+    "dictee": "couloir"
+  },
+  {
+    "id": "a2v1-17",
+    "q": "¿Cómo se dice 'les rideaux'?",
+    "a": "las cortinas",
+    "choices": [
+      "las persianas",
+      "los estores",
+      "las contraventanas"
+    ],
+    "tag": "Décoration",
+    "expl": "Les rideaux sont des tissus suspendus devant les fenêtres.",
+    "dictee": "rideaux"
+  },
+  {
+    "id": "a2v1-18",
+    "q": "¿Qué significa 'la sonnette'?",
+    "a": "el timbre",
+    "choices": [
+      "la cerradura",
+      "el buzón",
+      "el portero automático"
+    ],
+    "tag": "Maison",
+    "expl": "La sonnette est le bouton qu'on appuie pour signaler sa présence.",
+    "dictee": "sonnette"
+  }
+]

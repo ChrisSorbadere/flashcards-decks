@@ -1,241 +1,236 @@
-{
-  "id": "a2-phonetique-2",
-  "name": "A2 — Phonétique 2 : Prononciation des lettres",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2p2-01",
-      "q": "Comment se prononce 'c' dans 'café', 'carotte', 'coup' ?",
-      "a": "[k] — devant a, o, u",
-      "choices": [
-        "[s] devant a, o, u",
-        "[tʃ] comme en italien",
-        "[ʃ] comme 'ch'"
-      ],
-      "tag": "Lettre C",
-      "expl": "C + a/o/u = [k]. C + e/i/y = [s]. Cédille (ç) → [s] devant a/o/u.",
-      "dictee": "k"
-    },
-    {
-      "id": "a2p2-02",
-      "q": "Comment se prononce 'ill' dans 'fille', 'famille', 'brille' ?",
-      "a": "[j] — comme le 'y' dans 'yes' en anglais",
-      "choices": [
-        "[il] en deux sons",
-        "[ij] en deux sons",
-        "[iʎ] comme en espagnol"
-      ],
-      "tag": "Groupes",
-      "expl": "ILL = [j] : fille [fij], famille [famij]. Exceptions : mille [mil], ville [vil].",
-      "dictee": "yod"
-    },
-    {
-      "id": "a2p2-03",
-      "q": "Comment se prononce le 'r' en français ?",
-      "a": "[ʁ] — son guttural, produit dans la gorge",
-      "choices": [
-        "Roulé comme en espagnol [r]",
-        "Comme le 'r' anglais",
-        "Muet en fin de mot"
-      ],
-      "tag": "Lettre R",
-      "expl": "R français = [ʁ] uvulaire (gorge). Très différent du r espagnol roulé.",
-      "dictee": "gorge"
-    },
-    {
-      "id": "a2p2-04",
-      "q": "Le 'e' en fin de mot est-il prononcé ?",
-      "a": "Non, généralement muet : table [tabl], rose [ʁoz]",
-      "choices": [
-        "Oui, toujours comme [ə]",
-        "Oui, mais très bref",
-        "Seulement en chanson"
-      ],
-      "tag": "E final",
-      "expl": "Le e final est muet : table, rose, livre. Peut réapparaître en poésie.",
-      "dictee": "muet"
-    },
-    {
-      "id": "a2p2-05",
-      "q": "'ph' se prononce comment en français ?",
-      "a": "[f] : téléphone [telefon], pharmacie [faʁmasi]",
-      "choices": [
-        "[p]",
-        "[ph] aspiré",
-        "[v]"
-      ],
-      "tag": "Groupes",
-      "expl": "PH = [f] comme en anglais. Téléphone, pharmacie, philosophie.",
-      "dictee": "f"
-    },
-    {
-      "id": "a2p2-06",
-      "q": "Comment se prononce 'qu' en français ?",
-      "a": "[k] — le 'u' est muet",
-      "choices": [
-        "[kw] comme en anglais",
-        "[ku] en deux sons",
-        "[ky] en deux sons"
-      ],
-      "tag": "Lettre Q",
-      "expl": "QU = [k] : qui, que, quoi. Le u est muet.",
-      "dictee": "k"
-    },
-    {
-      "id": "a2p2-07",
-      "q": "Comment se prononce 'x' dans 'taxi' ?",
-      "a": "[ks] : taxi [taksi]",
-      "choices": [
-        "[gz] comme dans 'examen'",
-        "[z] comme dans 'deuxième'",
-        "[s] comme dans 'six' seul"
-      ],
-      "tag": "Lettre X",
-      "expl": "X = [ks] dans taxi. X = [gz] dans examen. X = [s] dans six (en pause).",
-      "dictee": "ks"
-    },
-    {
-      "id": "a2p2-08",
-      "q": "Comment se prononce 'tion' dans 'nation', 'action' ?",
-      "a": "[sjɔ̃] — le 't' se prononce comme 's'",
-      "choices": [
-        "[tjɔ̃] comme en espagnol",
-        "[tsjɔ̃] en trois sons",
-        "[ʃɔ̃] comme 'ch'"
-      ],
-      "tag": "Groupes",
-      "expl": "TION = [sjɔ̃] : nation [nasjɔ̃], action [aksjɔ̃].",
-      "dictee": "s"
-    },
-    {
-      "id": "a2p2-09",
-      "q": "'Au' et 'eau' se prononcent comment ?",
-      "a": "[o] — même son que 'o' fermé",
-      "choices": [
-        "[au] en deux sons",
-        "[ɔ] ouvert",
-        "[oe] comme 'peur'"
-      ],
-      "tag": "Voyelles",
-      "expl": "AU et EAU = [o] : auto, chaud, beau, eau.",
-      "dictee": "o"
-    },
-    {
-      "id": "a2p2-10",
-      "q": "Comment se prononcent 'ain', 'ein', 'in' en français moderne ?",
-      "a": "Tous → [ɛ̃] : vin, main, teint sonnent pareil",
-      "choices": [
-        "Chacun a un son distinct",
-        "'ain' = [an]",
-        "'in' = [in] avec n prononcé"
-      ],
-      "tag": "Nasales",
-      "expl": "En français contemporain, ain/ein/in tendent tous vers [ɛ̃].",
-      "dictee": "nasale"
-    },
-    {
-      "id": "a2p2-11",
-      "q": "'Ge' et 'gi' se prononcent comment ?",
-      "a": "[ʒ] : manger [mɑ̃ʒe], gilet [ʒilɛ]",
-      "choices": [
-        "[g] comme dans 'gare'",
-        "[dʒ] comme en anglais",
-        "[ʁ] comme le r"
-      ],
-      "tag": "Lettre G",
-      "expl": "GE/GI = [ʒ]. Pour garder [g] devant e : nous mangeons [mɑ̃ʒɔ̃].",
-      "dictee": "j"
-    },
-    {
-      "id": "a2p2-12",
-      "q": "Comment se prononce 'oi' dans 'boire', 'mois', 'roi' ?",
-      "a": "[wa] : boire [bwaʁ], mois [mwa]",
-      "choices": [
-        "[oe] comme 'peur'",
-        "[o]+[i] séparément",
-        "[wi] comme en anglais"
-      ],
-      "tag": "Voyelles",
-      "expl": "OI = [wa] toujours : voir, moi, roi, voix.",
-      "dictee": "wa"
-    },
-    {
-      "id": "a2p2-13",
-      "q": "Le 's' se prononce-t-il dans 'les amis' ?",
-      "a": "Oui, liaison [z] : les_amis [lezami]",
-      "choices": [
-        "Non, toujours muet",
-        "Oui mais [s] pas [z]",
-        "Seulement au registre soutenu"
-      ],
-      "tag": "Liaison",
-      "expl": "Liaison avec LES + voyelle : les amis [lezami]. S de liaison = [z].",
-      "dictee": "liaison"
-    },
-    {
-      "id": "a2p2-14",
-      "q": "Comment se prononce 'eu' dans 'feu', 'bleu', 'jeu' ?",
-      "a": "[ø] — voyelle fermée arrondie",
-      "choices": [
-        "[e] comme 'été'",
-        "[œ] comme 'peur'",
-        "[u] comme 'ou'"
-      ],
-      "tag": "Voyelles",
-      "expl": "EU fermé [ø] : feu, bleu, jeu. EU ouvert [œ] : peur, cœur.",
-      "dictee": "fermé"
-    },
-    {
-      "id": "a2p2-15",
-      "q": "Comment distinguer 'tu' [y] et 'tout' [u] à l'oral ?",
-      "a": "'tu' [y] : langue en avant + lèvres arrondies ; 'tout' [u] : langue en arrière",
-      "choices": [
-        "Ils se prononcent pareil",
-        "'tu' est plus long",
-        "'tout' a un accent différent"
-      ],
-      "tag": "Distinction",
-      "expl": "U [y] vs OU [u] : distinction cruciale. 'tu' (toi) ≠ 'tout' (todo).",
-      "dictee": "avant"
-    },
-    {
-      "id": "a2p2-16",
-      "q": "Quel est le son de 'j' dans 'je', 'jour', 'jardin' ?",
-      "a": "[ʒ] — fricative palatale sonore",
-      "choices": [
-        "[dʒ] comme en anglais",
-        "[h] comme en espagnol",
-        "[x] comme 'jota' espagnole"
-      ],
-      "tag": "Lettre J",
-      "expl": "J = [ʒ] toujours en français : je, jour, jardin. Comme 'g' dans 'genre'.",
-      "dictee": "j"
-    },
-    {
-      "id": "a2p2-17",
-      "q": "Comment se prononce l'article 'un' dans 'un chat' ?",
-      "a": "[ɛ̃] — son nasal",
-      "choices": [
-        "[yn] en deux sons",
-        "[ɔ̃] comme 'on'",
-        "[ã] comme 'an'"
-      ],
-      "tag": "Articles",
-      "expl": "L'article 'un' = [ɛ̃]. Liaison possible : un_ami [ɛ̃nami].",
-      "dictee": "nasale"
-    },
-    {
-      "id": "a2p2-18",
-      "q": "Qu'est-ce que le 'e' caduc (instable) ?",
-      "a": "Un 'e' qui peut être prononcé ou non selon le rythme : je(ne) sais pas",
-      "choices": [
-        "Un 'e' toujours muet sans exception",
-        "Un 'e' toujours prononcé [ə]",
-        "Un 'e' qui change de son selon la position"
-      ],
-      "tag": "E caduc",
-      "expl": "E caduc : peut disparaître en parole rapide. 'Je ne sais pas' → 'J'sais pas'.",
-      "dictee": "caduc"
-    }
-  ]
-}
+[
+  {
+    "id": "a2p2-01",
+    "q": "Comment se prononce 'c' dans 'café', 'carotte', 'coup' ?",
+    "a": "[k] — devant a, o, u",
+    "choices": [
+      "[s] devant a, o, u",
+      "[tʃ] comme en italien",
+      "[ʃ] comme 'ch'"
+    ],
+    "tag": "Lettre C",
+    "expl": "C + a/o/u = [k]. C + e/i/y = [s]. Cédille (ç) → [s] devant a/o/u.",
+    "dictee": "k"
+  },
+  {
+    "id": "a2p2-02",
+    "q": "Comment se prononce 'ill' dans 'fille', 'famille', 'brille' ?",
+    "a": "[j] — comme le 'y' dans 'yes' en anglais",
+    "choices": [
+      "[il] en deux sons",
+      "[ij] en deux sons",
+      "[iʎ] comme en espagnol"
+    ],
+    "tag": "Groupes",
+    "expl": "ILL = [j] : fille [fij], famille [famij]. Exceptions : mille [mil], ville [vil].",
+    "dictee": "yod"
+  },
+  {
+    "id": "a2p2-03",
+    "q": "Comment se prononce le 'r' en français ?",
+    "a": "[ʁ] — son guttural, produit dans la gorge",
+    "choices": [
+      "Roulé comme en espagnol [r]",
+      "Comme le 'r' anglais",
+      "Muet en fin de mot"
+    ],
+    "tag": "Lettre R",
+    "expl": "R français = [ʁ] uvulaire (gorge). Très différent du r espagnol roulé.",
+    "dictee": "gorge"
+  },
+  {
+    "id": "a2p2-04",
+    "q": "Le 'e' en fin de mot est-il prononcé ?",
+    "a": "Non, généralement muet : table [tabl], rose [ʁoz]",
+    "choices": [
+      "Oui, toujours comme [ə]",
+      "Oui, mais très bref",
+      "Seulement en chanson"
+    ],
+    "tag": "E final",
+    "expl": "Le e final est muet : table, rose, livre. Peut réapparaître en poésie.",
+    "dictee": "muet"
+  },
+  {
+    "id": "a2p2-05",
+    "q": "'ph' se prononce comment en français ?",
+    "a": "[f] : téléphone [telefon], pharmacie [faʁmasi]",
+    "choices": [
+      "[p]",
+      "[ph] aspiré",
+      "[v]"
+    ],
+    "tag": "Groupes",
+    "expl": "PH = [f] comme en anglais. Téléphone, pharmacie, philosophie.",
+    "dictee": "f"
+  },
+  {
+    "id": "a2p2-06",
+    "q": "Comment se prononce 'qu' en français ?",
+    "a": "[k] — le 'u' est muet",
+    "choices": [
+      "[kw] comme en anglais",
+      "[ku] en deux sons",
+      "[ky] en deux sons"
+    ],
+    "tag": "Lettre Q",
+    "expl": "QU = [k] : qui, que, quoi. Le u est muet.",
+    "dictee": "k"
+  },
+  {
+    "id": "a2p2-07",
+    "q": "Comment se prononce 'x' dans 'taxi' ?",
+    "a": "[ks] : taxi [taksi]",
+    "choices": [
+      "[gz] comme dans 'examen'",
+      "[z] comme dans 'deuxième'",
+      "[s] comme dans 'six' seul"
+    ],
+    "tag": "Lettre X",
+    "expl": "X = [ks] dans taxi. X = [gz] dans examen. X = [s] dans six (en pause).",
+    "dictee": "ks"
+  },
+  {
+    "id": "a2p2-08",
+    "q": "Comment se prononce 'tion' dans 'nation', 'action' ?",
+    "a": "[sjɔ̃] — le 't' se prononce comme 's'",
+    "choices": [
+      "[tjɔ̃] comme en espagnol",
+      "[tsjɔ̃] en trois sons",
+      "[ʃɔ̃] comme 'ch'"
+    ],
+    "tag": "Groupes",
+    "expl": "TION = [sjɔ̃] : nation [nasjɔ̃], action [aksjɔ̃].",
+    "dictee": "s"
+  },
+  {
+    "id": "a2p2-09",
+    "q": "'Au' et 'eau' se prononcent comment ?",
+    "a": "[o] — même son que 'o' fermé",
+    "choices": [
+      "[au] en deux sons",
+      "[ɔ] ouvert",
+      "[oe] comme 'peur'"
+    ],
+    "tag": "Voyelles",
+    "expl": "AU et EAU = [o] : auto, chaud, beau, eau.",
+    "dictee": "o"
+  },
+  {
+    "id": "a2p2-10",
+    "q": "Comment se prononcent 'ain', 'ein', 'in' en français moderne ?",
+    "a": "Tous → [ɛ̃] : vin, main, teint sonnent pareil",
+    "choices": [
+      "Chacun a un son distinct",
+      "'ain' = [an]",
+      "'in' = [in] avec n prononcé"
+    ],
+    "tag": "Nasales",
+    "expl": "En français contemporain, ain/ein/in tendent tous vers [ɛ̃].",
+    "dictee": "nasale"
+  },
+  {
+    "id": "a2p2-11",
+    "q": "'Ge' et 'gi' se prononcent comment ?",
+    "a": "[ʒ] : manger [mɑ̃ʒe], gilet [ʒilɛ]",
+    "choices": [
+      "[g] comme dans 'gare'",
+      "[dʒ] comme en anglais",
+      "[ʁ] comme le r"
+    ],
+    "tag": "Lettre G",
+    "expl": "GE/GI = [ʒ]. Pour garder [g] devant e : nous mangeons [mɑ̃ʒɔ̃].",
+    "dictee": "j"
+  },
+  {
+    "id": "a2p2-12",
+    "q": "Comment se prononce 'oi' dans 'boire', 'mois', 'roi' ?",
+    "a": "[wa] : boire [bwaʁ], mois [mwa]",
+    "choices": [
+      "[oe] comme 'peur'",
+      "[o]+[i] séparément",
+      "[wi] comme en anglais"
+    ],
+    "tag": "Voyelles",
+    "expl": "OI = [wa] toujours : voir, moi, roi, voix.",
+    "dictee": "wa"
+  },
+  {
+    "id": "a2p2-13",
+    "q": "Le 's' se prononce-t-il dans 'les amis' ?",
+    "a": "Oui, liaison [z] : les_amis [lezami]",
+    "choices": [
+      "Non, toujours muet",
+      "Oui mais [s] pas [z]",
+      "Seulement au registre soutenu"
+    ],
+    "tag": "Liaison",
+    "expl": "Liaison avec LES + voyelle : les amis [lezami]. S de liaison = [z].",
+    "dictee": "liaison"
+  },
+  {
+    "id": "a2p2-14",
+    "q": "Comment se prononce 'eu' dans 'feu', 'bleu', 'jeu' ?",
+    "a": "[ø] — voyelle fermée arrondie",
+    "choices": [
+      "[e] comme 'été'",
+      "[œ] comme 'peur'",
+      "[u] comme 'ou'"
+    ],
+    "tag": "Voyelles",
+    "expl": "EU fermé [ø] : feu, bleu, jeu. EU ouvert [œ] : peur, cœur.",
+    "dictee": "fermé"
+  },
+  {
+    "id": "a2p2-15",
+    "q": "Comment distinguer 'tu' [y] et 'tout' [u] à l'oral ?",
+    "a": "'tu' [y] : langue en avant + lèvres arrondies ; 'tout' [u] : langue en arrière",
+    "choices": [
+      "Ils se prononcent pareil",
+      "'tu' est plus long",
+      "'tout' a un accent différent"
+    ],
+    "tag": "Distinction",
+    "expl": "U [y] vs OU [u] : distinction cruciale. 'tu' (toi) ≠ 'tout' (todo).",
+    "dictee": "avant"
+  },
+  {
+    "id": "a2p2-16",
+    "q": "Quel est le son de 'j' dans 'je', 'jour', 'jardin' ?",
+    "a": "[ʒ] — fricative palatale sonore",
+    "choices": [
+      "[dʒ] comme en anglais",
+      "[h] comme en espagnol",
+      "[x] comme 'jota' espagnole"
+    ],
+    "tag": "Lettre J",
+    "expl": "J = [ʒ] toujours en français : je, jour, jardin. Comme 'g' dans 'genre'.",
+    "dictee": "j"
+  },
+  {
+    "id": "a2p2-17",
+    "q": "Comment se prononce l'article 'un' dans 'un chat' ?",
+    "a": "[ɛ̃] — son nasal",
+    "choices": [
+      "[yn] en deux sons",
+      "[ɔ̃] comme 'on'",
+      "[ã] comme 'an'"
+    ],
+    "tag": "Articles",
+    "expl": "L'article 'un' = [ɛ̃]. Liaison possible : un_ami [ɛ̃nami].",
+    "dictee": "nasale"
+  },
+  {
+    "id": "a2p2-18",
+    "q": "Qu'est-ce que le 'e' caduc (instable) ?",
+    "a": "Un 'e' qui peut être prononcé ou non selon le rythme : je(ne) sais pas",
+    "choices": [
+      "Un 'e' toujours muet sans exception",
+      "Un 'e' toujours prononcé [ə]",
+      "Un 'e' qui change de son selon la position"
+    ],
+    "tag": "E caduc",
+    "expl": "E caduc : peut disparaître en parole rapide. 'Je ne sais pas' → 'J'sais pas'.",
+    "dictee": "caduc"
+  }
+]

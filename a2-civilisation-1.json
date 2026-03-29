@@ -1,239 +1,234 @@
-{
-  "id": "a2-civilisation-1",
-  "name": "A2 — Civilisation 1 : La France et ses régions",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2cv1-01",
-      "q": "¿Cuántos departamentos tiene Francia en total?",
-      "a": "101 (96 en métropole + 5 en outre-mer)",
-      "choices": [
-        "75 departamentos en total",
-        "86 departamentos en total"
-      ],
-      "tag": "Géographie",
-      "expl": "101 départements : 96 en métropole et 5 DOM (Martinique, Guadeloupe...).",
-      "dictee": "cent un"
-    },
-    {
-      "id": "a2cv1-02",
-      "q": "¿Cómo se llama la región famosa por el Débarquement de 1944?",
-      "a": "La Normandie",
-      "choices": [
-        "La Bretagne",
-        "La Picardie",
-        "Le Nord-Pas-de-Calais"
-      ],
-      "tag": "Régions",
-      "expl": "La Normandie est célèbre pour le Débarquement du 6 juin 1944.",
-      "dictee": "Normandie"
-    },
-    {
-      "id": "a2cv1-03",
-      "q": "¿Cuál es el río más largo de Francia?",
-      "a": "La Loire (1 012 km)",
-      "choices": [
-        "La Seine (776 km)",
-        "Le Rhône (812 km)",
-        "La Garonne (650 km)"
-      ],
-      "tag": "Géographie",
-      "expl": "La Loire (1012 km) est le plus long fleuve de France.",
-      "dictee": "Loire"
-    },
-    {
-      "id": "a2cv1-04",
-      "q": "¿Qué celebra Francia el 14 de julio?",
-      "a": "La Fête nationale (prise de la Bastille en 1789)",
-      "choices": [
-        "La independencia de Francia",
-        "La victoria en la Primera Guerra Mundial",
-        "El cumpleaños de la República"
-      ],
-      "tag": "Fêtes",
-      "expl": "Le 14 juillet commémore la prise de la Bastille en 1789, symbole de la Révolution.",
-      "dictee": "nationale"
-    },
-    {
-      "id": "a2cv1-05",
-      "q": "¿Cuál es el lema de la República Francesa?",
-      "a": "Liberté, Égalité, Fraternité",
-      "choices": [
-        "Honneur et Patrie",
-        "Unité, Dignité, Paix",
-        "Force et Justice"
-      ],
-      "tag": "République",
-      "expl": "Liberté, Égalité, Fraternité est la devise de la République depuis la Révolution.",
-      "dictee": "Fraternité"
-    },
-    {
-      "id": "a2cv1-06",
-      "q": "¿Qué es 'la baguette' para los franceses?",
-      "a": "Pan largo y crujiente, símbolo nacional, patrimonio UNESCO (2022)",
-      "choices": [
-        "Un tipo de pan exclusivamente parisino",
-        "Una receta regional de Alsacia",
-        "Un pastel típico de la repostería francesa"
-      ],
-      "tag": "Culture",
-      "expl": "La baguette est un symbole national inscrit au patrimoine immatériel de l'UNESCO en 2022.",
-      "dictee": "baguette"
-    },
-    {
-      "id": "a2cv1-07",
-      "q": "¿Qué son los 'DOM' franceses?",
-      "a": "Departamentos de Ultramar (Martinique, Guadeloupe, Réunion, Guyane, Mayotte)",
-      "choices": [
-        "Regiones metropolitanas del norte",
-        "Ciudades con estatuto especial",
-        "Antiguos territorios coloniales independizados"
-      ],
-      "tag": "Géographie",
-      "expl": "Les DOM sont des départements français situés hors de l'hexagone.",
-      "dictee": "outre-mer"
-    },
-    {
-      "id": "a2cv1-08",
-      "q": "¿Qué es el 'Tour de France' ?",
-      "a": "Una carrera ciclista de 3 semanas que tiene lugar en julio",
-      "choices": [
-        "Una vuelta turística en autocar por Francia",
-        "Un recorrido gastronómico por las regiones",
-        "Una competición de atletismo nacional"
-      ],
-      "tag": "Sport",
-      "expl": "Le Tour de France est la plus célèbre course cycliste du monde, créée en 1903.",
-      "dictee": "cycliste"
-    },
-    {
-      "id": "a2cv1-09",
-      "q": "¿En qué ciudad se encuentra el museo del Louvre?",
-      "a": "À Paris",
-      "choices": [
-        "À Lyon",
-        "À Bordeaux",
-        "À Versailles"
-      ],
-      "tag": "Culture",
-      "expl": "Le Louvre est à Paris. C'est le plus grand musée du monde en superficie.",
-      "dictee": "Paris"
-    },
-    {
-      "id": "a2cv1-10",
-      "q": "¿Qué significa 'la laïcité' en Francia?",
-      "a": "La separación entre el Estado y las religiones (principio desde 1905)",
-      "choices": [
-        "La libertad de practicar cualquier culto",
-        "La religión oficial del Estado francés",
-        "La tolerancia entre todas las religiones"
-      ],
-      "tag": "Société",
-      "expl": "La laïcité = séparation de l'Église et de l'État, principe fondamental depuis 1905.",
-      "dictee": "laïcité"
-    },
-    {
-      "id": "a2cv1-11",
-      "q": "¿Qué es 'le baccalauréat' (le bac)?",
-      "a": "El examen al final del instituto, que da acceso a la universidad",
-      "choices": [
-        "El título universitario de grado",
-        "El examen de entrada a las grandes écoles",
-        "El diploma de formación profesional básica"
-      ],
-      "tag": "Éducation",
-      "expl": "Le bac est l'examen de fin de lycée. Il donne accès à l'université.",
-      "dictee": "baccalauréat"
-    },
-    {
-      "id": "a2cv1-12",
-      "q": "¿Cómo se llama el jefe del gobierno en Francia?",
-      "a": "Le Premier ministre",
-      "choices": [
-        "Le Président de la République",
-        "Le Chancelier de l'État",
-        "Le Premier consul de France"
-      ],
-      "tag": "Politique",
-      "expl": "France = régime semi-présidentiel : Président + Premier ministre.",
-      "dictee": "ministre"
-    },
-    {
-      "id": "a2cv1-13",
-      "q": "¿Cuántos metros mide la Torre Eiffel con su antena?",
-      "a": "330 mètres",
-      "choices": [
-        "200 mètres",
-        "280 mètres"
-      ],
-      "tag": "Monuments",
-      "expl": "La Tour Eiffel mesure 330m avec antenne. Construite en 1889.",
-      "dictee": "trois cent trente"
-    },
-    {
-      "id": "a2cv1-14",
-      "q": "¿Qué es 'le TGV' ?",
-      "a": "Train à Grande Vitesse — tren de alta velocidad (más de 300 km/h)",
-      "choices": [
-        "Un tipo de metro urbano rápido",
-        "Un servicio de autobús exprés",
-        "Un avión regional de corta distancia"
-      ],
-      "tag": "Transport",
-      "expl": "Le TGV (Train à Grande Vitesse) roule à plus de 300km/h depuis 1981.",
-      "dictee": "vitesse"
-    },
-    {
-      "id": "a2cv1-15",
-      "q": "¿Cuál es el significado de 'Marianne' ?",
-      "a": "El símbolo femenino de la República francesa",
-      "choices": [
-        "Una reina histórica de Francia",
-        "La patrona religiosa de Francia",
-        "La diosa griega de la libertad"
-      ],
-      "tag": "Symboles",
-      "expl": "Marianne est l'allégorie de la République. Elle figure sur les timbres et mairies.",
-      "dictee": "Marianne"
-    },
-    {
-      "id": "a2cv1-16",
-      "q": "¿Dónde se habla l'alsacien ?",
-      "a": "En Alsace, región fronteriza con Alemania",
-      "choices": [
-        "En Bretagne, en el noroeste",
-        "En Occitanie, en el sur",
-        "En Corse, en la isla mediterránea"
-      ],
-      "tag": "Langues",
-      "expl": "L'alsacien est un dialecte germanique parlé en Alsace, à la frontière allemande.",
-      "dictee": "Alsace"
-    },
-    {
-      "id": "a2cv1-17",
-      "q": "¿Qué es 'la Sécu' ?",
-      "a": "La Sécurité sociale — sistema público de salud y prestaciones sociales",
-      "choices": [
-        "La policía nacional francesa",
-        "Los servicios de inteligencia",
-        "Los seguros privados de salud"
-      ],
-      "tag": "Société",
-      "expl": "La Sécu couvre maladie, retraite, chômage, famille. Financée par cotisations.",
-      "dictee": "sociale"
-    },
-    {
-      "id": "a2cv1-18",
-      "q": "¿Qué región francesa es famosa por sus vinos de Burdeos?",
-      "a": "La Gironde / la région Bordeaux",
-      "choices": [
-        "La Bourgogne (Borgoña)",
-        "La Champagne",
-        "L'Alsace"
-      ],
-      "tag": "Régions",
-      "expl": "Bordeaux est dans la Gironde (Nouvelle-Aquitaine). Grands vins : Médoc, Saint-Émilion...",
-      "dictee": "Gironde"
-    }
-  ]
-}
+[
+  {
+    "id": "a2cv1-01",
+    "q": "¿Cuántos departamentos tiene Francia en total?",
+    "a": "101 (96 en métropole + 5 en outre-mer)",
+    "choices": [
+      "75 departamentos en total",
+      "86 departamentos en total"
+    ],
+    "tag": "Géographie",
+    "expl": "101 départements : 96 en métropole et 5 DOM (Martinique, Guadeloupe...).",
+    "dictee": "cent un"
+  },
+  {
+    "id": "a2cv1-02",
+    "q": "¿Cómo se llama la región famosa por el Débarquement de 1944?",
+    "a": "La Normandie",
+    "choices": [
+      "La Bretagne",
+      "La Picardie",
+      "Le Nord-Pas-de-Calais"
+    ],
+    "tag": "Régions",
+    "expl": "La Normandie est célèbre pour le Débarquement du 6 juin 1944.",
+    "dictee": "Normandie"
+  },
+  {
+    "id": "a2cv1-03",
+    "q": "¿Cuál es el río más largo de Francia?",
+    "a": "La Loire (1 012 km)",
+    "choices": [
+      "La Seine (776 km)",
+      "Le Rhône (812 km)",
+      "La Garonne (650 km)"
+    ],
+    "tag": "Géographie",
+    "expl": "La Loire (1012 km) est le plus long fleuve de France.",
+    "dictee": "Loire"
+  },
+  {
+    "id": "a2cv1-04",
+    "q": "¿Qué celebra Francia el 14 de julio?",
+    "a": "La Fête nationale (prise de la Bastille en 1789)",
+    "choices": [
+      "La independencia de Francia",
+      "La victoria en la Primera Guerra Mundial",
+      "El cumpleaños de la República"
+    ],
+    "tag": "Fêtes",
+    "expl": "Le 14 juillet commémore la prise de la Bastille en 1789, symbole de la Révolution.",
+    "dictee": "nationale"
+  },
+  {
+    "id": "a2cv1-05",
+    "q": "¿Cuál es el lema de la República Francesa?",
+    "a": "Liberté, Égalité, Fraternité",
+    "choices": [
+      "Honneur et Patrie",
+      "Unité, Dignité, Paix",
+      "Force et Justice"
+    ],
+    "tag": "République",
+    "expl": "Liberté, Égalité, Fraternité est la devise de la République depuis la Révolution.",
+    "dictee": "Fraternité"
+  },
+  {
+    "id": "a2cv1-06",
+    "q": "¿Qué es 'la baguette' para los franceses?",
+    "a": "Pan largo y crujiente, símbolo nacional, patrimonio UNESCO (2022)",
+    "choices": [
+      "Un tipo de pan exclusivamente parisino",
+      "Una receta regional de Alsacia",
+      "Un pastel típico de la repostería francesa"
+    ],
+    "tag": "Culture",
+    "expl": "La baguette est un symbole national inscrit au patrimoine immatériel de l'UNESCO en 2022.",
+    "dictee": "baguette"
+  },
+  {
+    "id": "a2cv1-07",
+    "q": "¿Qué son los 'DOM' franceses?",
+    "a": "Departamentos de Ultramar (Martinique, Guadeloupe, Réunion, Guyane, Mayotte)",
+    "choices": [
+      "Regiones metropolitanas del norte",
+      "Ciudades con estatuto especial",
+      "Antiguos territorios coloniales independizados"
+    ],
+    "tag": "Géographie",
+    "expl": "Les DOM sont des départements français situés hors de l'hexagone.",
+    "dictee": "outre-mer"
+  },
+  {
+    "id": "a2cv1-08",
+    "q": "¿Qué es el 'Tour de France' ?",
+    "a": "Una carrera ciclista de 3 semanas que tiene lugar en julio",
+    "choices": [
+      "Una vuelta turística en autocar por Francia",
+      "Un recorrido gastronómico por las regiones",
+      "Una competición de atletismo nacional"
+    ],
+    "tag": "Sport",
+    "expl": "Le Tour de France est la plus célèbre course cycliste du monde, créée en 1903.",
+    "dictee": "cycliste"
+  },
+  {
+    "id": "a2cv1-09",
+    "q": "¿En qué ciudad se encuentra el museo del Louvre?",
+    "a": "À Paris",
+    "choices": [
+      "À Lyon",
+      "À Bordeaux",
+      "À Versailles"
+    ],
+    "tag": "Culture",
+    "expl": "Le Louvre est à Paris. C'est le plus grand musée du monde en superficie.",
+    "dictee": "Paris"
+  },
+  {
+    "id": "a2cv1-10",
+    "q": "¿Qué significa 'la laïcité' en Francia?",
+    "a": "La separación entre el Estado y las religiones (principio desde 1905)",
+    "choices": [
+      "La libertad de practicar cualquier culto",
+      "La religión oficial del Estado francés",
+      "La tolerancia entre todas las religiones"
+    ],
+    "tag": "Société",
+    "expl": "La laïcité = séparation de l'Église et de l'État, principe fondamental depuis 1905.",
+    "dictee": "laïcité"
+  },
+  {
+    "id": "a2cv1-11",
+    "q": "¿Qué es 'le baccalauréat' (le bac)?",
+    "a": "El examen al final del instituto, que da acceso a la universidad",
+    "choices": [
+      "El título universitario de grado",
+      "El examen de entrada a las grandes écoles",
+      "El diploma de formación profesional básica"
+    ],
+    "tag": "Éducation",
+    "expl": "Le bac est l'examen de fin de lycée. Il donne accès à l'université.",
+    "dictee": "baccalauréat"
+  },
+  {
+    "id": "a2cv1-12",
+    "q": "¿Cómo se llama el jefe del gobierno en Francia?",
+    "a": "Le Premier ministre",
+    "choices": [
+      "Le Président de la République",
+      "Le Chancelier de l'État",
+      "Le Premier consul de France"
+    ],
+    "tag": "Politique",
+    "expl": "France = régime semi-présidentiel : Président + Premier ministre.",
+    "dictee": "ministre"
+  },
+  {
+    "id": "a2cv1-13",
+    "q": "¿Cuántos metros mide la Torre Eiffel con su antena?",
+    "a": "330 mètres",
+    "choices": [
+      "200 mètres",
+      "280 mètres"
+    ],
+    "tag": "Monuments",
+    "expl": "La Tour Eiffel mesure 330m avec antenne. Construite en 1889.",
+    "dictee": "trois cent trente"
+  },
+  {
+    "id": "a2cv1-14",
+    "q": "¿Qué es 'le TGV' ?",
+    "a": "Train à Grande Vitesse — tren de alta velocidad (más de 300 km/h)",
+    "choices": [
+      "Un tipo de metro urbano rápido",
+      "Un servicio de autobús exprés",
+      "Un avión regional de corta distancia"
+    ],
+    "tag": "Transport",
+    "expl": "Le TGV (Train à Grande Vitesse) roule à plus de 300km/h depuis 1981.",
+    "dictee": "vitesse"
+  },
+  {
+    "id": "a2cv1-15",
+    "q": "¿Cuál es el significado de 'Marianne' ?",
+    "a": "El símbolo femenino de la República francesa",
+    "choices": [
+      "Una reina histórica de Francia",
+      "La patrona religiosa de Francia",
+      "La diosa griega de la libertad"
+    ],
+    "tag": "Symboles",
+    "expl": "Marianne est l'allégorie de la République. Elle figure sur les timbres et mairies.",
+    "dictee": "Marianne"
+  },
+  {
+    "id": "a2cv1-16",
+    "q": "¿Dónde se habla l'alsacien ?",
+    "a": "En Alsace, región fronteriza con Alemania",
+    "choices": [
+      "En Bretagne, en el noroeste",
+      "En Occitanie, en el sur",
+      "En Corse, en la isla mediterránea"
+    ],
+    "tag": "Langues",
+    "expl": "L'alsacien est un dialecte germanique parlé en Alsace, à la frontière allemande.",
+    "dictee": "Alsace"
+  },
+  {
+    "id": "a2cv1-17",
+    "q": "¿Qué es 'la Sécu' ?",
+    "a": "La Sécurité sociale — sistema público de salud y prestaciones sociales",
+    "choices": [
+      "La policía nacional francesa",
+      "Los servicios de inteligencia",
+      "Los seguros privados de salud"
+    ],
+    "tag": "Société",
+    "expl": "La Sécu couvre maladie, retraite, chômage, famille. Financée par cotisations.",
+    "dictee": "sociale"
+  },
+  {
+    "id": "a2cv1-18",
+    "q": "¿Qué región francesa es famosa por sus vinos de Burdeos?",
+    "a": "La Gironde / la région Bordeaux",
+    "choices": [
+      "La Bourgogne (Borgoña)",
+      "La Champagne",
+      "L'Alsace"
+    ],
+    "tag": "Régions",
+    "expl": "Bordeaux est dans la Gironde (Nouvelle-Aquitaine). Grands vins : Médoc, Saint-Émilion...",
+    "dictee": "Gironde"
+  }
+]

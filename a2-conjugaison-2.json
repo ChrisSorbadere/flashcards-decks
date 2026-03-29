@@ -1,259 +1,254 @@
-{
-  "id": "a2-conjugaison-2",
-  "name": "A2 — Conjugaison 2 : Passé composé avec être",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2c2-01",
-      "q": "Elle ___ (partir) à 8 heures ce matin.",
-      "a": "est partie",
-      "choices": [
-        "a parti",
-        "est parti",
-        "a partie"
-      ],
-      "tag": "PC être",
-      "hint": "Partir = verbe avec être",
-      "expl": "Partir avec être. Accord avec le sujet : elle → partie.",
-      "dictee": "est partie"
-    },
-    {
-      "id": "a2c2-02",
-      "q": "Ils ___ (arriver) en retard à la réunion.",
-      "a": "sont arrivés",
-      "choices": [
-        "ont arrivé",
-        "sont arrivé",
-        "sont arrivées"
-      ],
-      "tag": "PC être",
-      "hint": "Arriver = verbe avec être",
-      "expl": "Arriver avec être. Ils (masc. pluriel) → arrivés.",
-      "dictee": "sont arrivés"
-    },
-    {
-      "id": "a2c2-03",
-      "q": "Je (féminin) ___ (aller) au marché ce matin.",
-      "a": "suis allée",
-      "choices": [
-        "suis allé",
-        "ai allée",
-        "suis aller"
-      ],
-      "tag": "PC être",
-      "hint": "Aller + accord féminin",
-      "expl": "Aller avec être. Je (féminin) → allée avec -e.",
-      "dictee": "suis allée"
-    },
-    {
-      "id": "a2c2-04",
-      "q": "Nous ___ (venir) te voir hier soir.",
-      "a": "sommes venus",
-      "choices": [
-        "avons venu",
-        "sommes venu",
-        "sommes venues"
-      ],
-      "tag": "PC être",
-      "hint": "Venir = verbe avec être",
-      "expl": "Venir avec être. Nous (mixte) → venus au masculin pluriel.",
-      "dictee": "sommes venus"
-    },
-    {
-      "id": "a2c2-05",
-      "q": "Elle ___ (naître) en 1995 à Lyon.",
-      "a": "est née",
-      "choices": [
-        "a né",
-        "est né",
-        "est naît"
-      ],
-      "tag": "PC être",
-      "hint": "Naître = verbe avec être",
-      "expl": "Naître avec être. Elle → née avec -e.",
-      "dictee": "est née"
-    },
-    {
-      "id": "a2c2-06",
-      "q": "Il ___ (mourir) à 90 ans entouré de sa famille.",
-      "a": "est mort",
-      "choices": [
-        "a mort",
-        "est morte",
-        "a mourit"
-      ],
-      "tag": "PC être",
-      "hint": "Mourir = verbe avec être",
-      "expl": "Mourir avec être. Il → mort. Elle → morte.",
-      "dictee": "est mort"
-    },
-    {
-      "id": "a2c2-07",
-      "q": "Elles ___ (rentrer) tard hier soir.",
-      "a": "sont rentrées",
-      "choices": [
-        "ont rentré",
-        "sont rentré",
-        "sont rentrés"
-      ],
-      "tag": "PC être",
-      "hint": "Rentrer + accord féminin pluriel",
-      "expl": "Rentrer avec être. Elles (fém. pluriel) → rentrées.",
-      "dictee": "sont rentrées"
-    },
-    {
-      "id": "a2c2-08",
-      "q": "Tu ___ (tomber) dans l'escalier ?",
-      "a": "es tombé(e)",
-      "choices": [
-        "as tombé",
-        "était tombé",
-        "est tombé"
-      ],
-      "tag": "PC être",
-      "hint": "Tomber = verbe avec être",
-      "expl": "Tomber avec être. Tu → es tombé (masc.) ou tombée (fém.).",
-      "dictee": "es tombé"
-    },
-    {
-      "id": "a2c2-09",
-      "q": "Vous ___ (rester) combien de temps à Paris ?",
-      "a": "êtes restés",
-      "choices": [
-        "avez resté",
-        "êtes resté",
-        "êtes restées"
-      ],
-      "tag": "PC être",
-      "hint": "Rester = verbe avec être",
-      "expl": "Rester avec être. Vous (mixte) → restés au masculin pluriel.",
-      "dictee": "êtes restés"
-    },
-    {
-      "id": "a2c2-10",
-      "q": "Je (masculin) ___ (sortir) avec des amis hier.",
-      "a": "suis sorti",
-      "choices": [
-        "ai sorti",
-        "suis sortie",
-        "suis sortir"
-      ],
-      "tag": "PC être",
-      "hint": "Sortir (sens intransitif) = avec être",
-      "expl": "Sortir avec être (sens intransitif). Je (masc.) → sorti.",
-      "dictee": "suis sorti"
-    },
-    {
-      "id": "a2c2-11",
-      "q": "Elle ___ (entrer) sans frapper à la porte.",
-      "a": "est entrée",
-      "choices": [
-        "a entré",
-        "est entré",
-        "a entrée"
-      ],
-      "tag": "PC être",
-      "hint": "Entrer = verbe avec être",
-      "expl": "Entrer avec être. Elle → entrée avec -e.",
-      "dictee": "est entrée"
-    },
-    {
-      "id": "a2c2-12",
-      "q": "Ils ___ (passer) devant la mairie en voiture.",
-      "a": "sont passés",
-      "choices": [
-        "ont passé",
-        "sont passé",
-        "sont passées"
-      ],
-      "tag": "PC être",
-      "hint": "Passer (intransitif) = avec être",
-      "expl": "Passer avec être quand il n'y a pas de COD.",
-      "dictee": "sont passés"
-    },
-    {
-      "id": "a2c2-13",
-      "q": "Elle ___ (se lever) très tôt ce matin.",
-      "a": "s'est levée",
-      "choices": [
-        "s'a levée",
-        "s'est levé",
-        "s'est lever"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal = toujours avec être",
-      "expl": "Les pronominaux se conjuguent avec être. Accord avec le sujet.",
-      "dictee": "s'est levée"
-    },
-    {
-      "id": "a2c2-14",
-      "q": "Nous ___ (se parler) pendant une heure.",
-      "a": "nous sommes parlé",
-      "choices": [
-        "nous avons parlé",
-        "nous sommes parlés",
-        "nous sommes parlées"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal réciproque → pas d'accord",
-      "expl": "Se parler = réciproque. Pas d'accord car 'se' est COI.",
-      "dictee": "sommes parlé"
-    },
-    {
-      "id": "a2c2-15",
-      "q": "Il ___ (se blesser) en jouant au foot.",
-      "a": "s'est blessé",
-      "choices": [
-        "s'a blessé",
-        "s'est blessés",
-        "s'est blesser"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal masculin",
-      "expl": "Se blesser avec être. Il → s'est blessé (masc., pas de -e).",
-      "dictee": "s'est blessé"
-    },
-    {
-      "id": "a2c2-16",
-      "q": "Elles ___ (se rencontrer) à Paris l'été dernier.",
-      "a": "se sont rencontrées",
-      "choices": [
-        "s'ont rencontré",
-        "se sont rencontré",
-        "se sont rencontrés"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal féminin pluriel",
-      "expl": "Se rencontrer avec être. Elles → se sont rencontrées.",
-      "dictee": "se sont rencontrées"
-    },
-    {
-      "id": "a2c2-17",
-      "q": "Je (féminin) ___ (se tromper) de chemin.",
-      "a": "me suis trompée",
-      "choices": [
-        "m'ai trompée",
-        "me suis trompé",
-        "me suis tromper"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal féminin singulier",
-      "expl": "Se tromper avec être. Je (fém.) → me suis trompée.",
-      "dictee": "me suis trompée"
-    },
-    {
-      "id": "a2c2-18",
-      "q": "Nous ___ (s'habiller) très rapidement ce matin.",
-      "a": "nous sommes habillés",
-      "choices": [
-        "nous avons habillé",
-        "nous sommes habillé",
-        "nous avons habillés"
-      ],
-      "tag": "Pronominal",
-      "hint": "Pronominal + accord",
-      "expl": "S'habiller avec être. Nous (mixte) → nous sommes habillés.",
-      "dictee": "nous sommes habillés"
-    }
-  ]
-}
+[
+  {
+    "id": "a2c2-01",
+    "q": "Elle ___ (partir) à 8 heures ce matin.",
+    "a": "est partie",
+    "choices": [
+      "a parti",
+      "est parti",
+      "a partie"
+    ],
+    "tag": "PC être",
+    "hint": "Partir = verbe avec être",
+    "expl": "Partir avec être. Accord avec le sujet : elle → partie.",
+    "dictee": "est partie"
+  },
+  {
+    "id": "a2c2-02",
+    "q": "Ils ___ (arriver) en retard à la réunion.",
+    "a": "sont arrivés",
+    "choices": [
+      "ont arrivé",
+      "sont arrivé",
+      "sont arrivées"
+    ],
+    "tag": "PC être",
+    "hint": "Arriver = verbe avec être",
+    "expl": "Arriver avec être. Ils (masc. pluriel) → arrivés.",
+    "dictee": "sont arrivés"
+  },
+  {
+    "id": "a2c2-03",
+    "q": "Je (féminin) ___ (aller) au marché ce matin.",
+    "a": "suis allée",
+    "choices": [
+      "suis allé",
+      "ai allée",
+      "suis aller"
+    ],
+    "tag": "PC être",
+    "hint": "Aller + accord féminin",
+    "expl": "Aller avec être. Je (féminin) → allée avec -e.",
+    "dictee": "suis allée"
+  },
+  {
+    "id": "a2c2-04",
+    "q": "Nous ___ (venir) te voir hier soir.",
+    "a": "sommes venus",
+    "choices": [
+      "avons venu",
+      "sommes venu",
+      "sommes venues"
+    ],
+    "tag": "PC être",
+    "hint": "Venir = verbe avec être",
+    "expl": "Venir avec être. Nous (mixte) → venus au masculin pluriel.",
+    "dictee": "sommes venus"
+  },
+  {
+    "id": "a2c2-05",
+    "q": "Elle ___ (naître) en 1995 à Lyon.",
+    "a": "est née",
+    "choices": [
+      "a né",
+      "est né",
+      "est naît"
+    ],
+    "tag": "PC être",
+    "hint": "Naître = verbe avec être",
+    "expl": "Naître avec être. Elle → née avec -e.",
+    "dictee": "est née"
+  },
+  {
+    "id": "a2c2-06",
+    "q": "Il ___ (mourir) à 90 ans entouré de sa famille.",
+    "a": "est mort",
+    "choices": [
+      "a mort",
+      "est morte",
+      "a mourit"
+    ],
+    "tag": "PC être",
+    "hint": "Mourir = verbe avec être",
+    "expl": "Mourir avec être. Il → mort. Elle → morte.",
+    "dictee": "est mort"
+  },
+  {
+    "id": "a2c2-07",
+    "q": "Elles ___ (rentrer) tard hier soir.",
+    "a": "sont rentrées",
+    "choices": [
+      "ont rentré",
+      "sont rentré",
+      "sont rentrés"
+    ],
+    "tag": "PC être",
+    "hint": "Rentrer + accord féminin pluriel",
+    "expl": "Rentrer avec être. Elles (fém. pluriel) → rentrées.",
+    "dictee": "sont rentrées"
+  },
+  {
+    "id": "a2c2-08",
+    "q": "Tu ___ (tomber) dans l'escalier ?",
+    "a": "es tombé(e)",
+    "choices": [
+      "as tombé",
+      "était tombé",
+      "est tombé"
+    ],
+    "tag": "PC être",
+    "hint": "Tomber = verbe avec être",
+    "expl": "Tomber avec être. Tu → es tombé (masc.) ou tombée (fém.).",
+    "dictee": "es tombé"
+  },
+  {
+    "id": "a2c2-09",
+    "q": "Vous ___ (rester) combien de temps à Paris ?",
+    "a": "êtes restés",
+    "choices": [
+      "avez resté",
+      "êtes resté",
+      "êtes restées"
+    ],
+    "tag": "PC être",
+    "hint": "Rester = verbe avec être",
+    "expl": "Rester avec être. Vous (mixte) → restés au masculin pluriel.",
+    "dictee": "êtes restés"
+  },
+  {
+    "id": "a2c2-10",
+    "q": "Je (masculin) ___ (sortir) avec des amis hier.",
+    "a": "suis sorti",
+    "choices": [
+      "ai sorti",
+      "suis sortie",
+      "suis sortir"
+    ],
+    "tag": "PC être",
+    "hint": "Sortir (sens intransitif) = avec être",
+    "expl": "Sortir avec être (sens intransitif). Je (masc.) → sorti.",
+    "dictee": "suis sorti"
+  },
+  {
+    "id": "a2c2-11",
+    "q": "Elle ___ (entrer) sans frapper à la porte.",
+    "a": "est entrée",
+    "choices": [
+      "a entré",
+      "est entré",
+      "a entrée"
+    ],
+    "tag": "PC être",
+    "hint": "Entrer = verbe avec être",
+    "expl": "Entrer avec être. Elle → entrée avec -e.",
+    "dictee": "est entrée"
+  },
+  {
+    "id": "a2c2-12",
+    "q": "Ils ___ (passer) devant la mairie en voiture.",
+    "a": "sont passés",
+    "choices": [
+      "ont passé",
+      "sont passé",
+      "sont passées"
+    ],
+    "tag": "PC être",
+    "hint": "Passer (intransitif) = avec être",
+    "expl": "Passer avec être quand il n'y a pas de COD.",
+    "dictee": "sont passés"
+  },
+  {
+    "id": "a2c2-13",
+    "q": "Elle ___ (se lever) très tôt ce matin.",
+    "a": "s'est levée",
+    "choices": [
+      "s'a levée",
+      "s'est levé",
+      "s'est lever"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal = toujours avec être",
+    "expl": "Les pronominaux se conjuguent avec être. Accord avec le sujet.",
+    "dictee": "s'est levée"
+  },
+  {
+    "id": "a2c2-14",
+    "q": "Nous ___ (se parler) pendant une heure.",
+    "a": "nous sommes parlé",
+    "choices": [
+      "nous avons parlé",
+      "nous sommes parlés",
+      "nous sommes parlées"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal réciproque → pas d'accord",
+    "expl": "Se parler = réciproque. Pas d'accord car 'se' est COI.",
+    "dictee": "sommes parlé"
+  },
+  {
+    "id": "a2c2-15",
+    "q": "Il ___ (se blesser) en jouant au foot.",
+    "a": "s'est blessé",
+    "choices": [
+      "s'a blessé",
+      "s'est blessés",
+      "s'est blesser"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal masculin",
+    "expl": "Se blesser avec être. Il → s'est blessé (masc., pas de -e).",
+    "dictee": "s'est blessé"
+  },
+  {
+    "id": "a2c2-16",
+    "q": "Elles ___ (se rencontrer) à Paris l'été dernier.",
+    "a": "se sont rencontrées",
+    "choices": [
+      "s'ont rencontré",
+      "se sont rencontré",
+      "se sont rencontrés"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal féminin pluriel",
+    "expl": "Se rencontrer avec être. Elles → se sont rencontrées.",
+    "dictee": "se sont rencontrées"
+  },
+  {
+    "id": "a2c2-17",
+    "q": "Je (féminin) ___ (se tromper) de chemin.",
+    "a": "me suis trompée",
+    "choices": [
+      "m'ai trompée",
+      "me suis trompé",
+      "me suis tromper"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal féminin singulier",
+    "expl": "Se tromper avec être. Je (fém.) → me suis trompée.",
+    "dictee": "me suis trompée"
+  },
+  {
+    "id": "a2c2-18",
+    "q": "Nous ___ (s'habiller) très rapidement ce matin.",
+    "a": "nous sommes habillés",
+    "choices": [
+      "nous avons habillé",
+      "nous sommes habillé",
+      "nous avons habillés"
+    ],
+    "tag": "Pronominal",
+    "hint": "Pronominal + accord",
+    "expl": "S'habiller avec être. Nous (mixte) → nous sommes habillés.",
+    "dictee": "nous sommes habillés"
+  }
+]

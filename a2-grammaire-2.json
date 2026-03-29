@@ -1,258 +1,253 @@
-{
-  "id": "a2-grammaire-2",
-  "name": "A2 — Grammaire 2 : Le futur simple",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2g2-01",
-      "q": "Demain, je ___ (travailler) à la maison.",
-      "a": "travaillerai",
-      "choices": [
-        "travaillerais",
-        "travailleras",
-        "travaillerait"
-      ],
-      "tag": "Futur simple",
-      "hint": "Je + infinitif + -ai",
-      "expl": "Futur simple : infinitif + terminaisons. Je travaillerai.",
-      "dictee": "travaillerai"
-    },
-    {
-      "id": "a2g2-02",
-      "q": "Ils ___ (partir) en vacances en août.",
-      "a": "partiront",
-      "choices": [
-        "partiraient",
-        "partiras",
-        "partiriez"
-      ],
-      "tag": "Futur simple",
-      "hint": "Ils + infinitif + -ont",
-      "expl": "Futur simple : partir + -ont = partiront.",
-      "dictee": "partiront"
-    },
-    {
-      "id": "a2g2-03",
-      "q": "Tu ___ (avoir) 30 ans l'année prochaine.",
-      "a": "auras",
-      "choices": [
-        "aurais",
-        "averas",
-        "aurez"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Avoir → radical aur-",
-      "expl": "Avoir → aur-. J'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
-      "dictee": "auras"
-    },
-    {
-      "id": "a2g2-04",
-      "q": "Nous ___ (être) en France dans deux jours.",
-      "a": "serons",
-      "choices": [
-        "serions",
-        "étiez",
-        "étions"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Être → radical ser-",
-      "expl": "Être → ser-. Je serai, tu seras, il sera, nous serons, vous serez, ils seront.",
-      "dictee": "serons"
-    },
-    {
-      "id": "a2g2-05",
-      "q": "Il ___ (faire) beau ce week-end selon la météo.",
-      "a": "fera",
-      "choices": [
-        "ferait",
-        "faira",
-        "faisait"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Faire → radical fer-",
-      "expl": "Faire → fer-. Il fera, nous ferons, vous ferez, ils feront.",
-      "dictee": "fera"
-    },
-    {
-      "id": "a2g2-06",
-      "q": "Vous ___ (aller) au concert vendredi soir ?",
-      "a": "irez",
-      "choices": [
-        "iriez",
-        "allerez",
-        "alliez"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Aller → radical ir-",
-      "expl": "Aller → ir-. J'irai, tu iras, il ira, nous irons, vous irez, ils iront.",
-      "dictee": "irez"
-    },
-    {
-      "id": "a2g2-07",
-      "q": "Elle ___ (venir) me voir demain matin.",
-      "a": "viendra",
-      "choices": [
-        "viendrais",
-        "venira",
-        "viennent"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Venir → radical viendr-",
-      "expl": "Venir → viendr-. Je viendrai, tu viendras, il viendra...",
-      "dictee": "viendra"
-    },
-    {
-      "id": "a2g2-08",
-      "q": "Quand tu ___ (finir), appelle-moi.",
-      "a": "finiras",
-      "choices": [
-        "finissais",
-        "finisses",
-        "finissas"
-      ],
-      "tag": "Futur après quand",
-      "hint": "Après 'quand' → futur en français",
-      "expl": "En français, après 'quand', on utilise le futur (pas le présent).",
-      "dictee": "finiras"
-    },
-    {
-      "id": "a2g2-09",
-      "q": "Je ___ (pouvoir) vous aider demain après-midi.",
-      "a": "pourrai",
-      "choices": [
-        "pourrais",
-        "pourrez",
-        "pouvais"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Pouvoir → radical pourr-",
-      "expl": "Pouvoir → pourr-. Je pourrai, tu pourras, il pourra...",
-      "dictee": "pourrai"
-    },
-    {
-      "id": "a2g2-10",
-      "q": "Ils ___ (vouloir) sûrement participer au projet.",
-      "a": "voudront",
-      "choices": [
-        "voudraient",
-        "veulent",
-        "voudriez"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Vouloir → radical voudr-",
-      "expl": "Vouloir → voudr-. Je voudrai, tu voudras, il voudra...",
-      "dictee": "voudront"
-    },
-    {
-      "id": "a2g2-11",
-      "q": "Nous ___ (devoir) réserver les billets à l'avance.",
-      "a": "devrons",
-      "choices": [
-        "devrions",
-        "devons",
-        "devrez"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Devoir → radical devr-",
-      "expl": "Devoir → devr-. Je devrai, tu devras, il devra, nous devrons...",
-      "dictee": "devrons"
-    },
-    {
-      "id": "a2g2-12",
-      "q": "Tu ___ (savoir) la réponse demain matin.",
-      "a": "sauras",
-      "choices": [
-        "saurais",
-        "saveras",
-        "savais"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Savoir → radical saur-",
-      "expl": "Savoir → saur-. Je saurai, tu sauras, il saura, nous saurons...",
-      "dictee": "sauras"
-    },
-    {
-      "id": "a2g2-13",
-      "q": "Elle ___ (voir) ses amis ce soir au café.",
-      "a": "verra",
-      "choices": [
-        "verrait",
-        "voiera",
-        "voyait"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Voir → radical verr-",
-      "expl": "Voir → verr-. Je verrai, tu verras, il verra, nous verrons...",
-      "dictee": "verra"
-    },
-    {
-      "id": "a2g2-14",
-      "q": "Il ___ (falloir) partir tôt pour éviter les embouteillages.",
-      "a": "faudra",
-      "choices": [
-        "faudrait",
-        "fallera",
-        "fallait"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Falloir → faudr-",
-      "expl": "Falloir → il faudra. Verbe impersonnel, une seule forme.",
-      "dictee": "faudra"
-    },
-    {
-      "id": "a2g2-15",
-      "q": "Quelle est la différence entre futur simple et futur proche ?",
-      "a": "Futur proche = imminent/prévu ; futur simple = plus lointain",
-      "choices": [
-        "Pas de différence de sens",
-        "Futur proche est plus formel",
-        "Futur simple s'emploie toujours avec aller"
-      ],
-      "tag": "Nuances",
-      "expl": "Futur proche (aller + inf.) = proche ou prévu. Futur simple = plus lointain ou catégorique.",
-      "dictee": "proche"
-    },
-    {
-      "id": "a2g2-16",
-      "q": "Nous ___ (s'installer) dans notre nouvelle maison en mars.",
-      "a": "nous installerons",
-      "choices": [
-        "nous installions",
-        "nous installeriez",
-        "nous installerions"
-      ],
-      "tag": "Futur pronominal",
-      "hint": "Verbe pronominal au futur",
-      "expl": "S'installer au futur : nous nous installerons. Le pronom reste devant le verbe.",
-      "dictee": "installerons"
-    },
-    {
-      "id": "a2g2-17",
-      "q": "Quand il ___ (pleuvoir), je prendrai mon parapluie.",
-      "a": "pleuvra",
-      "choices": [
-        "pleuvait",
-        "pleuve",
-        "pleuvrait"
-      ],
-      "tag": "Futur après quand",
-      "hint": "Après 'quand' → futur obligatoire",
-      "expl": "Après 'quand', le futur simple est obligatoire en français.",
-      "dictee": "pleuvra"
-    },
-    {
-      "id": "a2g2-18",
-      "q": "Vous ___ (recevoir) votre commande dans 3 jours ouvrables.",
-      "a": "recevrez",
-      "choices": [
-        "recevriez",
-        "receviez",
-        "recevait"
-      ],
-      "tag": "Futur irrégulier",
-      "hint": "Recevoir → radical recevr-",
-      "expl": "Recevoir → recevr-. Je recevrai, tu recevras, il recevra, vous recevrez...",
-      "dictee": "recevrez"
-    }
-  ]
-}
+[
+  {
+    "id": "a2g2-01",
+    "q": "Demain, je ___ (travailler) à la maison.",
+    "a": "travaillerai",
+    "choices": [
+      "travaillerais",
+      "travailleras",
+      "travaillerait"
+    ],
+    "tag": "Futur simple",
+    "hint": "Je + infinitif + -ai",
+    "expl": "Futur simple : infinitif + terminaisons. Je travaillerai.",
+    "dictee": "travaillerai"
+  },
+  {
+    "id": "a2g2-02",
+    "q": "Ils ___ (partir) en vacances en août.",
+    "a": "partiront",
+    "choices": [
+      "partiraient",
+      "partiras",
+      "partiriez"
+    ],
+    "tag": "Futur simple",
+    "hint": "Ils + infinitif + -ont",
+    "expl": "Futur simple : partir + -ont = partiront.",
+    "dictee": "partiront"
+  },
+  {
+    "id": "a2g2-03",
+    "q": "Tu ___ (avoir) 30 ans l'année prochaine.",
+    "a": "auras",
+    "choices": [
+      "aurais",
+      "averas",
+      "aurez"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Avoir → radical aur-",
+    "expl": "Avoir → aur-. J'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
+    "dictee": "auras"
+  },
+  {
+    "id": "a2g2-04",
+    "q": "Nous ___ (être) en France dans deux jours.",
+    "a": "serons",
+    "choices": [
+      "serions",
+      "étiez",
+      "étions"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Être → radical ser-",
+    "expl": "Être → ser-. Je serai, tu seras, il sera, nous serons, vous serez, ils seront.",
+    "dictee": "serons"
+  },
+  {
+    "id": "a2g2-05",
+    "q": "Il ___ (faire) beau ce week-end selon la météo.",
+    "a": "fera",
+    "choices": [
+      "ferait",
+      "faira",
+      "faisait"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Faire → radical fer-",
+    "expl": "Faire → fer-. Il fera, nous ferons, vous ferez, ils feront.",
+    "dictee": "fera"
+  },
+  {
+    "id": "a2g2-06",
+    "q": "Vous ___ (aller) au concert vendredi soir ?",
+    "a": "irez",
+    "choices": [
+      "iriez",
+      "allerez",
+      "alliez"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Aller → radical ir-",
+    "expl": "Aller → ir-. J'irai, tu iras, il ira, nous irons, vous irez, ils iront.",
+    "dictee": "irez"
+  },
+  {
+    "id": "a2g2-07",
+    "q": "Elle ___ (venir) me voir demain matin.",
+    "a": "viendra",
+    "choices": [
+      "viendrais",
+      "venira",
+      "viennent"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Venir → radical viendr-",
+    "expl": "Venir → viendr-. Je viendrai, tu viendras, il viendra...",
+    "dictee": "viendra"
+  },
+  {
+    "id": "a2g2-08",
+    "q": "Quand tu ___ (finir), appelle-moi.",
+    "a": "finiras",
+    "choices": [
+      "finissais",
+      "finisses",
+      "finissas"
+    ],
+    "tag": "Futur après quand",
+    "hint": "Après 'quand' → futur en français",
+    "expl": "En français, après 'quand', on utilise le futur (pas le présent).",
+    "dictee": "finiras"
+  },
+  {
+    "id": "a2g2-09",
+    "q": "Je ___ (pouvoir) vous aider demain après-midi.",
+    "a": "pourrai",
+    "choices": [
+      "pourrais",
+      "pourrez",
+      "pouvais"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Pouvoir → radical pourr-",
+    "expl": "Pouvoir → pourr-. Je pourrai, tu pourras, il pourra...",
+    "dictee": "pourrai"
+  },
+  {
+    "id": "a2g2-10",
+    "q": "Ils ___ (vouloir) sûrement participer au projet.",
+    "a": "voudront",
+    "choices": [
+      "voudraient",
+      "veulent",
+      "voudriez"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Vouloir → radical voudr-",
+    "expl": "Vouloir → voudr-. Je voudrai, tu voudras, il voudra...",
+    "dictee": "voudront"
+  },
+  {
+    "id": "a2g2-11",
+    "q": "Nous ___ (devoir) réserver les billets à l'avance.",
+    "a": "devrons",
+    "choices": [
+      "devrions",
+      "devons",
+      "devrez"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Devoir → radical devr-",
+    "expl": "Devoir → devr-. Je devrai, tu devras, il devra, nous devrons...",
+    "dictee": "devrons"
+  },
+  {
+    "id": "a2g2-12",
+    "q": "Tu ___ (savoir) la réponse demain matin.",
+    "a": "sauras",
+    "choices": [
+      "saurais",
+      "saveras",
+      "savais"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Savoir → radical saur-",
+    "expl": "Savoir → saur-. Je saurai, tu sauras, il saura, nous saurons...",
+    "dictee": "sauras"
+  },
+  {
+    "id": "a2g2-13",
+    "q": "Elle ___ (voir) ses amis ce soir au café.",
+    "a": "verra",
+    "choices": [
+      "verrait",
+      "voiera",
+      "voyait"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Voir → radical verr-",
+    "expl": "Voir → verr-. Je verrai, tu verras, il verra, nous verrons...",
+    "dictee": "verra"
+  },
+  {
+    "id": "a2g2-14",
+    "q": "Il ___ (falloir) partir tôt pour éviter les embouteillages.",
+    "a": "faudra",
+    "choices": [
+      "faudrait",
+      "fallera",
+      "fallait"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Falloir → faudr-",
+    "expl": "Falloir → il faudra. Verbe impersonnel, une seule forme.",
+    "dictee": "faudra"
+  },
+  {
+    "id": "a2g2-15",
+    "q": "Quelle est la différence entre futur simple et futur proche ?",
+    "a": "Futur proche = imminent/prévu ; futur simple = plus lointain",
+    "choices": [
+      "Pas de différence de sens",
+      "Futur proche est plus formel",
+      "Futur simple s'emploie toujours avec aller"
+    ],
+    "tag": "Nuances",
+    "expl": "Futur proche (aller + inf.) = proche ou prévu. Futur simple = plus lointain ou catégorique.",
+    "dictee": "proche"
+  },
+  {
+    "id": "a2g2-16",
+    "q": "Nous ___ (s'installer) dans notre nouvelle maison en mars.",
+    "a": "nous installerons",
+    "choices": [
+      "nous installions",
+      "nous installeriez",
+      "nous installerions"
+    ],
+    "tag": "Futur pronominal",
+    "hint": "Verbe pronominal au futur",
+    "expl": "S'installer au futur : nous nous installerons. Le pronom reste devant le verbe.",
+    "dictee": "installerons"
+  },
+  {
+    "id": "a2g2-17",
+    "q": "Quand il ___ (pleuvoir), je prendrai mon parapluie.",
+    "a": "pleuvra",
+    "choices": [
+      "pleuvait",
+      "pleuve",
+      "pleuvrait"
+    ],
+    "tag": "Futur après quand",
+    "hint": "Après 'quand' → futur obligatoire",
+    "expl": "Après 'quand', le futur simple est obligatoire en français.",
+    "dictee": "pleuvra"
+  },
+  {
+    "id": "a2g2-18",
+    "q": "Vous ___ (recevoir) votre commande dans 3 jours ouvrables.",
+    "a": "recevrez",
+    "choices": [
+      "recevriez",
+      "receviez",
+      "recevait"
+    ],
+    "tag": "Futur irrégulier",
+    "hint": "Recevoir → radical recevr-",
+    "expl": "Recevoir → recevr-. Je recevrai, tu recevras, il recevra, vous recevrez...",
+    "dictee": "recevrez"
+  }
+]

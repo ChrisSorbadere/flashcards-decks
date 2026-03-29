@@ -1,241 +1,236 @@
-{
-  "id": "a2-vocabulaire-3",
-  "name": "A2 — Vocabulaire 3 : Voyages & transports",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2v3-01",
-      "q": "¿Cómo se dice 'un aller-retour'?",
-      "a": "un billete de ida y vuelta",
-      "choices": [
-        "un billete de ida",
-        "una reserva de vuelo",
-        "un abono de transporte"
-      ],
-      "tag": "Transport",
-      "expl": "Aller-retour = ida y vuelta. Aller simple = solo ida.",
-      "dictee": "aller-retour"
-    },
-    {
-      "id": "a2v3-02",
-      "q": "¿Qué significa 'décoller' (avión)?",
-      "a": "despegar",
-      "choices": [
-        "aterrizar",
-        "embarcar",
-        "hacer escala"
-      ],
-      "tag": "Avion",
-      "expl": "L'avion décolle = despega. L'avion atterrit = aterriza.",
-      "dictee": "décoller"
-    },
-    {
-      "id": "a2v3-03",
-      "q": "¿Cómo se dice 'la douane'?",
-      "a": "la aduana",
-      "choices": [
-        "el control de pasaportes",
-        "la sala de embarque",
-        "la terminal de llegadas"
-      ],
-      "tag": "Voyage",
-      "expl": "La douane contrôle les marchandises et personnes aux frontières.",
-      "dictee": "douane"
-    },
-    {
-      "id": "a2v3-04",
-      "q": "¿Qué es 'un quai' en una estación?",
-      "a": "un andén",
-      "choices": [
-        "una vía de tren",
-        "una sala de espera",
-        "un torniquete de acceso"
-      ],
-      "tag": "Transport",
-      "expl": "Le quai est l'espace où on attend le train.",
-      "dictee": "quai"
-    },
-    {
-      "id": "a2v3-05",
-      "q": "¿Cómo se dice 'louer une voiture'?",
-      "a": "alquilar un coche",
-      "choices": [
-        "comprar un coche",
-        "vender un coche",
-        "reparar un coche"
-      ],
-      "tag": "Transport",
-      "expl": "Louer = alquilar temporalmente.",
-      "dictee": "louer"
-    },
-    {
-      "id": "a2v3-06",
-      "q": "¿Qué significa 'un retard' de train?",
-      "a": "un retraso",
-      "choices": [
-        "una cancelación de tren",
-        "una avería del motor",
-        "una correspondencia perdida"
-      ],
-      "tag": "Transport",
-      "expl": "Le train a du retard = el tren lleva retraso.",
-      "dictee": "retard"
-    },
-    {
-      "id": "a2v3-07",
-      "q": "¿Cómo se dice 'faire escale'?",
-      "a": "hacer escala",
-      "choices": [
-        "tener vuelo directo",
-        "perder el vuelo",
-        "facturar el equipaje"
-      ],
-      "tag": "Avion",
-      "expl": "Faire escale = s'arrêter dans une ville intermédiaire.",
-      "dictee": "escale"
-    },
-    {
-      "id": "a2v3-08",
-      "q": "¿Qué es 'un hébergement'?",
-      "a": "un alojamiento",
-      "choices": [
-        "un medio de transporte",
-        "un itinerario de viaje",
-        "un seguro de viaje"
-      ],
-      "tag": "Voyage",
-      "expl": "L'hébergement = dónde se aloja. Hôtel, auberge, camping...",
-      "dictee": "hébergement"
-    },
-    {
-      "id": "a2v3-09",
-      "q": "¿Cómo se dice 'la carte d'embarquement'?",
-      "a": "la tarjeta de embarque",
-      "choices": [
-        "el pasaporte de viaje",
-        "el visado de entrada",
-        "el billete electrónico"
-      ],
-      "tag": "Avion",
-      "expl": "La carte d'embarquement est nécessaire pour monter dans l'avion.",
-      "dictee": "embarquement"
-    },
-    {
-      "id": "a2v3-10",
-      "q": "¿Qué significa 'se perdre' en voyage?",
-      "a": "perderse / extraviarse",
-      "choices": [
-        "olvidar algo importante",
-        "llegar tarde al destino",
-        "no encontrar el hotel"
-      ],
-      "tag": "Voyage",
-      "expl": "Se perdre = perder el camino.",
-      "dictee": "perdre"
-    },
-    {
-      "id": "a2v3-11",
-      "q": "¿Cómo se dice 'le billet de train'?",
-      "a": "el billete de tren",
-      "choices": [
-        "el abono de transporte",
-        "el pase de andén",
-        "el título mensual de viaje"
-      ],
-      "tag": "Transport",
-      "expl": "Le billet de train permet de voyager. On le réserve à l'avance.",
-      "dictee": "billet"
-    },
-    {
-      "id": "a2v3-12",
-      "q": "¿Qué es 'un office de tourisme'?",
-      "a": "una oficina de turismo",
-      "choices": [
-        "una agencia de viajes",
-        "un punto de información municipal",
-        "una casa de cultura"
-      ],
-      "tag": "Tourisme",
-      "expl": "L'office de tourisme donne des informations aux visiteurs.",
-      "dictee": "tourisme"
-    },
-    {
-      "id": "a2v3-13",
-      "q": "¿Cómo se dice 'les bagages'?",
-      "a": "el equipaje",
-      "choices": [
-        "las maletas de viaje",
-        "el equipaje de mano",
-        "los bultos y paquetes"
-      ],
-      "tag": "Voyage",
-      "expl": "Les bagages = todo el equipaje. Valise = maleta. Sac = bolsa.",
-      "dictee": "bagages"
-    },
-    {
-      "id": "a2v3-14",
-      "q": "¿Qué significa 'composter son billet'?",
-      "a": "validar / picar el billete",
-      "choices": [
-        "reservar el billete online",
-        "imprimir el billete en casa",
-        "cambiar la fecha del billete"
-      ],
-      "tag": "Transport",
-      "expl": "Composter = valider le billet dans la machine avant de monter.",
-      "dictee": "composter"
-    },
-    {
-      "id": "a2v3-15",
-      "q": "¿Cómo se dice 'une croisière'?",
-      "a": "un crucero",
-      "choices": [
-        "una excursión en barco",
-        "un viaje en ferry",
-        "una travesía de pesca"
-      ],
-      "tag": "Voyage",
-      "expl": "Une croisière est un voyage touristique en bateau avec escales.",
-      "dictee": "croisière"
-    },
-    {
-      "id": "a2v3-16",
-      "q": "¿Qué es 'le visa'?",
-      "a": "el visado",
-      "choices": [
-        "el pasaporte nacional",
-        "el permiso de residencia",
-        "la tarjeta de identidad"
-      ],
-      "tag": "Documents",
-      "expl": "Le visa est une autorisation d'entrée dans certains pays.",
-      "dictee": "visa"
-    },
-    {
-      "id": "a2v3-17",
-      "q": "¿Cómo se dice 'faire du stop'?",
-      "a": "hacer autostop",
-      "choices": [
-        "coger un taxi",
-        "ir en autocar",
-        "alquilar un vehículo"
-      ],
-      "tag": "Transport",
-      "expl": "Faire du stop = pedir que un conductor te lleve en su coche.",
-      "dictee": "stop"
-    },
-    {
-      "id": "a2v3-18",
-      "q": "¿Qué significa 'le décalage horaire'?",
-      "a": "el jet lag / la diferencia horaria",
-      "choices": [
-        "el cambio de hora estacional",
-        "el retraso acumulado del vuelo",
-        "la hora local del destino"
-      ],
-      "tag": "Voyage",
-      "expl": "Le décalage horaire est la différence d'heure entre deux pays.",
-      "dictee": "décalage"
-    }
-  ]
-}
+[
+  {
+    "id": "a2v3-01",
+    "q": "¿Cómo se dice 'un aller-retour'?",
+    "a": "un billete de ida y vuelta",
+    "choices": [
+      "un billete de ida",
+      "una reserva de vuelo",
+      "un abono de transporte"
+    ],
+    "tag": "Transport",
+    "expl": "Aller-retour = ida y vuelta. Aller simple = solo ida.",
+    "dictee": "aller-retour"
+  },
+  {
+    "id": "a2v3-02",
+    "q": "¿Qué significa 'décoller' (avión)?",
+    "a": "despegar",
+    "choices": [
+      "aterrizar",
+      "embarcar",
+      "hacer escala"
+    ],
+    "tag": "Avion",
+    "expl": "L'avion décolle = despega. L'avion atterrit = aterriza.",
+    "dictee": "décoller"
+  },
+  {
+    "id": "a2v3-03",
+    "q": "¿Cómo se dice 'la douane'?",
+    "a": "la aduana",
+    "choices": [
+      "el control de pasaportes",
+      "la sala de embarque",
+      "la terminal de llegadas"
+    ],
+    "tag": "Voyage",
+    "expl": "La douane contrôle les marchandises et personnes aux frontières.",
+    "dictee": "douane"
+  },
+  {
+    "id": "a2v3-04",
+    "q": "¿Qué es 'un quai' en una estación?",
+    "a": "un andén",
+    "choices": [
+      "una vía de tren",
+      "una sala de espera",
+      "un torniquete de acceso"
+    ],
+    "tag": "Transport",
+    "expl": "Le quai est l'espace où on attend le train.",
+    "dictee": "quai"
+  },
+  {
+    "id": "a2v3-05",
+    "q": "¿Cómo se dice 'louer une voiture'?",
+    "a": "alquilar un coche",
+    "choices": [
+      "comprar un coche",
+      "vender un coche",
+      "reparar un coche"
+    ],
+    "tag": "Transport",
+    "expl": "Louer = alquilar temporalmente.",
+    "dictee": "louer"
+  },
+  {
+    "id": "a2v3-06",
+    "q": "¿Qué significa 'un retard' de train?",
+    "a": "un retraso",
+    "choices": [
+      "una cancelación de tren",
+      "una avería del motor",
+      "una correspondencia perdida"
+    ],
+    "tag": "Transport",
+    "expl": "Le train a du retard = el tren lleva retraso.",
+    "dictee": "retard"
+  },
+  {
+    "id": "a2v3-07",
+    "q": "¿Cómo se dice 'faire escale'?",
+    "a": "hacer escala",
+    "choices": [
+      "tener vuelo directo",
+      "perder el vuelo",
+      "facturar el equipaje"
+    ],
+    "tag": "Avion",
+    "expl": "Faire escale = s'arrêter dans une ville intermédiaire.",
+    "dictee": "escale"
+  },
+  {
+    "id": "a2v3-08",
+    "q": "¿Qué es 'un hébergement'?",
+    "a": "un alojamiento",
+    "choices": [
+      "un medio de transporte",
+      "un itinerario de viaje",
+      "un seguro de viaje"
+    ],
+    "tag": "Voyage",
+    "expl": "L'hébergement = dónde se aloja. Hôtel, auberge, camping...",
+    "dictee": "hébergement"
+  },
+  {
+    "id": "a2v3-09",
+    "q": "¿Cómo se dice 'la carte d'embarquement'?",
+    "a": "la tarjeta de embarque",
+    "choices": [
+      "el pasaporte de viaje",
+      "el visado de entrada",
+      "el billete electrónico"
+    ],
+    "tag": "Avion",
+    "expl": "La carte d'embarquement est nécessaire pour monter dans l'avion.",
+    "dictee": "embarquement"
+  },
+  {
+    "id": "a2v3-10",
+    "q": "¿Qué significa 'se perdre' en voyage?",
+    "a": "perderse / extraviarse",
+    "choices": [
+      "olvidar algo importante",
+      "llegar tarde al destino",
+      "no encontrar el hotel"
+    ],
+    "tag": "Voyage",
+    "expl": "Se perdre = perder el camino.",
+    "dictee": "perdre"
+  },
+  {
+    "id": "a2v3-11",
+    "q": "¿Cómo se dice 'le billet de train'?",
+    "a": "el billete de tren",
+    "choices": [
+      "el abono de transporte",
+      "el pase de andén",
+      "el título mensual de viaje"
+    ],
+    "tag": "Transport",
+    "expl": "Le billet de train permet de voyager. On le réserve à l'avance.",
+    "dictee": "billet"
+  },
+  {
+    "id": "a2v3-12",
+    "q": "¿Qué es 'un office de tourisme'?",
+    "a": "una oficina de turismo",
+    "choices": [
+      "una agencia de viajes",
+      "un punto de información municipal",
+      "una casa de cultura"
+    ],
+    "tag": "Tourisme",
+    "expl": "L'office de tourisme donne des informations aux visiteurs.",
+    "dictee": "tourisme"
+  },
+  {
+    "id": "a2v3-13",
+    "q": "¿Cómo se dice 'les bagages'?",
+    "a": "el equipaje",
+    "choices": [
+      "las maletas de viaje",
+      "el equipaje de mano",
+      "los bultos y paquetes"
+    ],
+    "tag": "Voyage",
+    "expl": "Les bagages = todo el equipaje. Valise = maleta. Sac = bolsa.",
+    "dictee": "bagages"
+  },
+  {
+    "id": "a2v3-14",
+    "q": "¿Qué significa 'composter son billet'?",
+    "a": "validar / picar el billete",
+    "choices": [
+      "reservar el billete online",
+      "imprimir el billete en casa",
+      "cambiar la fecha del billete"
+    ],
+    "tag": "Transport",
+    "expl": "Composter = valider le billet dans la machine avant de monter.",
+    "dictee": "composter"
+  },
+  {
+    "id": "a2v3-15",
+    "q": "¿Cómo se dice 'une croisière'?",
+    "a": "un crucero",
+    "choices": [
+      "una excursión en barco",
+      "un viaje en ferry",
+      "una travesía de pesca"
+    ],
+    "tag": "Voyage",
+    "expl": "Une croisière est un voyage touristique en bateau avec escales.",
+    "dictee": "croisière"
+  },
+  {
+    "id": "a2v3-16",
+    "q": "¿Qué es 'le visa'?",
+    "a": "el visado",
+    "choices": [
+      "el pasaporte nacional",
+      "el permiso de residencia",
+      "la tarjeta de identidad"
+    ],
+    "tag": "Documents",
+    "expl": "Le visa est une autorisation d'entrée dans certains pays.",
+    "dictee": "visa"
+  },
+  {
+    "id": "a2v3-17",
+    "q": "¿Cómo se dice 'faire du stop'?",
+    "a": "hacer autostop",
+    "choices": [
+      "coger un taxi",
+      "ir en autocar",
+      "alquilar un vehículo"
+    ],
+    "tag": "Transport",
+    "expl": "Faire du stop = pedir que un conductor te lleve en su coche.",
+    "dictee": "stop"
+  },
+  {
+    "id": "a2v3-18",
+    "q": "¿Qué significa 'le décalage horaire'?",
+    "a": "el jet lag / la diferencia horaria",
+    "choices": [
+      "el cambio de hora estacional",
+      "el retraso acumulado del vuelo",
+      "la hora local del destino"
+    ],
+    "tag": "Voyage",
+    "expl": "Le décalage horaire est la différence d'heure entre deux pays.",
+    "dictee": "décalage"
+  }
+]

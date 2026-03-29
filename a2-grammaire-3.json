@@ -1,257 +1,252 @@
-{
-  "id": "a2-grammaire-3",
-  "name": "A2 — Grammaire 3 : Adjectifs et comparatifs",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2g3-01",
-      "q": "Une fille ___ (intelligent). Accord correct ?",
-      "a": "intelligente",
-      "choices": [
-        "intelligent",
-        "intelligents"
-      ],
-      "tag": "Accord",
-      "hint": "Féminin singulier → +e",
-      "expl": "L'adjectif s'accorde. Féminin singulier : intelligent → intelligente.",
-      "dictee": "intelligente"
-    },
-    {
-      "id": "a2g3-02",
-      "q": "Des garçons ___ (beau). Forme correcte ?",
-      "a": "beaux",
-      "choices": [
-        "beau",
-        "belle"
-      ],
-      "tag": "Irréguliers",
-      "hint": "Beau → pluriel masculin",
-      "expl": "Beau → bel (devant voyelle), beaux (pluriel masc.). Belle → belles.",
-      "dictee": "beaux"
-    },
-    {
-      "id": "a2g3-03",
-      "q": "Paul est ___ grand ___ Marc. (supériorité)",
-      "a": "plus grand que",
-      "choices": [
-        "aussi grand comme",
-        "plus grand de",
-        "si grand que"
-      ],
-      "tag": "Comparatif",
-      "hint": "Plus... que",
-      "expl": "Comparatif de supériorité : plus + adjectif + que.",
-      "dictee": "plus grand que"
-    },
-    {
-      "id": "a2g3-04",
-      "q": "Ce film est ___ intéressant ___ l'autre. (égalité)",
-      "a": "aussi intéressant que",
-      "choices": [
-        "plus intéressant que",
-        "autant intéressant que",
-        "si intéressant comme"
-      ],
-      "tag": "Comparatif",
-      "hint": "Aussi... que",
-      "expl": "Comparatif d'égalité : aussi + adjectif + que.",
-      "dictee": "aussi intéressant que"
-    },
-    {
-      "id": "a2g3-05",
-      "q": "Cette voiture est ___ rapide ___ la mienne. (infériorité)",
-      "a": "moins rapide que",
-      "choices": [
-        "plus rapide que",
-        "aussi rapide que",
-        "si rapide que"
-      ],
-      "tag": "Comparatif",
-      "hint": "Moins... que",
-      "expl": "Comparatif d'infériorité : moins + adjectif + que.",
-      "dictee": "moins rapide que"
-    },
-    {
-      "id": "a2g3-06",
-      "q": "C'est le ___ bon restaurant de la ville. (superlatif)",
-      "a": "meilleur",
-      "choices": [
-        "plus bon",
-        "mieux",
-        "bien meilleur"
-      ],
-      "tag": "Superlatif",
-      "hint": "Bon → superlatif irrégulier",
-      "expl": "Bon → comparatif : meilleur. Superlatif : le meilleur. Jamais 'le plus bon' !",
-      "dictee": "meilleur"
-    },
-    {
-      "id": "a2g3-07",
-      "q": "Elle chante ___ que moi. (bien → comparatif)",
-      "a": "mieux",
-      "choices": [
-        "plus bien",
-        "meilleure",
-        "bien plus"
-      ],
-      "tag": "Adverbe",
-      "hint": "Bien → comparatif d'adverbe",
-      "expl": "Bien → comparatif : mieux. Jamais 'plus bien' !",
-      "dictee": "mieux"
-    },
-    {
-      "id": "a2g3-08",
-      "q": "Un ___ homme (vieux). Quelle forme devant voyelle ?",
-      "a": "vieil",
-      "choices": [
-        "vieux",
-        "vieille",
-        "vieils"
-      ],
-      "tag": "Irréguliers",
-      "hint": "Vieux → forme spéciale devant voyelle",
-      "expl": "Vieux → vieil devant voyelle. Un vieil homme, un bel enfant, un nouvel ami.",
-      "dictee": "vieil"
-    },
-    {
-      "id": "a2g3-09",
-      "q": "Cette robe est ___ belle ___ l'autre. (supériorité)",
-      "a": "plus belle que",
-      "choices": [
-        "plus beau que",
-        "aussi belle comme",
-        "plus belle de"
-      ],
-      "tag": "Comparatif",
-      "hint": "Accord féminin + plus... que",
-      "expl": "Plus belle que (féminin de beau). L'adjectif s'accorde dans le comparatif.",
-      "dictee": "plus belle que"
-    },
-    {
-      "id": "a2g3-10",
-      "q": "Il travaille ___ que sa sœur. (davantage)",
-      "a": "plus",
-      "choices": [
-        "mieux",
-        "autant",
-        "beaucoup"
-      ],
-      "tag": "Comparatif verbe",
-      "hint": "Plus = davantage",
-      "expl": "Travailler plus = travailler davantage. Plus est le comparatif de supériorité.",
-      "dictee": "plus"
-    },
-    {
-      "id": "a2g3-11",
-      "q": "C'est la ___ belle ville que j'aie vue. (superlatif)",
-      "a": "plus",
-      "choices": [
-        "mieux",
-        "moins",
-        "bien"
-      ],
-      "tag": "Superlatif",
-      "hint": "Le/la + plus + adjectif",
-      "expl": "Superlatif : le/la/les plus + adjectif. La plus belle = la más hermosa.",
-      "dictee": "plus"
-    },
-    {
-      "id": "a2g3-12",
-      "q": "Ces fleurs sont ___. (adjectif 'frais' au féminin pluriel)",
-      "a": "fraîches",
-      "choices": [
-        "frais",
-        "fraîche",
-        "fraiche"
-      ],
-      "tag": "Accord",
-      "hint": "Frais → féminin → fraîche",
-      "expl": "Frais → fraîche (fém. sing.) → fraîches (fém. plur.).",
-      "dictee": "fraîches"
-    },
-    {
-      "id": "a2g3-13",
-      "q": "C'est un ___ appartement. ('nouveau' devant voyelle)",
-      "a": "nouvel",
-      "choices": [
-        "nouveau",
-        "nouvelle",
-        "nouveaux"
-      ],
-      "tag": "Irréguliers",
-      "hint": "Nouveau → forme spéciale devant voyelle",
-      "expl": "Nouveau → nouvel devant voyelle masculine. Un nouvel appartement.",
-      "dictee": "nouvel"
-    },
-    {
-      "id": "a2g3-14",
-      "q": "Elles sont ___ contentes. (adverbe d'intensité)",
-      "a": "très",
-      "choices": [
-        "beaucoup",
-        "trop",
-        "fort"
-      ],
-      "tag": "Adverbes",
-      "hint": "Adverbe + adjectif = très",
-      "expl": "Très modifie un adjectif. Beaucoup modifie un verbe.",
-      "dictee": "très"
-    },
-    {
-      "id": "a2g3-15",
-      "q": "Il mange ___. (adverbe d'intensité + verbe)",
-      "a": "beaucoup",
-      "choices": [
-        "très",
-        "bien plus",
-        "tellement"
-      ],
-      "tag": "Adverbes",
-      "hint": "Adverbe + verbe = beaucoup",
-      "expl": "Beaucoup modifie un verbe. Très modifie un adjectif ou adverbe.",
-      "dictee": "beaucoup"
-    },
-    {
-      "id": "a2g3-16",
-      "q": "Cette solution est ___ que l'autre. (mauvais → comparatif irrégulier)",
-      "a": "pire",
-      "choices": [
-        "plus mauvaise",
-        "plus mal",
-        "moins bonne"
-      ],
-      "tag": "Irréguliers",
-      "hint": "Mauvais → comparatif irrégulier",
-      "expl": "Mauvais → pire (comparatif irrégulier). Pire = peor.",
-      "dictee": "pire"
-    },
-    {
-      "id": "a2g3-17",
-      "q": "La plupart des adjectifs français se placent ___ le nom.",
-      "a": "après",
-      "choices": [
-        "avant",
-        "devant",
-        "entre l'article et"
-      ],
-      "tag": "Règle",
-      "hint": "Règle générale",
-      "expl": "En français, la plupart des adjectifs se placent APRÈS le nom. Une voiture rouge.",
-      "dictee": "après"
-    },
-    {
-      "id": "a2g3-18",
-      "q": "Lesquels se placent AVANT le nom ? (règle BAGS)",
-      "a": "Beauté, Âge, Grandeur, Sens moral (beau, jeune, grand, bon)",
-      "choices": [
-        "Les couleurs et nationalités",
-        "Les adjectifs longs uniquement",
-        "Les adjectifs en -ible et -able"
-      ],
-      "tag": "Règle",
-      "hint": "BAGS = Beauty Age Goodness Size",
-      "expl": "BAGS : un beau jardin, un jeune homme, un grand arbre, un bon repas.",
-      "dictee": "BAGS"
-    }
-  ]
-}
+[
+  {
+    "id": "a2g3-01",
+    "q": "Une fille ___ (intelligent). Accord correct ?",
+    "a": "intelligente",
+    "choices": [
+      "intelligent",
+      "intelligents"
+    ],
+    "tag": "Accord",
+    "hint": "Féminin singulier → +e",
+    "expl": "L'adjectif s'accorde. Féminin singulier : intelligent → intelligente.",
+    "dictee": "intelligente"
+  },
+  {
+    "id": "a2g3-02",
+    "q": "Des garçons ___ (beau). Forme correcte ?",
+    "a": "beaux",
+    "choices": [
+      "beau",
+      "belle"
+    ],
+    "tag": "Irréguliers",
+    "hint": "Beau → pluriel masculin",
+    "expl": "Beau → bel (devant voyelle), beaux (pluriel masc.). Belle → belles.",
+    "dictee": "beaux"
+  },
+  {
+    "id": "a2g3-03",
+    "q": "Paul est ___ grand ___ Marc. (supériorité)",
+    "a": "plus grand que",
+    "choices": [
+      "aussi grand comme",
+      "plus grand de",
+      "si grand que"
+    ],
+    "tag": "Comparatif",
+    "hint": "Plus... que",
+    "expl": "Comparatif de supériorité : plus + adjectif + que.",
+    "dictee": "plus grand que"
+  },
+  {
+    "id": "a2g3-04",
+    "q": "Ce film est ___ intéressant ___ l'autre. (égalité)",
+    "a": "aussi intéressant que",
+    "choices": [
+      "plus intéressant que",
+      "autant intéressant que",
+      "si intéressant comme"
+    ],
+    "tag": "Comparatif",
+    "hint": "Aussi... que",
+    "expl": "Comparatif d'égalité : aussi + adjectif + que.",
+    "dictee": "aussi intéressant que"
+  },
+  {
+    "id": "a2g3-05",
+    "q": "Cette voiture est ___ rapide ___ la mienne. (infériorité)",
+    "a": "moins rapide que",
+    "choices": [
+      "plus rapide que",
+      "aussi rapide que",
+      "si rapide que"
+    ],
+    "tag": "Comparatif",
+    "hint": "Moins... que",
+    "expl": "Comparatif d'infériorité : moins + adjectif + que.",
+    "dictee": "moins rapide que"
+  },
+  {
+    "id": "a2g3-06",
+    "q": "C'est le ___ bon restaurant de la ville. (superlatif)",
+    "a": "meilleur",
+    "choices": [
+      "plus bon",
+      "mieux",
+      "bien meilleur"
+    ],
+    "tag": "Superlatif",
+    "hint": "Bon → superlatif irrégulier",
+    "expl": "Bon → comparatif : meilleur. Superlatif : le meilleur. Jamais 'le plus bon' !",
+    "dictee": "meilleur"
+  },
+  {
+    "id": "a2g3-07",
+    "q": "Elle chante ___ que moi. (bien → comparatif)",
+    "a": "mieux",
+    "choices": [
+      "plus bien",
+      "meilleure",
+      "bien plus"
+    ],
+    "tag": "Adverbe",
+    "hint": "Bien → comparatif d'adverbe",
+    "expl": "Bien → comparatif : mieux. Jamais 'plus bien' !",
+    "dictee": "mieux"
+  },
+  {
+    "id": "a2g3-08",
+    "q": "Un ___ homme (vieux). Quelle forme devant voyelle ?",
+    "a": "vieil",
+    "choices": [
+      "vieux",
+      "vieille",
+      "vieils"
+    ],
+    "tag": "Irréguliers",
+    "hint": "Vieux → forme spéciale devant voyelle",
+    "expl": "Vieux → vieil devant voyelle. Un vieil homme, un bel enfant, un nouvel ami.",
+    "dictee": "vieil"
+  },
+  {
+    "id": "a2g3-09",
+    "q": "Cette robe est ___ belle ___ l'autre. (supériorité)",
+    "a": "plus belle que",
+    "choices": [
+      "plus beau que",
+      "aussi belle comme",
+      "plus belle de"
+    ],
+    "tag": "Comparatif",
+    "hint": "Accord féminin + plus... que",
+    "expl": "Plus belle que (féminin de beau). L'adjectif s'accorde dans le comparatif.",
+    "dictee": "plus belle que"
+  },
+  {
+    "id": "a2g3-10",
+    "q": "Il travaille ___ que sa sœur. (davantage)",
+    "a": "plus",
+    "choices": [
+      "mieux",
+      "autant",
+      "beaucoup"
+    ],
+    "tag": "Comparatif verbe",
+    "hint": "Plus = davantage",
+    "expl": "Travailler plus = travailler davantage. Plus est le comparatif de supériorité.",
+    "dictee": "plus"
+  },
+  {
+    "id": "a2g3-11",
+    "q": "C'est la ___ belle ville que j'aie vue. (superlatif)",
+    "a": "plus",
+    "choices": [
+      "mieux",
+      "moins",
+      "bien"
+    ],
+    "tag": "Superlatif",
+    "hint": "Le/la + plus + adjectif",
+    "expl": "Superlatif : le/la/les plus + adjectif. La plus belle = la más hermosa.",
+    "dictee": "plus"
+  },
+  {
+    "id": "a2g3-12",
+    "q": "Ces fleurs sont ___. (adjectif 'frais' au féminin pluriel)",
+    "a": "fraîches",
+    "choices": [
+      "frais",
+      "fraîche",
+      "fraiche"
+    ],
+    "tag": "Accord",
+    "hint": "Frais → féminin → fraîche",
+    "expl": "Frais → fraîche (fém. sing.) → fraîches (fém. plur.).",
+    "dictee": "fraîches"
+  },
+  {
+    "id": "a2g3-13",
+    "q": "C'est un ___ appartement. ('nouveau' devant voyelle)",
+    "a": "nouvel",
+    "choices": [
+      "nouveau",
+      "nouvelle",
+      "nouveaux"
+    ],
+    "tag": "Irréguliers",
+    "hint": "Nouveau → forme spéciale devant voyelle",
+    "expl": "Nouveau → nouvel devant voyelle masculine. Un nouvel appartement.",
+    "dictee": "nouvel"
+  },
+  {
+    "id": "a2g3-14",
+    "q": "Elles sont ___ contentes. (adverbe d'intensité)",
+    "a": "très",
+    "choices": [
+      "beaucoup",
+      "trop",
+      "fort"
+    ],
+    "tag": "Adverbes",
+    "hint": "Adverbe + adjectif = très",
+    "expl": "Très modifie un adjectif. Beaucoup modifie un verbe.",
+    "dictee": "très"
+  },
+  {
+    "id": "a2g3-15",
+    "q": "Il mange ___. (adverbe d'intensité + verbe)",
+    "a": "beaucoup",
+    "choices": [
+      "très",
+      "bien plus",
+      "tellement"
+    ],
+    "tag": "Adverbes",
+    "hint": "Adverbe + verbe = beaucoup",
+    "expl": "Beaucoup modifie un verbe. Très modifie un adjectif ou adverbe.",
+    "dictee": "beaucoup"
+  },
+  {
+    "id": "a2g3-16",
+    "q": "Cette solution est ___ que l'autre. (mauvais → comparatif irrégulier)",
+    "a": "pire",
+    "choices": [
+      "plus mauvaise",
+      "plus mal",
+      "moins bonne"
+    ],
+    "tag": "Irréguliers",
+    "hint": "Mauvais → comparatif irrégulier",
+    "expl": "Mauvais → pire (comparatif irrégulier). Pire = peor.",
+    "dictee": "pire"
+  },
+  {
+    "id": "a2g3-17",
+    "q": "La plupart des adjectifs français se placent ___ le nom.",
+    "a": "après",
+    "choices": [
+      "avant",
+      "devant",
+      "entre l'article et"
+    ],
+    "tag": "Règle",
+    "hint": "Règle générale",
+    "expl": "En français, la plupart des adjectifs se placent APRÈS le nom. Une voiture rouge.",
+    "dictee": "après"
+  },
+  {
+    "id": "a2g3-18",
+    "q": "Lesquels se placent AVANT le nom ? (règle BAGS)",
+    "a": "Beauté, Âge, Grandeur, Sens moral (beau, jeune, grand, bon)",
+    "choices": [
+      "Les couleurs et nationalités",
+      "Les adjectifs longs uniquement",
+      "Les adjectifs en -ible et -able"
+    ],
+    "tag": "Règle",
+    "hint": "BAGS = Beauty Age Goodness Size",
+    "expl": "BAGS : un beau jardin, un jeune homme, un grand arbre, un bon repas.",
+    "dictee": "BAGS"
+  }
+]

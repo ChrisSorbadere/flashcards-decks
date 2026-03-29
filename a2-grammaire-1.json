@@ -1,258 +1,253 @@
-{
-  "id": "a2-grammaire-1",
-  "name": "A2 — Grammaire 1 : Pronoms COD et COI",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2g1-01",
-      "q": "Je lis ce livre. → Je ___ lis.",
-      "a": "le",
-      "choices": [
-        "lui",
-        "la",
-        "les"
-      ],
-      "tag": "COD",
-      "hint": "'Ce livre' est masculin singulier",
-      "expl": "COD masc. sing. → le. Ce livre → je le lis.",
-      "dictee": "le"
-    },
-    {
-      "id": "a2g1-02",
-      "q": "Il mange la tarte. → Il ___ mange.",
-      "a": "la",
-      "choices": [
-        "le",
-        "lui",
-        "les"
-      ],
-      "tag": "COD",
-      "hint": "'La tarte' est féminin singulier",
-      "expl": "COD fém. sing. → la. La tarte → il la mange.",
-      "dictee": "la"
-    },
-    {
-      "id": "a2g1-03",
-      "q": "Nous voyons les enfants. → Nous ___ voyons.",
-      "a": "les",
-      "choices": [
-        "leur",
-        "le",
-        "lui"
-      ],
-      "tag": "COD",
-      "hint": "Pluriel → les",
-      "expl": "COD pluriel → les. Les enfants → nous les voyons.",
-      "dictee": "les"
-    },
-    {
-      "id": "a2g1-04",
-      "q": "Je parle à Marie. → Je ___ parle.",
-      "a": "lui",
-      "choices": [
-        "la",
-        "le",
-        "leur"
-      ],
-      "tag": "COI",
-      "hint": "'À Marie' (singulier) → lui",
-      "expl": "COI sing. → lui. À Marie → je lui parle.",
-      "dictee": "lui"
-    },
-    {
-      "id": "a2g1-05",
-      "q": "Il écrit à ses parents. → Il ___ écrit.",
-      "a": "leur",
-      "choices": [
-        "lui",
-        "les",
-        "y"
-      ],
-      "tag": "COI",
-      "hint": "'À ses parents' (pluriel) → leur",
-      "expl": "COI pluriel → leur. À ses parents → il leur écrit.",
-      "dictee": "leur"
-    },
-    {
-      "id": "a2g1-06",
-      "q": "Tu penses à ce problème. → Tu ___ penses.",
-      "a": "y",
-      "choices": [
-        "lui",
-        "en",
-        "le"
-      ],
-      "tag": "y/en",
-      "hint": "'À + chose' → y",
-      "expl": "Y remplace à + chose. Je pense à Paris → j'y pense.",
-      "dictee": "y"
-    },
-    {
-      "id": "a2g1-07",
-      "q": "Elle vient de Paris. → Elle ___ vient.",
-      "a": "en",
-      "choices": [
-        "y",
-        "de là",
-        "lui"
-      ],
-      "tag": "y/en",
-      "hint": "'De + lieu' → en",
-      "expl": "En remplace de + lieu. Je viens de France → j'en viens.",
-      "dictee": "en"
-    },
-    {
-      "id": "a2g1-08",
-      "q": "Il veut du café. → Il ___ veut.",
-      "a": "en",
-      "choices": [
-        "le",
-        "y",
-        "lui"
-      ],
-      "tag": "y/en",
-      "hint": "'Du/de la/des + chose' → en",
-      "expl": "En remplace du/de la/des + nom.",
-      "dictee": "en"
-    },
-    {
-      "id": "a2g1-09",
-      "q": "Où se place le pronom COD dans 'Je le vois' ?",
-      "a": "Entre le sujet et le verbe",
-      "choices": [
-        "Avant le sujet",
-        "Après le verbe",
-        "À la fin de la phrase"
-      ],
-      "tag": "Règle",
-      "expl": "Le pronom COD se place AVANT le verbe conjugué.",
-      "dictee": "avant"
-    },
-    {
-      "id": "a2g1-10",
-      "q": "Tu as vu ce film ? → Tu ___ as vu ?",
-      "a": "l'",
-      "choices": [
-        "le",
-        "lui",
-        "en"
-      ],
-      "tag": "COD",
-      "hint": "Voyelle → élision",
-      "expl": "Ce film → le. Devant 'as' (voyelle), le → l'.",
-      "dictee": "l'"
-    },
-    {
-      "id": "a2g1-11",
-      "q": "Nous téléphonons à nos amis. → Nous ___ téléphonons.",
-      "a": "leur",
-      "choices": [
-        "les",
-        "lui",
-        "y"
-      ],
-      "tag": "COI",
-      "hint": "'À nos amis' (pluriel) → leur",
-      "expl": "Téléphoner à = COI. À nos amis (pluriel) → leur.",
-      "dictee": "leur"
-    },
-    {
-      "id": "a2g1-12",
-      "q": "Je réponds à cette question. → J'___ réponds.",
-      "a": "y",
-      "choices": [
-        "lui",
-        "en",
-        "le"
-      ],
-      "tag": "y/en",
-      "hint": "'À + chose' → y",
-      "expl": "À cette question (chose) → y.",
-      "dictee": "y"
-    },
-    {
-      "id": "a2g1-13",
-      "q": "Elle parle de son voyage. → Elle ___ parle.",
-      "a": "en",
-      "choices": [
-        "y",
-        "lui",
-        "le"
-      ],
-      "tag": "y/en",
-      "hint": "'De + chose' → en",
-      "expl": "De son voyage (chose) → en.",
-      "dictee": "en"
-    },
-    {
-      "id": "a2g1-14",
-      "q": "Il me donne ce livre. → Il ___ donne.",
-      "a": "me le",
-      "choices": [
-        "me lui",
-        "le me",
-        "m'en"
-      ],
-      "tag": "Double pronom",
-      "hint": "me + le → me le",
-      "expl": "Ordre des pronoms : me/te/lui + le/la/les. Il me le donne.",
-      "dictee": "me le"
-    },
-    {
-      "id": "a2g1-15",
-      "q": "Tu offres des fleurs à ta mère. → Tu ___ offres.",
-      "a": "lui en offres",
-      "choices": [
-        "les lui offres",
-        "en lui offres",
-        "lui les offres"
-      ],
-      "tag": "Double pronom",
-      "hint": "lui + en",
-      "expl": "Ordre avec en : COI + en. Tu lui en offres.",
-      "dictee": "lui en"
-    },
-    {
-      "id": "a2g1-16",
-      "q": "Il envoie le colis à ses parents. → Il ___ envoie.",
-      "a": "le leur envoie",
-      "choices": [
-        "leur le envoie",
-        "les leur envoie",
-        "leur en envoie"
-      ],
-      "tag": "Double pronom",
-      "hint": "le + leur",
-      "expl": "Ordre : le/la/les + lui/leur. Il le leur envoie.",
-      "dictee": "le leur"
-    },
-    {
-      "id": "a2g1-17",
-      "q": "À l'impératif affirmatif : Regarde ___ ! (le film)",
-      "a": "Regarde-le !",
-      "choices": [
-        "Le regarde !",
-        "Regarde lui !",
-        "Le regardes !"
-      ],
-      "tag": "Impératif",
-      "hint": "Impératif affirmatif : pronom après le verbe",
-      "expl": "À l'impératif affirmatif, le pronom se place APRÈS : Regarde-le !",
-      "dictee": "le"
-    },
-    {
-      "id": "a2g1-18",
-      "q": "À l'impératif négatif : ___ regarde pas ! (le film)",
-      "a": "Ne le regarde pas !",
-      "choices": [
-        "Ne regarde-le pas !",
-        "Regarde-le pas !",
-        "Ne le regardes pas !"
-      ],
-      "tag": "Impératif",
-      "hint": "Impératif négatif : pronom avant le verbe",
-      "expl": "À l'impératif négatif, le pronom reste AVANT : Ne le regarde pas !",
-      "dictee": "le"
-    }
-  ]
-}
+[
+  {
+    "id": "a2g1-01",
+    "q": "Je lis ce livre. → Je ___ lis.",
+    "a": "le",
+    "choices": [
+      "lui",
+      "la",
+      "les"
+    ],
+    "tag": "COD",
+    "hint": "'Ce livre' est masculin singulier",
+    "expl": "COD masc. sing. → le. Ce livre → je le lis.",
+    "dictee": "le"
+  },
+  {
+    "id": "a2g1-02",
+    "q": "Il mange la tarte. → Il ___ mange.",
+    "a": "la",
+    "choices": [
+      "le",
+      "lui",
+      "les"
+    ],
+    "tag": "COD",
+    "hint": "'La tarte' est féminin singulier",
+    "expl": "COD fém. sing. → la. La tarte → il la mange.",
+    "dictee": "la"
+  },
+  {
+    "id": "a2g1-03",
+    "q": "Nous voyons les enfants. → Nous ___ voyons.",
+    "a": "les",
+    "choices": [
+      "leur",
+      "le",
+      "lui"
+    ],
+    "tag": "COD",
+    "hint": "Pluriel → les",
+    "expl": "COD pluriel → les. Les enfants → nous les voyons.",
+    "dictee": "les"
+  },
+  {
+    "id": "a2g1-04",
+    "q": "Je parle à Marie. → Je ___ parle.",
+    "a": "lui",
+    "choices": [
+      "la",
+      "le",
+      "leur"
+    ],
+    "tag": "COI",
+    "hint": "'À Marie' (singulier) → lui",
+    "expl": "COI sing. → lui. À Marie → je lui parle.",
+    "dictee": "lui"
+  },
+  {
+    "id": "a2g1-05",
+    "q": "Il écrit à ses parents. → Il ___ écrit.",
+    "a": "leur",
+    "choices": [
+      "lui",
+      "les",
+      "y"
+    ],
+    "tag": "COI",
+    "hint": "'À ses parents' (pluriel) → leur",
+    "expl": "COI pluriel → leur. À ses parents → il leur écrit.",
+    "dictee": "leur"
+  },
+  {
+    "id": "a2g1-06",
+    "q": "Tu penses à ce problème. → Tu ___ penses.",
+    "a": "y",
+    "choices": [
+      "lui",
+      "en",
+      "le"
+    ],
+    "tag": "y/en",
+    "hint": "'À + chose' → y",
+    "expl": "Y remplace à + chose. Je pense à Paris → j'y pense.",
+    "dictee": "y"
+  },
+  {
+    "id": "a2g1-07",
+    "q": "Elle vient de Paris. → Elle ___ vient.",
+    "a": "en",
+    "choices": [
+      "y",
+      "de là",
+      "lui"
+    ],
+    "tag": "y/en",
+    "hint": "'De + lieu' → en",
+    "expl": "En remplace de + lieu. Je viens de France → j'en viens.",
+    "dictee": "en"
+  },
+  {
+    "id": "a2g1-08",
+    "q": "Il veut du café. → Il ___ veut.",
+    "a": "en",
+    "choices": [
+      "le",
+      "y",
+      "lui"
+    ],
+    "tag": "y/en",
+    "hint": "'Du/de la/des + chose' → en",
+    "expl": "En remplace du/de la/des + nom.",
+    "dictee": "en"
+  },
+  {
+    "id": "a2g1-09",
+    "q": "Où se place le pronom COD dans 'Je le vois' ?",
+    "a": "Entre le sujet et le verbe",
+    "choices": [
+      "Avant le sujet",
+      "Après le verbe",
+      "À la fin de la phrase"
+    ],
+    "tag": "Règle",
+    "expl": "Le pronom COD se place AVANT le verbe conjugué.",
+    "dictee": "avant"
+  },
+  {
+    "id": "a2g1-10",
+    "q": "Tu as vu ce film ? → Tu ___ as vu ?",
+    "a": "l'",
+    "choices": [
+      "le",
+      "lui",
+      "en"
+    ],
+    "tag": "COD",
+    "hint": "Voyelle → élision",
+    "expl": "Ce film → le. Devant 'as' (voyelle), le → l'.",
+    "dictee": "l'"
+  },
+  {
+    "id": "a2g1-11",
+    "q": "Nous téléphonons à nos amis. → Nous ___ téléphonons.",
+    "a": "leur",
+    "choices": [
+      "les",
+      "lui",
+      "y"
+    ],
+    "tag": "COI",
+    "hint": "'À nos amis' (pluriel) → leur",
+    "expl": "Téléphoner à = COI. À nos amis (pluriel) → leur.",
+    "dictee": "leur"
+  },
+  {
+    "id": "a2g1-12",
+    "q": "Je réponds à cette question. → J'___ réponds.",
+    "a": "y",
+    "choices": [
+      "lui",
+      "en",
+      "le"
+    ],
+    "tag": "y/en",
+    "hint": "'À + chose' → y",
+    "expl": "À cette question (chose) → y.",
+    "dictee": "y"
+  },
+  {
+    "id": "a2g1-13",
+    "q": "Elle parle de son voyage. → Elle ___ parle.",
+    "a": "en",
+    "choices": [
+      "y",
+      "lui",
+      "le"
+    ],
+    "tag": "y/en",
+    "hint": "'De + chose' → en",
+    "expl": "De son voyage (chose) → en.",
+    "dictee": "en"
+  },
+  {
+    "id": "a2g1-14",
+    "q": "Il me donne ce livre. → Il ___ donne.",
+    "a": "me le",
+    "choices": [
+      "me lui",
+      "le me",
+      "m'en"
+    ],
+    "tag": "Double pronom",
+    "hint": "me + le → me le",
+    "expl": "Ordre des pronoms : me/te/lui + le/la/les. Il me le donne.",
+    "dictee": "me le"
+  },
+  {
+    "id": "a2g1-15",
+    "q": "Tu offres des fleurs à ta mère. → Tu ___ offres.",
+    "a": "lui en offres",
+    "choices": [
+      "les lui offres",
+      "en lui offres",
+      "lui les offres"
+    ],
+    "tag": "Double pronom",
+    "hint": "lui + en",
+    "expl": "Ordre avec en : COI + en. Tu lui en offres.",
+    "dictee": "lui en"
+  },
+  {
+    "id": "a2g1-16",
+    "q": "Il envoie le colis à ses parents. → Il ___ envoie.",
+    "a": "le leur envoie",
+    "choices": [
+      "leur le envoie",
+      "les leur envoie",
+      "leur en envoie"
+    ],
+    "tag": "Double pronom",
+    "hint": "le + leur",
+    "expl": "Ordre : le/la/les + lui/leur. Il le leur envoie.",
+    "dictee": "le leur"
+  },
+  {
+    "id": "a2g1-17",
+    "q": "À l'impératif affirmatif : Regarde ___ ! (le film)",
+    "a": "Regarde-le !",
+    "choices": [
+      "Le regarde !",
+      "Regarde lui !",
+      "Le regardes !"
+    ],
+    "tag": "Impératif",
+    "hint": "Impératif affirmatif : pronom après le verbe",
+    "expl": "À l'impératif affirmatif, le pronom se place APRÈS : Regarde-le !",
+    "dictee": "le"
+  },
+  {
+    "id": "a2g1-18",
+    "q": "À l'impératif négatif : ___ regarde pas ! (le film)",
+    "a": "Ne le regarde pas !",
+    "choices": [
+      "Ne regarde-le pas !",
+      "Regarde-le pas !",
+      "Ne le regardes pas !"
+    ],
+    "tag": "Impératif",
+    "hint": "Impératif négatif : pronom avant le verbe",
+    "expl": "À l'impératif négatif, le pronom reste AVANT : Ne le regarde pas !",
+    "dictee": "le"
+  }
+]

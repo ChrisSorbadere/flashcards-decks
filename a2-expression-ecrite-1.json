@@ -1,241 +1,236 @@
-{
-  "id": "a2-expression-ecrite-1",
-  "name": "A2 — Expression écrite 1 : Structures et connecteurs",
-  "tag": "A2",
-  "cards": [
-    {
-      "id": "a2ee1-01",
-      "q": "Pour exprimer une CAUSE, on utilise :",
-      "a": "parce que, car, puisque",
-      "choices": [
-        "donc, alors, c'est pourquoi",
-        "mais, or, cependant",
-        "et, de plus, en outre"
-      ],
-      "tag": "Connecteurs",
-      "expl": "Cause : parce que (réponse à 'pourquoi'), car (explicatif), puisque (cause connue).",
-      "dictee": "parce que"
-    },
-    {
-      "id": "a2ee1-02",
-      "q": "Pour exprimer une CONSÉQUENCE, on utilise :",
-      "a": "donc, alors, c'est pourquoi, ainsi",
-      "choices": [
-        "parce que, car, puisque",
-        "mais, cependant, or",
-        "bien que, même si, quoique"
-      ],
-      "tag": "Connecteurs",
-      "expl": "Conséquence : donc (logique), alors (temporal/logique), c'est pourquoi (formel).",
-      "dictee": "donc"
-    },
-    {
-      "id": "a2ee1-03",
-      "q": "Pour exprimer une OPPOSITION, on utilise :",
-      "a": "mais, cependant, pourtant, or",
-      "choices": [
-        "donc, c'est pourquoi, ainsi",
-        "et, aussi, de plus",
-        "parce que, car, puisque"
-      ],
-      "tag": "Connecteurs",
-      "expl": "Opposition : mais (simple), cependant (formel), pourtant (malgré tout).",
-      "dictee": "mais"
-    },
-    {
-      "id": "a2ee1-04",
-      "q": "Pour AJOUTER une idée, on utilise :",
-      "a": "et, aussi, de plus, en outre, également",
-      "choices": [
-        "mais, or, cependant, pourtant",
-        "donc, alors, ainsi, c'est pourquoi",
-        "parce que, puisque, car, vu que"
-      ],
-      "tag": "Connecteurs",
-      "expl": "Addition : et (simple), de plus/en outre (formel), également/aussi (variantes).",
-      "dictee": "de plus"
-    },
-    {
-      "id": "a2ee1-05",
-      "q": "Pour INTRODUIRE un texte, on utilise :",
-      "a": "Tout d'abord, en premier lieu, premièrement",
-      "choices": [
-        "Ensuite, puis, après cela",
-        "Enfin, pour finir, en conclusion",
-        "Cependant, pourtant, néanmoins"
-      ],
-      "tag": "Structure",
-      "expl": "Début : Tout d'abord / En premier lieu. Milieu : Ensuite. Fin : Enfin/Pour conclure.",
-      "dictee": "d'abord"
-    },
-    {
-      "id": "a2ee1-06",
-      "q": "Quelle est la structure d'une lettre formelle ?",
-      "a": "Lieu + date / Formule d'appel / Corps / Formule de politesse / Signature",
-      "choices": [
-        "Objet, corps, signature uniquement",
-        "Date, texte libre, signature",
-        "Titre, introduction, développement, conclusion"
-      ],
-      "tag": "Lettre",
-      "expl": "Lettre formelle : Zaragoza, le 28 mars 2026 / Madame, / ... / Veuillez agréer... / Signature.",
-      "dictee": "formule"
-    },
-    {
-      "id": "a2ee1-07",
-      "q": "Quelle formule termine une lettre formelle ?",
-      "a": "Veuillez agréer, Madame/Monsieur, l'expression de mes salutations distinguées.",
-      "choices": [
-        "Cordialement vôtre",
-        "Avec mes amitiés sincères",
-        "Bisous et à bientôt"
-      ],
-      "tag": "Lettre",
-      "expl": "La formule de politesse formelle est longue et codifiée. 'Cordialement' = semi-formel.",
-      "dictee": "agréer"
-    },
-    {
-      "id": "a2ee1-08",
-      "q": "Comment exprimer un SOUHAIT dans un message ?",
-      "a": "J'espère que..., Je souhaite..., J'aimerais...",
-      "choices": [
-        "Je pense que..., Je crois que...",
-        "Je sais que..., J'affirme que...",
-        "Je comprends que..., Je réalise que..."
-      ],
-      "tag": "Expression",
-      "expl": "Espoir : J'espère que + indicatif. Je souhaite + infinitif ou que + subjonctif.",
-      "dictee": "j'espère"
-    },
-    {
-      "id": "a2ee1-09",
-      "q": "Pour COMMENCER un email informel à un ami :",
-      "a": "Salut !, Coucou !, Bonjour [prénom],",
-      "choices": [
-        "Madame, Monsieur,",
-        "À qui de droit,",
-        "Cher(e) collègue,"
-      ],
-      "tag": "Email",
-      "expl": "Email informel : Salut Pierre ! Coucou ! Cher Paul,. Email formel : Madame, Monsieur,",
-      "dictee": "salut"
-    },
-    {
-      "id": "a2ee1-10",
-      "q": "Pour TERMINER un email informel entre amis :",
-      "a": "Bises, À bientôt !, Amitiés",
-      "choices": [
-        "Veuillez agréer mes salutations",
-        "Dans l'attente de votre réponse",
-        "Je vous prie d'agréer mes salutations"
-      ],
-      "tag": "Email",
-      "expl": "Email informel fin : Bises (proches), À bientôt, Amitiés. Semi-formel : Cordialement.",
-      "dictee": "bises"
-    },
-    {
-      "id": "a2ee1-11",
-      "q": "Comment rapporter les paroles au style indirect ?",
-      "a": "Il dit que + indicatif : 'Je suis fatigué' → Il dit qu'il est fatigué.",
-      "choices": [
-        "Il dit que + subjonctif",
-        "Il dit + infinitif directement",
-        "Il dit : entre guillemets"
-      ],
-      "tag": "Style indirect",
-      "expl": "Discours indirect : 'Je viens' → Il dit qu'il vient. Attention aux pronoms.",
-      "dictee": "qu'il"
-    },
-    {
-      "id": "a2ee1-12",
-      "q": "Concordance au style indirect passé :",
-      "a": "Présent → imparfait : 'Je suis content' → Il a dit qu'il était content.",
-      "choices": [
-        "Présent → passé composé",
-        "Présent reste présent toujours",
-        "Futur → présent"
-      ],
-      "tag": "Style indirect",
-      "expl": "Style indirect passé : présent → imparfait. Futur → conditionnel.",
-      "dictee": "imparfait"
-    },
-    {
-      "id": "a2ee1-13",
-      "q": "Comment exprimer une hypothèse avec 'si' au présent ?",
-      "a": "Si + présent → futur : Si tu viens, nous irons au cinéma.",
-      "choices": [
-        "Si + imparfait → conditionnel",
-        "Si + subjonctif → futur",
-        "Si + futur → présent"
-      ],
-      "tag": "Condition",
-      "expl": "Condition réelle : Si + présent → futur. Si je peux, je viendrai.",
-      "dictee": "futur"
-    },
-    {
-      "id": "a2ee1-14",
-      "q": "Pour décrire une image, on utilise :",
-      "a": "Au premier plan... / Au fond... / À gauche... / On voit...",
-      "choices": [
-        "Uniquement des temps passés",
-        "Le vocabulaire de la comparaison",
-        "Des connecteurs de cause uniquement"
-      ],
-      "tag": "Description",
-      "expl": "Description d'image : situez les éléments par rapport à leur position.",
-      "dictee": "plan"
-    },
-    {
-      "id": "a2ee1-15",
-      "q": "Comment exprimer son OPINION dans un texte ?",
-      "a": "Je pense que, À mon avis, Selon moi, Il me semble que",
-      "choices": [
-        "On sait que, Il est prouvé que",
-        "Tout le monde pense que",
-        "D'après les experts scientifiques"
-      ],
-      "tag": "Opinion",
-      "expl": "Opinion personnelle : Je pense que, À mon avis (+ nom), Selon moi.",
-      "dictee": "avis"
-    },
-    {
-      "id": "a2ee1-16",
-      "q": "Pour introduire un EXEMPLE, on utilise :",
-      "a": "Par exemple, comme, tel que, notamment, c'est le cas de",
-      "choices": [
-        "Pourtant, néanmoins, toutefois",
-        "D'une part, d'autre part, d'ailleurs",
-        "Bref, en résumé, en définitive"
-      ],
-      "tag": "Exemple",
-      "expl": "Exemple : par exemple (courant), notamment (formel), comme (comparatif).",
-      "dictee": "exemple"
-    },
-    {
-      "id": "a2ee1-17",
-      "q": "Pour CONCLURE un texte, on utilise :",
-      "a": "En conclusion, pour conclure, en résumé, bref, en définitive",
-      "choices": [
-        "Tout d'abord, en premier lieu",
-        "De plus, par ailleurs, également",
-        "Cependant, néanmoins, pourtant"
-      ],
-      "tag": "Structure",
-      "expl": "Conclusion : En conclusion/Pour conclure (formel). En résumé/Bref (informel).",
-      "dictee": "conclusion"
-    },
-    {
-      "id": "a2ee1-18",
-      "q": "Quel registre pour écrire à un médecin ou directeur ?",
-      "a": "Registre formel : vouvoiement, formules de politesse, vocabulaire soutenu",
-      "choices": [
-        "Registre familier et direct pour être naturel",
-        "Registre standard sans formule de politesse",
-        "Registre argotique pour paraître sympathique"
-      ],
-      "tag": "Registres",
-      "expl": "À un médecin, directeur, inconnu : registre formel. Entre amis : registre familier.",
-      "dictee": "formel"
-    }
-  ]
-}
+[
+  {
+    "id": "a2ee1-01",
+    "q": "Pour exprimer une CAUSE, on utilise :",
+    "a": "parce que, car, puisque",
+    "choices": [
+      "donc, alors, c'est pourquoi",
+      "mais, or, cependant",
+      "et, de plus, en outre"
+    ],
+    "tag": "Connecteurs",
+    "expl": "Cause : parce que (réponse à 'pourquoi'), car (explicatif), puisque (cause connue).",
+    "dictee": "parce que"
+  },
+  {
+    "id": "a2ee1-02",
+    "q": "Pour exprimer une CONSÉQUENCE, on utilise :",
+    "a": "donc, alors, c'est pourquoi, ainsi",
+    "choices": [
+      "parce que, car, puisque",
+      "mais, cependant, or",
+      "bien que, même si, quoique"
+    ],
+    "tag": "Connecteurs",
+    "expl": "Conséquence : donc (logique), alors (temporal/logique), c'est pourquoi (formel).",
+    "dictee": "donc"
+  },
+  {
+    "id": "a2ee1-03",
+    "q": "Pour exprimer une OPPOSITION, on utilise :",
+    "a": "mais, cependant, pourtant, or",
+    "choices": [
+      "donc, c'est pourquoi, ainsi",
+      "et, aussi, de plus",
+      "parce que, car, puisque"
+    ],
+    "tag": "Connecteurs",
+    "expl": "Opposition : mais (simple), cependant (formel), pourtant (malgré tout).",
+    "dictee": "mais"
+  },
+  {
+    "id": "a2ee1-04",
+    "q": "Pour AJOUTER une idée, on utilise :",
+    "a": "et, aussi, de plus, en outre, également",
+    "choices": [
+      "mais, or, cependant, pourtant",
+      "donc, alors, ainsi, c'est pourquoi",
+      "parce que, puisque, car, vu que"
+    ],
+    "tag": "Connecteurs",
+    "expl": "Addition : et (simple), de plus/en outre (formel), également/aussi (variantes).",
+    "dictee": "de plus"
+  },
+  {
+    "id": "a2ee1-05",
+    "q": "Pour INTRODUIRE un texte, on utilise :",
+    "a": "Tout d'abord, en premier lieu, premièrement",
+    "choices": [
+      "Ensuite, puis, après cela",
+      "Enfin, pour finir, en conclusion",
+      "Cependant, pourtant, néanmoins"
+    ],
+    "tag": "Structure",
+    "expl": "Début : Tout d'abord / En premier lieu. Milieu : Ensuite. Fin : Enfin/Pour conclure.",
+    "dictee": "d'abord"
+  },
+  {
+    "id": "a2ee1-06",
+    "q": "Quelle est la structure d'une lettre formelle ?",
+    "a": "Lieu + date / Formule d'appel / Corps / Formule de politesse / Signature",
+    "choices": [
+      "Objet, corps, signature uniquement",
+      "Date, texte libre, signature",
+      "Titre, introduction, développement, conclusion"
+    ],
+    "tag": "Lettre",
+    "expl": "Lettre formelle : Zaragoza, le 28 mars 2026 / Madame, / ... / Veuillez agréer... / Signature.",
+    "dictee": "formule"
+  },
+  {
+    "id": "a2ee1-07",
+    "q": "Quelle formule termine une lettre formelle ?",
+    "a": "Veuillez agréer, Madame/Monsieur, l'expression de mes salutations distinguées.",
+    "choices": [
+      "Cordialement vôtre",
+      "Avec mes amitiés sincères",
+      "Bisous et à bientôt"
+    ],
+    "tag": "Lettre",
+    "expl": "La formule de politesse formelle est longue et codifiée. 'Cordialement' = semi-formel.",
+    "dictee": "agréer"
+  },
+  {
+    "id": "a2ee1-08",
+    "q": "Comment exprimer un SOUHAIT dans un message ?",
+    "a": "J'espère que..., Je souhaite..., J'aimerais...",
+    "choices": [
+      "Je pense que..., Je crois que...",
+      "Je sais que..., J'affirme que...",
+      "Je comprends que..., Je réalise que..."
+    ],
+    "tag": "Expression",
+    "expl": "Espoir : J'espère que + indicatif. Je souhaite + infinitif ou que + subjonctif.",
+    "dictee": "j'espère"
+  },
+  {
+    "id": "a2ee1-09",
+    "q": "Pour COMMENCER un email informel à un ami :",
+    "a": "Salut !, Coucou !, Bonjour [prénom],",
+    "choices": [
+      "Madame, Monsieur,",
+      "À qui de droit,",
+      "Cher(e) collègue,"
+    ],
+    "tag": "Email",
+    "expl": "Email informel : Salut Pierre ! Coucou ! Cher Paul,. Email formel : Madame, Monsieur,",
+    "dictee": "salut"
+  },
+  {
+    "id": "a2ee1-10",
+    "q": "Pour TERMINER un email informel entre amis :",
+    "a": "Bises, À bientôt !, Amitiés",
+    "choices": [
+      "Veuillez agréer mes salutations",
+      "Dans l'attente de votre réponse",
+      "Je vous prie d'agréer mes salutations"
+    ],
+    "tag": "Email",
+    "expl": "Email informel fin : Bises (proches), À bientôt, Amitiés. Semi-formel : Cordialement.",
+    "dictee": "bises"
+  },
+  {
+    "id": "a2ee1-11",
+    "q": "Comment rapporter les paroles au style indirect ?",
+    "a": "Il dit que + indicatif : 'Je suis fatigué' → Il dit qu'il est fatigué.",
+    "choices": [
+      "Il dit que + subjonctif",
+      "Il dit + infinitif directement",
+      "Il dit : entre guillemets"
+    ],
+    "tag": "Style indirect",
+    "expl": "Discours indirect : 'Je viens' → Il dit qu'il vient. Attention aux pronoms.",
+    "dictee": "qu'il"
+  },
+  {
+    "id": "a2ee1-12",
+    "q": "Concordance au style indirect passé :",
+    "a": "Présent → imparfait : 'Je suis content' → Il a dit qu'il était content.",
+    "choices": [
+      "Présent → passé composé",
+      "Présent reste présent toujours",
+      "Futur → présent"
+    ],
+    "tag": "Style indirect",
+    "expl": "Style indirect passé : présent → imparfait. Futur → conditionnel.",
+    "dictee": "imparfait"
+  },
+  {
+    "id": "a2ee1-13",
+    "q": "Comment exprimer une hypothèse avec 'si' au présent ?",
+    "a": "Si + présent → futur : Si tu viens, nous irons au cinéma.",
+    "choices": [
+      "Si + imparfait → conditionnel",
+      "Si + subjonctif → futur",
+      "Si + futur → présent"
+    ],
+    "tag": "Condition",
+    "expl": "Condition réelle : Si + présent → futur. Si je peux, je viendrai.",
+    "dictee": "futur"
+  },
+  {
+    "id": "a2ee1-14",
+    "q": "Pour décrire une image, on utilise :",
+    "a": "Au premier plan... / Au fond... / À gauche... / On voit...",
+    "choices": [
+      "Uniquement des temps passés",
+      "Le vocabulaire de la comparaison",
+      "Des connecteurs de cause uniquement"
+    ],
+    "tag": "Description",
+    "expl": "Description d'image : situez les éléments par rapport à leur position.",
+    "dictee": "plan"
+  },
+  {
+    "id": "a2ee1-15",
+    "q": "Comment exprimer son OPINION dans un texte ?",
+    "a": "Je pense que, À mon avis, Selon moi, Il me semble que",
+    "choices": [
+      "On sait que, Il est prouvé que",
+      "Tout le monde pense que",
+      "D'après les experts scientifiques"
+    ],
+    "tag": "Opinion",
+    "expl": "Opinion personnelle : Je pense que, À mon avis (+ nom), Selon moi.",
+    "dictee": "avis"
+  },
+  {
+    "id": "a2ee1-16",
+    "q": "Pour introduire un EXEMPLE, on utilise :",
+    "a": "Par exemple, comme, tel que, notamment, c'est le cas de",
+    "choices": [
+      "Pourtant, néanmoins, toutefois",
+      "D'une part, d'autre part, d'ailleurs",
+      "Bref, en résumé, en définitive"
+    ],
+    "tag": "Exemple",
+    "expl": "Exemple : par exemple (courant), notamment (formel), comme (comparatif).",
+    "dictee": "exemple"
+  },
+  {
+    "id": "a2ee1-17",
+    "q": "Pour CONCLURE un texte, on utilise :",
+    "a": "En conclusion, pour conclure, en résumé, bref, en définitive",
+    "choices": [
+      "Tout d'abord, en premier lieu",
+      "De plus, par ailleurs, également",
+      "Cependant, néanmoins, pourtant"
+    ],
+    "tag": "Structure",
+    "expl": "Conclusion : En conclusion/Pour conclure (formel). En résumé/Bref (informel).",
+    "dictee": "conclusion"
+  },
+  {
+    "id": "a2ee1-18",
+    "q": "Quel registre pour écrire à un médecin ou directeur ?",
+    "a": "Registre formel : vouvoiement, formules de politesse, vocabulaire soutenu",
+    "choices": [
+      "Registre familier et direct pour être naturel",
+      "Registre standard sans formule de politesse",
+      "Registre argotique pour paraître sympathique"
+    ],
+    "tag": "Registres",
+    "expl": "À un médecin, directeur, inconnu : registre formel. Entre amis : registre familier.",
+    "dictee": "formel"
+  }
+]
