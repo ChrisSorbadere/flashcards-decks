@@ -1,22 +1,256 @@
-[
-  {"id":"a2c3_01","q":"___ (Prendre) ton temps, il n'y a pas d'urgence. — impératif 'tu'","a":"Prends","choices":["Prend","Prends","Prenez","Prendre"],"tag":"Impératif","hint":"PRENDRE à l'impératif 'tu'","expl":"PRENDRE : je prends, tu PRENDS → impératif TU : PRENDS ! Attention : -ds final garde le S contrairement aux verbes -ER."},
-  {"id":"a2c3_02","q":"Vous ___ (savoir) déjà quand vous partirez ?","a":"savez","choices":["savez","savions","saurez","avez su"],"tag":"Présent","hint":"SAVOIR au présent — 'vous'","expl":"SAVOIR : je sais, tu sais, il sait, nous savons, vous SAVEZ, ils savent. SAVOIR + infinitif / SAVOIR QUE + indicatif."},
-  {"id":"a2c3_03","q":"Ils ___ (recevoir) beaucoup de courrier chaque jour.","a":"reçoivent","choices":["reçoivent","recevons","reçoit","recevaient"],"tag":"Présent","hint":"RECEVOIR — radical change","expl":"RECEVOIR : je reçois, tu reçois, il reçoit, nous RECEVONS, vous recevez, ils REÇOIVENT. Ç devant a, o, u pour conserver le son [s]."},
-  {"id":"a2c3_04","q":"Nous ___ (apercevoir) les montagnes depuis ici.","a":"apercevons","choices":["apercevons","apercevons","apercevaient","avons aperçu"],"tag":"Présent","hint":"S'APERCEVOIR — même conjugaison que recevoir","expl":"APERCEVOIR comme RECEVOIR : nous APERCEVONS. S'APERCEVOIR DE = darse cuenta de. Je m'aperçois que tu as raison."},
-  {"id":"a2c3_05","q":"Elle ___ (naître) le 15 mars 1990. — passé composé","a":"est née","choices":["a né","est née","est nait","a nait"],"tag":"Passé composé","hint":"NAÎTRE → auxiliaire ÊTRE","expl":"Verbes avec ÊTRE au PC : naître, mourir, aller, venir, partir, arriver, rester, tomber, monter, descendre (et pronominaux)."},
-  {"id":"a2c3_06","q":"Ils ___ (mourir) au combat. — passé composé","a":"sont morts","choices":["ont mort","sont morts","sont morte","ont mouru"],"tag":"Passé composé","hint":"MOURIR → être + accord","expl":"MOURIR : participe passé = MORT. Ils SONT MORTS. Elle EST MORTE. Ils SONT MORTS. Accord avec le sujet."},
-  {"id":"a2c3_07","q":"Vous ___ (rentrer) tard hier soir ?","a":"êtes rentrés","choices":["avez rentré","êtes rentrés","vous êtes rentrés","rentrez"],"tag":"Passé composé","hint":"RENTRER → être au passé composé","expl":"RENTRER, RETOURNER avec ÊTRE : vous ÊTES RENTRÉS. Attention : RENTRER une voiture au garage → AVOIR (sens transitif)."},
-  {"id":"a2c3_08","q":"Je ___ (ne pas dormir) de la nuit.","a":"n'ai pas dormi","choices":["n'ai pas dormi","ne dormais pas","ne dormis pas","ne dormirai pas"],"tag":"Passé composé négatif","hint":"Négation au PC : NE + auxiliaire + PAS + participe","expl":"Négation au PC : NE + auxiliaire + PAS + participe. Je N'AI PAS DORMI. Il N'EST PAS VENU. Elle NE S'EST PAS LEVÉE."},
-  {"id":"a2c3_09","q":"Tu ___ (déjà / voir) ce film ?","a":"as déjà vu","choices":["as déjà vu","vois déjà","avais vu","vas voir"],"tag":"Passé composé","hint":"DÉJÀ se place entre auxiliaire et participe","expl":"Adverbes courts au PC : entre auxiliaire et participe. Tu AS DÉJÀ VU. Je N'AI PAS ENCORE FINI. Il A BIEN TRAVAILLÉ."},
-  {"id":"a2c3_10","q":"Nous ___ (vivre) à Madrid pendant 5 ans.","a":"avons vécu","choices":["vivions","avons vécu","vivrons","avons vécus"],"tag":"Passé composé","hint":"VIVRE → participe passé irrégulier","expl":"VIVRE : participe passé = VÉCU. Nous AVONS VÉCU à Madrid pendant 5 ans. Durée terminée = PC. (toujours là = présent + depuis)."},
-  {"id":"a2c3_11","q":"Il ___ (pleuvoir) quand nous sommes arrivés.","a":"pleuvait","choices":["a plu","pleuvait","pleuvra","pleuva"],"tag":"PC vs Imparfait","hint":"Météo comme contexte = imparfait","expl":"Météo = CONTEXTE → IMPARFAIT. Il PLEUVAIT (contexte) / nous sommes ARRIVÉS (événement). Il a plu = action ponctuelle terminée."},
-  {"id":"a2c3_12","q":"Hier, j'___ (étudier) pendant 3 heures.","a":"ai étudié","choices":["étudiais","ai étudié","avais étudié","étudie"],"tag":"PC vs Imparfait","hint":"Durée délimitée dans le passé = PC","expl":"Durée DÉLIMITÉE (pendant 3 heures) = PC. J'AI ÉTUDIÉ pendant 3 heures. IMPARFAIT si la durée n'est pas délimitée."},
-  {"id":"a2c3_13","q":"Je ___ (travailler) tous les jours quand j'avais 20 ans.","a":"travaillais","choices":["travaillais","ai travaillé","travaillerai","travaille"],"tag":"PC vs Imparfait","hint":"Habitude passée = imparfait","expl":"HABITUDE dans le passé → IMPARFAIT. Je TRAVAILLAIS tous les jours = solía trabajar todos los días. Toujours, souvent, chaque + imparfait."},
-  {"id":"a2c3_14","q":"Elle ___ (se souvenir) de tout ce qu'on lui avait dit.","a":"se souvenait","choices":["s'est souvenue","se souvenait","se souvient","se souviendra"],"tag":"PC vs Imparfait","hint":"État mental dans le passé = imparfait","expl":"États mentaux (se souvenir, croire, penser, savoir, vouloir) → généralement IMPARFAIT. Elle SE SOUVENAIT = ella recordaba."},
-  {"id":"a2c3_15","q":"Tu ___ (vouloir) du café ? — demande polie au conditionnel","a":"voudrais","choices":["veux","voulais","voudrais","voudras"],"tag":"Conditionnel","hint":"Offre polie = conditionnel","expl":"Offre ou demande polie → CONDITIONNEL. Tu VOUDRAIS du café ? = ¿Querrías café? POURRIEZ-VOUS ? VOUDRIEZ-VOUS ?"},
-  {"id":"a2c3_16","q":"On ___ (devoir) téléphoner avant de venir.","a":"devrait","choices":["doit","devrait","devait","devra"],"tag":"Conditionnel","hint":"Conseil ou obligation atténuée = conditionnel","expl":"CONDITIONNEL pour un CONSEIL ou une obligation atténuée. On DEVRAIT téléphoner = convendría llamar. Tu DEVRAIS partir."},
-  {"id":"a2c3_17","q":"Selon le journal, il y ___ (avoir) eu un accident. — conditionnel passé","a":"aurait eu","choices":["avait eu","aurait eu","aura eu","a eu"],"tag":"Conditionnel passé","hint":"Information non confirmée dans le passé","expl":"CONDITIONNEL PASSÉ = conditionnel de avoir/être + participe. Il Y AURAIT EU un accident. Information non vérifiée."},
-  {"id":"a2c3_18","q":"Si j'avais su, je ___ (ne pas venir). — conditionnel passé","a":"ne serais pas venu","choices":["ne venais pas","ne suis pas venu","ne serais pas venu","ne viendrai pas"],"tag":"Conditionnel passé","hint":"Hypothèse irréelle dans le passé","expl":"Hypothèse passée : SI + plus-que-parfait → CONDITIONNEL PASSÉ. Si j'avais su, je NE SERAIS PAS VENU. Regret rétrospectif."},
-  {"id":"a2c3_19","q":"___ (Se dépêcher) ! On va être en retard ! — impératif 'nous'","a":"Dépêchons-nous !","choices":["Dépêchons-nous !","Nous dépêchons !","Dépêchez-vous !","Se dépêcher !"],"tag":"Impératif","hint":"Impératif NOUS pronominal","expl":"Impératif NOUS pronominal : DÉPÊCHONS-NOUS ! LEVONS-NOUS ! AMUSONS-NOUS ! Pronom APRÈS le verbe avec tiret."},
-  {"id":"a2c3_20","q":"Hier à 8h, elle ___ (prendre) son petit-déjeuner.","a":"prenait","choices":["prenait","a pris","prendra","prend"],"tag":"PC vs Imparfait","hint":"Heure + action en cours = imparfait","expl":"Hier à 8h (heure précise) + action EN COURS → IMPARFAIT. Elle PRENAIT son petit-déjeuner = estaba desayunando. Si l'action est ponctuelle → PC."}
-]
+{
+  "id": "a2-conjugaison-3",
+  "name": "A2 — Conjugaison 3 : L'imparfait",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2c3-01",
+      "q": "Quand j'étais enfant, je ___ (jouer) dehors tous les jours.",
+      "a": "jouais",
+      "choices": [
+        "joué",
+        "jouera",
+        "ai joué"
+      ],
+      "tag": "Imparfait",
+      "hint": "Habitude dans le passé",
+      "expl": "L'imparfait exprime une habitude passée. Radical + -ais.",
+      "dictee": "jouais"
+    },
+    {
+      "id": "a2c3-02",
+      "q": "Il ___ (faire) beau quand nous sommes arrivés.",
+      "a": "faisait",
+      "choices": [
+        "a fait",
+        "fera"
+      ],
+      "tag": "Imparfait",
+      "hint": "Description du contexte",
+      "expl": "L'imparfait décrit le contexte. Faire → faisait.",
+      "dictee": "faisait"
+    },
+    {
+      "id": "a2c3-03",
+      "q": "Nous ___ (habiter) à Lyon avant de venir ici.",
+      "a": "habitions",
+      "choices": [
+        "habitons",
+        "avons habité",
+        "habitaient"
+      ],
+      "tag": "Imparfait",
+      "hint": "Situation passée",
+      "expl": "L'imparfait exprime une situation passée. Habiter → habitions.",
+      "dictee": "habitions"
+    },
+    {
+      "id": "a2c3-04",
+      "q": "Ils ___ (être) très fatigués après le long voyage.",
+      "a": "étaient",
+      "choices": [
+        "avaient été",
+        "ont été",
+        "seront"
+      ],
+      "tag": "Imparfait",
+      "hint": "Être à l'imparfait",
+      "expl": "Être → imparfait : j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.",
+      "dictee": "étaient"
+    },
+    {
+      "id": "a2c3-05",
+      "q": "Tu ___ (vouloir) devenir médecin quand tu étais petit.",
+      "a": "voulais",
+      "choices": [
+        "voulait",
+        "as voulu"
+      ],
+      "tag": "Imparfait",
+      "hint": "Désir dans le passé",
+      "expl": "L'imparfait exprime un désir passé. Vouloir → voulais.",
+      "dictee": "voulais"
+    },
+    {
+      "id": "a2c3-06",
+      "q": "Elle ___ (lire) un livre quand je l'ai appelée.",
+      "a": "lisait",
+      "choices": [
+        "a lu",
+        "avait lu",
+        "lira"
+      ],
+      "tag": "Imparfait",
+      "hint": "Action en cours interrompue",
+      "expl": "Imparfait (action en cours) + passé composé (interruption).",
+      "dictee": "lisait"
+    },
+    {
+      "id": "a2c3-07",
+      "q": "Vous ___ (avoir) quel âge en 2010 ?",
+      "a": "aviez",
+      "choices": [
+        "avez eu",
+        "avez"
+      ],
+      "tag": "Imparfait",
+      "hint": "Avoir à l'imparfait",
+      "expl": "Avoir → imparfait : j'avais, tu avais, il avait, nous avions, vous aviez, ils avaient.",
+      "dictee": "aviez"
+    },
+    {
+      "id": "a2c3-08",
+      "q": "Autrefois, les gens ___ (voyager) beaucoup en train.",
+      "a": "voyageaient",
+      "choices": [
+        "ont voyagé",
+        "voyagent",
+        "voyageront"
+      ],
+      "tag": "Imparfait",
+      "hint": "Habitude passée avec 'autrefois'",
+      "expl": "L'imparfait avec 'autrefois' = habitude du passé.",
+      "dictee": "voyageaient"
+    },
+    {
+      "id": "a2c3-09",
+      "q": "Je ___ (ne pas savoir) qu'il était malade.",
+      "a": "ne savais pas",
+      "choices": [
+        "n'ai pas su",
+        "ne sais pas",
+        "ne saurai pas"
+      ],
+      "tag": "Imparfait",
+      "hint": "État de connaissance passé",
+      "expl": "Savoir à l'imparfait exprime un état mental passé.",
+      "dictee": "ne savais pas"
+    },
+    {
+      "id": "a2c3-10",
+      "q": "Elle ___ (se souvenir) très bien de son enfance.",
+      "a": "se souvenait",
+      "choices": [
+        "s'est souvenue",
+        "se souvient",
+        "se souviendra"
+      ],
+      "tag": "Imparfait",
+      "hint": "État mental passé",
+      "expl": "Se souvenir à l'imparfait = état de mémoire passé.",
+      "dictee": "se souvenait"
+    },
+    {
+      "id": "a2c3-11",
+      "q": "Nous ___ (aller) à la plage tous les étés.",
+      "a": "allions",
+      "choices": [
+        "allons",
+        "sommes allés",
+        "irons"
+      ],
+      "tag": "Imparfait",
+      "hint": "Habitude répétée",
+      "expl": "L'imparfait avec 'tous les étés' = habitude répétée.",
+      "dictee": "allions"
+    },
+    {
+      "id": "a2c3-12",
+      "q": "Il ___ (pleuvoir) depuis le matin sans arrêt.",
+      "a": "pleuvait",
+      "choices": [
+        "a plu",
+        "pleut",
+        "pleuvra"
+      ],
+      "tag": "Imparfait",
+      "hint": "Durée dans le passé",
+      "expl": "L'imparfait avec 'depuis' = action en cours depuis un moment.",
+      "dictee": "pleuvait"
+    },
+    {
+      "id": "a2c3-13",
+      "q": "Tu ___ (pouvoir) nager très bien à l'âge de 5 ans.",
+      "a": "pouvais",
+      "choices": [
+        "as pu",
+        "peux",
+        "pourras"
+      ],
+      "tag": "Imparfait",
+      "hint": "Capacité passée",
+      "expl": "L'imparfait exprime une capacité passée.",
+      "dictee": "pouvais"
+    },
+    {
+      "id": "a2c3-14",
+      "q": "Ils ___ (prendre) le métro chaque matin pour aller au travail.",
+      "a": "prenaient",
+      "choices": [
+        "ont pris",
+        "prennent",
+        "prendront"
+      ],
+      "tag": "Imparfait",
+      "hint": "Routine passée",
+      "expl": "L'imparfait avec 'chaque matin' = routine passée.",
+      "dictee": "prenaient"
+    },
+    {
+      "id": "a2c3-15",
+      "q": "Je ___ (travailler) quand tu m'as envoyé un message.",
+      "a": "travaillais",
+      "choices": [
+        "ai travaillé",
+        "travaille",
+        "travaillerai"
+      ],
+      "tag": "Imparfait",
+      "hint": "Action en cours + interruption",
+      "expl": "Imparfait = action en cours. PC = interruption soudaine.",
+      "dictee": "travaillais"
+    },
+    {
+      "id": "a2c3-16",
+      "q": "Vous ___ (connaître) déjà cette ville quand vous êtes arrivés ?",
+      "a": "connaissiez",
+      "choices": [
+        "avez connu",
+        "connaissez",
+        "connaîtrez"
+      ],
+      "tag": "Imparfait",
+      "hint": "État de connaissance passé",
+      "expl": "Connaître à l'imparfait = état de connaissance dans le passé.",
+      "dictee": "connaissiez"
+    },
+    {
+      "id": "a2c3-17",
+      "q": "Elle ___ (manger) quand le téléphone a sonné.",
+      "a": "mangeait",
+      "choices": [
+        "a mangé",
+        "mange",
+        "mangera"
+      ],
+      "tag": "Imparfait",
+      "hint": "Action interrompue",
+      "expl": "Mangeait = action en cours. A sonné = interruption.",
+      "dictee": "mangeait"
+    },
+    {
+      "id": "a2c3-18",
+      "q": "Nous ___ (devoir) rentrer avant minuit ce soir-là.",
+      "a": "devions",
+      "choices": [
+        "avons dû",
+        "devons",
+        "devrons"
+      ],
+      "tag": "Imparfait",
+      "hint": "Obligation passée",
+      "expl": "L'imparfait exprime une obligation dans le passé.",
+      "dictee": "devions"
+    }
+  ]
+}

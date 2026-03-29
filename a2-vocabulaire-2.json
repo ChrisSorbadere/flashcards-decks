@@ -1,22 +1,241 @@
-[
-  {"id":"a2v2_01","q":"Comment dit-on 'el cuerpo humano' → 'los pulmones' en français ?","a":"les poumons","choices":["les poumons","les reins","le foie","la rate"],"tag":"Corps","hint":"Organes de la respiration","expl":"LES POUMONS = los pulmones. LE CŒUR = el corazón. LE FOIE = el hígado. LES REINS = los riñones. L'ESTOMAC = el estómago."},
-  {"id":"a2v2_02","q":"Quel est le mot français pour 'el embarazo' ?","a":"la grossesse","choices":["la grossesse","la naissance","l'accouchement","la fertilité"],"tag":"Corps","hint":"Période de gestation","expl":"LA GROSSESSE = el embarazo. ÊTRE ENCEINTE = estar embarazada. L'ACCOUCHEMENT = el parto. LA NAISSANCE = el nacimiento."},
-  {"id":"a2v2_03","q":"Comment dit-on 'estar en forma' en français ?","a":"être en forme","choices":["être en forme","faire du sport","être musclé","être mince"],"tag":"Corps","hint":"Expression de bonne santé physique","expl":"ÊTRE EN FORME = estar en forma. SE METTRE EN FORME = ponerse en forma. PERDRE LA FORME = perder la forma. SE SENTIR BIEN."},
-  {"id":"a2v2_04","q":"Quel est le mot français pour 'las ojeras' ?","a":"les cernes","choices":["les cernes","les rides","les taches","les boutons"],"tag":"Corps","hint":"Sous les yeux quand on est fatigué","expl":"LES CERNES = las ojeras. LES RIDES = las arrugas. LES BOUTONS = los granos. LES TACHES DE ROUSSEUR = las pecas."},
-  {"id":"a2v2_05","q":"Comment dit-on 'el hambre' (la faim) en français ?","a":"la faim","choices":["la faim","le goût","l'appétit","le désir"],"tag":"Corps","hint":"Besoin de manger","expl":"J'AI FAIM = tengo hambre. J'AI SOIF = tengo sed. J'AI SOMMEIL = tengo sueño. J'AI FROID/CHAUD = tengo frío/calor. Toujours avec AVOIR."},
-  {"id":"a2v2_06","q":"Comment dit-on 'el medio ambiente' en français ?","a":"l'environnement","choices":["l'environnement","le paysage","la nature","l'écologie"],"tag":"Nature","hint":"L'ensemble de notre cadre naturel","expl":"L'ENVIRONNEMENT = el medio ambiente. L'ÉCOLOGIE = la ecología. LE DÉVELOPPEMENT DURABLE = el desarrollo sostenible."},
-  {"id":"a2v2_07","q":"Quel est le mot français pour 'la sequía' ?","a":"la sécheresse","choices":["la sécheresse","la canicule","l'inondation","le gel"],"tag":"Nature","hint":"Manque d'eau","expl":"LA SÉCHERESSE = la sequía. LA CANICULE = la canícula. L'INONDATION = la inundación. LE TREMBLEMENT DE TERRE = el terremoto."},
-  {"id":"a2v2_08","q":"Comment dit-on 'reciclar' en français ?","a":"recycler","choices":["recycler","trier","jeter","composter"],"tag":"Nature","hint":"Réutiliser des matériaux","expl":"RECYCLER = reciclar. TRIER LES DÉCHETS = separar los residuos. LE BAC DE TRI = el contenedor de reciclaje. LE COMPOST = el compost."},
-  {"id":"a2v2_09","q":"Quel est le mot français pour 'el cambio climático' ?","a":"le changement climatique","choices":["le changement climatique","le réchauffement","la pollution","l'effet de serre"],"tag":"Nature","hint":"Évolution à long terme du climat","expl":"LE CHANGEMENT CLIMATIQUE = el cambio climático. LE RÉCHAUFFEMENT CLIMATIQUE = el calentamiento global. L'EFFET DE SERRE = el efecto invernadero."},
-  {"id":"a2v2_10","q":"Comment dit-on 'las energías renovables' en français ?","a":"les énergies renouvelables","choices":["les énergies renouvelables","les énergies propres","les énergies vertes","les énergies durables"],"tag":"Nature","hint":"Solaire, éolien, hydraulique...","expl":"LES ÉNERGIES RENOUVELABLES = las energías renovables. LE PANNEAU SOLAIRE = el panel solar. L'ÉOLIENNE = el aerogenerador."},
-  {"id":"a2v2_11","q":"Quel est le mot français pour 'la vivienda' ?","a":"le logement / l'habitation","choices":["le logement","la maison","l'appartement","la résidence"],"tag":"Logement","hint":"Terme générique pour où on habite","expl":"LE LOGEMENT / L'HABITATION = la vivienda. LE LOYER = el alquiler. LES CHARGES = los gastos comunitarios. LA CAUTION = la fianza."},
-  {"id":"a2v2_12","q":"Comment dit-on 'el casero / la casera' en français ?","a":"le propriétaire / la propriétaire","choices":["le propriétaire","le locataire","le gestionnaire","l'agent immobilier"],"tag":"Logement","hint":"Personne qui loue son bien","expl":"LE PROPRIÉTAIRE = el propietario/casero. LE LOCATAIRE = el inquilino. L'AGENT IMMOBILIER = el agente inmobiliario."},
-  {"id":"a2v2_13","q":"Comment dit-on 'amueblar un piso' en français ?","a":"meubler un appartement","choices":["meubler un appartement","décorer un appartement","rénover un appartement","peindre un appartement"],"tag":"Logement","hint":"Mettre des meubles dedans","expl":"MEUBLER = amueblar. UN APPARTEMENT MEUBLÉ = un piso amueblado. NON MEUBLÉ = sin amueblar. LES MEUBLES = los muebles."},
-  {"id":"a2v2_14","q":"Quel est le mot français pour 'las noticias' ?","a":"les nouvelles / les informations / les infos","choices":["les nouvelles","les histoires","les événements","les faits"],"tag":"Médias","hint":"Actualité journalistique","expl":"LES NOUVELLES / LES INFOS / LES INFORMATIONS = las noticias. LE JOURNAL TÉLÉVISÉ = el telediario. LE TITRES = los titulares."},
-  {"id":"a2v2_15","q":"Comment dit-on 'la red social' en français ?","a":"le réseau social","choices":["le réseau social","le site web","le forum","la plateforme"],"tag":"Médias","hint":"Facebook, Instagram, Twitter...","expl":"LE RÉSEAU SOCIAL = la red social. UN POST / UNE PUBLICATION = una publicación. UN ABONNÉ = un seguidor. PARTAGER = compartir."},
-  {"id":"a2v2_16","q":"Quel est le mot français pour 'la temporada' (série TV) ?","a":"la saison","choices":["la saison","l'épisode","le chapitre","la série"],"tag":"Médias","hint":"Ensemble d'épisodes d'une série","expl":"LA SAISON = la temporada. L'ÉPISODE = el episodio/capítulo. LA SÉRIE = la serie. LE DOCUMENTAIRE = el documental."},
-  {"id":"a2v2_17","q":"Comment dit-on 'el presupuesto' en français ?","a":"le budget","choices":["le budget","le prix","le coût","la dépense"],"tag":"Argent","hint":"Montant prévu pour une dépense","expl":"LE BUDGET = el presupuesto. FAIRE UN BUDGET = hacer un presupuesto. LES ÉCONOMIES = los ahorros. ÉCONOMISER = ahorrar."},
-  {"id":"a2v2_18","q":"Comment dit-on 'el banco' (établissement financier) en français ?","a":"la banque","choices":["la banque","le bureau de change","la caisse","la trésorerie"],"tag":"Argent","hint":"Institution financière","expl":"LA BANQUE = el banco. LE COMPTE EN BANQUE = la cuenta bancaria. LE VIREMENT = la transferencia. LE PRÉLÈVEMENT = el cargo automático."},
-  {"id":"a2v2_19","q":"Quel est le mot français pour 'la tarjeta de crédito' ?","a":"la carte de crédit / la carte bancaire","choices":["la carte de crédit","le chèque","le virement","le billet"],"tag":"Argent","hint":"Moyen de paiement électronique","expl":"LA CARTE DE CRÉDIT / BANCAIRE = la tarjeta de crédito/débito. PAYER PAR CARTE = pagar con tarjeta. RETIRER = sacar dinero."},
-  {"id":"a2v2_20","q":"Comment dit-on 'la multa' en français ?","a":"l'amende","choices":["l'amende","la punition","la pénalité","la sanction"],"tag":"Vie quotidienne","hint":"Pénalité financière (excès de vitesse...)","expl":"L'AMENDE = la multa. AVOIR UNE AMENDE = recibir una multa. LE PV (procès-verbal) = la multa de tráfico. PAYER UNE AMENDE."}
-]
+{
+  "id": "a2-vocabulaire-2",
+  "name": "A2 — Vocabulaire 2 : Travail & études",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2v2-01",
+      "q": "¿Cómo se dice 'un entretien d'embauche'?",
+      "a": "una entrevista de trabajo",
+      "choices": [
+        "un contrato de trabajo",
+        "un período de prueba",
+        "una convocatoria"
+      ],
+      "tag": "Travail",
+      "expl": "Un entretien d'embauche est une réunion pour obtenir un emploi.",
+      "dictee": "entretien"
+    },
+    {
+      "id": "a2v2-02",
+      "q": "¿Qué significa 'le salaire'?",
+      "a": "el salario / el sueldo",
+      "choices": [
+        "el contrato",
+        "la nómina",
+        "el horario"
+      ],
+      "tag": "Travail",
+      "expl": "Le salaire est l'argent reçu en échange du travail effectué.",
+      "dictee": "salaire"
+    },
+    {
+      "id": "a2v2-03",
+      "q": "¿Cómo se dice 'travailler à temps partiel'?",
+      "a": "trabajar a tiempo parcial",
+      "choices": [
+        "trabajar de noche",
+        "trabajar a jornada completa",
+        "trabajar desde casa"
+      ],
+      "tag": "Travail",
+      "expl": "À temps partiel = menos de 35h/semaine.",
+      "dictee": "partiel"
+    },
+    {
+      "id": "a2v2-04",
+      "q": "¿Qué es 'une réunion'?",
+      "a": "una reunión",
+      "choices": [
+        "una formación",
+        "una pausa laboral",
+        "una entrevista"
+      ],
+      "tag": "Bureau",
+      "expl": "Une réunion est une rencontre professionnelle.",
+      "dictee": "réunion"
+    },
+    {
+      "id": "a2v2-05",
+      "q": "¿Cómo se dice 'les congés payés'?",
+      "a": "las vacaciones pagadas",
+      "choices": [
+        "los días festivos",
+        "las bajas por enfermedad",
+        "los permisos retribuidos"
+      ],
+      "tag": "Travail",
+      "expl": "Les congés payés = vacaciones retribuidas. En France, 5 semaines par an.",
+      "dictee": "congés"
+    },
+    {
+      "id": "a2v2-06",
+      "q": "¿Qué significa 'être au chômage'?",
+      "a": "estar en paro / desempleado",
+      "choices": [
+        "estar jubilado",
+        "estar de baja médica",
+        "trabajar por cuenta propia"
+      ],
+      "tag": "Emploi",
+      "expl": "Être au chômage = ne pas avoir d'emploi.",
+      "dictee": "chômage"
+    },
+    {
+      "id": "a2v2-07",
+      "q": "¿Cómo se dice 'une formation professionnelle'?",
+      "a": "una formación profesional",
+      "choices": [
+        "unas prácticas",
+        "un máster universitario",
+        "unas oposiciones"
+      ],
+      "tag": "Formation",
+      "expl": "Une formation professionnelle permet d'acquérir de nouvelles compétences.",
+      "dictee": "formation"
+    },
+    {
+      "id": "a2v2-08",
+      "q": "¿Qué es 'un stage'?",
+      "a": "unas prácticas laborales",
+      "choices": [
+        "un trabajo fijo",
+        "una beca de estudios",
+        "un contrato temporal"
+      ],
+      "tag": "Formation",
+      "expl": "Un stage est une période de travail en entreprise pour se former.",
+      "dictee": "stage"
+    },
+    {
+      "id": "a2v2-09",
+      "q": "¿Cómo se dice 'le bureau'?",
+      "a": "la oficina / el despacho",
+      "choices": [
+        "la fábrica",
+        "el almacén",
+        "el taller industrial"
+      ],
+      "tag": "Lieu",
+      "expl": "Le bureau = la oficina (lieu) ou le escritorio (meuble).",
+      "dictee": "bureau"
+    },
+    {
+      "id": "a2v2-10",
+      "q": "¿Qué significa 'une candidature'?",
+      "a": "una candidatura / una solicitud de empleo",
+      "choices": [
+        "un currículum vitae",
+        "una carta de presentación",
+        "una carta de recomendación"
+      ],
+      "tag": "Emploi",
+      "expl": "Poser sa candidature = presentar su candidatura.",
+      "dictee": "candidature"
+    },
+    {
+      "id": "a2v2-11",
+      "q": "¿Cómo se dice 'les horaires de travail'?",
+      "a": "el horario de trabajo",
+      "choices": [
+        "las horas extraordinarias",
+        "el turno de noche",
+        "la jornada laboral completa"
+      ],
+      "tag": "Travail",
+      "expl": "Les horaires indiquent quand on commence et finit de travailler.",
+      "dictee": "horaires"
+    },
+    {
+      "id": "a2v2-12",
+      "q": "¿Qué es 'un collègue'?",
+      "a": "un compañero de trabajo",
+      "choices": [
+        "un jefe directo",
+        "un cliente habitual",
+        "un socio comercial"
+      ],
+      "tag": "Bureau",
+      "expl": "Un collègue est une personne avec qui on travaille.",
+      "dictee": "collègue"
+    },
+    {
+      "id": "a2v2-13",
+      "q": "¿Cómo se dice 'prendre sa retraite'?",
+      "a": "jubilarse",
+      "choices": [
+        "dimitir del trabajo",
+        "ser despedido",
+        "cambiar de empresa"
+      ],
+      "tag": "Emploi",
+      "expl": "Prendre sa retraite = arrêter de travailler après un certain âge.",
+      "dictee": "retraite"
+    },
+    {
+      "id": "a2v2-14",
+      "q": "¿Qué significa 'un diplôme'?",
+      "a": "un diploma / un título académico",
+      "choices": [
+        "un expediente académico",
+        "una nota de examen",
+        "una matrícula de honor"
+      ],
+      "tag": "Études",
+      "expl": "Un diplôme est un document officiel qui certifie une formation.",
+      "dictee": "diplôme"
+    },
+    {
+      "id": "a2v2-15",
+      "q": "¿Cómo se dice 'passer un examen'?",
+      "a": "presentarse a un examen",
+      "choices": [
+        "aprobar un examen",
+        "suspender un examen",
+        "preparar un examen"
+      ],
+      "tag": "Études",
+      "expl": "Passer = presentarse. Réussir = aprobar. Échouer = suspender.",
+      "dictee": "examen"
+    },
+    {
+      "id": "a2v2-16",
+      "q": "¿Qué es 'une note' à l'école?",
+      "a": "una nota / una calificación",
+      "choices": [
+        "un apunte de clase",
+        "un comentario del profesor",
+        "una observación académica"
+      ],
+      "tag": "Études",
+      "expl": "Une note est la note attribuée par le professeur.",
+      "dictee": "note"
+    },
+    {
+      "id": "a2v2-17",
+      "q": "¿Cómo se dice 'les devoirs'?",
+      "a": "los deberes / las tareas escolares",
+      "choices": [
+        "los apuntes de clase",
+        "los libros de texto",
+        "los exámenes finales"
+      ],
+      "tag": "Études",
+      "expl": "Les devoirs sont les exercices à faire à la maison.",
+      "dictee": "devoirs"
+    },
+    {
+      "id": "a2v2-18",
+      "q": "¿Qué significa 'une matière scolaire'?",
+      "a": "una asignatura escolar",
+      "choices": [
+        "un curso académico",
+        "un nivel educativo",
+        "una clase particular"
+      ],
+      "tag": "Études",
+      "expl": "Les matières : le français, les maths, l'histoire, la géographie...",
+      "dictee": "matière"
+    }
+  ]
+}

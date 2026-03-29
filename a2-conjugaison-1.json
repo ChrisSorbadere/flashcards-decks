@@ -1,22 +1,259 @@
-[
-  {"id":"a2c1_01","q":"Je ___ (parler) avec elle quand tu es arrivé.","a":"parlais","choices":["parlais","parlait","parlerai","ai parlé"],"tag":"Imparfait","hint":"Action en cours dans le passé","expl":"L'IMPARFAIT décrit une action en cours ou un état dans le passé. Terminaisons : -ais, -ais, -ait, -ions, -iez, -aient."},
-  {"id":"a2c1_02","q":"Quand j'étais enfant, nous ___ (habiter) à Lyon.","a":"habitions","choices":["habitons","avons habité","habiterons","habitais"],"tag":"Imparfait","hint":"Situation habituelle dans le passé","expl":"Imparfait pour les HABITUDES passées : quand j'étais enfant, nous habitions... / Cuando era niño, vivíamos..."},
-  {"id":"a2c1_03","q":"Il ___ (faire) beau tous les étés dans mon enfance.","a":"faisait","choices":["fait","a fait","faisait","fera"],"tag":"Imparfait","hint":"Description d'un état passé habituel","expl":"FAIRE à l'imparfait : je faisais, tu faisais, il FAISAIT, nous faisions, vous faisiez, ils faisaient."},
-  {"id":"a2c1_04","q":"Nous ___ (se retrouver) chaque semaine au café.","a":"nous retrouvions","choices":["nous retrouvons","nous sommes retrouvés","nous retrouvions","nous retrouverons"],"tag":"Imparfait","hint":"Action répétée dans le passé","expl":"Imparfait pour les ACTIONS RÉPÉTÉES : on se retrouvait, on se parlait... / nos encontrábamos cada semana."},
-  {"id":"a2c1_05","q":"Vous ___ (être) très fatigués après le voyage.","a":"étiez","choices":["êtes","avez été","étiez","serez"],"tag":"Imparfait","hint":"État dans le passé","expl":"ÊTRE à l'imparfait : j'étais, tu étais, il était, nous étions, vous ÉTIEZ, ils étaient. Très irrégulier !"},
-  {"id":"a2c1_06","q":"Il ___ (avoir) l'air content quand on l'a vu.","a":"avait","choices":["a","a eu","avait","aura"],"tag":"Imparfait","hint":"Description d'un état ou d'une apparence","expl":"AVOIR à l'imparfait : j'avais, tu avais, il AVAIT, nous avions, vous aviez, ils avaient."},
-  {"id":"a2c1_07","q":"Demain, je ___ (aller) chez le médecin.","a":"vais aller","choices":["irai","vais aller","allais","suis allé"],"tag":"Futur proche","hint":"Futur proche = aller + infinitif","expl":"FUTUR PROCHE = ALLER (présent) + infinitif. Je VAIS ALLER. Plus immédiat que le futur simple. / Voy a ir al médico."},
-  {"id":"a2c1_08","q":"Ils ___ (partir) en vacances la semaine prochaine.","a":"vont partir","choices":["partent","sont partis","vont partir","partiront"],"tag":"Futur proche","hint":"Événement prévu dans un futur proche","expl":"Futur proche : ils VONT PARTIR. On l'utilise pour les plans et intentions. / Van a salir de vacaciones."},
-  {"id":"a2c1_09","q":"L'année prochaine, tu ___ (avoir) 25 ans.","a":"auras","choices":["as","auras","avais","vas avoir"],"tag":"Futur simple","hint":"Futur simple — terminaison -as","expl":"FUTUR SIMPLE : je aurai→j'AURAI, tu AURAS, il aura, nous aurons, vous aurez, ils auront. Terminaison sur infinitif + -ai/-as/-a..."},
-  {"id":"a2c1_10","q":"Quand il ___ (finir) son travail, il pourra partir.","a":"aura fini","choices":["finira","aura fini","finissait","va finir"],"tag":"Futur antérieur","hint":"Action future antérieure à une autre","expl":"FUTUR ANTÉRIEUR = futur avoir/être + participe passé. Quand il AURA FINI = cuando haya terminado."},
-  {"id":"a2c1_11","q":"Dans 10 ans, les voitures électriques ___ (remplacer) les voitures à essence.","a":"auront remplacé","choices":["remplacent","remplaceront","remplaçaient","vont remplacer"],"tag":"Futur antérieur","hint":"Action complète à un moment futur","expl":"FUTUR ANTÉRIEUR pour une action terminée avant un point futur. Dans 10 ans, AURONT REMPLACÉ = habrán reemplazado."},
-  {"id":"a2c1_12","q":"Si j'avais le temps, je ___ (voyager) plus.","a":"voyagerais","choices":["voyagerai","voyageais","voyagerais","vais voyager"],"tag":"Conditionnel","hint":"Condition irréelle — conditionnel présent","expl":"CONDITIONNEL PRÉSENT : si + imparfait → conditionnel. Je VOYAGERAIS = viajaría. Terminaisons : -ais, -ais, -ait, -ions, -iez, -aient."},
-  {"id":"a2c1_13","q":"Vous ___ (pouvoir) m'aider, s'il vous plaît ?","a":"pourriez","choices":["pouvez","pouviez","pourriez","pourrez"],"tag":"Conditionnel","hint":"Conditionnel de politesse","expl":"CONDITIONNEL DE POLITESSE : POURRIEZ-VOUS ? = ¿podría usted? Plus poli que 'pouvez-vous'. VOUDRIEZ-VOUS ? AURIEZ-VOUS ?"},
-  {"id":"a2c1_14","q":"Je ___ (aimer) visiter le Japon un jour.","a":"aimerais","choices":["aimais","aimerai","aimerais","vais aimer"],"tag":"Conditionnel","hint":"Souhait ou désir","expl":"Conditionnel pour exprimer un DÉSIR : J'AIMERAIS = me gustaría. JE VOUDRAIS = quisiera. Plus poli que 'je veux'."},
-  {"id":"a2c1_15","q":"D'après les informations, il ___ (faire) très froid demain.","a":"ferait","choices":["fait","faisait","fera","ferait"],"tag":"Conditionnel","hint":"Information non confirmée — conditionnel journalistique","expl":"CONDITIONNEL JOURNALISTIQUE : information non confirmée. Il FERAIT froid = haría frío (según se dice). Très utilisé dans les médias."},
-  {"id":"a2c1_16","q":"Hier, il ___ (pleuvoir) toute la journée.","a":"a plu","choices":["pleuvait","a plu","pleurait","pleuvra"],"tag":"PC vs Imparfait","hint":"Action terminée et délimitée = passé composé","expl":"PASSÉ COMPOSÉ pour actions terminées. IMPARFAIT pour états/durées. Hier il A PLU (terminé) ≠ Il PLEUVAIT quand je suis sorti (état)."},
-  {"id":"a2c1_17","q":"Elle ___ (lire) quand le téléphone a sonné.","a":"lisait","choices":["a lu","lisait","lira","lit"],"tag":"PC vs Imparfait","hint":"Action en cours interrompue = imparfait","expl":"IMPARFAIT pour l'action en cours + PASSÉ COMPOSÉ pour l'interruption. Elle LISAIT (action de fond) / le téléphone A SONNÉ (interruption)."},
-  {"id":"a2c1_18","q":"Nous ___ (passer) une excellente soirée hier.","a":"avons passé","choices":["passions","avons passé","passions","passerons"],"tag":"PC vs Imparfait","hint":"Événement ponctuel du passé = passé composé","expl":"PASSÉ COMPOSÉ pour événements ponctuels. NOUS AVONS PASSÉ une bonne soirée = pasamos una buena velada. Action terminée."},
-  {"id":"a2c1_19","q":"Ils ___ (vouloir) venir mais ils avaient du travail.","a":"voulaient","choices":["ont voulu","veulent","voulaient","voudront"],"tag":"PC vs Imparfait","hint":"Sentiment ou désir dans le passé = imparfait","expl":"Sentiments et états mentaux → IMPARFAIT : VOULAIENT, savaient, croyaient, pensaient. / Querían venir pero tenían trabajo."},
-  {"id":"a2c1_20","q":"Quand j'___ (être) étudiant, j'habitais dans un petit studio.","a":"étais","choices":["ai été","étais","serai","suis"],"tag":"PC vs Imparfait","hint":"Situation passée = imparfait","expl":"ÉTAIS = estado o situación en el pasado (imparfait). Quand j'ÉTAIS étudiant = cuando era estudiante. Pas de délimitation temporelle."}
-]
+{
+  "id": "a2-conjugaison-1",
+  "name": "A2 — Conjugaison 1 : Passé composé avec avoir",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2c1-01",
+      "q": "Nous ___ (manger) au restaurant hier.",
+      "a": "avons mangé",
+      "choices": [
+        "avons manger",
+        "avons mangés",
+        "avions mangé"
+      ],
+      "tag": "PC avoir",
+      "hint": "Avoir + participe passé",
+      "expl": "Manger → mangé. Avec avoir, le participe ne s'accorde pas avec le sujet.",
+      "dictee": "avons mangé"
+    },
+    {
+      "id": "a2c1-02",
+      "q": "Tu ___ (finir) tes devoirs ?",
+      "a": "as fini",
+      "choices": [
+        "as finit",
+        "as finis",
+        "avais fini"
+      ],
+      "tag": "PC avoir",
+      "hint": "Finir → participe en -i",
+      "expl": "Finir → fini. Le participe des verbes en -ir est souvent en -i.",
+      "dictee": "as fini"
+    },
+    {
+      "id": "a2c1-03",
+      "q": "Elle ___ (prendre) le bus ce matin.",
+      "a": "a pris",
+      "choices": [
+        "a prendu",
+        "a prenu",
+        "a prendre"
+      ],
+      "tag": "PC avoir",
+      "hint": "Participe irrégulier",
+      "expl": "Prendre → pris. Participe irrégulier à mémoriser.",
+      "dictee": "a pris"
+    },
+    {
+      "id": "a2c1-04",
+      "q": "Ils ___ (voir) un film hier soir.",
+      "a": "ont vu",
+      "choices": [
+        "ont voyé",
+        "ont vus",
+        "ont voit"
+      ],
+      "tag": "PC avoir",
+      "hint": "Voir → participe très court",
+      "expl": "Voir → vu. Avec avoir, pas d'accord avec le sujet.",
+      "dictee": "ont vu"
+    },
+    {
+      "id": "a2c1-05",
+      "q": "Vous ___ (lire) ce livre ?",
+      "a": "avez lu",
+      "choices": [
+        "avez lisé",
+        "avez lit",
+        "avez lus"
+      ],
+      "tag": "PC avoir",
+      "hint": "Lire → participe court",
+      "expl": "Lire → lu. Participe irrégulier. Pas d'accord avec le sujet.",
+      "dictee": "avez lu"
+    },
+    {
+      "id": "a2c1-06",
+      "q": "J'___ (écrire) une lettre importante.",
+      "a": "ai écrit",
+      "choices": [
+        "ai écrire",
+        "ai écris",
+        "avais écrit"
+      ],
+      "tag": "PC avoir",
+      "hint": "Écrire → participe en -it",
+      "expl": "Écrire → écrit. Décrire → décrit. Inscrire → inscrit.",
+      "dictee": "ai écrit"
+    },
+    {
+      "id": "a2c1-07",
+      "q": "Il ___ (boire) tout le jus d'orange.",
+      "a": "a bu",
+      "choices": [
+        "a boire",
+        "a buvé",
+        "a bus"
+      ],
+      "tag": "PC avoir",
+      "hint": "Boire → participe très court",
+      "expl": "Boire → bu. Participe irrégulier.",
+      "dictee": "a bu"
+    },
+    {
+      "id": "a2c1-08",
+      "q": "Nous ___ (recevoir) une bonne nouvelle.",
+      "a": "avons reçu",
+      "choices": [
+        "avons recevé",
+        "avons recevait",
+        "avons reçus"
+      ],
+      "tag": "PC avoir",
+      "hint": "Recevoir → participe irrégulier",
+      "expl": "Recevoir → reçu. La cédille est importante !",
+      "dictee": "avons reçu"
+    },
+    {
+      "id": "a2c1-09",
+      "q": "Elles ___ (vouloir) partir tôt.",
+      "a": "ont voulu",
+      "choices": [
+        "ont voulé",
+        "ont voulez",
+        "ont voulues"
+      ],
+      "tag": "PC avoir",
+      "hint": "Vouloir → participe irrégulier",
+      "expl": "Vouloir → voulu. Pas d'accord avec avoir.",
+      "dictee": "ont voulu"
+    },
+    {
+      "id": "a2c1-10",
+      "q": "Tu ___ (pouvoir) venir hier ?",
+      "a": "as pu",
+      "choices": [
+        "as pouvé",
+        "as pouvait",
+        "as pus"
+      ],
+      "tag": "PC avoir",
+      "hint": "Pouvoir → participe très court",
+      "expl": "Pouvoir → pu. Devoir → dû. Savoir → su.",
+      "dictee": "as pu"
+    },
+    {
+      "id": "a2c1-11",
+      "q": "J'___ (mettre) les clés sur la table.",
+      "a": "ai mis",
+      "choices": [
+        "ai metté",
+        "ai metts",
+        "avais mis"
+      ],
+      "tag": "PC avoir",
+      "hint": "Mettre → participe irrégulier",
+      "expl": "Mettre → mis. Promettre → promis. Permettre → permis.",
+      "dictee": "ai mis"
+    },
+    {
+      "id": "a2c1-12",
+      "q": "Vous ___ (dire) la vérité ?",
+      "a": "avez dit",
+      "choices": [
+        "avez disu",
+        "avez diré",
+        "avez dis"
+      ],
+      "tag": "PC avoir",
+      "hint": "Dire → participe irrégulier",
+      "expl": "Dire → dit. Contredire → contredit. Interdire → interdit.",
+      "dictee": "avez dit"
+    },
+    {
+      "id": "a2c1-13",
+      "q": "Il ___ (faire) beau hier toute la journée.",
+      "a": "a fait",
+      "choices": [
+        "a faisé",
+        "a faite",
+        "a fais"
+      ],
+      "tag": "PC avoir",
+      "hint": "Faire → participe irrégulier",
+      "expl": "Faire → fait. Satisfaire → satisfait. Défaire → défait.",
+      "dictee": "a fait"
+    },
+    {
+      "id": "a2c1-14",
+      "q": "Nous ___ (choisir) la même couleur.",
+      "a": "avons choisi",
+      "choices": [
+        "avons choisis",
+        "avons choisit",
+        "avons choisissé"
+      ],
+      "tag": "PC avoir",
+      "hint": "Choisir → participe en -i",
+      "expl": "Choisir → choisi. Finir → fini. Ouvrir → ouvert.",
+      "dictee": "avons choisi"
+    },
+    {
+      "id": "a2c1-15",
+      "q": "Elle ___ (attendre) deux heures au café.",
+      "a": "a attendu",
+      "choices": [
+        "a attendé",
+        "a attendit",
+        "a attendus"
+      ],
+      "tag": "PC avoir",
+      "hint": "Attendre → participe en -u",
+      "expl": "Attendre → attendu. Vendre → vendu. Entendre → entendu.",
+      "dictee": "a attendu"
+    },
+    {
+      "id": "a2c1-16",
+      "q": "Ils ___ (apprendre) le français rapidement.",
+      "a": "ont appris",
+      "choices": [
+        "ont apprendu",
+        "ont apprenait",
+        "ont apprendu"
+      ],
+      "tag": "PC avoir",
+      "hint": "Apprendre → comme prendre",
+      "expl": "Apprendre → appris. Comprendre → compris. Surprendre → surpris.",
+      "dictee": "ont appris"
+    },
+    {
+      "id": "a2c1-17",
+      "q": "J'___ (ouvrir) la fenêtre ce matin.",
+      "a": "ai ouvert",
+      "choices": [
+        "ai ouvri",
+        "ai ouvrais",
+        "ai ouverts"
+      ],
+      "tag": "PC avoir",
+      "hint": "Ouvrir → participe irrégulier",
+      "expl": "Ouvrir → ouvert. Couvrir → couvert. Offrir → offert.",
+      "dictee": "ai ouvert"
+    },
+    {
+      "id": "a2c1-18",
+      "q": "Tu ___ (rire) pendant tout le film.",
+      "a": "as ri",
+      "choices": [
+        "as rit",
+        "as rire",
+        "as ris"
+      ],
+      "tag": "PC avoir",
+      "hint": "Rire → participe très court",
+      "expl": "Rire → ri. Sourire → souri.",
+      "dictee": "as ri"
+    }
+  ]
+}

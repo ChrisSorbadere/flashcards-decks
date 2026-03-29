@@ -1,22 +1,259 @@
-[
-  {"id":"a2c2_01","q":"Je ___ (se lever) à 6h demain matin.","a":"vais me lever","choices":["me lèverai","me levais","vais me lever","me suis levé"],"tag":"Futur proche","hint":"Futur proche d'un verbe pronominal","expl":"Futur proche pronominal : ALLER + SE + infinitif. Je VAIS ME LEVER. Il va se coucher. Nous allons nous retrouver."},
-  {"id":"a2c2_02","q":"___ (Partir) ! — Impératif 'vous' de PARTIR","a":"Partez !","choices":["Partez !","Partez-vous !","Vous partez !","Partir !"],"tag":"Impératif","hint":"Impératif VOUS = présent VOUS sans pronom","expl":"Impératif VOUS : même forme que présent. PARTEZ ! VENEZ ! FINISSEZ ! PRENEZ ! SOYEZ à l'heure !"},
-  {"id":"a2c2_03","q":"Ne ___ (parler) pas si fort ! — impératif 'tu'","a":"parle","choices":["parles","parle","parlez","parlons"],"tag":"Impératif négatif","hint":"Négation : NE + impératif + PAS","expl":"Impératif négatif : NE + verbe + PAS. Ne PARLE pas. Ne PARS pas. Ne FAIS pas ça. Ne T'INQUIÈTE pas."},
-  {"id":"a2c2_04","q":"___ (S'asseoir) ! — impératif 'tu'","a":"Assieds-toi !","choices":["Assois-toi !","Assieds-toi !","Te assieds !","Assieds !"],"tag":"Impératif pronominal","hint":"Impératif pronominal : verbe + tiret + pronom tonique","expl":"Impératif pronominal affirmatif : pronom APRÈS le verbe avec tiret. ASSIEDS-TOI, LÈVE-TOI, DÉPÊCHE-TOI, TAIS-TOI."},
-  {"id":"a2c2_05","q":"Ne ___ (s'inquiéter) pas ! — impératif 'vous'","a":"vous inquiétez","choices":["inquiétez-vous","vous inquiétez","inquiétez","t'inquiètes"],"tag":"Impératif négatif pronominal","hint":"Impératif négatif pronominal : NE + pronom + verbe + PAS","expl":"Impératif négatif pronominal : NE + pronom + verbe + PAS. NE VOUS INQUIÉTEZ PAS. NE TE LÈVE PAS. NE NOUS ARRÊTONS PAS."},
-  {"id":"a2c2_06","q":"Tu ___ (finir) ton travail ? — futur simple","a":"finiras","choices":["finis","finiras","finissais","vas finir"],"tag":"Futur simple","hint":"Futur simple des verbes -IR","expl":"Futur simple verbes -IR : FINIR → je finirai, tu FINIRAS, il finira. Infinitif + terminaisons -ai/-as/-a/-ons/-ez/-ont."},
-  {"id":"a2c2_07","q":"Nous ___ (venir) te voir ce week-end.","a":"viendrons","choices":["venons","venions","viendrons","allons venir"],"tag":"Futur simple","hint":"VENIR au futur — radical irrégulier","expl":"Futurs irréguliers : VENIR → VIENDRONS / AVOIR → AURONS / ÊTRE → SERONS / FAIRE → FERONS / ALLER → IRONS / POUVOIR → POURRONS."},
-  {"id":"a2c2_08","q":"Ils ___ (devoir) travailler plus s'ils veulent réussir.","a":"devront","choices":["doivent","devaient","devront","vont devoir"],"tag":"Futur simple","hint":"DEVOIR au futur — radical irrégulier","expl":"DEVOIR au futur : je DEVRAI, tu devras, il devra... SAVOIR → SAURAI. VOIR → VERRAI. VOULOIR → VOUDRAI."},
-  {"id":"a2c2_09","q":"Si tu ___ (travailler) plus, tu réussiras.","a":"travailles","choices":["travailleras","travailles","travaillais","as travaillé"],"tag":"Conditionnel","hint":"Hypothèse réelle : si + présent → futur","expl":"Condition RÉELLE : SI + présent → futur. Si tu TRAVAILLES, tu RÉUSSIRAS. / Condition irréelle : si + imparfait → conditionnel."},
-  {"id":"a2c2_10","q":"Si vous ___ (avoir) le temps, vous pourriez venir ?","a":"aviez","choices":["avez","aurez","aviez","auriez"],"tag":"Conditionnel","hint":"Hypothèse irréelle : si + imparfait → conditionnel","expl":"Condition IRRÉELLE : SI + imparfait → conditionnel. Si vous AVIEZ le temps, vous POURRIEZ venir. / Si tuvieran tiempo..."},
-  {"id":"a2c2_11","q":"Elle ___ (dire) que c'est faux.","a":"dit","choices":["dis","dit","disait","a dit"],"tag":"Verbes irréguliers","hint":"DIRE au présent — irrégulier","expl":"DIRE : je dis, tu dis, il DIT, nous disons, vous DITES (irrégulier !), ils disent. Vous DITES (pas 'disez')."},
-  {"id":"a2c2_12","q":"Vous ___ (mettre) votre manteau, il fait froid.","a":"mettez","choices":["mettez","mettez","mettent","mettrons"],"tag":"Verbes irréguliers","hint":"METTRE au présent","expl":"METTRE : je mets, tu mets, il met, nous mettons, vous METTEZ, ils mettent. Même famille : promettre, remettre, permettre."},
-  {"id":"a2c2_13","q":"Nous ___ (connaître) bien ce quartier.","a":"connaissons","choices":["savons","connaissons","connaissions","avons connu"],"tag":"Verbes irréguliers","hint":"CONNAÎTRE vs SAVOIR","expl":"CONNAÎTRE + personne/lieu : nous CONNAISSONS Paris. SAVOIR + fait/infinitif : nous SAVONS parler français. Distinción importante."},
-  {"id":"a2c2_14","q":"Ils ___ (suivre) des cours de français depuis 3 mois.","a":"suivent","choices":["suivent","suivient","suivons","ont suivi"],"tag":"Verbes irréguliers","hint":"SUIVRE au présent","expl":"SUIVRE : je suis, tu suis, il suit, nous suivons, vous suivez, ils SUIVENT. Aussi : POURSUIVRE (poursuivent)."},
-  {"id":"a2c2_15","q":"Je ___ (lire) un bon livre en ce moment.","a":"lis","choices":["lis","lie","lisais","ai lu"],"tag":"Verbes irréguliers","hint":"LIRE au présent","expl":"LIRE : je LIS, tu lis, il lit, nous lisons, vous lisez, ils lisent. Participe passé : LU. Aussi : ÉLIRE, RELIRE, SOURIRE."},
-  {"id":"a2c2_16","q":"Il ___ (falloir) partir maintenant. — forme correcte ?","a":"faut","choices":["faut","faut","fallait","faudra"],"tag":"Verbes impersonnels","hint":"IL FAUT — verbe impersonnel","expl":"FALLOIR = verbe impersonnel, toujours avec IL. IL FAUT + infinitif ou subjonctif. IL FAUDRA, IL FAUDRAIT, IL A FALLU."},
-  {"id":"a2c2_17","q":"___ (Valoir) mieux partir tôt. — forme correcte ?","a":"Il vaut","choices":["Il vaut","Ça vaut","On vaut","Vaut"],"tag":"Verbes impersonnels","hint":"IL VAUT MIEUX = es mejor","expl":"IL VAUT MIEUX + infinitif = es mejor. IL VAUT MIEUX partir tôt = es mejor salir pronto. Aussi : IL VAUDRAIT MIEUX."},
-  {"id":"a2c2_18","q":"La réunion ___ (se tenir) chaque lundi matin.","a":"se tient","choices":["se tient","se tient","se tenir","se tenu"],"tag":"Verbes pronominaux","hint":"SE TENIR au présent — 3ème personne du singulier","expl":"SE TENIR : il se TIENT. Aussi : SE RENDRE COMPTE, S'APERCEVOIR, SE SOUVENIR. La réunion SE TIENT = la reunión tiene lugar."},
-  {"id":"a2c2_19","q":"Nous ___ (s'entendre) très bien avec nos voisins.","a":"nous entendons","choices":["nous entendons","s'entendons","nous entendions","sommes entendus"],"tag":"Verbes pronominaux","hint":"S'ENTENDRE = s'accorder","expl":"S'ENTENDRE BIEN = llevarse bien. Nous NOUS ENTENDONS bien. Ils S'ENTENDENT bien. On peut aussi BIEN S'ENTENDRE avec quelqu'un."},
-  {"id":"a2c2_20","q":"Hier, ils ___ (se disputer) pendant une heure.","a":"se sont disputés","choices":["se disputaient","se sont disputés","s'étaient disputés","se disputent"],"tag":"PC pronominal","hint":"Passé composé des verbes pronominaux = être","expl":"Verbes pronominaux au PC → auxiliaire ÊTRE. Ils SE SONT DISPUTÉS. Elles SE SONT RÉCONCILIÉES. Accord du participe passé."}
-]
+{
+  "id": "a2-conjugaison-2",
+  "name": "A2 — Conjugaison 2 : Passé composé avec être",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2c2-01",
+      "q": "Elle ___ (partir) à 8 heures ce matin.",
+      "a": "est partie",
+      "choices": [
+        "a parti",
+        "est parti",
+        "a partie"
+      ],
+      "tag": "PC être",
+      "hint": "Partir = verbe avec être",
+      "expl": "Partir avec être. Accord avec le sujet : elle → partie.",
+      "dictee": "est partie"
+    },
+    {
+      "id": "a2c2-02",
+      "q": "Ils ___ (arriver) en retard à la réunion.",
+      "a": "sont arrivés",
+      "choices": [
+        "ont arrivé",
+        "sont arrivé",
+        "sont arrivées"
+      ],
+      "tag": "PC être",
+      "hint": "Arriver = verbe avec être",
+      "expl": "Arriver avec être. Ils (masc. pluriel) → arrivés.",
+      "dictee": "sont arrivés"
+    },
+    {
+      "id": "a2c2-03",
+      "q": "Je (féminin) ___ (aller) au marché ce matin.",
+      "a": "suis allée",
+      "choices": [
+        "suis allé",
+        "ai allée",
+        "suis aller"
+      ],
+      "tag": "PC être",
+      "hint": "Aller + accord féminin",
+      "expl": "Aller avec être. Je (féminin) → allée avec -e.",
+      "dictee": "suis allée"
+    },
+    {
+      "id": "a2c2-04",
+      "q": "Nous ___ (venir) te voir hier soir.",
+      "a": "sommes venus",
+      "choices": [
+        "avons venu",
+        "sommes venu",
+        "sommes venues"
+      ],
+      "tag": "PC être",
+      "hint": "Venir = verbe avec être",
+      "expl": "Venir avec être. Nous (mixte) → venus au masculin pluriel.",
+      "dictee": "sommes venus"
+    },
+    {
+      "id": "a2c2-05",
+      "q": "Elle ___ (naître) en 1995 à Lyon.",
+      "a": "est née",
+      "choices": [
+        "a né",
+        "est né",
+        "est naît"
+      ],
+      "tag": "PC être",
+      "hint": "Naître = verbe avec être",
+      "expl": "Naître avec être. Elle → née avec -e.",
+      "dictee": "est née"
+    },
+    {
+      "id": "a2c2-06",
+      "q": "Il ___ (mourir) à 90 ans entouré de sa famille.",
+      "a": "est mort",
+      "choices": [
+        "a mort",
+        "est morte",
+        "a mourit"
+      ],
+      "tag": "PC être",
+      "hint": "Mourir = verbe avec être",
+      "expl": "Mourir avec être. Il → mort. Elle → morte.",
+      "dictee": "est mort"
+    },
+    {
+      "id": "a2c2-07",
+      "q": "Elles ___ (rentrer) tard hier soir.",
+      "a": "sont rentrées",
+      "choices": [
+        "ont rentré",
+        "sont rentré",
+        "sont rentrés"
+      ],
+      "tag": "PC être",
+      "hint": "Rentrer + accord féminin pluriel",
+      "expl": "Rentrer avec être. Elles (fém. pluriel) → rentrées.",
+      "dictee": "sont rentrées"
+    },
+    {
+      "id": "a2c2-08",
+      "q": "Tu ___ (tomber) dans l'escalier ?",
+      "a": "es tombé(e)",
+      "choices": [
+        "as tombé",
+        "était tombé",
+        "est tombé"
+      ],
+      "tag": "PC être",
+      "hint": "Tomber = verbe avec être",
+      "expl": "Tomber avec être. Tu → es tombé (masc.) ou tombée (fém.).",
+      "dictee": "es tombé"
+    },
+    {
+      "id": "a2c2-09",
+      "q": "Vous ___ (rester) combien de temps à Paris ?",
+      "a": "êtes restés",
+      "choices": [
+        "avez resté",
+        "êtes resté",
+        "êtes restées"
+      ],
+      "tag": "PC être",
+      "hint": "Rester = verbe avec être",
+      "expl": "Rester avec être. Vous (mixte) → restés au masculin pluriel.",
+      "dictee": "êtes restés"
+    },
+    {
+      "id": "a2c2-10",
+      "q": "Je (masculin) ___ (sortir) avec des amis hier.",
+      "a": "suis sorti",
+      "choices": [
+        "ai sorti",
+        "suis sortie",
+        "suis sortir"
+      ],
+      "tag": "PC être",
+      "hint": "Sortir (sens intransitif) = avec être",
+      "expl": "Sortir avec être (sens intransitif). Je (masc.) → sorti.",
+      "dictee": "suis sorti"
+    },
+    {
+      "id": "a2c2-11",
+      "q": "Elle ___ (entrer) sans frapper à la porte.",
+      "a": "est entrée",
+      "choices": [
+        "a entré",
+        "est entré",
+        "a entrée"
+      ],
+      "tag": "PC être",
+      "hint": "Entrer = verbe avec être",
+      "expl": "Entrer avec être. Elle → entrée avec -e.",
+      "dictee": "est entrée"
+    },
+    {
+      "id": "a2c2-12",
+      "q": "Ils ___ (passer) devant la mairie en voiture.",
+      "a": "sont passés",
+      "choices": [
+        "ont passé",
+        "sont passé",
+        "sont passées"
+      ],
+      "tag": "PC être",
+      "hint": "Passer (intransitif) = avec être",
+      "expl": "Passer avec être quand il n'y a pas de COD.",
+      "dictee": "sont passés"
+    },
+    {
+      "id": "a2c2-13",
+      "q": "Elle ___ (se lever) très tôt ce matin.",
+      "a": "s'est levée",
+      "choices": [
+        "s'a levée",
+        "s'est levé",
+        "s'est lever"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal = toujours avec être",
+      "expl": "Les pronominaux se conjuguent avec être. Accord avec le sujet.",
+      "dictee": "s'est levée"
+    },
+    {
+      "id": "a2c2-14",
+      "q": "Nous ___ (se parler) pendant une heure.",
+      "a": "nous sommes parlé",
+      "choices": [
+        "nous avons parlé",
+        "nous sommes parlés",
+        "nous sommes parlées"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal réciproque → pas d'accord",
+      "expl": "Se parler = réciproque. Pas d'accord car 'se' est COI.",
+      "dictee": "sommes parlé"
+    },
+    {
+      "id": "a2c2-15",
+      "q": "Il ___ (se blesser) en jouant au foot.",
+      "a": "s'est blessé",
+      "choices": [
+        "s'a blessé",
+        "s'est blessés",
+        "s'est blesser"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal masculin",
+      "expl": "Se blesser avec être. Il → s'est blessé (masc., pas de -e).",
+      "dictee": "s'est blessé"
+    },
+    {
+      "id": "a2c2-16",
+      "q": "Elles ___ (se rencontrer) à Paris l'été dernier.",
+      "a": "se sont rencontrées",
+      "choices": [
+        "s'ont rencontré",
+        "se sont rencontré",
+        "se sont rencontrés"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal féminin pluriel",
+      "expl": "Se rencontrer avec être. Elles → se sont rencontrées.",
+      "dictee": "se sont rencontrées"
+    },
+    {
+      "id": "a2c2-17",
+      "q": "Je (féminin) ___ (se tromper) de chemin.",
+      "a": "me suis trompée",
+      "choices": [
+        "m'ai trompée",
+        "me suis trompé",
+        "me suis tromper"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal féminin singulier",
+      "expl": "Se tromper avec être. Je (fém.) → me suis trompée.",
+      "dictee": "me suis trompée"
+    },
+    {
+      "id": "a2c2-18",
+      "q": "Nous ___ (s'habiller) très rapidement ce matin.",
+      "a": "nous sommes habillés",
+      "choices": [
+        "nous avons habillé",
+        "nous sommes habillé",
+        "nous avons habillés"
+      ],
+      "tag": "Pronominal",
+      "hint": "Pronominal + accord",
+      "expl": "S'habiller avec être. Nous (mixte) → nous sommes habillés.",
+      "dictee": "nous sommes habillés"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "a2-vocabulaire-6",
+  "name": "A2 — Vocabulaire 6 : Loisirs & culture",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2v6-01",
+      "q": "¿Cómo se dice 'un loisir'?",
+      "a": "una actividad de tiempo libre",
+      "choices": [
+        "un hobbie obligatorio",
+        "una afición profesional",
+        "una pasión costosa"
+      ],
+      "tag": "Loisirs",
+      "expl": "Les loisirs sont les activités pratiquées pendant le temps libre.",
+      "dictee": "loisir"
+    },
+    {
+      "id": "a2v6-02",
+      "q": "¿Qué significa 'assister à un concert'?",
+      "a": "asistir como espectador a un concierto",
+      "choices": [
+        "actuar en escena en un concierto",
+        "organizar y producir un concierto",
+        "grabar un concierto en directo"
+      ],
+      "tag": "Spectacles",
+      "expl": "Assister à = estar presente en. Je vais assister à la cérémonie.",
+      "dictee": "assister"
+    },
+    {
+      "id": "a2v6-03",
+      "q": "¿Cómo se dice 'une exposition'?",
+      "a": "una exposición de arte u objetos",
+      "choices": [
+        "una muestra comercial",
+        "una instalación permanente",
+        "una colección privada"
+      ],
+      "tag": "Culture",
+      "expl": "Une exposition présente des œuvres d'art ou des objets au public.",
+      "dictee": "exposition"
+    },
+    {
+      "id": "a2v6-04",
+      "q": "¿Qué es 'la séance de cinéma'?",
+      "a": "la sesión de cine (proyección a una hora)",
+      "choices": [
+        "el pase especial de prensa",
+        "la proyección privada de gala",
+        "el estreno mundial de la película"
+      ],
+      "tag": "Cinéma",
+      "expl": "Une séance = una proyección a una hora determinada.",
+      "dictee": "séance"
+    },
+    {
+      "id": "a2v6-05",
+      "q": "¿Cómo se dice 'pratiquer un sport'?",
+      "a": "practicar un deporte regularmente",
+      "choices": [
+        "ver deporte en la televisión",
+        "seguir un equipo deportivo",
+        "apoyar a un atleta favorito"
+      ],
+      "tag": "Sport",
+      "expl": "Pratiquer = hacer regularmente. Je pratique la natation.",
+      "dictee": "pratiquer"
+    },
+    {
+      "id": "a2v6-06",
+      "q": "¿Qué es 'une pièce de théâtre'?",
+      "a": "una obra de teatro",
+      "choices": [
+        "una función de danza",
+        "un espectáculo de variedades",
+        "una actuación musical"
+      ],
+      "tag": "Théâtre",
+      "expl": "Une pièce de théâtre est un spectacle joué par des acteurs.",
+      "dictee": "pièce"
+    },
+    {
+      "id": "a2v6-07",
+      "q": "¿Cómo se dice 'emprunter un livre'?",
+      "a": "tomar prestado un libro de la biblioteca",
+      "choices": [
+        "comprar un libro en librería",
+        "reservar un libro en línea",
+        "devolver un libro atrasado"
+      ],
+      "tag": "Bibliothèque",
+      "expl": "Emprunter = pedir prestado en una biblioteca. Rendre = devolver.",
+      "dictee": "emprunter"
+    },
+    {
+      "id": "a2v6-08",
+      "q": "¿Qué es 'un abonnement'?",
+      "a": "una suscripción mensual o anual",
+      "choices": [
+        "una entrada de un solo uso",
+        "un pase de acceso gratuito",
+        "un bono de descuento especial"
+      ],
+      "tag": "Loisirs",
+      "expl": "Un abonnement = pago periódico para acceder a un servicio.",
+      "dictee": "abonnement"
+    },
+    {
+      "id": "a2v6-09",
+      "q": "¿Cómo se dice 'un match de football'?",
+      "a": "un partido de fútbol",
+      "choices": [
+        "una competición de fútbol sala",
+        "un torneo regional de fútbol",
+        "un campeonato nacional de fútbol"
+      ],
+      "tag": "Sport",
+      "expl": "Un match = un partido entre dos equipos.",
+      "dictee": "match"
+    },
+    {
+      "id": "a2v6-10",
+      "q": "¿Qué significa 'se détendre'?",
+      "a": "relajarse y descansar",
+      "choices": [
+        "divertirse mucho con amigos",
+        "entretenerse con videojuegos",
+        "desconectar del trabajo completamente"
+      ],
+      "tag": "Loisirs",
+      "expl": "Se détendre = relâcher la tension. La détente = la relajación.",
+      "dictee": "détendre"
+    },
+    {
+      "id": "a2v6-11",
+      "q": "¿Cómo se dice 'une randonnée'?",
+      "a": "una excursión de senderismo",
+      "choices": [
+        "un paseo corto por el parque",
+        "una caminata urbana guiada",
+        "una marcha atlética competitiva"
+      ],
+      "tag": "Plein air",
+      "expl": "Une randonnée est une longue marche en nature.",
+      "dictee": "randonnée"
+    },
+    {
+      "id": "a2v6-12",
+      "q": "¿Qué es 'un billet d'entrée'?",
+      "a": "una entrada para un espectáculo o museo",
+      "choices": [
+        "una reserva anticipada online",
+        "un abono de temporada completa",
+        "un pase vip especial"
+      ],
+      "tag": "Spectacles",
+      "expl": "Le billet d'entrée permet d'accéder à un spectacle ou musée.",
+      "dictee": "billet"
+    },
+    {
+      "id": "a2v6-13",
+      "q": "¿Cómo se dice 'tricoter'?",
+      "a": "hacer punto / tejer con agujas",
+      "choices": [
+        "coser con aguja e hilo",
+        "bordar con punto de cruz",
+        "tejer a ganchillo con una aguja"
+      ],
+      "tag": "Loisirs créatifs",
+      "expl": "Tricoter = hacer punto con dos agujas. Crocheter = ganchillo.",
+      "dictee": "tricoter"
+    },
+    {
+      "id": "a2v6-14",
+      "q": "¿Qué es 'une galerie d'art'?",
+      "a": "una galería de arte contemporáneo",
+      "choices": [
+        "un taller de artes plásticas",
+        "un museo de arte clásico",
+        "una sala de exposiciones municipal"
+      ],
+      "tag": "Culture",
+      "expl": "Une galerie d'art expose et vend des œuvres d'artistes.",
+      "dictee": "galerie"
+    },
+    {
+      "id": "a2v6-15",
+      "q": "¿Cómo se dice 'faire du bénévolat'?",
+      "a": "hacer voluntariado no remunerado",
+      "choices": [
+        "hacer prácticas en empresa",
+        "trabajar para una ONG remunerado",
+        "participar en un proyecto escolar"
+      ],
+      "tag": "Société",
+      "expl": "Le bénévolat = trabajo voluntario y gratuito para una asociación.",
+      "dictee": "bénévolat"
+    },
+    {
+      "id": "a2v6-16",
+      "q": "¿Qué es 'une sortie entre amis'?",
+      "a": "una salida de ocio con amigos",
+      "choices": [
+        "una reunión familiar en casa",
+        "una cita romántica en pareja",
+        "una actividad escolar obligatoria"
+      ],
+      "tag": "Loisirs",
+      "expl": "Une sortie = una salida. On fait des sorties au restaurant, cinéma...",
+      "dictee": "sortie"
+    },
+    {
+      "id": "a2v6-17",
+      "q": "¿Cómo se dice 'un jeu de société'?",
+      "a": "un juego de mesa",
+      "choices": [
+        "un videojuego de consola",
+        "un juego de cartas española",
+        "un juego de palabras lingüístico"
+      ],
+      "tag": "Jeux",
+      "expl": "Les jeux de société : les échecs, le Monopoly, le Scrabble...",
+      "dictee": "société"
+    },
+    {
+      "id": "a2v6-18",
+      "q": "¿Qué significa 'réserver une place'?",
+      "a": "reservar un asiento o entrada con antelación",
+      "choices": [
+        "comprar una entrada en taquilla",
+        "cancelar una reserva existente",
+        "cambiar la fecha de una reserva"
+      ],
+      "tag": "Spectacles",
+      "expl": "Réserver = garder une place à l'avance.",
+      "dictee": "réserver"
+    }
+  ]
+}

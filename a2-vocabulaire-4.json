@@ -1,0 +1,241 @@
+{
+  "id": "a2-vocabulaire-4",
+  "name": "A2 — Vocabulaire 4 : Santé & corps",
+  "tag": "A2",
+  "cards": [
+    {
+      "id": "a2v4-01",
+      "q": "¿Cómo se dice 'avoir mal à la tête'?",
+      "a": "tener dolor de cabeza",
+      "choices": [
+        "tener fiebre alta",
+        "tener náuseas frecuentes",
+        "estar muy resfriado"
+      ],
+      "tag": "Santé",
+      "expl": "Avoir mal = tener dolor. Avoir mal à la gorge = dolor de garganta.",
+      "dictee": "tête"
+    },
+    {
+      "id": "a2v4-02",
+      "q": "¿Qué es 'une ordonnance'?",
+      "a": "una receta médica",
+      "choices": [
+        "un diagnóstico médico",
+        "un análisis de sangre",
+        "un informe clínico"
+      ],
+      "tag": "Médecin",
+      "expl": "L'ordonnance est le document écrit par le médecin pour les médicaments.",
+      "dictee": "ordonnance"
+    },
+    {
+      "id": "a2v4-03",
+      "q": "¿Cómo se dice 'prendre rendez-vous'?",
+      "a": "pedir una cita médica",
+      "choices": [
+        "cancelar una cita",
+        "ir a urgencias directamente",
+        "llamar a una ambulancia"
+      ],
+      "tag": "Médecin",
+      "expl": "Prendre rendez-vous = pedir cita con el médico.",
+      "dictee": "rendez-vous"
+    },
+    {
+      "id": "a2v4-04",
+      "q": "¿Qué es 'un comprimé'?",
+      "a": "un comprimido / una pastilla",
+      "choices": [
+        "un jarabe para la tos",
+        "una cápsula de gelatina",
+        "un supositorio medicinal"
+      ],
+      "tag": "Médicaments",
+      "expl": "Un comprimé est une forme solide de médicament.",
+      "dictee": "comprimé"
+    },
+    {
+      "id": "a2v4-05",
+      "q": "¿Cómo se dice 'être allergique à'?",
+      "a": "ser alérgico a",
+      "choices": [
+        "ser intolerante a ciertos alimentos",
+        "tener intolerancia al gluten",
+        "sufrir de una enfermedad crónica"
+      ],
+      "tag": "Santé",
+      "expl": "Être allergique = tener alergia. Allergie au pollen, aux chats...",
+      "dictee": "allergique"
+    },
+    {
+      "id": "a2v4-06",
+      "q": "¿Qué es 'la Sécurité sociale'?",
+      "a": "la seguridad social francesa",
+      "choices": [
+        "el seguro médico privado",
+        "la mutua complementaria",
+        "la tarjeta sanitaria europea"
+      ],
+      "tag": "Santé",
+      "expl": "La Sécurité sociale est le système public de santé français.",
+      "dictee": "sécurité"
+    },
+    {
+      "id": "a2v4-07",
+      "q": "¿Cómo se dice 'se blesser'?",
+      "a": "hacerse daño / lesionarse",
+      "choices": [
+        "caerse accidentalmente",
+        "quemarse con fuego",
+        "cortarse con un cuchillo"
+      ],
+      "tag": "Accidents",
+      "expl": "Se blesser = hacerse una herida o lesión.",
+      "dictee": "blesser"
+    },
+    {
+      "id": "a2v4-08",
+      "q": "¿Qué es 'une radio' en medicina?",
+      "a": "una radiografía",
+      "choices": [
+        "una ecografía abdominal",
+        "un escáner cerebral",
+        "un análisis de sangre"
+      ],
+      "tag": "Examens",
+      "expl": "Passer une radio = hacerse una radiografía.",
+      "dictee": "radio"
+    },
+    {
+      "id": "a2v4-09",
+      "q": "¿Cómo se dice 'la salle d'attente'?",
+      "a": "la sala de espera",
+      "choices": [
+        "la sala de urgencias",
+        "el consultorio médico",
+        "la farmacia de guardia"
+      ],
+      "tag": "Médecin",
+      "expl": "La salle d'attente est l'endroit où on attend avant de voir le médecin.",
+      "dictee": "attente"
+    },
+    {
+      "id": "a2v4-10",
+      "q": "¿Qué significa 'être enceinte'?",
+      "a": "estar embarazada",
+      "choices": [
+        "estar de baja por enfermedad",
+        "estar operada recientemente",
+        "estar en reposo médico"
+      ],
+      "tag": "Santé",
+      "expl": "Être enceinte = esperar un bebé. La grossesse dure 9 mois.",
+      "dictee": "enceinte"
+    },
+    {
+      "id": "a2v4-11",
+      "q": "¿Cómo se dice 'les urgences'?",
+      "a": "urgencias hospitalarias",
+      "choices": [
+        "el servicio de guardia nocturna",
+        "el centro de salud primaria",
+        "el servicio de ambulancias"
+      ],
+      "tag": "Hôpital",
+      "expl": "Les urgences sont ouvertes 24h/24 pour les cas graves.",
+      "dictee": "urgences"
+    },
+    {
+      "id": "a2v4-12",
+      "q": "¿Qué significa 'guérir'?",
+      "a": "curarse / recuperarse de una enfermedad",
+      "choices": [
+        "mejorar ligeramente",
+        "recaer después de mejorar",
+        "necesitar operación"
+      ],
+      "tag": "Santé",
+      "expl": "Guérir = volver a estar sano después de una enfermedad.",
+      "dictee": "guérir"
+    },
+    {
+      "id": "a2v4-13",
+      "q": "¿Cómo se dice 'avoir de la fièvre'?",
+      "a": "tener fiebre",
+      "choices": [
+        "tener escalofríos intensos",
+        "estar muy acatarrado",
+        "tener tos persistente"
+      ],
+      "tag": "Symptômes",
+      "expl": "La fièvre = temperatura alta. Fièvre à partir de 38°C.",
+      "dictee": "fièvre"
+    },
+    {
+      "id": "a2v4-14",
+      "q": "¿Qué es 'un médecin généraliste'?",
+      "a": "un médico de cabecera / médico general",
+      "choices": [
+        "un médico especialista",
+        "un cirujano de hospital",
+        "un pediatra infantil"
+      ],
+      "tag": "Médecin",
+      "expl": "Le généraliste = médecin de famille. Il oriente vers les spécialistes.",
+      "dictee": "généraliste"
+    },
+    {
+      "id": "a2v4-15",
+      "q": "¿Cómo se dice 'une mutuelle'?",
+      "a": "un seguro médico complementario",
+      "choices": [
+        "la seguridad social pública",
+        "un seguro de vida privado",
+        "una cobertura dental básica"
+      ],
+      "tag": "Santé",
+      "expl": "La mutuelle complète les remboursements de la Sécurité sociale.",
+      "dictee": "mutuelle"
+    },
+    {
+      "id": "a2v4-16",
+      "q": "¿Qué significa 'se faire opérer'?",
+      "a": "operarse / ser intervenido quirúrgicamente",
+      "choices": [
+        "hacerse una prueba médica",
+        "ingresar en el hospital",
+        "recibir un tratamiento ambulatorio"
+      ],
+      "tag": "Hôpital",
+      "expl": "Se faire opérer = pasar por el quirófano.",
+      "dictee": "opérer"
+    },
+    {
+      "id": "a2v4-17",
+      "q": "¿Cómo se dice 'un plâtre'?",
+      "a": "una escayola",
+      "choices": [
+        "un vendaje compresivo",
+        "una venda elástica",
+        "una férula de inmovilización"
+      ],
+      "tag": "Accidents",
+      "expl": "On met un plâtre quand on a un os cassé.",
+      "dictee": "plâtre"
+    },
+    {
+      "id": "a2v4-18",
+      "q": "¿Qué significa 'être en bonne santé'?",
+      "a": "estar en buena salud / estar sano",
+      "choices": [
+        "estar en buena forma física",
+        "estar completamente recuperado",
+        "no tener síntomas visibles"
+      ],
+      "tag": "Santé",
+      "expl": "Être en bonne santé = no estar enfermo y tener buen estado general.",
+      "dictee": "santé"
+    }
+  ]
+}
