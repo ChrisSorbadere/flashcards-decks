@@ -1,0 +1,125 @@
+{
+  "id": "interrogation",
+  "title": "Les 3 formes d'interrogation",
+  "icon": "❓",
+  "sections": [
+    {
+      "title": "Les 3 niveaux de langue",
+      "type": "rule",
+      "text": "😊 Familier : intonation montante · Tu viens ?\n🔵 Standard : Est-ce que... · Est-ce que tu viens ?\n📝 Formel : inversion sujet-verbe · Viens-tu ?"
+    },
+    {
+      "title": "Comparaison des 3 formes",
+      "type": "table",
+      "headers": [
+        "Familier",
+        "Standard (Est-ce que)",
+        "Formel (inversion)"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "Tu viens ?",
+          "Est-ce que tu viens ?",
+          "Viens-tu ?"
+        ],
+        [
+          "Il parle français ?",
+          "Est-ce qu'il parle français ?",
+          "Parle-t-il français ?"
+        ],
+        [
+          "Elle est là ?",
+          "Est-ce qu'elle est là ?",
+          "Est-elle là ?"
+        ],
+        [
+          "Vous avez faim ?",
+          "Est-ce que vous avez faim ?",
+          "Avez-vous faim ?"
+        ],
+        [
+          "Ils travaillent ?",
+          "Est-ce qu'ils travaillent ?",
+          "Travaillent-ils ?"
+        ]
+      ]
+    },
+    {
+      "title": "Le -t- euphonique",
+      "type": "rule",
+      "text": "Quand le verbe finit par une VOYELLE et que le sujet commence par une VOYELLE, on insert -t- pour la fluidité.\nExemples : Parle-t-il ? · Va-t-il ? · Aime-t-elle ? · Chante-t-on ?\nNB : Fait-il ? n'a pas besoin de -t- car 'fait' finit par -t."
+    },
+    {
+      "title": "Mots interrogatifs",
+      "type": "table",
+      "headers": [
+        "Mot",
+        "Usage",
+        "Familier",
+        "Formel"
+      ],
+      "highlight": [
+        3
+      ],
+      "rows": [
+        [
+          "Qui",
+          "Personne sujet ou COD",
+          "Qui vient ? / Tu vois qui ?",
+          "Qui vient ? / Qui vois-tu ?"
+        ],
+        [
+          "Que / Quoi",
+          "Chose COD",
+          "Tu fais quoi ?",
+          "Que fais-tu ?"
+        ],
+        [
+          "Où",
+          "Lieu",
+          "Tu vas où ?",
+          "Où vas-tu ?"
+        ],
+        [
+          "Quand",
+          "Temps",
+          "Tu pars quand ?",
+          "Quand pars-tu ?"
+        ],
+        [
+          "Pourquoi",
+          "Cause",
+          "Tu pleures pourquoi ?",
+          "Pourquoi pleures-tu ?"
+        ],
+        [
+          "Comment",
+          "Manière",
+          "Tu vas comment ?",
+          "Comment vas-tu ?"
+        ],
+        [
+          "Combien",
+          "Quantité",
+          "Ça coûte combien ?",
+          "Combien cela coûte-t-il ?"
+        ],
+        [
+          "Quel(le)(s)",
+          "Choix + nom",
+          "C'est quel film ?",
+          "Quel film est-ce ?"
+        ],
+        [
+          "Lequel / Laquelle",
+          "Choix (pronom)",
+          "Tu prends lequel ?",
+          "Lequel prends-tu ?"
+        ]
+      ]
+    }
+  ]
+}

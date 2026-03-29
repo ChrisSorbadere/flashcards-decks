@@ -1,0 +1,207 @@
+{
+  "id": "verbes-irreguliers",
+  "title": "Verbes irréguliers essentiels",
+  "icon": "⚡",
+  "sections": [
+    {
+      "title": "ÊTRE et AVOIR",
+      "type": "table",
+      "headers": [
+        "Temps",
+        "ÊTRE",
+        "AVOIR"
+      ],
+      "highlight": [
+        1,
+        2
+      ],
+      "rows": [
+        [
+          "Présent",
+          "suis / es / est / sommes / êtes / sont",
+          "ai / as / a / avons / avez / ont"
+        ],
+        [
+          "Imparfait",
+          "étais / étais / était / étions / étiez / étaient",
+          "avais / avais / avait / avions / aviez / avaient"
+        ],
+        [
+          "Futur",
+          "serai / seras / sera / serons / serez / seront",
+          "aurai / auras / aura / aurons / aurez / auront"
+        ],
+        [
+          "Conditionnel",
+          "serais / serait / serions / seriez / seraient",
+          "aurais / aurait / aurions / auriez / auraient"
+        ],
+        [
+          "Subjonctif",
+          "sois / soit / soyons / soyez / soient",
+          "aie / ait / ayons / ayez / aient"
+        ],
+        [
+          "Impératif",
+          "sois — soyons — soyez",
+          "aie — ayons — ayez"
+        ]
+      ]
+    },
+    {
+      "title": "ALLER, FAIRE, DIRE, VOIR",
+      "type": "table",
+      "headers": [
+        "Temps",
+        "ALLER",
+        "FAIRE",
+        "DIRE",
+        "VOIR"
+      ],
+      "highlight": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "Présent",
+          "vais/vas/va/allons/allez/vont",
+          "fais/fais/fait/faisons/faites/font",
+          "dis/dis/dit/disons/dites/disent",
+          "vois/vois/voit/voyons/voyez/voient"
+        ],
+        [
+          "Futur",
+          "irai / iras / ira...",
+          "ferai / feras / fera...",
+          "dirai / diras / dira...",
+          "verrai / verras / verra..."
+        ],
+        [
+          "Cond.",
+          "irais / irait...",
+          "ferais / ferait...",
+          "dirais / dirait...",
+          "verrais / verrait..."
+        ],
+        [
+          "Subj.",
+          "aille / ailles / aille / allions / alliez / aillent",
+          "fasse / fasses / fasse...",
+          "dise / dises / dise...",
+          "voie / voies / voie..."
+        ],
+        [
+          "PP",
+          "allé",
+          "fait",
+          "dit",
+          "vu"
+        ]
+      ]
+    },
+    {
+      "title": "VENIR, PRENDRE, POUVOIR, VOULOIR",
+      "type": "table",
+      "headers": [
+        "Temps",
+        "VENIR",
+        "PRENDRE",
+        "POUVOIR",
+        "VOULOIR"
+      ],
+      "highlight": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "Présent",
+          "viens/viens/vient/venons/venez/viennent",
+          "prends/prends/prend/prenons/prenez/prennent",
+          "peux/peux/peut/pouvons/pouvez/peuvent",
+          "veux/veux/veut/voulons/voulez/veulent"
+        ],
+        [
+          "Futur",
+          "viendrai / viendras...",
+          "prendrai / prendras...",
+          "pourrai / pourras...",
+          "voudrai / voudras..."
+        ],
+        [
+          "Cond.",
+          "viendrais / viendrait...",
+          "prendrais / prendrait...",
+          "pourrais / pourrait...",
+          "voudrais / voudrait..."
+        ],
+        [
+          "Subj.",
+          "vienne / viennes / vienne / venions / veniez / viennent",
+          "prenne / prennes / prenne...",
+          "puisse / puisses / puisse...",
+          "veuille / veuilles / veuille..."
+        ],
+        [
+          "PP",
+          "venu",
+          "pris",
+          "pu",
+          "voulu"
+        ]
+      ]
+    },
+    {
+      "title": "SAVOIR, DEVOIR, METTRE, ÉCRIRE",
+      "type": "table",
+      "headers": [
+        "Temps",
+        "SAVOIR",
+        "DEVOIR",
+        "METTRE",
+        "ÉCRIRE"
+      ],
+      "highlight": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "Présent",
+          "sais/sais/sait/savons/savez/savent",
+          "dois/dois/doit/devons/devez/doivent",
+          "mets/mets/met/mettons/mettez/mettent",
+          "écris/écris/écrit/écrivons/écrivez/écrivent"
+        ],
+        [
+          "Futur",
+          "saurai / sauras...",
+          "devrai / devras...",
+          "mettrai / mettras...",
+          "écrirai / écriras..."
+        ],
+        [
+          "Subj.",
+          "sache / saches / sache...",
+          "doive / doives / doive...",
+          "mette / mettes / mette...",
+          "écrive / écrives / écrive..."
+        ],
+        [
+          "PP",
+          "su",
+          "dû",
+          "mis",
+          "écrit"
+        ]
+      ]
+    }
+  ]
+}
