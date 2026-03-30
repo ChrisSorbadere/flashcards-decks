@@ -1,7 +1,7 @@
 [
   {
     "id": "a2v1-01",
-    "q": "¿Cómo se dice 'la chambre' en francés?",
+    "q": "¿Cómo se llama la habitación donde se duerme en una casa francesa?",
     "a": "la chambre",
     "choices": [
       "la cuisine",
@@ -9,8 +9,8 @@
       "la salle de bain"
     ],
     "tag": "Maison",
-    "hint": "C'est là où on dort",
-    "expl": "La chambre = la pièce pour dormir.",
+    "hint": "Pièce principale pour le repos",
+    "expl": "La chambre = el dormitorio. La cuisine = cocina, le salon = salón, la salle de bain = cuarto de baño.",
     "dictee": "chambre"
   },
   {

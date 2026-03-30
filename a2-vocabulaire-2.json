@@ -183,16 +183,17 @@
   },
   {
     "id": "a2v2-15",
-    "q": "¿Cómo se dice 'passer un examen'?",
-    "a": "presentarse a un examen",
+    "q": "¿Qué diferencia hay entre 'passer un examen' y 'réussir un examen' en francés?",
+    "a": "Passer = presentarse / Réussir = aprobar / Échouer = suspender",
     "choices": [
       "aprobar un examen",
       "suspender un examen",
       "preparar un examen"
     ],
     "tag": "Études",
-    "expl": "Passer = presentarse. Réussir = aprobar. Échouer = suspender.",
-    "dictee": "examen"
+    "expl": "Passer un examen = presentarse. Réussir = aprobar. Échouer = suspender. ¡Passer no implica éxito!",
+    "dictee": "passer",
+    "hint": "Passer no significa aprobar"
   },
   {
     "id": "a2v2-16",

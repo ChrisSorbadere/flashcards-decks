@@ -1,16 +1,17 @@
 [
   {
     "id": "a2v5-01",
-    "q": "¿Cómo se dice 'la carte' en un restaurante?",
-    "a": "la carta del restaurante",
+    "q": "En un restaurante francés, ¿cómo se llama la lista de todos los platos disponibles?",
+    "a": "la carte",
     "choices": [
       "la lista de precios fijos",
       "el menú del día",
       "la reserva de mesa"
     ],
     "tag": "Restaurant",
-    "expl": "La carte liste tous les plats disponibles.",
-    "dictee": "carte"
+    "expl": "La carte = lista de todos los platos. Le menu = selección a precio fijo. Commander à la carte = pedir platos sueltos.",
+    "dictee": "carte",
+    "hint": "À ne pas confondre avec le menu à prix fixe"
   },
   {
     "id": "a2v5-02",

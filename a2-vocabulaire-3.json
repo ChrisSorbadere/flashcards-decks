@@ -105,16 +105,17 @@
   },
   {
     "id": "a2v3-09",
-    "q": "¿Cómo se dice 'la carte d'embarquement'?",
-    "a": "la tarjeta de embarque",
+    "q": "¿Cómo se llama el documento que necesitas para subir al avión?",
+    "a": "la carte d'embarquement",
     "choices": [
       "el pasaporte de viaje",
       "el visado de entrada",
       "el billete electrónico"
     ],
     "tag": "Avion",
-    "expl": "La carte d'embarquement est nécessaire pour monter dans l'avion.",
-    "dictee": "embarquement"
+    "expl": "La carte d'embarquement = tarjeta de embarque. Sin ella no se puede acceder a la puerta.",
+    "dictee": "embarquement",
+    "hint": "Se recibe en el mostrador de facturación"
   },
   {
     "id": "a2v3-10",

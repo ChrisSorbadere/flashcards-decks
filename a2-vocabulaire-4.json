@@ -66,16 +66,17 @@
   },
   {
     "id": "a2v4-06",
-    "q": "¿Qué es 'la Sécurité sociale'?",
-    "a": "la seguridad social francesa",
+    "q": "¿Qué organismo público francés reembolsa los gastos médicos?",
+    "a": "la Sécurité sociale",
     "choices": [
       "el seguro médico privado",
       "la mutua complementaria",
       "la tarjeta sanitaria europea"
     ],
     "tag": "Santé",
-    "expl": "La Sécurité sociale est le système public de santé français.",
-    "dictee": "sécurité"
+    "expl": "La Sécurité sociale rembourse une partie des soins. La mutuelle complète le reste.",
+    "dictee": "Sécurité",
+    "hint": "Sistema público de salud francés"
   },
   {
     "id": "a2v4-07",
