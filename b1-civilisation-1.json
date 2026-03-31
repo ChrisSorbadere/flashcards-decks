@@ -1,7 +1,7 @@
 [
   {
     "id": "b1civ1_01",
-    "q": "Qu'est-ce que la 'Ve République' en France ?",
+    "q": "¿Qué es la 'Ve République' en Francia?",
     "a": "Régime politique en vigueur depuis 1958, avec un président fort",
     "choices": [
       "Régime depuis 1958, président fort",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1civ1_02",
-    "q": "Quel est le rôle du Premier ministre en France ?",
+    "q": "¿Cuál es el papel del Primer ministro en Francia?",
     "a": "Chef du gouvernement, responsable devant l'Assemblée nationale",
     "choices": [
       "Chef du gouvernement",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1civ1_03",
-    "q": "Qu'est-ce que la 'cohabitation' en politique française ?",
+    "q": "¿Qué es la 'cohabitation' en política francesa?",
     "a": "Président et Premier ministre de bords politiques opposés",
     "choices": [
       "Président et PM d'oppositions politiques",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1civ1_04",
-    "q": "Qu'est-ce que le Conseil d'État en France ?",
+    "q": "¿Qué es el Conseil d'État en Francia?",
     "a": "Plus haute juridiction administrative, conseille aussi le gouvernement",
     "choices": [
       "Plus haute juridiction administrative",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1civ1_05",
-    "q": "Qu'est-ce que le Conseil constitutionnel en France ?",
+    "q": "¿Qué es el Conseil constitutionnel en Francia?",
     "a": "Vérifie la conformité des lois à la Constitution",
     "choices": [
       "Vérifie la constitutionnalité des lois",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1civ1_06",
-    "q": "Qu'est-ce que Sciences Po et l'ENA (devenue INSP) ?",
+    "q": "¿Qué son Sciences Po y la ENA (ahora INSP)?",
     "a": "Grandes écoles qui forment les élites politiques et administratives françaises",
     "choices": [
       "Grandes écoles des élites politiques/admin",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1civ1_07",
-    "q": "Qu'est-ce que la 'méritocratie républicaine' française ?",
+    "q": "¿Qué es la 'méritocratie républicaine' francesa?",
     "a": "Idéal selon lequel la réussite doit dépendre du mérite et non de l'origine",
     "choices": [
       "Réussite par le mérite, pas l'origine",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1civ1_08",
-    "q": "Qu'est-ce que le 'roman national' français ?",
+    "q": "¿Qué es el 'roman national' francés?",
     "a": "Récit mythifié de l'histoire de France enseigné à l'école",
     "choices": [
       "Récit mythifié de l'histoire nationale",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1civ1_09",
-    "q": "Qu'est-ce que la 'Révolution française' a apporté comme héritage ?",
+    "q": "¿Qué legado dejó la Revolución francesa?",
     "a": "Liberté, Égalité, Fraternité + droits de l'Homme + laïcité",
     "choices": [
       "Liberté, Égalité, Fraternité, droits de l'Homme",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1civ1_10",
-    "q": "Qu'est-ce que la résistance française pendant la Seconde Guerre mondiale ?",
+    "q": "¿Qué fue la resistencia francesa durante la Segunda Guerra Mundial?",
     "a": "Mouvement de résistance à l'occupation nazie, coordonné depuis Londres par De Gaulle",
     "choices": [
       "Résistance à l'occupation nazie depuis Londres",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1civ1_11",
-    "q": "Qu'est-ce que l'Académie française ?",
+    "q": "¿Qué es la Académie française?",
     "a": "Institution qui réglemente la langue française et publie le dictionnaire officiel",
     "choices": [
       "Réglemente la langue française",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1civ1_12",
-    "q": "Qu'est-ce que le 'Festival de Cannes' ?",
+    "q": "¿Qué es el Festival de Cannes?",
     "a": "Plus grand festival international de cinéma, Palme d'or comme récompense suprême",
     "choices": [
       "Festival de cinéma, Palme d'or",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1civ1_13",
-    "q": "Qu'est-ce que la 'Nouvelle Cuisine' française ?",
+    "q": "¿Qué es la 'Nouvelle Cuisine' francesa?",
     "a": "Mouvement gastronomique des années 70 : légèreté, présentation, créativité",
     "choices": [
       "Mouvement gastronomique années 70 léger et créatif",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1civ1_14",
-    "q": "Qu'est-ce que la 'Cité des sciences' à Paris ?",
+    "q": "¿Qué es la 'Cité des sciences' de París?",
     "a": "Musée interactif des sciences et techniques à La Villette",
     "choices": [
       "Musée interactif de sciences à La Villette",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1civ1_15",
-    "q": "Qu'est-ce que le mouvement 'Mai 68' en France ?",
+    "q": "¿Qué fue el movimiento 'Mai 68' en Francia?",
     "a": "Révolte étudiante et grève générale qui a changé la société française",
     "choices": [
       "Révolte étudiante et grève générale transformatrice",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1civ1_16",
-    "q": "Qu'est-ce que la 'banlieue' en France et quels enjeux ?",
+    "q": "¿Qué es la 'banlieue' en Francia y cuáles son sus retos?",
     "a": "Périphérie urbaine souvent défavorisée, enjeux de discrimination et intégration",
     "choices": [
       "Périphérie urbaine défavorisée avec enjeux d'intégration",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1civ1_17",
-    "q": "Qu'est-ce que le 'droit du sol' et le 'droit du sang' ?",
+    "q": "¿Qué es el 'droit du sol' y el 'droit du sang'?",
     "a": "DROIT DU SOL = nationalité par lieu de naissance / DROIT DU SANG = par filiation",
     "choices": [
       "Sol = naissance sur le territoire, sang = filiation",

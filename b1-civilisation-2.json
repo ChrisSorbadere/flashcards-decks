@@ -1,7 +1,7 @@
 [
   {
     "id": "b1civ2_01",
-    "q": "Qu'est-ce que la 'politique étrangère' de la France ?",
+    "q": "¿Qué caracteriza la política exterior de Francia?",
     "a": "La France = membre permanent du Conseil de sécurité de l'ONU, puissance nucléaire",
     "choices": [
       "Membre permanent ONU, puissance nucléaire",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1civ2_02",
-    "q": "Qu'est-ce que la 'construction européenne' selon la France ?",
+    "q": "¿Qué papel juega Francia en la construcción europea?",
     "a": "La France est l'un des pays fondateurs de l'UE (1957, Traité de Rome)",
     "choices": [
       "Pays fondateur UE 1957",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1civ2_03",
-    "q": "Qu'est-ce que le 'modèle social français' ?",
+    "q": "¿Qué es el 'modèle social français'?",
     "a": "Système de protection sociale étendu : SS, retraites, chômage, famille",
     "choices": [
       "Protection sociale étendue",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1civ2_04",
-    "q": "Qu'est-ce que le 'capitalisme rhénan' vs 'capitalisme anglo-saxon' ?",
+    "q": "¿Qué diferencia hay entre el capitalismo renano y el anglosajón?",
     "a": "RHÉNAN = État fort, partenariat social / ANGLO-SAXON = marché libre, actionnaire roi",
     "choices": [
       "Rhénan = État fort/social, Anglo-saxon = marché libre",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1civ2_05",
-    "q": "Qu'est-ce que la 'désaffection politique' en France ?",
+    "q": "¿Qué es la 'désaffection politique' en Francia?",
     "a": "Abstentionnisme croissant et méfiance envers les partis traditionnels",
     "choices": [
       "Abstentionnisme et méfiance croissants",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1civ2_06",
-    "q": "Qu'est-ce que la 'fracture numérique' en France ?",
+    "q": "¿Qué es la 'fracture numérique' en Francia?",
     "a": "Inégalités d'accès et d'usage d'internet selon l'âge, le lieu et les revenus",
     "choices": [
       "Inégalités d'accès à internet",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1civ2_07",
-    "q": "Qu'est-ce que le 'mouvement #MeToo' en France ?",
+    "q": "¿Qué fue el movimiento #MeToo en Francia?",
     "a": "Vague de dénonciations de harcèlement et violences sexuelles, 2017",
     "choices": [
       "Dénonciations harcèlement sexuel 2017",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1civ2_08",
-    "q": "Qu'est-ce que la 'politique linguistique' française ?",
+    "q": "¿Qué es la política lingüística francesa?",
     "a": "Protection active du français : loi Toubon, académie, quota radio",
     "choices": [
       "Protection active du français par la loi",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1civ2_09",
-    "q": "Qu'est-ce que la 'réforme des retraites' en France ?",
+    "q": "¿Por qué la reforma de las pensiones es un tema candente en Francia?",
     "a": "Sujet de tension sociale récurrent : âge de départ, financement du système",
     "choices": [
       "Tension sur l'âge de départ et financement",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1civ2_10",
-    "q": "Qu'est-ce que la 'transition énergétique' en France ?",
+    "q": "¿Qué es la transición energética en Francia?",
     "a": "Passage des énergies fossiles aux énergies renouvelables + débat nucléaire",
     "choices": [
       "Passage aux renouvelables + débat nucléaire",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1civ2_11",
-    "q": "Qu'est-ce que la 'désindustrialisation' en France ?",
+    "q": "¿Qué es la desindustrialización en Francia?",
     "a": "Déclin de l'industrie française depuis les années 80, délocalisations",
     "choices": [
       "Déclin industriel et délocalisations",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1civ2_12",
-    "q": "Qu'est-ce que le 'multiculturalisme' et le 'républicanisme' français ?",
+    "q": "¿Qué diferencia hay entre multiculturalismo y republicanismo francés?",
     "a": "MULTICULTURALISME = valoriser les différences / RÉPUBLICANISME = assimilation, citoyenneté universelle",
     "choices": [
       "Multiculturalisme = valoriser différences / républicanisme = assimilation",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1civ2_13",
-    "q": "Qu'est-ce que la 'bande dessinée franco-belge' ?",
+    "q": "¿Qué es el cómic francobelga (bande dessinée)?",
     "a": "Tradition artistique européenne : Tintin, Astérix, Lucky Luke, Spirou...",
     "choices": [
       "Tradition artistique franco-belge, Tintin Astérix",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1civ2_14",
-    "q": "Qu'est-ce que la 'francophonie culturelle' ?",
+    "q": "¿Qué es la francofonía cultural?",
     "a": "Ensemble des œuvres artistiques produites en français dans le monde",
     "choices": [
       "Œuvres artistiques en français dans le monde",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1civ2_15",
-    "q": "Qu'est-ce que la 'résidence secondaire' en France ?",
+    "q": "¿Qué es una 'résidence secondaire' en Francia?",
     "a": "Maison ou appartement utilisé pour les vacances, non résidence principale",
     "choices": [
       "Logement de vacances non principal",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1civ2_16",
-    "q": "Qu'est-ce que le 'paritarisme' en France ?",
+    "q": "¿Qué es el 'paritarisme' en Francia?",
     "a": "Gestion paritaire des organismes sociaux par syndicats et patronat",
     "choices": [
       "Gestion syndicats + patronat à égalité",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1civ2_17",
-    "q": "Qu'est-ce que le 'Grand Emprunt' ou 'Plan France 2030' ?",
+    "q": "¿Qué es el Plan France 2030?",
     "a": "Investissements de l'État dans l'innovation, les technologies du futur",
     "choices": [
       "Investissements État dans l'innovation",

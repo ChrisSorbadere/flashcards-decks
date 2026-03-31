@@ -1,7 +1,7 @@
 [
   {
     "id": "b1ee1_01",
-    "q": "Comment structure-t-on une argumentation en français ?",
+    "q": "¿Cómo se estructura una argumentación en francés?",
     "a": "Thèse → antithèse → synthèse (plan dialectique) ou thèse → arguments → conclusion",
     "choices": [
       "Thèse / antithèse / synthèse",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1ee1_02",
-    "q": "Comment formule-t-on une thèse clairement ?",
+    "q": "¿Cómo se formula claramente una tesis?",
     "a": "Affirmer une position + la justifier : 'Je soutiens que... parce que...'",
     "choices": [
       "Position + justification",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1ee1_03",
-    "q": "Comment réfute-t-on un argument adverse ?",
+    "q": "¿Cómo se refuta un argumento contrario?",
     "a": "Certes... mais / Il est vrai que... cependant / On pourrait dire... or en fait",
     "choices": [
       "Certes/il est vrai... cependant/mais",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1ee1_04",
-    "q": "Comment introduit-on une nuance dans un argument ?",
+    "q": "¿Cómo se introduce un matiz en un argumento?",
     "a": "Toutefois / néanmoins / cependant / il convient de nuancer",
     "choices": [
       "Toutefois, néanmoins, cependant",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1ee1_05",
-    "q": "Comment évite-t-on les répétitions dans un texte argumentatif ?",
+    "q": "¿Cómo se evitan las repeticiones en un texto argumentativo?",
     "a": "Synonymes, termes génériques, pronoms, nominalisations",
     "choices": [
       "Synonymes, pronoms, nominalisations",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1ee1_06",
-    "q": "Qu'est-ce que la 'nominalisation' dans un texte soutenu ?",
+    "q": "¿Qué es la 'nominalisation' en un texto formal?",
     "a": "Transformer un verbe/adjectif en nom : travailler → le travail",
     "choices": [
       "Transformer verbe/adj en nom",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1ee1_07",
-    "q": "Comment présente-t-on un plan dans un texte ?",
+    "q": "¿Cómo se presenta un plan en un texto?",
     "a": "Annonce implicite dans l'introduction ou explicite (nous verrons d'abord...)",
     "choices": [
       "Annonce dans l'introduction",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1ee1_08",
-    "q": "Comment rédige-t-on une transition entre deux parties ?",
+    "q": "¿Cómo se redacta una transición entre dos partes?",
     "a": "Bilan de la partie précédente + annonce de la suivante",
     "choices": [
       "Bilan + annonce partie suivante",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1ee1_09",
-    "q": "Comment rédige-t-on une introduction efficace ?",
+    "q": "¿Cómo se redacta una introducción eficaz?",
     "a": "Accroche → mise en contexte → thèse → annonce du plan",
     "choices": [
       "Accroche / contexte / thèse / plan",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1ee1_10",
-    "q": "Comment rédige-t-on une conclusion efficace ?",
+    "q": "¿Cómo se redacta una conclusión eficaz?",
     "a": "Bilan → élargissement → ouverture",
     "choices": [
       "Bilan / élargissement / ouverture",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1ee1_11",
-    "q": "Comment utilise-t-on les données chiffrées dans un texte ?",
+    "q": "¿Cómo se usan los datos numéricos en un texto?",
     "a": "Citer la source + intégrer dans la phrase + commenter",
     "choices": [
       "Source + intégration + commentaire",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1ee1_12",
-    "q": "Comment fait-on référence à une source dans un texte ?",
+    "q": "¿Cómo se hace referencia a una fuente en un texto?",
     "a": "Selon X... / D'après Y... / Comme l'affirme Z... / X souligne que...",
     "choices": [
       "Selon / d'après / comme l'affirme",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1ee1_13",
-    "q": "Comment exprime-t-on une hypothèse dans un texte ?",
+    "q": "¿Cómo se expresa una hipótesis en un texto?",
     "a": "Si... / En supposant que + subjonctif / Dans l'hypothèse où + conditionnel",
     "choices": [
       "Si / en supposant que / dans l'hypothèse où",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1ee1_14",
-    "q": "Quelle est la différence entre 'exposé' et 'dissertation' ?",
+    "q": "¿Cuál es la diferencia entre 'exposé' y 'dissertation'?",
     "a": "EXPOSÉ = présenter des informations / DISSERTATION = argumenter une thèse",
     "choices": [
       "Exposé = info, dissertation = thèse",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1ee1_15",
-    "q": "Comment rédigent-on un compte rendu objectif ?",
+    "q": "¿Cómo se redacta un compte rendu objetivo?",
     "a": "Résumé fidèle sans jugement personnel + formules d'objectivité",
     "choices": [
       "Résumé fidèle sans jugement",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1ee1_16",
-    "q": "Quelle est la différence entre 'analyser' et 'commenter' ?",
+    "q": "¿Cuál es la diferencia entre 'analyser' y 'commenter'?",
     "a": "ANALYSER = décomposer / COMMENTER = interpréter et évaluer",
     "choices": [
       "Analyser = décomposer, commenter = interpréter",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1ee1_17",
-    "q": "Comment évite-t-on la langue de bois dans un texte ?",
+    "q": "¿Cómo se evita la 'langue de bois' en un texto?",
     "a": "Exemples précis, verbes d'action, chiffres, noms propres",
     "choices": [
       "Exemples précis, verbes d'action, chiffres",

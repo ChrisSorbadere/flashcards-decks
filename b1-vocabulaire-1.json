@@ -1,7 +1,7 @@
 [
   {
     "id": "b1v1_01",
-    "q": "Quel est le synonyme soutenu de 'commencer' ?",
+    "q": "¿Cuál es el sinónimo elevado de 'commencer'?",
     "a": "entamer / amorcer / entreprendre",
     "choices": [
       "entamer",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1v1_02",
-    "q": "Quel est le synonyme de 's'améliorer' ?",
+    "q": "¿Cuál es el sinónimo de 's'améliorer'?",
     "a": "progresser / s'affermir / se bonifier",
     "choices": [
       "progresser",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1v1_03",
-    "q": "Quel est l'antonyme de 'négliger' ?",
+    "q": "¿Cuál es el antónimo de 'négliger'?",
     "a": "soigner / veiller à / prendre soin de",
     "choices": [
       "soigner",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1v1_04",
-    "q": "Que signifie 'anodin' ?",
+    "q": "¿Qué significa 'anodin'?",
     "a": "Sans importance, insignifiant, inoffensif",
     "choices": [
       "sans importance",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1v1_05",
-    "q": "Que signifie 'ambiguë' ?",
+    "q": "¿Qué significa 'ambiguë'?",
     "a": "Qui peut être interprété de plusieurs façons, équivoque",
     "choices": [
       "équivoque",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1v1_06",
-    "q": "Que signifie 'bénévole' ?",
+    "q": "¿Qué significa 'bénévole'?",
     "a": "Qui travaille volontairement sans être payé",
     "choices": [
       "volontaire non rémunéré",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1v1_07",
-    "q": "Que signifie 'chronophage' ?",
+    "q": "¿Qué significa 'chronophage'?",
     "a": "Qui consomme beaucoup de temps",
     "choices": [
       "qui prend beaucoup de temps",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1v1_08",
-    "q": "Que signifie 'ubiquitaire' ?",
+    "q": "¿Qué significa 'ubiquitaire'?",
     "a": "Qui est présent partout en même temps",
     "choices": [
       "présent partout",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1v1_09",
-    "q": "Quelle est la différence entre 'évoquer' et 'invoquer' ?",
+    "q": "¿Cuál es la diferencia entre 'évoquer' y 'invoquer'?",
     "a": "ÉVOQUER = mentionner, faire allusion / INVOQUER = citer comme justification",
     "choices": [
       "Évoquer = mentionner, invoquer = justifier",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1v1_10",
-    "q": "Quelle est la différence entre 'actuel' et 'réel' ?",
+    "q": "¿Cuál es la diferencia entre 'actuel' y 'réel'?",
     "a": "ACTUEL = d'aujourd'hui, présent / RÉEL = qui existe vraiment",
     "choices": [
       "Actuel = présent, réel = qui existe",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1v1_11",
-    "q": "Que signifie 'décennie' ?",
+    "q": "¿Qué significa 'décennie'?",
     "a": "Période de 10 ans",
     "choices": [
       "10 ans",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1v1_12",
-    "q": "Que signifie 'exacerber' ?",
+    "q": "¿Qué significa 'exacerber'?",
     "a": "Aggraver, intensifier, rendre plus aigu",
     "choices": [
       "aggraver intensifier",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1v1_13",
-    "q": "Que signifie 'pragmatique' ?",
+    "q": "¿Qué significa 'pragmatique'?",
     "a": "Qui privilégie l'efficacité pratique plutôt que les théories",
     "choices": [
       "pratique et efficace",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1v1_14",
-    "q": "Que signifie 'procrastiner' ?",
+    "q": "¿Qué significa 'procrastiner'?",
     "a": "Remettre à plus tard, reporter systématiquement",
     "choices": [
       "reporter systématiquement",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1v1_15",
-    "q": "Quelle est la différence entre 'sensible' et 'sensitif' ?",
+    "q": "¿Cuál es la diferencia entre 'sensible' y 'sensitif'?",
     "a": "SENSIBLE = ému facilement / SENSITIF = relatif aux sens physiques",
     "choices": [
       "Sensible = émotionnel, sensitif = sensoriel",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1v1_16",
-    "q": "Que signifie 'perspicace' ?",
+    "q": "¿Qué significa 'perspicace'?",
     "a": "Qui perçoit rapidement ce que d'autres ne voient pas, clairvoyant",
     "choices": [
       "clairvoyant perspicace",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1v1_17",
-    "q": "Que signifie 'réticent' ?",
+    "q": "¿Qué significa 'réticent'?",
     "a": "Qui hésite à faire quelque chose, qui résiste",
     "choices": [
       "qui hésite ou résiste",
@@ -239,7 +239,7 @@
   },
   {
     "id": "b1v1_18",
-    "q": "Que signifie 'susciter' ?",
+    "q": "¿Qué significa 'susciter'?",
     "a": "Provoquer, faire naître, engendrer",
     "choices": [
       "provoquer faire naître",
@@ -253,7 +253,7 @@
   },
   {
     "id": "b1v1_19",
-    "q": "Quelle est la différence entre 'apporter' et 'amener' ?",
+    "q": "¿Cuál es la diferencia entre 'apporter' y 'amener'?",
     "a": "APPORTER = chose / AMENER = personne ou animal",
     "choices": [
       "Apporter = chose, amener = personne/animal",
@@ -267,7 +267,7 @@
   },
   {
     "id": "b1v1_20",
-    "q": "Que signifie 'acerbe' ?",
+    "q": "¿Qué significa 'acerbe'?",
     "a": "Aigre, mordant, d'une critique sévère et blessante",
     "choices": [
       "mordant et sévère",
@@ -281,7 +281,7 @@
   },
   {
     "id": "b1v1_21",
-    "q": "Que signifie 'pléthore' ?",
+    "q": "¿Qué significa 'pléthore'?",
     "a": "Excès, grande abondance, quantité excessive",
     "choices": [
       "grande quantité excessive",
@@ -295,7 +295,7 @@
   },
   {
     "id": "b1v1_22",
-    "q": "Quelle est la différence entre 'littéral' et 'littéraire' ?",
+    "q": "¿Cuál es la diferencia entre 'littéral' y 'littéraire'?",
     "a": "LITTÉRAL = au sens propre / LITTÉRAIRE = relatif à la littérature",
     "choices": [
       "Littéral = sens propre, littéraire = relatif à la littérature",
@@ -309,7 +309,7 @@
   },
   {
     "id": "b1v1_23",
-    "q": "Que signifie 'déconcerter' ?",
+    "q": "¿Qué significa 'déconcerter'?",
     "a": "Troubler, dérouter, faire perdre ses repères",
     "choices": [
       "dérouter troubler",
@@ -323,7 +323,7 @@
   },
   {
     "id": "b1v1_24",
-    "q": "Que signifie 'effrénée' dans 'course effrénée' ?",
+    "q": "¿Qué significa 'effrénée' en 'course effrénée'?",
     "a": "Débridé, sans frein, excessif et incontrôlé",
     "choices": [
       "sans frein excessif",
@@ -337,7 +337,7 @@
   },
   {
     "id": "b1v1_25",
-    "q": "Que signifie 'stigmatiser' ?",
+    "q": "¿Qué significa 'stigmatiser'?",
     "a": "Désigner publiquement comme mauvais, marquer de honte",
     "choices": [
       "désigner comme mauvais",

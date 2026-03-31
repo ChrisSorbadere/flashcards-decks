@@ -1,7 +1,7 @@
 [
   {
     "id": "b1v2_01",
-    "q": "Que signifie 'corroborer' ?",
+    "q": "¿Qué significa 'corroborer'?",
     "a": "Confirmer, renforcer par des preuves supplémentaires",
     "choices": [
       "confirmer renforcer",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1v2_02",
-    "q": "Que signifie 'délétère' ?",
+    "q": "¿Qué significa 'délétère'?",
     "a": "Nuisible, nocif pour la santé ou l'esprit",
     "choices": [
       "nuisible nocif",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1v2_03",
-    "q": "Que signifie 'quintessence' ?",
+    "q": "¿Qué significa 'quintessence'?",
     "a": "Ce qu'il y a de meilleur et de plus raffiné dans quelque chose",
     "choices": [
       "le meilleur et le plus raffiné",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1v2_04",
-    "q": "Que signifie 'alléger' ?",
+    "q": "¿Qué significa 'alléger'?",
     "a": "Rendre moins lourd, réduire la charge",
     "choices": [
       "réduire la charge",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1v2_05",
-    "q": "Que signifie 'mettre en évidence' ?",
+    "q": "¿Qué significa 'mettre en évidence'?",
     "a": "Montrer clairement, souligner, démontrer",
     "choices": [
       "montrer clairement",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1v2_06",
-    "q": "Quelle différence entre 'davantage' et 'plus' ?",
+    "q": "¿Cuál es la diferencia entre 'davantage' y 'plus'?",
     "a": "DAVANTAGE = plus (quantité) sans complément / PLUS peut avoir des compléments",
     "choices": [
       "Davantage = plus sans complément, plus = avec compléments",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1v2_07",
-    "q": "Que signifie 'prégnant' ?",
+    "q": "¿Qué significa 'prégnant'?",
     "a": "Qui s'impose fortement à l'esprit, marquant",
     "choices": [
       "qui marque l'esprit",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1v2_08",
-    "q": "Quelle est la différence entre 'conjoncture' et 'contexte' ?",
+    "q": "¿Cuál es la diferencia entre 'conjoncture' y 'contexte'?",
     "a": "CONJONCTURE = situation économique du moment / CONTEXTE = ensemble des circonstances",
     "choices": [
       "Conjoncture = écon. du moment, contexte = circonstances",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1v2_09",
-    "q": "Que signifie 'palier' (nom masculin) ?",
+    "q": "¿Qué significa 'palier' (sustantivo masculino)?",
     "a": "Niveau de stabilisation / palier d'un escalier",
     "choices": [
       "niveau de stabilisation",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1v2_10",
-    "q": "Que signifie 'en amont' et 'en aval' ?",
+    "q": "¿Qué significan 'en amont' y 'en aval'?",
     "a": "EN AMONT = avant/en arrière / EN AVAL = après/en avant",
     "choices": [
       "Amont = avant, aval = après",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1v2_11",
-    "q": "Que signifie 'ériger en' ?",
+    "q": "¿Qué significa 'ériger en'?",
     "a": "Élever au rang de, transformer en, consacrer comme",
     "choices": [
       "élever au rang de",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1v2_12",
-    "q": "Que signifie 'au détriment de' ?",
+    "q": "¿Qué significa 'au détriment de'?",
     "a": "Au préjudice de, en défavorisant",
     "choices": [
       "en défavorisant",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1v2_13",
-    "q": "Que signifie 'à l'instar de' ?",
+    "q": "¿Qué significa 'à l'instar de'?",
     "a": "À l'exemple de, comme, à l'image de",
     "choices": [
       "à l'exemple de",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1v2_14",
-    "q": "Que signifie 'au fil de' ?",
+    "q": "¿Qué significa 'au fil de'?",
     "a": "Au cours de, progressivement, tout au long de",
     "choices": [
       "au cours de progressivement",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1v2_15",
-    "q": "Que signifie 'faire fi de' ?",
+    "q": "¿Qué significa 'faire fi de'?",
     "a": "Ignorer, ne pas tenir compte de, mépriser",
     "choices": [
       "ignorer mépriser",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1v2_16",
-    "q": "Que signifie 'de surcroît' ?",
+    "q": "¿Qué significa 'de surcroît'?",
     "a": "En plus, par-dessus le marché, qui plus est",
     "choices": [
       "en plus par-dessus",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1v2_17",
-    "q": "Que signifie 'nonobstant' ?",
+    "q": "¿Qué significa 'nonobstant'?",
     "a": "Malgré, en dépit de (très soutenu)",
     "choices": [
       "malgré en dépit de",
@@ -239,7 +239,7 @@
   },
   {
     "id": "b1v2_18",
-    "q": "Que signifie 'à cet égard' ?",
+    "q": "¿Qué significa 'à cet égard'?",
     "a": "À ce sujet, en ce qui concerne ce point",
     "choices": [
       "à ce sujet sur ce point",
@@ -253,7 +253,7 @@
   },
   {
     "id": "b1v2_19",
-    "q": "Que signifie 'en l'occurrence' ?",
+    "q": "¿Qué significa 'en l'occurrence'?",
     "a": "Dans ce cas précis, en la circonstance",
     "choices": [
       "dans ce cas précis",
@@ -267,7 +267,7 @@
   },
   {
     "id": "b1v2_20",
-    "q": "Que signifie 'à même de' ?",
+    "q": "¿Qué significa 'à même de'?",
     "a": "Capable de, en mesure de, apte à",
     "choices": [
       "capable de en mesure de",
@@ -281,7 +281,7 @@
   },
   {
     "id": "b1v2_21",
-    "q": "Que signifie 'à dessein' ?",
+    "q": "¿Qué significa 'à dessein'?",
     "a": "Intentionnellement, exprès, volontairement",
     "choices": [
       "intentionnellement",
@@ -295,7 +295,7 @@
   },
   {
     "id": "b1v2_22",
-    "q": "Que signifie 'à bon escient' ?",
+    "q": "¿Qué significa 'à bon escient'?",
     "a": "De façon judicieuse, à propos, avec discernement",
     "choices": [
       "judicieusement à propos",
@@ -309,7 +309,7 @@
   },
   {
     "id": "b1v2_23",
-    "q": "Que signifie 'à fortiori' ?",
+    "q": "¿Qué significa 'à fortiori'?",
     "a": "À plus forte raison, encore plus",
     "choices": [
       "à plus forte raison",
@@ -323,7 +323,7 @@
   },
   {
     "id": "b1v2_24",
-    "q": "Que signifie 'ipso facto' ?",
+    "q": "¿Qué significa 'ipso facto'?",
     "a": "Par le fait même, automatiquement, par voie de conséquence",
     "choices": [
       "automatiquement par là même",
@@ -337,7 +337,7 @@
   },
   {
     "id": "b1v2_25",
-    "q": "Que signifie 'mutatis mutandis' ?",
+    "q": "¿Qué significa 'mutatis mutandis'?",
     "a": "En changeant ce qui doit être changé, toutes choses égales par ailleurs",
     "choices": [
       "en changeant ce qui doit l'être",

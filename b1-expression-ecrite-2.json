@@ -1,7 +1,7 @@
 [
   {
     "id": "b1ee2_01",
-    "q": "Comment rédige-t-on un paragraphe argumentatif efficace ?",
+    "q": "¿Cómo se redacta un párrafo argumentativo eficaz?",
     "a": "Idée principale → développement → exemple → mini-conclusion",
     "choices": [
       "Idée / développement / exemple / conclusion",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1ee2_02",
-    "q": "Comment articule-t-on deux paragraphes entre eux ?",
+    "q": "¿Cómo se articulan dos párrafos entre sí?",
     "a": "Mot de liaison en début + référence à l'idée précédente",
     "choices": [
       "Mot de liaison + référence au paragraphe précédent",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1ee2_03",
-    "q": "Comment évalue-t-on la cohérence d'un texte ?",
+    "q": "¿Cómo se evalúa la coherencia de un texto?",
     "a": "Progression logique, pas de contradiction, liens entre les idées",
     "choices": [
       "Progression logique, pas de contradictions, liens",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1ee2_04",
-    "q": "Comment utilise-t-on le discours indirect dans un texte ?",
+    "q": "¿Cómo se usa el discurso indirecto en un texto?",
     "a": "Il affirme que / il souligne que / il montre que + proposition",
     "choices": [
       "Il affirme / souligne / montre que + prop",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1ee2_05",
-    "q": "Quelle est la différence entre 'affirmer' et 'prétendre' en français ?",
+    "q": "¿Cuál es la diferencia entre 'affirmer' y 'prétendre'?",
     "a": "AFFIRMER = dire avec assurance (neutre) / PRÉTENDRE = dire sans preuve (péjoratif)",
     "choices": [
       "Affirmer = neutre, prétendre = péjoratif",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1ee2_06",
-    "q": "Comment exprime-t-on une certitude dans un texte ?",
+    "q": "¿Cómo se expresa una certeza en un texto?",
     "a": "Il est certain que / il va de soi que / il est indéniable que + indicatif",
     "choices": [
       "Il est certain que / indéniable que + indicatif",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1ee2_07",
-    "q": "Comment exprime-t-on un doute ou une réserve dans un texte ?",
+    "q": "¿Cómo se expresa una duda o reserva en un texto?",
     "a": "Il semble que + subjonctif / peut-être que / il est possible que",
     "choices": [
       "Il semble que + subjonctif / peut-être",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1ee2_08",
-    "q": "Comment évite-t-on les anglicismes dans un texte français ?",
+    "q": "¿Cómo se evitan los anglicismos en un texto francés?",
     "a": "Checker → vérifier / meeting → réunion / challenge → défi / feedback → retour",
     "choices": [
       "Utiliser les équivalents français",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1ee2_09",
-    "q": "Comment utilise-t-on les parenthèses et les tirets dans un texte ?",
+    "q": "¿Cómo se usan los paréntesis y los guiones en un texto?",
     "a": "Parenthèses = information accessoire / tirets = incise explicative",
     "choices": [
       "Parenthèses = accessoire, tirets = incise",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1ee2_10",
-    "q": "Comment présente-t-on une citation dans un texte ?",
+    "q": "¿Cómo se presenta una cita en un texto?",
     "a": "... (auteur, œuvre, date) ou Comme le dit X : «...»",
     "choices": [
       "Auteur + œuvre + date / Comme le dit X + guillemets",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1ee2_11",
-    "q": "Qu'est-ce qu'un 'champ lexical' et comment l'utilise-t-on ?",
+    "q": "¿Qué es un 'champ lexical' y cómo se usa?",
     "a": "Ensemble de mots liés à un même thème, à utiliser pour la cohésion lexicale",
     "choices": [
       "Ensemble de mots d'un même thème",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1ee2_12",
-    "q": "Comment utilise-t-on les reprises nominales pour la cohésion ?",
+    "q": "¿Cómo se usan las reanudaciones nominales para la cohesión?",
     "a": "Remplacer un mot par un synonyme, hyperonyme ou périphrase",
     "choices": [
       "Synonyme, hyperonyme ou périphrase",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1ee2_13",
-    "q": "Comment structure-t-on une synthèse de documents ?",
+    "q": "¿Cómo se estructura una síntesis de documentos?",
     "a": "Introduction commune → confrontation thématique → conclusion globale",
     "choices": [
       "Introduction / confrontation thématique / conclusion",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1ee2_14",
-    "q": "Comment compare-t-on deux documents dans une synthèse ?",
+    "q": "¿Cómo se comparan dos documentos en una síntesis?",
     "a": "X affirme que... OR/EN REVANCHE, Y soutient que... / Les deux s'accordent sur...",
     "choices": [
       "X affirme... OR Y soutient... / Les deux s'accordent",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1ee2_15",
-    "q": "Quelle est la règle d'or pour l'expression écrite en B1 ?",
+    "q": "¿Cuál es la regla de oro para la expresión escrita en B1?",
     "a": "Une idée par paragraphe, une phrase principale claire, des connecteurs logiques",
     "choices": [
       "Une idée par paragraphe avec connecteurs",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1ee2_16",
-    "q": "Comment améliore-t-on la fluidité d'un texte ?",
+    "q": "¿Cómo se mejora la fluidez de un texto?",
     "a": "Varier la longueur des phrases, alterner constructions simples et complexes",
     "choices": [
       "Varier longueur et complexité des phrases",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1ee2_17",
-    "q": "Qu'est-ce que la 'distanciation' dans un texte académique ?",
+    "q": "¿Qué es la 'distanciation' en un texto académico?",
     "a": "Ne pas utiliser 'je', parler de façon impersonnelle : on / il est + adj",
     "choices": [
       "Éviter 'je', utiliser on/il est + adj",

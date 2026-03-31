@@ -1,7 +1,7 @@
 [
   {
     "id": "b1v3_01",
-    "q": "Que signifie 'tergiverser' ?",
+    "q": "¿Qué significa 'tergiverser'?",
     "a": "Hésiter, temporiser, ne pas aller droit au but",
     "choices": [
       "hésiter temporiser",
@@ -15,7 +15,7 @@
   },
   {
     "id": "b1v3_02",
-    "q": "Que signifie 'faire preuve de' ?",
+    "q": "¿Qué significa 'faire preuve de'?",
     "a": "Montrer, démontrer, témoigner de",
     "choices": [
       "montrer démontrer",
@@ -29,7 +29,7 @@
   },
   {
     "id": "b1v3_03",
-    "q": "Que signifie 'à titre de' ?",
+    "q": "¿Qué significa 'à titre de'?",
     "a": "En qualité de, en guise de, comme",
     "choices": [
       "en qualité de comme",
@@ -43,7 +43,7 @@
   },
   {
     "id": "b1v3_04",
-    "q": "Que signifie 'en ce sens que' ?",
+    "q": "¿Qué significa 'en ce sens que'?",
     "a": "Dans la mesure où, ce qui signifie que",
     "choices": [
       "dans la mesure où",
@@ -57,7 +57,7 @@
   },
   {
     "id": "b1v3_05",
-    "q": "Quelle est la nuance entre 'problème' et 'problématique' ?",
+    "q": "¿Cuál es la diferencia entre 'problème' y 'problématique'?",
     "a": "PROBLÈME = difficulté ponctuelle / PROBLÉMATIQUE = ensemble de questions complexes",
     "choices": [
       "Problème = difficulté, problématique = ensemble de questions",
@@ -71,7 +71,7 @@
   },
   {
     "id": "b1v3_06",
-    "q": "Que signifie 'en filigrane' ?",
+    "q": "¿Qué significa 'en filigrane'?",
     "a": "De façon sous-entendue, en arrière-plan, implicitement",
     "choices": [
       "de façon implicite sous-entendu",
@@ -85,7 +85,7 @@
   },
   {
     "id": "b1v3_07",
-    "q": "Que signifie 'sans conteste' ?",
+    "q": "¿Qué significa 'sans conteste'?",
     "a": "Incontestablement, sans aucun doute, assurément",
     "choices": [
       "incontestablement sans doute",
@@ -99,7 +99,7 @@
   },
   {
     "id": "b1v3_08",
-    "q": "Que signifie 'au demeurant' ?",
+    "q": "¿Qué significa 'au demeurant'?",
     "a": "Du reste, par ailleurs, au fond",
     "choices": [
       "du reste par ailleurs",
@@ -113,7 +113,7 @@
   },
   {
     "id": "b1v3_09",
-    "q": "Que signifie 'en guise de' ?",
+    "q": "¿Qué significa 'en guise de'?",
     "a": "En manière de, à la place de, pour servir de",
     "choices": [
       "en manière de à la place de",
@@ -127,7 +127,7 @@
   },
   {
     "id": "b1v3_10",
-    "q": "Que signifie 'à l'appui de' ?",
+    "q": "¿Qué significa 'à l'appui de'?",
     "a": "Pour soutenir, pour étayer, comme preuve de",
     "choices": [
       "pour soutenir étayer",
@@ -141,7 +141,7 @@
   },
   {
     "id": "b1v3_11",
-    "q": "Quelle nuance entre 'utiliser' et 'exploiter' ?",
+    "q": "¿Cuál es la diferencia entre 'utiliser' y 'exploiter'?",
     "a": "EXPLOITER = tirer le maximum de / parfois connotation négative (exploiter qqn)",
     "choices": [
       "Exploiter = tirer le max, parfois négatif",
@@ -155,7 +155,7 @@
   },
   {
     "id": "b1v3_12",
-    "q": "Que signifie 'en marge de' ?",
+    "q": "¿Qué significa 'en marge de'?",
     "a": "En dehors de, à l'écart de, accessoirement",
     "choices": [
       "en dehors de à l'écart",
@@ -169,7 +169,7 @@
   },
   {
     "id": "b1v3_13",
-    "q": "Que signifie 'jalonner' ?",
+    "q": "¿Qué significa 'jalonner'?",
     "a": "Marquer à intervalles réguliers, ponctuer un parcours",
     "choices": [
       "marquer à intervalles",
@@ -183,7 +183,7 @@
   },
   {
     "id": "b1v3_14",
-    "q": "Que signifie 'parachever' ?",
+    "q": "¿Qué significa 'parachever'?",
     "a": "Achever complètement, finir dans les moindres détails",
     "choices": [
       "achever complètement",
@@ -197,7 +197,7 @@
   },
   {
     "id": "b1v3_15",
-    "q": "Que signifie 'préfigurer' ?",
+    "q": "¿Qué significa 'préfigurer'?",
     "a": "Annoncer, être un signe avant-coureur de",
     "choices": [
       "annoncer être le signe de",
@@ -211,7 +211,7 @@
   },
   {
     "id": "b1v3_16",
-    "q": "Que signifie 'accentuer' vs 'atténuer' ?",
+    "q": "¿Qué significa 'accentuer' vs 'atténuer'?",
     "a": "ACCENTUER = renforcer / ATTÉNUER = réduire, adoucir",
     "choices": [
       "Accentuer = renforcer, atténuer = réduire",
@@ -225,7 +225,7 @@
   },
   {
     "id": "b1v3_17",
-    "q": "Que signifie 'en sus de' ?",
+    "q": "¿Qué significa 'en sus de'?",
     "a": "En plus de, outre",
     "choices": [
       "en plus de outre",
@@ -239,7 +239,7 @@
   },
   {
     "id": "b1v3_18",
-    "q": "Que signifie 'au gré de' ?",
+    "q": "¿Qué significa 'au gré de'?",
     "a": "Selon, en fonction de, au rythme de",
     "choices": [
       "selon en fonction de",
@@ -253,7 +253,7 @@
   },
   {
     "id": "b1v3_19",
-    "q": "Que signifie 'à même de' ?",
+    "q": "¿Qué significa 'à même de'?",
     "a": "En mesure de, capable de",
     "choices": [
       "en mesure de capable",
@@ -267,7 +267,7 @@
   },
   {
     "id": "b1v3_20",
-    "q": "Que signifie 'en définitive' ?",
+    "q": "¿Qué significa 'en définitive'?",
     "a": "En fin de compte, finalement, tout bien considéré",
     "choices": [
       "finalement tout compte fait",
@@ -281,7 +281,7 @@
   },
   {
     "id": "b1v3_21",
-    "q": "Que signifie 'remettre en question' ?",
+    "q": "¿Qué significa 'remettre en question'?",
     "a": "Douter de, ne plus considérer comme acquis",
     "choices": [
       "douter de ne plus accepter",
@@ -295,7 +295,7 @@
   },
   {
     "id": "b1v3_22",
-    "q": "Que signifie 'en toile de fond' ?",
+    "q": "¿Qué significa 'en toile de fond'?",
     "a": "En arrière-plan, comme contexte, sous-jacent",
     "choices": [
       "en arrière-plan comme contexte",
@@ -309,7 +309,7 @@
   },
   {
     "id": "b1v3_23",
-    "q": "Quelle différence entre 'conséquent' (en français) et 'consecuente' (en espagnol) ?",
+    "q": "¿Cuál es la diferencia entre 'conséquent' (francés) y 'consecuente' (español)?",
     "a": "CONSÉQUENT en français = important, considérable (faux ami !)",
     "choices": [
       "Faux ami : conséquent = important en français",
@@ -323,7 +323,7 @@
   },
   {
     "id": "b1v3_24",
-    "q": "Que signifie 'épineux' ?",
+    "q": "¿Qué significa 'épineux'?",
     "a": "Difficile, délicat, qui pose des problèmes",
     "choices": [
       "difficile délicat",
@@ -337,7 +337,7 @@
   },
   {
     "id": "b1v3_25",
-    "q": "Que signifie 'lacunaire' ?",
+    "q": "¿Qué significa 'lacunaire'?",
     "a": "Incomplet, qui présente des lacunes, des manques",
     "choices": [
       "incomplet avec des manques",
