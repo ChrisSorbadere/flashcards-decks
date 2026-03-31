@@ -4,8 +4,8 @@
     "q": "Quel est l'ordre des temps en discours indirect passé pour le présent ?",
     "a": "Présent → imparfait",
     "choices": [
-      "Présent → imparfait",
       "Présent → conditionnel",
+      "Présent → subjonctif",
       "Présent → futur",
       "Présent reste présent"
     ],

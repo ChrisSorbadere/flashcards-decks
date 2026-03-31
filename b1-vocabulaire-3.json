@@ -1,352 +1,236 @@
 [
   {
     "id": "b1v3_01",
-    "q": "¿Qué significa 'tergiverser'?",
-    "a": "Hésiter, temporiser, ne pas aller droit au but",
+    "q": "¿Qué significa 'tergiverser' ?",
+    "a": "dar rodeos, vacilar",
     "choices": [
-      "hésiter temporiser",
-      "décider rapidement",
-      "refuser catégoriquement",
-      "accepter"
+      "decidir rápidamente",
+      "actuar con firmeza",
+      "rechazar rotundamente"
     ],
     "tag": "Comportement",
-    "hint": "Arrête de tergiverser — décide-toi !",
-    "expl": "TERGIVERSER = andarse con rodeos, vacilar. Synonymes : atermoyer, tâtonner, tourner autour du pot, procrastiner. Contraire : décider, trancher."
+    "dictee": "rodeos",
+    "expl": "Tergiverser = andarse con rodeos, vacilar. Arrête de tergiverser !"
   },
   {
     "id": "b1v3_02",
-    "q": "¿Qué significa 'faire preuve de'?",
-    "a": "Montrer, démontrer, témoigner de",
+    "q": "¿Qué significa 'faire preuve de' ?",
+    "a": "demostrar, dar muestras de",
     "choices": [
-      "montrer démontrer",
-      "manquer de",
-      "prétendre",
-      "cacher"
+      "carecer de",
+      "fingir tener",
+      "ocultar, disimular"
     ],
     "tag": "Expressions",
-    "hint": "Faire preuve de courage / de patience",
-    "expl": "FAIRE PREUVE DE = demostrar, dar muestras de. FAIRE PREUVE DE courage = mostrar valentía. Synonymes : témoigner de, montrer, manifester."
+    "dictee": "demostrar",
+    "expl": "Faire preuve de = demostrar. Faire preuve de courage = demostrar valentía."
   },
   {
     "id": "b1v3_03",
-    "q": "¿Qué significa 'à titre de'?",
-    "a": "En qualité de, en guise de, comme",
+    "q": "¿Qué significa 'à titre de' ?",
+    "a": "a título de, como",
     "choices": [
-      "en qualité de comme",
-      "malgré",
-      "à cause de",
-      "en plus de"
+      "a pesar de",
+      "en lugar de",
+      "lejos de"
     ],
     "tag": "Expressions",
-    "hint": "À titre d'exemple / à titre exceptionnel",
-    "expl": "À TITRE DE = a título de, como. À TITRE D'EXEMPLE = como ejemplo. À TITRE EXCEPTIONNEL = excepcionalmente. À TITRE PERSONNEL = a título personal."
+    "dictee": "título",
+    "expl": "À titre de = a título de. À titre d'exemple = como ejemplo."
   },
   {
     "id": "b1v3_04",
-    "q": "¿Qué significa 'en ce sens que'?",
-    "a": "Dans la mesure où, ce qui signifie que",
+    "q": "¿Qué significa 'en filigrane' ?",
+    "a": "implícitamente, entre líneas",
     "choices": [
-      "dans la mesure où",
-      "contrairement à",
-      "en dehors de",
-      "malgré"
+      "explícitamente, claramente",
+      "brutalmente, directamente",
+      "raramente, casi nunca"
     ],
-    "tag": "Connecteurs",
-    "hint": "EN CE SENS QUE... = c'est-à-dire...",
-    "expl": "EN CE SENS QUE = en el sentido de que. Sert à préciser ou expliquer. C'est intéressant, EN CE SENS QUE... = es interesante en la medida en que..."
+    "tag": "Expressions",
+    "dictee": "implícito",
+    "expl": "En filigrane = en filigrana, implícitamente. On lit en filigrane la critique."
   },
   {
     "id": "b1v3_05",
-    "q": "¿Cuál es la diferencia entre 'problème' y 'problématique'?",
-    "a": "PROBLÈME = difficulté ponctuelle / PROBLÉMATIQUE = ensemble de questions complexes",
+    "q": "¿Diferencia entre 'problème' y 'problématique' ?",
+    "a": "problème = dificultad / problématique = conjunto de cuestiones",
     "choices": [
-      "Problème = difficulté, problématique = ensemble de questions",
-      "Même sens",
-      "Problème = grave, problématique = mineur",
-      "Problème = concret, problématique = abstrait"
+      "mismo significado",
+      "problème = grave / problématique = leve",
+      "problème = concreto / problématique = positivo"
     ],
     "tag": "Nuances",
-    "hint": "La PROBLÉMATIQUE d'un sujet = les questions qu'il pose",
-    "expl": "PROBLÈME = problema puntual. PROBLÉMATIQUE = problemática (conjunto de preguntas). La PROBLÉMATIQUE de l'immigration = las cuestiones que plantea la inmigración."
+    "dictee": "cuestiones",
+    "expl": "Problème = problema puntual. Problématique = problemática, conjunto de preguntas."
   },
   {
     "id": "b1v3_06",
-    "q": "¿Qué significa 'en filigrane'?",
-    "a": "De façon sous-entendue, en arrière-plan, implicitement",
+    "q": "¿Qué significa 'au demeurant' ?",
+    "a": "por lo demás, en el fondo",
     "choices": [
-      "de façon implicite sous-entendu",
-      "explicitement",
-      "brutalement",
-      "rarement"
+      "sin embargo, pero",
+      "por lo tanto, así",
+      "antes de todo"
     ],
-    "tag": "Expressions",
-    "hint": "On lit EN FILIGRANE la critique de l'auteur",
-    "expl": "EN FILIGRANE = en filigrana, implícitamente. On peut lire EN FILIGRANE la critique sociale. Synonymes : implicitement, en creux, sous-jacent, entre les lignes."
+    "tag": "Connecteurs",
+    "dictee": "demás",
+    "expl": "Au demeurant = por lo demás. Il est sévère, au demeurant bienveillant."
   },
   {
     "id": "b1v3_07",
-    "q": "¿Qué significa 'sans conteste'?",
-    "a": "Incontestablement, sans aucun doute, assurément",
+    "q": "¿Qué significa 'en guise de' ?",
+    "a": "a modo de, como",
     "choices": [
-      "incontestablement sans doute",
-      "avec quelques doutes",
-      "probablement",
-      "peut-être"
+      "a pesar de",
+      "en lugar de",
+      "lejos de"
     ],
-    "tag": "Connecteurs",
-    "hint": "C'est SANS CONTESTE la meilleure solution",
-    "expl": "SANS CONTESTE = sin duda alguna, indudablemente. Synonymes : incontestablement, indéniablement, assurément, sans aucun doute. Registre soutenu."
+    "tag": "Expressions",
+    "dictee": "modo",
+    "expl": "En guise de = a modo de. En guise d'introduction = a modo de introducción."
   },
   {
     "id": "b1v3_08",
-    "q": "¿Qué significa 'au demeurant'?",
-    "a": "Du reste, par ailleurs, au fond",
+    "q": "¿Qué significa 'préfigurer' ?",
+    "a": "anunciar, presagiar",
     "choices": [
-      "du reste par ailleurs",
-      "cependant",
-      "donc",
-      "alors"
+      "reproducir, copiar",
+      "resumir, sintetizar",
+      "contradecir, refutar"
     ],
-    "tag": "Connecteurs",
-    "hint": "Il est sévère, AU DEMEURANT bienveillant",
-    "expl": "AU DEMEURANT = por lo demás, en el fondo. Introduit une nuance complémentaire. Synonymes : DU RESTE, PAR AILLEURS, EN OUTRE, QUOI QU'IL EN SOIT."
+    "tag": "Verbes",
+    "dictee": "anunciar",
+    "expl": "Préfigurer = prefigurar, anunciar. Ces événements préfigurent une crise."
   },
   {
     "id": "b1v3_09",
-    "q": "¿Qué significa 'en guise de'?",
-    "a": "En manière de, à la place de, pour servir de",
+    "q": "¿Diferencia entre 'accentuer' y 'atténuer' ?",
+    "a": "accentuer = intensificar / atténuer = reducir",
     "choices": [
-      "en manière de à la place de",
-      "malgré",
-      "grâce à",
-      "en dehors de"
+      "mismo significado",
+      "accentuer = criticar / atténuer = aprobar",
+      "accentuer = positivo / atténuer = negativo"
     ],
-    "tag": "Expressions",
-    "hint": "EN GUISE D'introduction / EN GUISE de réponse",
-    "expl": "EN GUISE DE = a modo de, como. EN GUISE D'INTRODUCTION = a modo de introducción. EN GUISE DE RÉPONSE = como respuesta."
+    "tag": "Antonymes",
+    "dictee": "intensificar",
+    "expl": "Accentuer = intensificar. Atténuer = atenuar, reducir."
   },
   {
     "id": "b1v3_10",
-    "q": "¿Qué significa 'à l'appui de'?",
-    "a": "Pour soutenir, pour étayer, comme preuve de",
+    "q": "¿Qué significa 'en sus de' ?",
+    "a": "además de, encima de",
     "choices": [
-      "pour soutenir étayer",
-      "malgré",
-      "contrairement à",
-      "en dehors de"
+      "a pesar de",
+      "en lugar de",
+      "a diferencia de"
     ],
     "tag": "Expressions",
-    "hint": "Des arguments À L'APPUI DE cette thèse",
-    "expl": "À L'APPUI DE = en apoyo de, para respaldar. Des exemples À L'APPUI = con ejemplos de respaldo. APPORTER À L'APPUI = proporcionar como prueba."
+    "dictee": "además",
+    "expl": "En sus de = además de. En sus de son salaire = además de su salario."
   },
   {
     "id": "b1v3_11",
-    "q": "¿Cuál es la diferencia entre 'utiliser' y 'exploiter'?",
-    "a": "EXPLOITER = tirer le maximum de / parfois connotation négative (exploiter qqn)",
+    "q": "¿Diferencia entre 'utiliser' y 'exploiter' ?",
+    "a": "exploiter = sacar el máximo / a veces negativo",
     "choices": [
-      "Exploiter = tirer le max, parfois négatif",
-      "Même sens",
-      "Utiliser = négatif, exploiter = positif",
-      "Utiliser = technique, exploiter = naturel"
+      "mismo significado",
+      "utiliser = negativo / exploiter = positivo",
+      "utiliser = técnico / exploiter = natural"
     ],
     "tag": "Nuances",
-    "hint": "EXPLOITER une ressource / EXPLOITER un employé",
-    "expl": "UTILISER = usar. EXPLOITER = (1) aprovechar al máximo (positif) : EXPLOITER ses talents. (2) explotar (négatif) : EXPLOITER des travailleurs. Polysémie importante."
+    "dictee": "máximo",
+    "expl": "Utiliser = usar. Exploiter = (1) aprovechar al máximo (2) explotar a alguien."
   },
   {
     "id": "b1v3_12",
-    "q": "¿Qué significa 'en marge de'?",
-    "a": "En dehors de, à l'écart de, accessoirement",
+    "q": "¿Qué significa 'parachever' ?",
+    "a": "completar, terminar perfectamente",
     "choices": [
-      "en dehors de à l'écart",
-      "au centre de",
-      "grâce à",
-      "à cause de"
+      "comenzar, iniciar",
+      "interrumpir, detener",
+      "complicar, enredar"
     ],
-    "tag": "Expressions",
-    "hint": "EN MARGE DE la société / EN MARGE d'un texte",
-    "expl": "EN MARGE DE = al margen de. Vivre EN MARGE DE la société = al margen de la sociedad. Note EN MARGE d'un document = nota al margen."
+    "tag": "Verbes",
+    "dictee": "completar",
+    "expl": "Parachever = culminar, completar. Parachever une oeuvre = acabarla perfectamente."
   },
   {
     "id": "b1v3_13",
-    "q": "¿Qué significa 'jalonner'?",
-    "a": "Marquer à intervalles réguliers, ponctuer un parcours",
+    "q": "¿Qué significa 'lacunaire' ?",
+    "a": "incompleto, con lagunas",
     "choices": [
-      "marquer à intervalles",
-      "commencer",
-      "terminer",
-      "bouleverser"
+      "completo, exhaustivo",
+      "preciso, detallado",
+      "profundo, desarrollado"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "Les étapes qui jalonnent une carrière",
-    "expl": "JALONNER = jalonar, marcar (un recorrido). Les événements qui JALONNENT sa vie = los eventos que marcan su vida. Synonymes : ponctuer, marquer, baliser."
+    "tag": "Adjectifs",
+    "dictee": "incompleto",
+    "expl": "Lacunaire = incompleto. Un argument lacunaire = un argumento con lagunas."
   },
   {
     "id": "b1v3_14",
-    "q": "¿Qué significa 'parachever'?",
-    "a": "Achever complètement, finir dans les moindres détails",
+    "q": "¿Qué significa 'en toile de fond' ?",
+    "a": "como telón de fondo",
     "choices": [
-      "achever complètement",
-      "commencer",
-      "interrompre",
-      "compliquer"
+      "en primer plano",
+      "explícitamente",
+      "ruidosamente"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "PARACHEVER une œuvre = la finir parfaitement",
-    "expl": "PARACHEVER = culminar, completar. Synonymes : parfaire, peaufiner, fignoler, mettre la dernière main à. Contraire : ébaucher, esquisser."
+    "tag": "Expressions",
+    "dictee": "fondo",
+    "expl": "En toile de fond = en segundo plano, como telón de fondo."
   },
   {
     "id": "b1v3_15",
-    "q": "¿Qué significa 'préfigurer'?",
-    "a": "Annoncer, être un signe avant-coureur de",
+    "q": "¿Qué significa 'à même de' ?",
+    "a": "en condiciones de, capaz de",
     "choices": [
-      "annoncer être le signe de",
-      "reproduire",
-      "copier",
-      "résumer"
+      "incapaz de hacer",
+      "obligado a hacer",
+      "seguro de lograr"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "Cette décision PRÉFIGURE les changements à venir",
-    "expl": "PRÉFIGURER = prefigurar, anunciar. Ces événements PRÉFIGURENT une crise = estos eventos anuncian una crisis. Synonymes : annoncer, présager, augurer."
+    "tag": "Expressions",
+    "dictee": "capaz",
+    "expl": "Être à même de = estar en condiciones de. Je suis à même de vous aider."
   },
   {
     "id": "b1v3_16",
-    "q": "¿Qué significa 'accentuer' vs 'atténuer'?",
-    "a": "ACCENTUER = renforcer / ATTÉNUER = réduire, adoucir",
+    "q": "¿Qué significa 'en ce sens que' ?",
+    "a": "en el sentido de que",
     "choices": [
-      "Accentuer = renforcer, atténuer = réduire",
-      "Même sens",
-      "Accentuer = critiquer, atténuer = approuver",
-      "Accentuer = positif, atténuer = négatif"
+      "contrariamente a lo que",
+      "fuera de lo que",
+      "a pesar de que"
     ],
-    "tag": "Antonymes",
-    "hint": "ACCENTUER les inégalités ≠ ATTÉNUER les inégalités",
-    "expl": "ACCENTUER = acentuar, intensificar (crecer). ATTÉNUER = atenuar, reducir (decrecer). Paire d'antonymes fréquente dans les textes argumentatifs."
+    "tag": "Connecteurs",
+    "dictee": "sentido",
+    "expl": "En ce sens que = en el sentido de que, es decir. C'est intéressant, en ce sens que..."
   },
   {
     "id": "b1v3_17",
-    "q": "¿Qué significa 'en sus de'?",
-    "a": "En plus de, outre",
+    "q": "¿Qué significa 'à l'appui de' ?",
+    "a": "en apoyo de, como prueba",
     "choices": [
-      "en plus de outre",
-      "à la place de",
-      "malgré",
-      "contrairement à"
+      "en contra de",
+      "a pesar de",
+      "lejos de"
     ],
     "tag": "Expressions",
-    "hint": "EN SUS DE son salaire, il reçoit des primes",
-    "expl": "EN SUS DE = además de, encima de. EN SUS DE son salaire = además de su salario. Synonymes : EN PLUS DE, OUTRE, PAR-DESSUS. Registre formel."
+    "dictee": "apoyo",
+    "expl": "À l'appui de = en apoyo de. Des arguments à l'appui de cette thèse."
   },
   {
     "id": "b1v3_18",
-    "q": "¿Qué significa 'au gré de'?",
-    "a": "Selon, en fonction de, au rythme de",
+    "q": "¿Faux ami : 'conséquent' en francés significa ?",
+    "a": "importante, considerable",
     "choices": [
-      "selon en fonction de",
-      "malgré",
-      "avant",
-      "après"
-    ],
-    "tag": "Expressions",
-    "hint": "AU GRÉ DES circonstances / AU GRÉ des vents",
-    "expl": "AU GRÉ DE = según, al ritmo de. AU GRÉ DES événements = según los acontecimientos. AGIR À SON GRÉ = hacer a su antojo. À SON GRÉ = a su gusto."
-  },
-  {
-    "id": "b1v3_19",
-    "q": "¿Qué significa 'à même de'?",
-    "a": "En mesure de, capable de",
-    "choices": [
-      "en mesure de capable",
-      "incapable de",
-      "obligé de",
-      "sûr de"
-    ],
-    "tag": "Expressions",
-    "hint": "Je suis à même de vous aider",
-    "expl": "ÊTRE À MÊME DE = estar en condiciones de, poder. Je suis À MÊME DE vous répondre. Synonymes : en mesure de, capable de, apte à, en état de."
-  },
-  {
-    "id": "b1v3_20",
-    "q": "¿Qué significa 'en définitive'?",
-    "a": "En fin de compte, finalement, tout bien considéré",
-    "choices": [
-      "finalement tout compte fait",
-      "premièrement",
-      "cependant",
-      "par exemple"
-    ],
-    "tag": "Connecteurs",
-    "hint": "EN DÉFINITIVE, quelle est votre position ?",
-    "expl": "EN DÉFINITIVE = en definitiva, a fin de cuentas. Synonymes : en fin de compte, finalement, en somme, tout compte fait, bref."
-  },
-  {
-    "id": "b1v3_21",
-    "q": "¿Qué significa 'remettre en question'?",
-    "a": "Douter de, ne plus considérer comme acquis",
-    "choices": [
-      "douter de ne plus accepter",
-      "confirmer",
-      "améliorer",
-      "analyser"
-    ],
-    "tag": "Expressions",
-    "hint": "REMETTRE EN QUESTION ses certitudes",
-    "expl": "REMETTRE EN QUESTION / EN CAUSE = cuestionar, poner en tela de juicio. REMETTRE EN QUESTION les acquis = cuestionar los logros. Synonymes : contester, remettre en cause."
-  },
-  {
-    "id": "b1v3_22",
-    "q": "¿Qué significa 'en toile de fond'?",
-    "a": "En arrière-plan, comme contexte, sous-jacent",
-    "choices": [
-      "en arrière-plan comme contexte",
-      "au premier plan",
-      "explicitement",
-      "bruyamment"
-    ],
-    "tag": "Expressions",
-    "hint": "La guerre EN TOILE DE FOND du roman",
-    "expl": "EN TOILE DE FOND = en segundo plano, como telón de fondo. La guerre sert de TOILE DE FOND au récit. Synonymes : en arrière-plan, en filigrane, sous-jacent."
-  },
-  {
-    "id": "b1v3_23",
-    "q": "¿Cuál es la diferencia entre 'conséquent' (francés) y 'consecuente' (español)?",
-    "a": "CONSÉQUENT en français = important, considérable (faux ami !)",
-    "choices": [
-      "Faux ami : conséquent = important en français",
-      "Même sens",
-      "Conséquent = logique en français",
-      "Conséquent = petit en français"
+      "coherente, consecuente",
+      "pequeño, modesto",
+      "siguiente, posterior"
     ],
     "tag": "Faux amis",
-    "hint": "Un budget conséquent ≠ un budget cohérent",
-    "expl": "CONSÉQUENT (français) = considerable, importante (faux ami !). Un budget CONSÉQUENT = un presupuesto importante. CONSECUENTE (espagnol) = cohérent. COHÉRENT en français = consecuente."
-  },
-  {
-    "id": "b1v3_24",
-    "q": "¿Qué significa 'épineux'?",
-    "a": "Difficile, délicat, qui pose des problèmes",
-    "choices": [
-      "difficile délicat",
-      "simple",
-      "agréable",
-      "évident"
-    ],
-    "tag": "Adjectifs",
-    "hint": "Un sujet épineux = un sujet délicat",
-    "expl": "ÉPINEUX(SE) = espinoso, delicado, difícil. Un sujet ÉPINEUX. Une question ÉPINEUSE. Synonymes : délicat, délicat, complexe, problématique, sensible."
-  },
-  {
-    "id": "b1v3_25",
-    "q": "¿Qué significa 'lacunaire'?",
-    "a": "Incomplet, qui présente des lacunes, des manques",
-    "choices": [
-      "incomplet avec des manques",
-      "complet",
-      "précis",
-      "approfondi"
-    ],
-    "tag": "Adjectifs",
-    "hint": "Un raisonnement lacunaire = qui a des trous",
-    "expl": "LACUNAIRE = lacunario, incompleto. Un argument LACUNAIRE. Une documentation LACUNAIRE. Synonymes : incomplet, insuffisant, partiel. Contraire : exhaustif, complet."
+    "dictee": "importante",
+    "expl": "Conséquent (français) = importante, considerable. Un budget conséquent = un gran presupuesto."
   }
 ]

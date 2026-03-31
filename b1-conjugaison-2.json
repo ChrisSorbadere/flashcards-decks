@@ -60,7 +60,7 @@
     "q": "Quel est l'imparfait du subjonctif de 'parler' à la 3ème personne ?",
     "a": "Qu'il parlât",
     "choices": [
-      "Qu'il parlât",
+      "Qu'il parlerait au présent",
       "Qu'il parlerait",
       "Qu'il parla",
       "Qu'il parlait"
@@ -312,7 +312,7 @@
     "q": "Comment dit-on 'cuando hayas terminado' en français ?",
     "a": "Quand tu auras terminé",
     "choices": [
-      "Quand tu auras terminé",
+      "Après avoir dormi",
       "Quand tu termines",
       "Quand tu termineras",
       "Quand tu avais terminé"

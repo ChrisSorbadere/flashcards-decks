@@ -1,240 +1,236 @@
 [
   {
     "id": "b1civ1_01",
-    "q": "¿Qué es la 'Ve République' en Francia?",
-    "a": "Régime politique en vigueur depuis 1958, avec un président fort",
+    "q": "¿Qué es la 'Ve République' ?",
+    "a": "régimen desde 1958, presidente fuerte",
     "choices": [
-      "Régime depuis 1958, président fort",
-      "Monarchie constitutionnelle",
-      "Régime parlementaire pur",
-      "Régime depuis 1789"
+      "monarquía constitucional",
+      "república parlamentaria pura",
+      "régimen desde 1789"
     ],
     "tag": "Institutions",
-    "hint": "De Gaulle a créé la Ve République",
-    "expl": "La Ve RÉPUBLIQUE (1958) = créée par De Gaulle. Président de la République très puissant. Premier ministre responsable devant l'Assemblée nationale. Modèle semi-présidentiel."
+    "dictee": "1958",
+    "expl": "La Ve République = créée en 1958 par De Gaulle. Régime semi-présidentiel."
   },
   {
     "id": "b1civ1_02",
-    "q": "¿Cuál es el papel del Primer ministro en Francia?",
-    "a": "Chef du gouvernement, responsable devant l'Assemblée nationale",
+    "q": "¿Cuál es el papel del Premier ministre ?",
+    "a": "jefe del gobierno",
     "choices": [
-      "Chef du gouvernement",
-      "Chef de l'État",
-      "Président du Sénat",
-      "Chef de l'opposition"
+      "jefe del Estado",
+      "presidente del Senado",
+      "jefe de la oposición"
     ],
     "tag": "Institutions",
-    "hint": "Le PM dirige le gouvernement",
-    "expl": "PREMIER MINISTRE = chef du gouvernement. Nommé par le président. Responsable devant l'ASSEMBLÉE NATIONALE. Peut être de bord politique opposé au président = COHABITATION."
+    "dictee": "gobierno",
+    "expl": "Le Premier ministre = chef du gouvernement. Nommé par le président."
   },
   {
     "id": "b1civ1_03",
-    "q": "¿Qué es la 'cohabitation' en política francesa?",
-    "a": "Président et Premier ministre de bords politiques opposés",
+    "q": "¿Qué es la 'cohabitation' política ?",
+    "a": "presidente y PM de partidos opuestos",
     "choices": [
-      "Président et PM d'oppositions politiques",
-      "Deux présidents simultanés",
-      "Alliance entre partis",
-      "Gouvernement de coalition"
+      "dos presidentes simultáneos",
+      "alianza entre partidos",
+      "gobierno de coalición"
     ],
     "tag": "Institutions",
-    "hint": "Ex : Mitterrand (PS) + Chirac (RPR) 1986-88",
-    "expl": "COHABITATION = président et Premier ministre de partis opposés. Mitterrand + Chirac (1986-88). Mitterrand + Balladur (1993-95). Chirac + Jospin (1997-2002). Actuellement rare."
+    "dictee": "opuestos",
+    "expl": "Cohabitation = président et Premier ministre de bords politiques opposés."
   },
   {
     "id": "b1civ1_04",
-    "q": "¿Qué es el Conseil d'État en Francia?",
-    "a": "Plus haute juridiction administrative, conseille aussi le gouvernement",
+    "q": "¿Qué verifica el Conseil constitutionnel ?",
+    "a": "que las leyes respetan la Constitución",
     "choices": [
-      "Plus haute juridiction administrative",
-      "Tribunal civil",
-      "Chambre des comptes",
-      "Conseil des ministres"
+      "el presupuesto del Estado",
+      "los nombramientos ministeriales",
+      "las relaciones internacionales"
     ],
     "tag": "Institutions",
-    "hint": "Pour les litiges contre l'administration",
-    "expl": "Le CONSEIL D'ÉTAT : (1) juridiction administrative suprême (litiges contre l'État). (2) Conseil juridique du gouvernement (examine les projets de loi). Fondé par Napoléon."
+    "dictee": "Constitución",
+    "expl": "Conseil constitutionnel = vérifie la conformité des lois à la Constitution."
   },
   {
     "id": "b1civ1_05",
-    "q": "¿Qué es el Conseil constitutionnel en Francia?",
-    "a": "Vérifie la conformité des lois à la Constitution",
+    "q": "¿Qué es la 'méritocratie républicaine' ?",
+    "a": "éxito por mérito, no por origen",
     "choices": [
-      "Vérifie la constitutionnalité des lois",
-      "Gouverne en cas de crise",
-      "Nomme les ministres",
-      "Contrôle le budget"
+      "reproducción de las élites",
+      "selección por nacimiento",
+      "sistema de cuotas"
     ],
-    "tag": "Institutions",
-    "hint": "Les lois doivent respecter la Constitution",
-    "expl": "Le CONSEIL CONSTITUTIONNEL = vérifie que les lois respectent la Constitution. 9 membres. Saisi avant promulgation d'une loi ou par voie d'exception (QPC = Question Prioritaire de Constitutionnalité)."
+    "tag": "Société",
+    "dictee": "mérito",
+    "expl": "Méritocratie = idéal selon lequel le mérite détermine la réussite sociale."
   },
   {
     "id": "b1civ1_06",
-    "q": "¿Qué son Sciences Po y la ENA (ahora INSP)?",
-    "a": "Grandes écoles qui forment les élites politiques et administratives françaises",
+    "q": "¿Qué celebra Francia el 14 de julio ?",
+    "a": "la Fiesta Nacional (toma de la Bastilla)",
     "choices": [
-      "Grandes écoles des élites politiques/admin",
-      "Universités publiques",
-      "Lycées d'élite",
-      "Instituts de recherche"
+      "la independencia de Francia",
+      "la victoria en la 1ª Guerra Mundial",
+      "el cumpleaños de la República"
     ],
-    "tag": "Éducation",
-    "hint": "La plupart des présidents français sont passés par là",
-    "expl": "SCIENCES PO (Institut d'Études Politiques) + ENA → INSP (rebaptisée 2022). Forment les hauts fonctionnaires, diplomates, PDG. La plupart des présidents : Sciences Po et/ou ENA."
+    "tag": "Fêtes",
+    "dictee": "Bastilla",
+    "expl": "14 juillet = Fête nationale. Commémoration de la prise de la Bastille en 1789."
   },
   {
     "id": "b1civ1_07",
-    "q": "¿Qué es la 'méritocratie républicaine' francesa?",
-    "a": "Idéal selon lequel la réussite doit dépendre du mérite et non de l'origine",
+    "q": "¿Cuál es el lema de la República francesa ?",
+    "a": "Liberté, Égalité, Fraternité",
     "choices": [
-      "Réussite par le mérite, pas l'origine",
-      "Reproduction sociale des élites",
-      "Sélection par la naissance",
-      "Système de quotas"
+      "Honneur et Patrie",
+      "Unité, Dignité, Paix",
+      "Force et Justice"
     ],
-    "tag": "Société",
-    "hint": "L'école publique = égalité des chances théorique",
-    "expl": "MÉRITOCRATIE RÉPUBLICAINE = idéal de l'école française. L'ascenseur social doit permettre à tous de réussir par le travail. Critiqué car la réalité montre une forte reproduction sociale."
+    "tag": "République",
+    "dictee": "Fraternité",
+    "expl": "La devise = Liberté, Égalité, Fraternité. Depuis la Révolution de 1789."
   },
   {
     "id": "b1civ1_08",
-    "q": "¿Qué es el 'roman national' francés?",
-    "a": "Récit mythifié de l'histoire de France enseigné à l'école",
+    "q": "¿Qué fue el movimiento 'Mai 68' ?",
+    "a": "revuelta estudiantil y huelga general",
     "choices": [
-      "Récit mythifié de l'histoire nationale",
-      "Roman littéraire historique",
-      "Programme scolaire d'histoire",
-      "Cours de littérature"
+      "elección presidencial clave",
+      "guerra colonial francesa",
+      "revolución política exitosa"
     ],
     "tag": "Histoire",
-    "hint": "Vercingétorix, Jeanne d'Arc, Napoléon...",
-    "expl": "ROMAN NATIONAL = narrativa histórica mitificada. Vercingétorix, Charlemagne, Jeanne d'Arc, Louis XIV, Napoléon, De Gaulle = figures fondatrices. Construit l'identité nationale."
+    "dictee": "huelga",
+    "expl": "Mai 68 = grèves étudiantes puis grève générale. Transformations sociales profondes."
   },
   {
     "id": "b1civ1_09",
-    "q": "¿Qué legado dejó la Revolución francesa?",
-    "a": "Liberté, Égalité, Fraternité + droits de l'Homme + laïcité",
+    "q": "¿Qué es la laïcité en Francia ?",
+    "a": "separación Estado e Iglesias",
     "choices": [
-      "Liberté, Égalité, Fraternité, droits de l'Homme",
-      "Seulement la République",
-      "Seulement la laïcité",
-      "Seulement la démocratie"
+      "religión oficial del Estado",
+      "libertad religiosa total",
+      "tolerancia entre religiones"
     ],
-    "tag": "Histoire",
-    "hint": "1789 = tournant mondial",
-    "expl": "RÉVOLUTION FRANÇAISE (1789) : Déclaration des droits de l'Homme. Devise LIBERTÉ-ÉGALITÉ-FRATERNITÉ. Fin de l'Ancien Régime. Influence mondiale sur les démocraties modernes."
+    "tag": "Société",
+    "dictee": "separación",
+    "expl": "Laïcité = séparation Église/État depuis 1905. Principe fondamental républicain."
   },
   {
     "id": "b1civ1_10",
-    "q": "¿Qué fue la resistencia francesa durante la Segunda Guerra Mundial?",
-    "a": "Mouvement de résistance à l'occupation nazie, coordonné depuis Londres par De Gaulle",
+    "q": "¿Qué es la 'banlieue' francesa ?",
+    "a": "periferia urbana a menudo desfavorecida",
     "choices": [
-      "Résistance à l'occupation nazie depuis Londres",
-      "Collaboration avec l'Allemagne",
-      "Neutralité française",
-      "Armée régulière française"
+      "barrios ricos del centro",
+      "zonas rurales alejadas",
+      "ciudades nuevas planificadas"
     ],
-    "tag": "Histoire",
-    "hint": "De Gaulle, Appel du 18 juin 1940",
-    "expl": "LA RÉSISTANCE : De Gaulle lance l'APPEL DU 18 JUIN 1940 depuis Londres. Forces françaises libres. Maquis en France. Jean Moulin = figure martyre. Libération 1944."
+    "tag": "Société",
+    "dictee": "periferia",
+    "expl": "Banlieue = périphérie urbaine. Souvent cités HLM, chômage, enjeux d'intégration."
   },
   {
     "id": "b1civ1_11",
-    "q": "¿Qué es la Académie française?",
-    "a": "Institution qui réglemente la langue française et publie le dictionnaire officiel",
+    "q": "¿Qué es el 'droit du sol' ?",
+    "a": "nacionalidad por lugar de nacimiento",
     "choices": [
-      "Réglemente la langue française",
-      "Gère les universités",
-      "Décerne les prix littéraires",
-      "Forme les enseignants"
+      "nacionalidad por filiación",
+      "nacionalidad por matrimonio",
+      "nacionalidad por residencia"
     ],
-    "tag": "Culture",
-    "hint": "Les 40 immortels veillent sur la langue",
-    "expl": "L'ACADÉMIE FRANÇAISE (1635) = fondée par Richelieu. 40 membres = 'les immortels'. Publie le DICTIONNAIRE DE L'ACADÉMIE. Veille sur la pureté du français. Souvent critiquée pour son conservatisme."
+    "tag": "Société",
+    "dictee": "nacimiento",
+    "expl": "Droit du sol = nationalité si naissance sur le territoire. Différent du droit du sang."
   },
   {
     "id": "b1civ1_12",
-    "q": "¿Qué es el Festival de Cannes?",
-    "a": "Plus grand festival international de cinéma, Palme d'or comme récompense suprême",
+    "q": "¿Qué es la Académie française ?",
+    "a": "institución que regula el idioma francés",
     "choices": [
-      "Festival de cinéma, Palme d'or",
-      "Festival de musique",
-      "Festival de théâtre",
-      "Festival de littérature"
+      "institución que gestiona universidades",
+      "institución que otorga premios literarios",
+      "institución que forma docentes"
     ],
     "tag": "Culture",
-    "hint": "La Palme d'or = Oscar français",
-    "expl": "FESTIVAL DE CANNES (depuis 1946) = plus grand festival de cinéma mondial. PALME D'OR = récompense suprême. Se tient en mai sur la Croisette. Concurrence Berlin et Venise."
+    "dictee": "idioma",
+    "expl": "Académie française = fundada en 1635. Publica el diccionario oficial. 40 immortels."
   },
   {
     "id": "b1civ1_13",
-    "q": "¿Qué es la 'Nouvelle Cuisine' francesa?",
-    "a": "Mouvement gastronomique des années 70 : légèreté, présentation, créativité",
+    "q": "¿Qué es el Festival de Cannes ?",
+    "a": "gran festival de cine, Palme d'or",
     "choices": [
-      "Mouvement gastronomique années 70 léger et créatif",
-      "Cuisine traditionnelle",
-      "Fast-food français",
-      "Cuisine de rue"
+      "festival de música clásica",
+      "festival de teatro europeo",
+      "festival de literatura francesa"
     ],
-    "tag": "Gastronomie",
-    "hint": "Paul Bocuse, Michel Guérard — révolution des assiettes",
-    "expl": "LA NOUVELLE CUISINE (années 1970) = Paul BOCUSE, Michel GUÉRARD. Rupture avec la cuisine classique lourde. Sauces légères, produits frais, présentation artistique. Influence mondiale."
+    "tag": "Culture",
+    "dictee": "cine",
+    "expl": "Festival de Cannes (depuis 1946). Palme d'or = récompense suprême. En mai."
   },
   {
     "id": "b1civ1_14",
-    "q": "¿Qué es la 'Cité des sciences' de París?",
-    "a": "Musée interactif des sciences et techniques à La Villette",
+    "q": "¿Qué es la Sécurité sociale ('la Sécu') ?",
+    "a": "sistema público de salud y prestaciones",
     "choices": [
-      "Musée interactif de sciences à La Villette",
-      "Université scientifique",
-      "Institut de recherche",
-      "Observatoire"
+      "seguro privado de salud",
+      "servicio de seguridad nacional",
+      "fondo de pensiones privado"
     ],
-    "tag": "Culture",
-    "hint": "À La Villette, dans le 19ème arrondissement",
-    "expl": "La CITÉ DES SCIENCES ET DE L'INDUSTRIE (1986) = La Villette, Paris. Musée interactif. La Géode (cinéma hémisphérique). La Cité de la musique. Complex culturel et scientifique."
+    "tag": "Société",
+    "dictee": "salud",
+    "expl": "La Sécu couvre maladie, retraite, chômage, famille. Créée en 1945."
   },
   {
     "id": "b1civ1_15",
-    "q": "¿Qué fue el movimiento 'Mai 68' en Francia?",
-    "a": "Révolte étudiante et grève générale qui a changé la société française",
+    "q": "¿Qué es el baccalauréat (le bac) ?",
+    "a": "examen al final del instituto",
     "choices": [
-      "Révolte étudiante et grève générale transformatrice",
-      "Élection présidentielle",
-      "Guerre coloniale",
-      "Révolution politique"
+      "título universitario de grado",
+      "examen de entrada a grandes écoles",
+      "diploma de formación profesional"
     ],
-    "tag": "Histoire",
-    "hint": "'Il est interdit d'interdire' — slogans révolutionnaires",
-    "expl": "MAI 68 : grèves étudiantes puis grève générale (10 millions de grévistes). Remise en cause de l'autorité, des mœurs, de l'éducation. De Gaulle résiste. Transformations sociales profondes."
+    "tag": "Éducation",
+    "dictee": "instituto",
+    "expl": "Le bac = examen de fin de lycée. Donne accès à l'université."
   },
   {
     "id": "b1civ1_16",
-    "q": "¿Qué es la 'banlieue' en Francia y cuáles son sus retos?",
-    "a": "Périphérie urbaine souvent défavorisée, enjeux de discrimination et intégration",
+    "q": "¿Qué es el TGV ?",
+    "a": "tren de alta velocidad",
     "choices": [
-      "Périphérie urbaine défavorisée avec enjeux d'intégration",
-      "Quartiers riches",
-      "Zones rurales",
-      "Villes nouvelles"
+      "metro urbano rápido",
+      "servicio de autobús exprés",
+      "avión regional"
     ],
-    "tag": "Société",
-    "hint": "Les banlieues = enjeux sociaux majeurs en France",
-    "expl": "BANLIEUE française : quartiers périphériques, souvent cités HLM. Fort taux de chômage, immigration. POLITIQUE DE LA VILLE pour réduire les inégalités. Film 'La Haine' (1995) = référence."
+    "tag": "Transport",
+    "dictee": "velocidad",
+    "expl": "TGV = Train à Grande Vitesse. Plus de 300 km/h depuis 1981."
   },
   {
     "id": "b1civ1_17",
-    "q": "¿Qué es el 'droit du sol' y el 'droit du sang'?",
-    "a": "DROIT DU SOL = nationalité par lieu de naissance / DROIT DU SANG = par filiation",
+    "q": "¿Qué representan los 'DOM' franceses ?",
+    "a": "departamentos de ultramar",
     "choices": [
-      "Sol = naissance sur le territoire, sang = filiation",
-      "Sol = sang, sang = sol",
-      "Sol = culture, sang = langue",
-      "Aucune différence"
+      "regiones metropolitanas del norte",
+      "ciudades con estatuto especial",
+      "territorios independizados"
     ],
-    "tag": "Société",
-    "hint": "Deux principes d'attribution de la nationalité",
-    "expl": "DROIT DU SOL = nationalité si naissance sur le territoire (France). DROIT DU SANG = nationalité transmise par les parents. France = mixte (sol + sang). Sujet de débat politique en France."
+    "tag": "Géographie",
+    "dictee": "ultramar",
+    "expl": "Les DOM = Martinique, Guadeloupe, Réunion, Guyane, Mayotte."
+  },
+  {
+    "id": "b1civ1_18",
+    "q": "¿Qué es la 'bande dessinée franco-belge' ?",
+    "a": "tradición artística europea, 9ème art",
+    "choices": [
+      "solo tradición francesa",
+      "cómic de origen japonés",
+      "ilustración publicitaria"
+    ],
+    "tag": "Culture",
+    "dictee": "arte",
+    "expl": "BD franco-belge = 9ème art. Tintin (Belgique), Astérix (France). Festival d'Angoulême."
   }
 ]

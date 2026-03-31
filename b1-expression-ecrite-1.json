@@ -1,240 +1,236 @@
 [
   {
     "id": "b1ee1_01",
-    "q": "¿Cómo se estructura una argumentación en francés?",
-    "a": "Thèse → antithèse → synthèse (plan dialectique) ou thèse → arguments → conclusion",
+    "q": "¿Cómo se estructura una argumentación en francés ?",
+    "a": "thèse / arguments / conclusion",
     "choices": [
-      "Thèse / antithèse / synthèse",
-      "Introduction / corps / conclusion seulement",
-      "Problème / solution / exemple",
-      "Chronologique seulement"
+      "introduction / vocabulaire / fin",
+      "exemples / résumé / opinion",
+      "titre / corps / bibliographie"
     ],
-    "tag": "Argumentation",
-    "hint": "Le plan dialectique classique",
-    "expl": "Plan DIALECTIQUE : THÈSE (position) → ANTITHÈSE (contre-arguments) → SYNTHÈSE (dépassement). Plan ANALYTIQUE : thèse + arguments + conclusion. Les deux sont valides."
+    "tag": "Structure",
+    "dictee": "thèse",
+    "expl": "Plan classique : thèse (position) + arguments + conclusion. Ou plan dialectique."
   },
   {
     "id": "b1ee1_02",
-    "q": "¿Cómo se formula claramente una tesis?",
-    "a": "Affirmer une position + la justifier : 'Je soutiens que... parce que...'",
+    "q": "¿Cómo se formula una tesis claramente ?",
+    "a": "posición + justificación",
     "choices": [
-      "Position + justification",
-      "Poser une question",
-      "Donner des exemples seulement",
-      "Citer une source"
+      "pregunta + respuesta",
+      "ejemplo + definición",
+      "resumen + cita"
     ],
     "tag": "Argumentation",
-    "hint": "La thèse = votre position clairement affirmée",
-    "expl": "THÈSE = position + justification. 'Il me semble que... parce que...' / 'Je soutiens que... car...' / 'Selon moi... en effet...'. La thèse doit être explicite."
+    "dictee": "posición",
+    "expl": "Thèse = position clairement affirmée + justification. Selon moi... parce que..."
   },
   {
     "id": "b1ee1_03",
-    "q": "¿Cómo se refuta un argumento contrario?",
-    "a": "Certes... mais / Il est vrai que... cependant / On pourrait dire... or en fait",
+    "q": "¿Qué conectores expresan la CAUSA ?",
+    "a": "parce que, car, puisque",
     "choices": [
-      "Certes/il est vrai... cependant/mais",
-      "Vous avez tort / c'est faux",
-      "Parce que / donc",
-      "D'abord / ensuite"
+      "donc, alors, ainsi",
+      "mais, cependant, or",
+      "et, de plus, en outre"
     ],
-    "tag": "Argumentation",
-    "hint": "Concéder avant de réfuter",
-    "expl": "RÉFUTATION : (1) Concession : CERTES, IL EST VRAI QUE... (2) Contre-argument : MAIS, CEPENDANT, NÉANMOINS... OR, EN RÉALITÉ... Efficace et courtois."
+    "tag": "Connecteurs",
+    "dictee": "parce",
+    "expl": "Cause : parce que, car, puisque. Conséquence : donc, alors. Opposition : mais."
   },
   {
     "id": "b1ee1_04",
-    "q": "¿Cómo se introduce un matiz en un argumento?",
-    "a": "Toutefois / néanmoins / cependant / il convient de nuancer",
+    "q": "¿Qué conectores expresan la CONSECUENCIA ?",
+    "a": "donc, alors, c'est pourquoi",
     "choices": [
-      "Toutefois, néanmoins, cependant",
-      "D'abord, ensuite, enfin",
-      "Parce que, car, puisque",
-      "Premièrement, deuxièmement"
+      "parce que, car, puisque",
+      "mais, cependant, or",
+      "et, aussi, de plus"
     ],
-    "tag": "Nuances",
-    "hint": "Nuancer = montrer la complexité",
-    "expl": "Nuance : TOUTEFOIS, NÉANMOINS, CEPENDANT, IL CONVIENT CEPENDANT DE NUANCER. CERTES... MAIS. MÊME SI. BIEN QUE. La nuance montre la maturité intellectuelle."
+    "tag": "Connecteurs",
+    "dictee": "donc",
+    "expl": "Conséquence : donc (lógico), alors (temporal/lógico), c'est pourquoi (formal)."
   },
   {
     "id": "b1ee1_05",
-    "q": "¿Cómo se evitan las repeticiones en un texto argumentativo?",
-    "a": "Synonymes, termes génériques, pronoms, nominalisations",
+    "q": "¿Qué conectores expresan la OPOSICIÓN ?",
+    "a": "mais, cependant, pourtant",
     "choices": [
-      "Synonymes, pronoms, nominalisations",
-      "Répétition volontaire",
-      "Beaucoup d'adjectifs",
-      "Phrases très courtes"
+      "donc, c'est pourquoi, ainsi",
+      "et, aussi, de plus",
+      "parce que, puisque, car"
     ],
-    "tag": "Style",
-    "hint": "ÉVITER les répétitions = qualité essentielle",
-    "expl": "Pour éviter répétitions : (1) SYNONYMES : problème → difficulté, enjeu. (2) NOMINALISATIONS : travailler → le travail. (3) PRONOMS : il, elle, y, en. (4) HYPERONYMES."
+    "tag": "Connecteurs",
+    "dictee": "mais",
+    "expl": "Opposition : mais (simple), cependant (formal), pourtant (malgré tout)."
   },
   {
     "id": "b1ee1_06",
-    "q": "¿Qué es la 'nominalisation' en un texto formal?",
-    "a": "Transformer un verbe/adjectif en nom : travailler → le travail",
+    "q": "¿Cómo se empieza a introducir un texto ?",
+    "a": "tout d'abord, en premier lieu",
     "choices": [
-      "Transformer verbe/adj en nom",
-      "Utiliser beaucoup de noms",
-      "Éviter les verbes",
-      "Utiliser des pronoms"
+      "ensuite, puis, après",
+      "enfin, pour finir",
+      "cependant, pourtant"
     ],
-    "tag": "Style",
-    "hint": "La PROGRESSION → progresser / le DÉVELOPPEMENT → développer",
-    "expl": "NOMINALISATION = transformation en nom. PROGRESSER → LA PROGRESSION. DÉVELOPPER → LE DÉVELOPPEMENT. Donne un ton plus formel et abstrait. Très utilisé dans les textes académiques."
+    "tag": "Structure",
+    "dictee": "d'abord",
+    "expl": "Début : Tout d'abord / En premier lieu. Milieu : Ensuite. Fin : Enfin / Pour conclure."
   },
   {
     "id": "b1ee1_07",
-    "q": "¿Cómo se presenta un plan en un texto?",
-    "a": "Annonce implicite dans l'introduction ou explicite (nous verrons d'abord...)",
+    "q": "¿Qué fórmula cierra una carta formal ?",
+    "a": "Veuillez agréer mes salutations",
     "choices": [
-      "Annonce dans l'introduction",
-      "Plan toujours explicite",
-      "Plan jamais annoncé",
-      "Plan seulement à la fin"
+      "Cordialement vôtre",
+      "Avec mes amitiés",
+      "Bisous et à bientôt"
     ],
-    "tag": "Structure",
-    "hint": "NOUS VERRONS D'ABORD... PUIS... ENFIN...",
-    "expl": "PLAN : annonce dans l'introduction. Explicite : 'Nous verrons D'ABORD... PUIS... ENFIN...' Implicite : dans la thèse. Transitions entre parties obligatoires."
+    "tag": "Lettre",
+    "dictee": "agréer",
+    "expl": "Lettre formelle : Veuillez agréer, Madame/Monsieur, l'expression de mes salutations."
   },
   {
     "id": "b1ee1_08",
-    "q": "¿Cómo se redacta una transición entre dos partes?",
-    "a": "Bilan de la partie précédente + annonce de la suivante",
+    "q": "¿Cómo se empieza un email informal a un amigo ?",
+    "a": "Salut !, Coucou !, Bonjour [prénom]",
     "choices": [
-      "Bilan + annonce partie suivante",
-      "Juste une nouvelle idée",
-      "Seulement un connecteur",
-      "Répétition de la thèse"
+      "Madame, Monsieur,",
+      "À qui de droit,",
+      "Cher(e) collègue,"
     ],
-    "tag": "Structure",
-    "hint": "AINSI + bilan + CEPENDANT/OR + nouvelle partie",
-    "expl": "TRANSITION : (1) Bilan : AINSI, ON PEUT CONSTATER QUE... (2) Pivot : CEPENDANT / OR / MAIS. (3) Annonce : IL CONVIENT MAINTENANT D'EXAMINER..."
+    "tag": "Email",
+    "dictee": "Salut",
+    "expl": "Email informel : Salut Pierre ! / Coucou ! Email formel : Madame, Monsieur,"
   },
   {
     "id": "b1ee1_09",
-    "q": "¿Cómo se redacta una introducción eficaz?",
-    "a": "Accroche → mise en contexte → thèse → annonce du plan",
+    "q": "¿Cómo se termina un email informal ?",
+    "a": "Bises, À bientôt, Amitiés",
     "choices": [
-      "Accroche / contexte / thèse / plan",
-      "Juste la thèse",
-      "Résumé + conclusion",
-      "Problème + solution"
+      "Veuillez agréer mes salutations",
+      "Dans l'attente de votre réponse",
+      "Je vous prie d'agréer"
     ],
-    "tag": "Structure",
-    "hint": "4 étapes : accroche, contexte, thèse, plan",
-    "expl": "INTRODUCTION : (1) ACCROCHE (citer, chiffre, paradoxe). (2) CONTEXTUALISATION. (3) THÈSE ou problématique. (4) ANNONCE DU PLAN. Environ 10-15% du texte total."
+    "tag": "Email",
+    "dictee": "Bises",
+    "expl": "Email informel fin : Bises (proches), À bientôt, Amitiés. Semi-formel : Cordialement."
   },
   {
     "id": "b1ee1_10",
-    "q": "¿Cómo se redacta una conclusión eficaz?",
-    "a": "Bilan → élargissement → ouverture",
+    "q": "¿Cómo se expresa una hipótesis con 'si' en presente ?",
+    "a": "si + présent → futur",
     "choices": [
-      "Bilan / élargissement / ouverture",
-      "Juste répéter l'introduction",
-      "Nouveaux arguments",
-      "Résumé exhaustif"
+      "si + imparfait → conditionnel",
+      "si + subjonctif → futur",
+      "si + futur → présent"
     ],
-    "tag": "Structure",
-    "hint": "EN CONCLUSION, bilan + perspective",
-    "expl": "CONCLUSION : (1) BILAN : rappel synthétique des arguments. (2) ÉLARGISSEMENT : nuance ou confirmation de la thèse. (3) OUVERTURE : question plus large, perspective. Jamais de nouveaux arguments."
+    "tag": "Condition",
+    "dictee": "futur",
+    "expl": "Condition réelle : Si + présent → futur. Si je peux, je viendrai."
   },
   {
     "id": "b1ee1_11",
-    "q": "¿Cómo se usan los datos numéricos en un texto?",
-    "a": "Citer la source + intégrer dans la phrase + commenter",
+    "q": "¿Cómo se expresa una OPINIÓN en un texto ?",
+    "a": "à mon avis, je pense que, selon moi",
     "choices": [
-      "Source + intégration + commentaire",
-      "Juste les chiffres",
-      "Mettre en note de bas de page",
-      "Éviter les chiffres"
+      "il est prouvé que, on sait que",
+      "tout le monde pense que",
+      "d'après les experts toujours"
     ],
-    "tag": "Argumentation",
-    "hint": "'Selon une étude de X (2023), Y% des...'",
-    "expl": "DONNÉES CHIFFRÉES : SELON + source + , + X% des... + interprétation. Toujours contextualiser les chiffres. 'Ce chiffre montre que...' Ne jamais laisser un chiffre seul."
+    "tag": "Opinion",
+    "dictee": "avis",
+    "expl": "Opinion personnelle : Je pense que, À mon avis, Selon moi, Il me semble que."
   },
   {
     "id": "b1ee1_12",
-    "q": "¿Cómo se hace referencia a una fuente en un texto?",
-    "a": "Selon X... / D'après Y... / Comme l'affirme Z... / X souligne que...",
+    "q": "¿Cómo se introduce un EJEMPLO ?",
+    "a": "par exemple, comme, notamment",
     "choices": [
-      "Selon / d'après / comme l'affirme",
-      "Copier-coller la source",
-      "Paraphraser sans citer",
-      "Ignorer les sources"
+      "pourtant, néanmoins, toutefois",
+      "d'une part, d'autre part",
+      "en résumé, bref, donc"
     ],
-    "tag": "Citation",
-    "hint": "SELON + nom/source + , + contenu",
-    "expl": "Référence à une source : SELON X, D'APRÈS Y, COMME L'AFFIRME Z, X SOULIGNE QUE, X MONTRE QUE. Varier les verbes introducteurs : affirmer, souligner, noter, montrer, préciser."
+    "tag": "Exemple",
+    "dictee": "exemple",
+    "expl": "Exemple : par exemple (courant), notamment (formal), comme (comparatif)."
   },
   {
     "id": "b1ee1_13",
-    "q": "¿Cómo se expresa una hipótesis en un texto?",
-    "a": "Si... / En supposant que + subjonctif / Dans l'hypothèse où + conditionnel",
+    "q": "¿Cómo se CONCLUYE un texto ?",
+    "a": "en conclusion, pour conclure, bref",
     "choices": [
-      "Si / en supposant que / dans l'hypothèse où",
-      "Parce que / donc",
-      "D'abord / ensuite",
-      "Certes / mais"
+      "tout d'abord, en premier lieu",
+      "de plus, par ailleurs",
+      "cependant, néanmoins"
     ],
-    "tag": "Hypothèse",
-    "hint": "Formuler une hypothèse = conditionnement",
-    "expl": "HYPOTHÈSE : SI + présent → futur (probable). EN SUPPOSANT QUE + subjonctif (incertaine). DANS L'HYPOTHÈSE OÙ + conditionnel (encore plus incertaine)."
+    "tag": "Structure",
+    "dictee": "conclusion",
+    "expl": "Conclusion : En conclusion/Pour conclure (formal). En résumé/Bref (informal)."
   },
   {
     "id": "b1ee1_14",
-    "q": "¿Cuál es la diferencia entre 'exposé' y 'dissertation'?",
-    "a": "EXPOSÉ = présenter des informations / DISSERTATION = argumenter une thèse",
+    "q": "¿Cuál es la estructura de una carta formal ?",
+    "a": "fecha / fórmula / cuerpo / despedida",
     "choices": [
-      "Exposé = info, dissertation = thèse",
-      "Même exercice",
-      "Exposé = long, dissertation = court",
-      "Exposé = oral, dissertation = écrit toujours"
+      "solo asunto y firma",
+      "texto libre y fecha",
+      "título e introducción"
     ],
-    "tag": "Genres textuels",
-    "hint": "Exposer ≠ argumenter",
-    "expl": "EXPOSÉ/SYNTHÈSE = présenter objectivement des informations sur un sujet. DISSERTATION = défendre une thèse, argumenter. Les deux à l'écrit ou à l'oral."
+    "tag": "Lettre",
+    "dictee": "fecha",
+    "expl": "Lettre formelle : lieu + date / formule d'appel / corps / formule de politesse / signature."
   },
   {
     "id": "b1ee1_15",
-    "q": "¿Cómo se redacta un compte rendu objetivo?",
-    "a": "Résumé fidèle sans jugement personnel + formules d'objectivité",
+    "q": "¿Cómo se hace referencia a una fuente ?",
+    "a": "selon X, d'après Y, comme l'affirme Z",
     "choices": [
-      "Résumé fidèle sans jugement",
-      "Avec toutes les opinions",
-      "Seulement les points positifs",
-      "Avec interprétation personnelle"
+      "copiar y pegar la fuente",
+      "parafrasear sin citar",
+      "ignorar las fuentes"
     ],
-    "tag": "Genres textuels",
-    "hint": "Le compte rendu = objectivité maximale",
-    "expl": "COMPTE RENDU : résumé FIDÈLE et OBJECTIF. Formules : L'AUTEUR AFFIRME, IL SOUTIENT QUE, SELON L'AUTEUR. Jamais de 'je pense que'. Reformulation, pas copie."
+    "tag": "Citation",
+    "dictee": "selon",
+    "expl": "Référence : SELON X, D'APRÈS Y, COMME L'AFFIRME Z, X SOULIGNE QUE."
   },
   {
     "id": "b1ee1_16",
-    "q": "¿Cuál es la diferencia entre 'analyser' y 'commenter'?",
-    "a": "ANALYSER = décomposer / COMMENTER = interpréter et évaluer",
+    "q": "¿Qué es una 'nominalisation' en un texto formal ?",
+    "a": "transformar un verbo en sustantivo",
     "choices": [
-      "Analyser = décomposer, commenter = interpréter",
-      "Même exercice",
-      "Analyser = opinion, commenter = description",
-      "Analyser = court, commenter = long"
+      "usar muchos sustantivos",
+      "evitar los verbos siempre",
+      "usar pronombres indefinidos"
     ],
-    "tag": "Consignes",
-    "hint": "L'analyse précède le commentaire",
-    "expl": "ANALYSER = décomposer en éléments. COMMENTER = interpréter, donner du sens, évaluer. L'analyse est descriptive, le commentaire est interprétatif."
+    "tag": "Style",
+    "dictee": "sustantivo",
+    "expl": "Nominalisation : PROGRESSER → LA PROGRESSION. DÉVELOPPER → LE DÉVELOPPEMENT."
   },
   {
     "id": "b1ee1_17",
-    "q": "¿Cómo se evita la 'langue de bois' en un texto?",
-    "a": "Exemples précis, verbes d'action, chiffres, noms propres",
+    "q": "¿Qué registro se usa para escribir a un médico ?",
+    "a": "registro formal, vouvoiement",
     "choices": [
-      "Exemples précis, verbes d'action, chiffres",
-      "Formules générales",
-      "Beaucoup d'adverbes",
-      "Phrases très longues"
+      "registro familiar y directo",
+      "registro estándar sin cortesía",
+      "registro argótico simpático"
     ],
-    "tag": "Style",
-    "hint": "La langue de bois = généralités vides de sens",
-    "expl": "ÉVITER LA LANGUE DE BOIS : exemples concrets, noms propres, chiffres précis, verbes d'action plutôt que d'état. Pas de 'nombreux', 'certains', 'on peut dire que' seuls."
+    "tag": "Registres",
+    "dictee": "formal",
+    "expl": "À un médecin, directeur, inconnu : registre formel. Entre amis : registre familier."
+  },
+  {
+    "id": "b1ee1_18",
+    "q": "¿Cómo se refuta un argumento contrario ?",
+    "a": "certes... mais / il est vrai que... cependant",
+    "choices": [
+      "vous avez tort, c'est faux",
+      "parce que / donc",
+      "d'abord / ensuite"
+    ],
+    "tag": "Argumentation",
+    "dictee": "certes",
+    "expl": "Réfutation : concession (CERTES...) + contre-argument (MAIS, CEPENDANT...)."
   }
 ]

@@ -1,240 +1,236 @@
 [
   {
     "id": "b1ee2_01",
-    "q": "¿Cómo se redacta un párrafo argumentativo eficaz?",
-    "a": "Idée principale → développement → exemple → mini-conclusion",
+    "q": "¿Cómo se estructura un párrafo argumentativo ?",
+    "a": "idea / desarrollo / ejemplo / conclusión",
     "choices": [
-      "Idée / développement / exemple / conclusion",
-      "Juste l'idée principale",
-      "Exemple puis idée",
-      "Conclusion d'abord"
+      "solo la idea principal",
+      "ejemplo y luego idea",
+      "conclusión primero"
     ],
     "tag": "Paragraphe",
-    "hint": "Structure IDEA : Idée, Développement, Exemple, Ancrage",
-    "expl": "PARAGRAPHE : (1) IDÉE principale (1 phrase). (2) DÉVELOPPEMENT (2-3 phrases). (3) EXEMPLE concret. (4) MINI-CONCLUSION ou lien avec le suivant. 1 idée = 1 paragraphe."
+    "dictee": "idea",
+    "expl": "Paragraphe = idée principale + développement + exemple concret + mini-conclusion."
   },
   {
     "id": "b1ee2_02",
-    "q": "¿Cómo se articulan dos párrafos entre sí?",
-    "a": "Mot de liaison en début + référence à l'idée précédente",
+    "q": "¿Cómo se conectan dos párrafos ?",
+    "a": "conector + referencia al párrafo anterior",
     "choices": [
-      "Mot de liaison + référence au paragraphe précédent",
-      "Nouvelle idée sans lien",
-      "Répétition du titre",
-      "Rien en particulier"
+      "nueva idea sin enlace",
+      "repetición del título",
+      "nada en particular"
     ],
     "tag": "Cohérence",
-    "hint": "EN OUTRE, CEPENDANT, PAR AILLEURS en début de paragraphe",
-    "expl": "TRANSITION ENTRE PARAGRAPHES : mot de liaison (EN OUTRE, CEPENDANT) + référence à l'idée précédente (CE PHÉNOMÈNE, CETTE TENDANCE). La cohésion textuelle est essentielle."
+    "dictee": "conector",
+    "expl": "Transition : mot de liaison (EN OUTRE, CEPENDANT) + référence à l'idée précédente."
   },
   {
     "id": "b1ee2_03",
-    "q": "¿Cómo se evalúa la coherencia de un texto?",
-    "a": "Progression logique, pas de contradiction, liens entre les idées",
+    "q": "¿Diferencia entre 'affirmer' y 'prétendre' ?",
+    "a": "affirmer = neutro / prétendre = dudoso",
     "choices": [
-      "Progression logique, pas de contradictions, liens",
-      "Beaucoup de vocabulaire soutenu",
-      "Phrases longues",
-      "Aucune répétition"
+      "mismo significado",
+      "affirmer = falso / prétendre = verdadero",
+      "affirmer = formal / prétendre = familiar"
     ],
-    "tag": "Cohérence",
-    "hint": "Un texte cohérent se tient du début à la fin",
-    "expl": "COHÉRENCE : (1) Pas de contradictions. (2) Progression logique. (3) Liens entre idées. (4) Cohésion lexicale (même champ sémantique). (5) Cohésion grammaticale (pronoms, substitutions)."
+    "tag": "Verbes introducteurs",
+    "dictee": "neutro",
+    "expl": "AFFIRMER = declarar (neutral). PRÉTENDRE QUE = afirmar sin pruebas (péjoratif)."
   },
   {
     "id": "b1ee2_04",
-    "q": "¿Cómo se usa el discurso indirecto en un texto?",
-    "a": "Il affirme que / il souligne que / il montre que + proposition",
+    "q": "¿Certeza o duda ? 'Il est certain que' va con...",
+    "a": "indicatif",
     "choices": [
-      "Il affirme / souligne / montre que + prop",
-      "Il dit / pense / veut que + subjonctif",
-      "Il déclare + infinitif",
-      "Il indique + conditionnel"
+      "subjonctif",
+      "conditionnel",
+      "infinitif"
     ],
-    "tag": "Discours indirect",
-    "hint": "Rapporter les idées d'un auteur",
-    "expl": "Rapporter les idées : X AFFIRME QUE + indicatif. X SOULIGNE QUE. X MONTRE QUE. X ESTIME QUE. X PRÉTEND QUE. Varier les verbes : noter, préciser, ajouter, conclure."
+    "tag": "Modalisation",
+    "dictee": "indicatif",
+    "expl": "Certitude → indicatif. Il est certain QUE + indicatif. Il est possible QUE + subjonctif."
   },
   {
     "id": "b1ee2_05",
-    "q": "¿Cuál es la diferencia entre 'affirmer' y 'prétendre'?",
-    "a": "AFFIRMER = dire avec assurance (neutre) / PRÉTENDRE = dire sans preuve (péjoratif)",
+    "q": "¿Certeza o duda ? 'Il est possible que' va con...",
+    "a": "subjonctif",
     "choices": [
-      "Affirmer = neutre, prétendre = péjoratif",
-      "Même sens",
-      "Affirmer = faux, prétendre = vrai",
-      "Affirmer = formel, prétendre = familier"
+      "indicatif",
+      "conditionnel",
+      "infinitif"
     ],
-    "tag": "Verbes introducteurs",
-    "hint": "Il PRÉTEND = je doute de ce qu'il dit",
-    "expl": "AFFIRMER = declarar con confianza (neutral). PRÉTENDRE QUE = afirmar sin pruebas (connotación negativa). Il PRÉTEND que c'est vrai = dice que es verdad (pero no le creo)."
+    "tag": "Modalisation",
+    "dictee": "subjonctif",
+    "expl": "Doute → subjonctif. IL EST POSSIBLE QUE + subjonctif. IL SEMBLE QUE + subjonctif."
   },
   {
     "id": "b1ee2_06",
-    "q": "¿Cómo se expresa una certeza en un texto?",
-    "a": "Il est certain que / il va de soi que / il est indéniable que + indicatif",
+    "q": "¿Cómo se evitan los anglicismos ? 'meeting' en francés...",
+    "a": "réunion",
     "choices": [
-      "Il est certain que / indéniable que + indicatif",
-      "Il est possible que + subjonctif",
-      "Il semble que + subjonctif",
-      "Peut-être que + conditionnel"
+      "meeting",
+      "rendez-vous",
+      "assemblée"
     ],
-    "tag": "Modalisation",
-    "hint": "CERTITUDE → indicatif / DOUTE → subjonctif",
-    "expl": "CERTITUDE + indicatif : IL EST CERTAIN QUE, IL EST ÉVIDENT QUE, IL VA DE SOI QUE. DOUTE + subjonctif : IL EST POSSIBLE QUE, IL SEMBLE QUE, IL SE PEUT QUE."
+    "tag": "Lexique",
+    "dictee": "réunion",
+    "expl": "MEETING → RÉUNION. CHALLENGE → DÉFI. FEEDBACK → RETOUR. PLANNING → CALENDRIER."
   },
   {
     "id": "b1ee2_07",
-    "q": "¿Cómo se expresa una duda o reserva en un texto?",
-    "a": "Il semble que + subjonctif / peut-être que / il est possible que",
+    "q": "¿Cómo se evitan los anglicismos ? 'challenge' en francés...",
+    "a": "défi",
     "choices": [
-      "Il semble que + subjonctif / peut-être",
-      "Il est certain que + indicatif",
-      "Il va de soi que",
-      "Il est évident que"
+      "challenge",
+      "problème",
+      "difficulté"
     ],
-    "tag": "Modalisation",
-    "hint": "La réserve nuance l'affirmation",
-    "expl": "RÉSERVE/DOUTE : IL SEMBLE QUE + subjonctif. IL EST POSSIBLE QUE. ON POURRAIT PENSER QUE. PEUT-ÊTRE QUE + indicatif. IL N'EST PAS SÛR QUE + subjonctif."
+    "tag": "Lexique",
+    "dictee": "défi",
+    "expl": "CHALLENGE → DÉFI. CHECKER → VÉRIFIER. BRAINSTORMING → REMUE-MÉNINGES."
   },
   {
     "id": "b1ee2_08",
-    "q": "¿Cómo se evitan los anglicismos en un texto francés?",
-    "a": "Checker → vérifier / meeting → réunion / challenge → défi / feedback → retour",
+    "q": "¿Qué es la 'distanciation' en un texto académico ?",
+    "a": "evitar 'je', usar on / il est",
     "choices": [
-      "Utiliser les équivalents français",
-      "Les anglicismes sont acceptés",
-      "Mettre entre guillemets",
-      "Les utiliser normalement"
+      "usar mucho 'je'",
+      "hablar en 2ª persona",
+      "usar 'vous' siempre"
     ],
-    "tag": "Lexique",
-    "hint": "Les calques et emprunts à éviter à l'écrit soigné",
-    "expl": "Anglicismes à éviter : CHECKER → VÉRIFIER. MEETING → RÉUNION. CHALLENGE → DÉFI. FEEDBACK → RETOUR/COMMENTAIRE. PLANNING → CALENDRIER. BRAINSTORMING → REMUE-MÉNINGES."
+    "tag": "Style académique",
+    "dictee": "impersonal",
+    "expl": "Distanciation = éviter JE → ON / IL CONVIENT DE / IL EST POSSIBLE DE."
   },
   {
     "id": "b1ee2_09",
-    "q": "¿Cómo se usan los paréntesis y los guiones en un texto?",
-    "a": "Parenthèses = information accessoire / tirets = incise explicative",
+    "q": "¿Qué es una reprise nominale ?",
+    "a": "sustituir una palabra por sinónimo o perífrasis",
     "choices": [
-      "Parenthèses = accessoire, tirets = incise",
-      "Même usage",
-      "Parenthèses = important, tirets = accessoire",
-      "Aucune règle"
+      "repetir siempre la misma palabra",
+      "usar un pronombre siempre",
+      "omitir la palabra"
     ],
-    "tag": "Ponctuation",
-    "hint": "(accessoire) vs — incise importante —",
-    "expl": "PARENTHÈSES = information accessoire qu'on peut enlever. TIRETS — incise — = explication importante mais séparable. Les deux peuvent se remplacer selon l'importance."
+    "tag": "Cohésion",
+    "dictee": "sinónimo",
+    "expl": "Reprise nominale : LE CHIEN → L'ANIMAL → CE FIDÈLE COMPAGNON. Enrichit le texte."
   },
   {
     "id": "b1ee2_10",
-    "q": "¿Cómo se presenta una cita en un texto?",
-    "a": "... (auteur, œuvre, date) ou Comme le dit X : «...»",
+    "q": "¿Cómo se introduce una cita en francés ?",
+    "a": "Comme le dit X : «...»",
     "choices": [
-      "Auteur + œuvre + date / Comme le dit X + guillemets",
-      "Sans référence",
-      "Entre virgules",
-      "En italique seulement"
+      "entre comillas inglesas",
+      "en cursiva sin referencia",
+      "con asterisco solo"
     ],
     "tag": "Citation",
-    "hint": "Citer correctement = respecter la propriété intellectuelle",
-    "expl": "CITATION : (1) Intégrée : COMME LE DIT X, «...» (2) Introduite : X AFFIRME : «...» (3) Référence (auteur, titre, date). En français : guillemets « » (pas \"\")."
+    "dictee": "dice",
+    "expl": "Citation en français : guillemets « ». Comme le dit X : «...» (auteur, titre, date)."
   },
   {
     "id": "b1ee2_11",
-    "q": "¿Qué es un 'champ lexical' y cómo se usa?",
-    "a": "Ensemble de mots liés à un même thème, à utiliser pour la cohésion lexicale",
+    "q": "¿Qué estructura sirve para comparar dos documentos ?",
+    "a": "X affirme... OR/EN REVANCHE Y soutient...",
     "choices": [
-      "Ensemble de mots d'un même thème",
-      "Un seul mot et ses synonymes",
-      "Les mots techniques",
-      "Les mots étrangers"
+      "résumé de X puis de Y",
+      "seulement les points communs",
+      "seulement les différences"
     ],
-    "tag": "Lexique",
-    "hint": "Champ lexical de la guerre : conflit, bataille, victoire...",
-    "expl": "CHAMP LEXICAL = ensemble de mots liés à un thème. Utiliser un champ lexical cohérent donne de l'unité au texte. Ex : champ de la LUMIÈRE : éclairer, brillant, rayonner, éblouir."
+    "tag": "Synthèse",
+    "dictee": "revanche",
+    "expl": "Comparaison : CONVERGENCE (les deux s'accordent) / DIVERGENCE (alors que X... Y en revanche)."
   },
   {
     "id": "b1ee2_12",
-    "q": "¿Cómo se usan las reanudaciones nominales para la cohesión?",
-    "a": "Remplacer un mot par un synonyme, hyperonyme ou périphrase",
+    "q": "¿Cómo se estructura una síntesis de documentos ?",
+    "a": "introducción común / confrontación temática / conclusión",
     "choices": [
-      "Synonyme, hyperonyme ou périphrase",
-      "Toujours un pronom",
-      "Toujours répéter le mot",
-      "Omettre le mot"
+      "resumir doc 1 luego doc 2",
+      "plan cronológico",
+      "un resumen por documento"
     ],
-    "tag": "Cohésion",
-    "hint": "Le chien → l'animal → le fidèle compagnon",
-    "expl": "REPRISE NOMINALE : LE CHIEN → L'ANIMAL (hyperonyme) → CE FIDÈLE COMPAGNON (périphrase). Enrichit le texte et évite les répétitions. Complète les pronoms (il, elle, le, y...)."
+    "tag": "Synthèse",
+    "dictee": "temática",
+    "expl": "Synthèse = fusionner thématiquement, pas résumer séparément."
   },
   {
     "id": "b1ee2_13",
-    "q": "¿Cómo se estructura una síntesis de documentos?",
-    "a": "Introduction commune → confrontation thématique → conclusion globale",
+    "q": "¿Qué es un 'champ lexical' ?",
+    "a": "conjunto de palabras de un mismo tema",
     "choices": [
-      "Introduction / confrontation thématique / conclusion",
-      "Résumer doc 1 puis doc 2",
-      "Plan chronologique",
-      "Un résumé par document"
+      "un solo término y sus sinónimos",
+      "las palabras técnicas únicamente",
+      "los préstamos extranjeros"
     ],
-    "tag": "Synthèse",
-    "hint": "La synthèse = fusionner, pas résumer séparément",
-    "expl": "SYNTHÈSE : (1) Introduction globale (problématique commune). (2) Développement THÉMATIQUE (pas document par document). (3) Conclusion. Fusionner les documents autour de thèmes communs."
+    "tag": "Lexique",
+    "dictee": "tema",
+    "expl": "Champ lexical = ensemble de mots liés à un thème. Donne unité au texte."
   },
   {
     "id": "b1ee2_14",
-    "q": "¿Cómo se comparan dos documentos en una síntesis?",
-    "a": "X affirme que... OR/EN REVANCHE, Y soutient que... / Les deux s'accordent sur...",
+    "q": "¿Cómo se mejora la fluidez de un texto ?",
+    "a": "variar longitud y complejidad de frases",
     "choices": [
-      "X affirme... OR Y soutient... / Les deux s'accordent",
-      "Résumé de X puis de Y",
-      "Seulement les points communs",
-      "Seulement les différences"
+      "frases todas largas",
+      "frases todas cortas",
+      "misma estructura repetida"
     ],
-    "tag": "Synthèse",
-    "hint": "Mettre en regard, pas résumer séparément",
-    "expl": "COMPARAISON : CONVERGENCE : X et Y s'accordent sur... DIVERGENCE : Alors que X... Y en revanche... / X souligne... OR Y nuance... Varier la structure."
+    "tag": "Style",
+    "dictee": "variar",
+    "expl": "Fluidité = alterner phrases courtes (impact) et longues (développement)."
   },
   {
     "id": "b1ee2_15",
-    "q": "¿Cuál es la regla de oro para la expresión escrita en B1?",
-    "a": "Une idée par paragraphe, une phrase principale claire, des connecteurs logiques",
+    "q": "¿Qué es la 'langue de bois' ?",
+    "a": "generalidades vacías sin precisión",
     "choices": [
-      "Une idée par paragraphe avec connecteurs",
-      "Beaucoup d'idées par paragraphe",
-      "Éviter les connecteurs",
-      "Phrases très longues sans structure"
+      "lenguaje técnico preciso",
+      "vocabulario muy elevado",
+      "estilo poético y literario"
     ],
-    "tag": "Méthode",
-    "hint": "Clarté = qualité principale",
-    "expl": "RÈGLE D'OR : (1) UNE idée = UN paragraphe. (2) Phrase principale CLAIRE en tête. (3) CONNECTEURS logiques. (4) EXEMPLE concret. (5) Pas de digressions. CLARTÉ avant tout."
+    "tag": "Style",
+    "dictee": "generalidades",
+    "expl": "Langue de bois = généralités vides. Éviter avec des exemples précis et des chiffres."
   },
   {
     "id": "b1ee2_16",
-    "q": "¿Cómo se mejora la fluidez de un texto?",
-    "a": "Varier la longueur des phrases, alterner constructions simples et complexes",
+    "q": "¿Cómo se evalúa la coherencia de un texto ?",
+    "a": "progresión lógica, sin contradicciones",
     "choices": [
-      "Varier longueur et complexité des phrases",
-      "Phrases toutes longues",
-      "Phrases toutes courtes",
-      "Même structure répétée"
+      "solo el vocabulario sofisticado",
+      "las frases muy largas",
+      "la ausencia de repeticiones"
     ],
-    "tag": "Style",
-    "hint": "Rhythm textuel = variation",
-    "expl": "FLUIDITÉ : alterner phrases COURTES (impact) et LONGUES (développement). Varier les STRUCTURES : active/passive, affirmative/négative. RYTHME = musicalité du texte."
+    "tag": "Cohérence",
+    "dictee": "lógica",
+    "expl": "Cohérence = (1) pas de contradictions (2) progression logique (3) liens entre idées."
   },
   {
     "id": "b1ee2_17",
-    "q": "¿Qué es la 'distanciation' en un texto académico?",
-    "a": "Ne pas utiliser 'je', parler de façon impersonnelle : on / il est + adj",
+    "q": "¿Qué es la 'ponctuation' en un texto escrito ?",
+    "a": "signos que estructuran el texto escrito",
     "choices": [
-      "Éviter 'je', utiliser on/il est + adj",
-      "Utiliser beaucoup de 'je'",
-      "Parler à la 2ème personne",
-      "Utiliser 'vous' toujours"
+      "el vocabulario del texto",
+      "la gramática del texto",
+      "el contenido del texto"
     ],
-    "tag": "Style académique",
-    "hint": "Dans un essai, on évite souvent 'je pense'",
-    "expl": "DISTANCIATION académique : éviter JE → ON / IL CONVIENT DE / IL EST POSSIBLE DE. 'JE PENSE QUE' → 'ON PEUT CONSIDÉRER QUE'. Plus objectif et impersonnel."
+    "tag": "Ponctuation",
+    "dictee": "signos",
+    "expl": "Ponctuation = virgule, point, point-virgule, deux-points, guillemets, tirets."
+  },
+  {
+    "id": "b1ee2_18",
+    "q": "¿Cómo se presenta un plan en la introducción ?",
+    "a": "nous verrons d'abord... puis... enfin...",
+    "choices": [
+      "plan siempre implícito",
+      "plan solo al final",
+      "plan repetido varias veces"
+    ],
+    "tag": "Structure",
+    "dictee": "d'abord",
+    "expl": "Annonce du plan : Nous verrons D'ABORD... PUIS... ENFIN... Ou implicite dans la thèse."
   }
 ]

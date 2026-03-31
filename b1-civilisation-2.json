@@ -1,240 +1,236 @@
 [
   {
     "id": "b1civ2_01",
-    "q": "¿Qué caracteriza la política exterior de Francia?",
-    "a": "La France = membre permanent du Conseil de sécurité de l'ONU, puissance nucléaire",
+    "q": "¿Qué caracteriza la política exterior de Francia ?",
+    "a": "miembro permanente del CS de la ONU",
     "choices": [
-      "Membre permanent ONU, puissance nucléaire",
-      "Pays neutre",
-      "Membre de l'OTAN seulement",
-      "Puissance régionale seulement"
+      "país neutral",
+      "miembro de la OTAN solo",
+      "potencia regional únicamente"
     ],
     "tag": "Géopolitique",
-    "hint": "France = l'un des 5 membres permanents du CS de l'ONU",
-    "expl": "FRANCE géopolitique : membre permanent CS ONU (avec veto). PUISSANCE NUCLÉAIRE. Fondatrice UE. Membre OTAN. 2ème réseau diplomatique mondial. Francophonie = soft power."
+    "dictee": "ONU",
+    "expl": "France = membre permanent CS ONU (avec droit de veto). Puissance nucléaire."
   },
   {
     "id": "b1civ2_02",
-    "q": "¿Qué papel juega Francia en la construcción europea?",
-    "a": "La France est l'un des pays fondateurs de l'UE (1957, Traité de Rome)",
+    "q": "¿Qué papel juega Francia en la construcción europea ?",
+    "a": "país fundador de la UE (1957)",
     "choices": [
-      "Pays fondateur UE 1957",
-      "Pays entré tardivement",
-      "Pays opposé à l'UE",
-      "Pays non membre"
+      "país que entró tarde",
+      "país opuesto a la UE",
+      "país no miembro"
     ],
     "tag": "Europe",
-    "hint": "France + Allemagne = moteur de l'Europe",
-    "expl": "FRANCE et CONSTRUCTION EUROPÉENNE : pays fondateur (Traité de Rome 1957). Franco-allemand = moteur de l'UE. Tensions entre souveraineté nationale et intégration européenne."
+    "dictee": "fundador",
+    "expl": "France = pays fondateur (Traité de Rome 1957). Moteur franco-allemand de l'UE."
   },
   {
     "id": "b1civ2_03",
-    "q": "¿Qué es el 'modèle social français'?",
-    "a": "Système de protection sociale étendu : SS, retraites, chômage, famille",
+    "q": "¿Qué es el 'modèle social français' ?",
+    "a": "sistema de protección social amplio",
     "choices": [
-      "Protection sociale étendue",
-      "Système libéral",
-      "Modèle américain",
-      "État minimal"
+      "sistema liberal anglosajón",
+      "modelo de Estado mínimo",
+      "sistema sin seguridad social"
     ],
     "tag": "Société",
-    "hint": "L'État-providence = caractéristique française",
-    "expl": "MODÈLE SOCIAL FRANÇAIS : SÉCURITÉ SOCIALE (1945). Retraites. Allocations chômage (Unédic/Pôle emploi). Allocations familiales. 33% du PIB = dépenses sociales. Souvent critiqué pour son coût."
+    "dictee": "social",
+    "expl": "Modèle social = Sécurité sociale, retraites, chômage, allocations familiales."
   },
   {
     "id": "b1civ2_04",
-    "q": "¿Qué diferencia hay entre el capitalismo renano y el anglosajón?",
-    "a": "RHÉNAN = État fort, partenariat social / ANGLO-SAXON = marché libre, actionnaire roi",
+    "q": "¿Qué es la 'désaffection politique' en Francia ?",
+    "a": "abstención creciente y desconfianza",
     "choices": [
-      "Rhénan = État fort/social, Anglo-saxon = marché libre",
-      "Même modèle",
-      "Rhénan = libéral, Anglo-saxon = social",
-      "Rhénan = asiatique, Anglo-saxon = européen"
+      "fuerte compromiso político",
+      "aumento de la participación",
+      "estabilidad política total"
     ],
-    "tag": "Économie",
-    "hint": "La France se situe entre les deux",
-    "expl": "CAPITALISME RHÉNAN (France/Allemagne) = État interventionniste, syndicats forts, protection sociale. CAPITALISME ANGLO-SAXON (UK/USA) = marché libre, actionnaire prioritaire, État minimal."
+    "tag": "Société",
+    "dictee": "abstención",
+    "expl": "Désaffection politique = abstentionnisme record, crise des partis traditionnels."
   },
   {
     "id": "b1civ2_05",
-    "q": "¿Qué es la 'désaffection politique' en Francia?",
-    "a": "Abstentionnisme croissant et méfiance envers les partis traditionnels",
+    "q": "¿Qué es la 'fracture numérique' ?",
+    "a": "desigualdad de acceso a internet",
     "choices": [
-      "Abstentionnisme et méfiance croissants",
-      "Engagement politique fort",
-      "Hausse de la participation",
-      "Stabilité politique"
+      "corte de internet nacional",
+      "fractura entre ciudades",
+      "avería de la red"
     ],
     "tag": "Société",
-    "hint": "Taux d'abstention record dans les élections récentes",
-    "expl": "DÉSAFFECTION POLITIQUE : abstentionnisme record aux législatives et régionales. Crise des partis traditionnels (PS, RPR). Montée des extrêmes. POPULISME = réponse à cette crise."
+    "dictee": "internet",
+    "expl": "Fracture numérique = inégalités d'accès et d'usage. Zones blanches, personnes âgées."
   },
   {
     "id": "b1civ2_06",
-    "q": "¿Qué es la 'fracture numérique' en Francia?",
-    "a": "Inégalités d'accès et d'usage d'internet selon l'âge, le lieu et les revenus",
+    "q": "¿Qué fue #MeToo en Francia ?",
+    "a": "denuncias de acoso sexual (2017)",
     "choices": [
-      "Inégalités d'accès à internet",
-      "Coupure internet nationale",
-      "Fracture entre villes",
-      "Panne du réseau"
+      "movimiento ecologista",
+      "reforma laboral",
+      "movimiento político"
     ],
     "tag": "Société",
-    "hint": "Zones blanches, personnes âgées, démunis",
-    "expl": "FRACTURE NUMÉRIQUE : inégalités d'accès (zones blanches rurales) et d'USAGE (personnes âgées, peu qualifiés). ILLECTRONISME = incapacité à utiliser les outils numériques. Enjeu social majeur."
+    "dictee": "acoso",
+    "expl": "#MeToo (2017) = dénonciations de harcèlement sexuel. En France : #BalanceTonPorc."
   },
   {
     "id": "b1civ2_07",
-    "q": "¿Qué fue el movimiento #MeToo en Francia?",
-    "a": "Vague de dénonciations de harcèlement et violences sexuelles, 2017",
+    "q": "¿Qué protege la loi Toubon (1994) ?",
+    "a": "el uso del francés en documentos oficiales",
     "choices": [
-      "Dénonciations harcèlement sexuel 2017",
-      "Mouvement écologiste",
-      "Réforme du travail",
-      "Mouvement politique"
+      "la libertad lingüística total",
+      "la promoción del inglés",
+      "el bilingüismo oficial"
     ],
-    "tag": "Société",
-    "hint": "#BalanceTonPorc = version française de #MeToo",
-    "expl": "#METOO (2017) = mouvement mondial contre harcèlement sexuel. En France : #BALANCETONPORC. Affaire Harvey Weinstein = déclencheur. Libération de la parole des femmes. Réformes législatives."
+    "tag": "Langue",
+    "dictee": "francés",
+    "expl": "Loi Toubon = français obligatoire dans documents officiels, publicités. Quotas radio."
   },
   {
     "id": "b1civ2_08",
-    "q": "¿Qué es la política lingüística francesa?",
-    "a": "Protection active du français : loi Toubon, académie, quota radio",
+    "q": "¿Por qué la reforma de pensiones es conflictiva en Francia ?",
+    "a": "edad de jubilación y financiación",
     "choices": [
-      "Protection active du français par la loi",
-      "Liberté linguistique totale",
-      "Promotion de l'anglais",
-      "Bilinguisme officiel"
+      "tema menor sin consecuencias",
+      "reforma fácil y consensual",
+      "asunto ya resuelto"
     ],
-    "tag": "Langue",
-    "hint": "La loi Toubon (1994) protège le français",
-    "expl": "POLITIQUE LINGUISTIQUE : LOI TOUBON (1994) = français obligatoire dans les documents officiels, publicités. QUOTAS RADIO = 40% de chansons françaises. Académie française. Résistance à l'anglais."
+    "tag": "Société",
+    "dictee": "jubilación",
+    "expl": "Retraites = sujet brûlant. Tentatives de reculer l'âge de départ. Grèves massives."
   },
   {
     "id": "b1civ2_09",
-    "q": "¿Por qué la reforma de las pensiones es un tema candente en Francia?",
-    "a": "Sujet de tension sociale récurrent : âge de départ, financement du système",
+    "q": "¿Qué es la transición energética en Francia ?",
+    "a": "paso a renovables + debate nuclear",
     "choices": [
-      "Tension sur l'âge de départ et financement",
-      "Réforme facile et consensuelle",
-      "Sujet mineur",
-      "Réforme déjà réglée"
+      "cierre de todas las centrales",
+      "abandono de renovables",
+      "transición ya terminada"
     ],
-    "tag": "Société",
-    "hint": "Grèves massives à chaque tentative de réforme",
-    "expl": "RETRAITES = sujet brûlant en France. Déficit chronique du système. Tentatives de reculer l'âge de départ (62 → 64 ans). Grèves massives. Conflit entre équité intergénérationnelle et droits acquis."
+    "tag": "Environnement",
+    "dictee": "nuclear",
+    "expl": "France = 75% électricité nucléaire. Débat : fermer ou prolonger + développer renouvelables."
   },
   {
     "id": "b1civ2_10",
-    "q": "¿Qué es la transición energética en Francia?",
-    "a": "Passage des énergies fossiles aux énergies renouvelables + débat nucléaire",
+    "q": "¿Qué es la desindustrialización en Francia ?",
+    "a": "declive industrial y deslocalizaciones",
     "choices": [
-      "Passage aux renouvelables + débat nucléaire",
-      "Fermeture de toutes les centrales",
-      "Abandon des renouvelables",
-      "Transition terminée"
+      "aumento de la industria",
+      "reindustrialización exitosa",
+      "industrialización agrícola"
     ],
-    "tag": "Environnement",
-    "hint": "France = 2ème puissance nucléaire mondiale",
-    "expl": "TRANSITION ÉNERGÉTIQUE : France = 75% d'électricité nucléaire. Débat : fermer ou prolonger les centrales ? Développer les renouvelables (éolien, solaire). Objectif neutralité carbone 2050."
+    "tag": "Économie",
+    "dictee": "declive",
+    "expl": "Désindustrialisation = fermetures d'usines, délocalisations depuis les années 80."
   },
   {
     "id": "b1civ2_11",
-    "q": "¿Qué es la desindustrialización en Francia?",
-    "a": "Déclin de l'industrie française depuis les années 80, délocalisations",
+    "q": "¿Qué es el 'republicanismo' francés frente al multiculturalismo ?",
+    "a": "asimilación, ciudadanía universal",
     "choices": [
-      "Déclin industriel et délocalisations",
-      "Hausse de l'industrie",
-      "Réindustrialisation",
-      "Industrialisation agricole"
+      "valorar las diferencias comunitarias",
+      "reconocer las comunidades",
+      "modelo anglosajón"
     ],
-    "tag": "Économie",
-    "hint": "La rouille de la Lorraine, du Nord-Pas-de-Calais",
-    "expl": "DÉSINDUSTRIALISATION : fermetures d'usines, délocalisations. Sidérurgie (Lorraine), textile (Nord), charbonnages. RECONVERSION difficile. RÉINDUSTRIALISATION = priorité politique depuis 2020."
+    "tag": "Société",
+    "dictee": "asimilación",
+    "expl": "Républicanisme français = citoyenneté universelle, pas de reconnaissance communautaire."
   },
   {
     "id": "b1civ2_12",
-    "q": "¿Qué diferencia hay entre multiculturalismo y republicanismo francés?",
-    "a": "MULTICULTURALISME = valoriser les différences / RÉPUBLICANISME = assimilation, citoyenneté universelle",
+    "q": "¿Qué es la francofonía ?",
+    "a": "conjunto de países que hablan francés",
     "choices": [
-      "Multiculturalisme = valoriser différences / républicanisme = assimilation",
-      "Même concept",
-      "Multiculturalisme = français, républicanisme = britannique",
-      "Aucune différence en pratique"
+      "solo Francia y Bélgica",
+      "solo África francófona",
+      "solo Québec y Suiza"
     ],
-    "tag": "Société",
-    "hint": "France = modèle républicain (pas communautariste)",
-    "expl": "FRANCE = modèle RÉPUBLICAIN : citoyenneté universelle, pas de reconnaissance des communautés. Critiqué pour l'invisibilisation des discriminations. Opposé au modèle COMMUNAUTARISTE britannique."
+    "tag": "Francophonie",
+    "dictee": "francés",
+    "expl": "La Francophonie = 300 millions de locuteurs dans le monde. Organisation internationale."
   },
   {
     "id": "b1civ2_13",
-    "q": "¿Qué es el cómic francobelga (bande dessinée)?",
-    "a": "Tradition artistique européenne : Tintin, Astérix, Lucky Luke, Spirou...",
+    "q": "¿Qué es el 'paritarisme' en Francia ?",
+    "a": "gestión sindical y patronal conjunta",
     "choices": [
-      "Tradition artistique franco-belge, Tintin Astérix",
-      "Seulement française",
-      "Seulement belge",
-      "Comme le manga japonais"
+      "gestión solo del Estado",
+      "gestión solo de empresas",
+      "sistema americano de negociación"
     ],
-    "tag": "Culture",
-    "hint": "Le 9ème art = tradition franco-belge unique",
-    "expl": "BD FRANCO-BELGE = 9ème art. Belgique : TINTIN (Hergé), SPIROU. France : ASTÉRIX (Goscinny/Uderzo), LUCKY LUKE. Festival d'ANGOULÊME = festival mondial BD (janvier). Pilier de la culture."
+    "tag": "Travail",
+    "dictee": "conjunta",
+    "expl": "Paritarisme = gestion à parité syndicats/patronat. UNEDIC, Sécu, caisses de retraite."
   },
   {
     "id": "b1civ2_14",
-    "q": "¿Qué es la francofonía cultural?",
-    "a": "Ensemble des œuvres artistiques produites en français dans le monde",
+    "q": "¿Qué es la 'résidence secondaire' en Francia ?",
+    "a": "vivienda de vacaciones no principal",
     "choices": [
-      "Œuvres artistiques en français dans le monde",
-      "Seulement la France",
-      "Seulement l'Afrique",
-      "Seulement la littérature"
+      "vivienda social",
+      "habitación de estudiante",
+      "oficina profesional"
     ],
-    "tag": "Francophonie",
-    "hint": "Littérature, cinéma, musique en français",
-    "expl": "FRANCOPHONIE CULTURELLE : AIMÉ CÉSAIRE (Martinique), LÉOPOLD SÉDAR SENGHOR (Sénégal), TAHAR BEN JELLOUN (Maroc), AMÉLIE NOTHOMB (Belgique). Prix Nobel de littérature francophones."
+    "tag": "Société",
+    "dictee": "vacaciones",
+    "expl": "Résidence secondaire = 3,7 millions en France. Souvent à la campagne ou à la mer."
   },
   {
     "id": "b1civ2_15",
-    "q": "¿Qué es una 'résidence secondaire' en Francia?",
-    "a": "Maison ou appartement utilisé pour les vacances, non résidence principale",
+    "q": "¿Cuándo se celebra el Día de la Bastilla ?",
+    "a": "el 14 de julio",
     "choices": [
-      "Logement de vacances non principal",
-      "Logement social",
-      "Chambre étudiante",
-      "Bureau professionnel"
+      "el 1 de mayo",
+      "el 8 de mayo",
+      "el 25 agosto"
     ],
-    "tag": "Société",
-    "hint": "La France a 10% de résidences secondaires",
-    "expl": "RÉSIDENCE SECONDAIRE = 3,7 millions en France (10% du parc). Souvent à la campagne ou au bord de la mer. Héritage de familles. GÎTE RURAL = résidence secondaire louée. Désertification rurale."
+    "tag": "Fêtes",
+    "dictee": "julio",
+    "expl": "Le 14 juillet = Fête nationale. Défilé militaire, feux d'artifice."
   },
   {
     "id": "b1civ2_16",
-    "q": "¿Qué es el 'paritarisme' en Francia?",
-    "a": "Gestion paritaire des organismes sociaux par syndicats et patronat",
+    "q": "¿Cuántas semanas de vacaciones pagadas tienen los trabajadores franceses ?",
+    "a": "cinco semanas",
     "choices": [
-      "Gestion syndicats + patronat à égalité",
-      "Gestion uniquement par l'État",
-      "Gestion uniquement par les entreprises",
-      "Système américain"
+      "tres semanas",
+      "cuatro semanas",
+      "seis semanas"
     ],
     "tag": "Travail",
-    "hint": "Sécurité sociale, UNEDIC gérés paritairement",
-    "expl": "PARITARISME = gestion à parité entre syndicats de salariés et organisations patronales. UNEDIC (chômage), Sécurité sociale, caisses de retraite. Spécificité française de négociation sociale."
+    "dictee": "cinco",
+    "expl": "25 jours ouvrables = 5 semaines de congés payés par an en France."
   },
   {
     "id": "b1civ2_17",
-    "q": "¿Qué es el Plan France 2030?",
-    "a": "Investissements de l'État dans l'innovation, les technologies du futur",
+    "q": "¿Qué es el movimiento 'Gilets jaunes' ?",
+    "a": "protesta popular contra el coste de vida",
     "choices": [
-      "Investissements État dans l'innovation",
-      "Emprunt pour rembourser la dette",
-      "Plan d'austérité",
-      "Aide aux entreprises en difficulté"
+      "sindicato de trabajadores",
+      "partido político nuevo",
+      "movimiento ecologista"
     ],
-    "tag": "Économie",
-    "hint": "Intelligence artificielle, hydrogène, nucléaire — investissements stratégiques",
-    "expl": "FRANCE 2030 (2021) = 30 milliards d'euros investis dans les secteurs d'avenir : IA, hydrogène, nucléaire, santé, culture. Politique industrielle volontariste de l'État."
+    "tag": "Société",
+    "dictee": "protesta",
+    "expl": "Gilets jaunes (2018) = mouvement populaire contre la hausse du carburant et les inégalités."
+  },
+  {
+    "id": "b1civ2_18",
+    "q": "¿Qué es la 'exception culturelle française' ?",
+    "a": "protección de la cultura frente al mercado",
+    "choices": [
+      "rechazo total de la cultura extranjera",
+      "subvención solo al cine francés",
+      "prohibición de medios extranjeros"
+    ],
+    "tag": "Culture",
+    "dictee": "protección",
+    "expl": "Exception culturelle = protection des industries culturelles face au marché mondial."
   }
 ]

@@ -1,352 +1,236 @@
 [
   {
     "id": "b1v2_01",
-    "q": "¿Qué significa 'corroborer'?",
-    "a": "Confirmer, renforcer par des preuves supplémentaires",
+    "q": "¿Qué significa 'corroborer' ?",
+    "a": "confirmar, reforzar",
     "choices": [
-      "confirmer renforcer",
-      "contredire",
-      "nuancer",
-      "reformuler"
+      "contradecir, refutar",
+      "matizar, atenuar",
+      "ignorar, descartar"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "Corroborer une thèse = l'étayer davantage",
-    "expl": "CORROBORER = corroborar, confirmar. CORROBORER une hypothèse = apporter des preuves supplémentaires. Synonymes : confirmer, étayer, valider, consolider."
+    "tag": "Verbes",
+    "dictee": "confirmar",
+    "expl": "Corroborer = corroborar, confirmar con pruebas adicionales."
   },
   {
     "id": "b1v2_02",
-    "q": "¿Qué significa 'délétère'?",
-    "a": "Nuisible, nocif pour la santé ou l'esprit",
+    "q": "¿Qué significa 'alléger' ?",
+    "a": "aligerar, reducir",
     "choices": [
-      "nuisible nocif",
-      "bénéfique",
-      "indifférent",
-      "temporaire"
+      "agravar, aumentar",
+      "complicar, enredar",
+      "ignorar, olvidar"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "Un gaz délétère / une influence délétère",
-    "expl": "DÉLÉTÈRE = deletéreo, nocivo. Un gaz DÉLÉTÈRE = tóxico. Une influence DÉLÉTÈRE = nociva. Synonymes : nuisible, toxique, néfaste, pernicieux."
+    "tag": "Verbes",
+    "dictee": "reducir",
+    "expl": "Alléger = aligerar. Alléger les impôts = reducir los impuestos."
   },
   {
     "id": "b1v2_03",
-    "q": "¿Qué significa 'quintessence'?",
-    "a": "Ce qu'il y a de meilleur et de plus raffiné dans quelque chose",
+    "q": "¿Qué significa 'mettre en évidence' ?",
+    "a": "poner de manifiesto",
     "choices": [
-      "le meilleur et le plus raffiné",
-      "la quantité",
-      "le début",
-      "la simplicité"
+      "ocultar, disimular",
+      "matizar, suavizar",
+      "minimizar, reducir"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "La quintessence de l'élégance française",
-    "expl": "LA QUINTESSENCE = la quintaesencia, lo mejor de lo mejor. La QUINTESSENCE du style français. Synonymes : le summum, le nec plus ultra, la crème."
+    "tag": "Expressions",
+    "dictee": "manifiesto",
+    "expl": "Mettre en évidence = demostrar claramente, poner de manifiesto."
   },
   {
     "id": "b1v2_04",
-    "q": "¿Qué significa 'alléger'?",
-    "a": "Rendre moins lourd, réduire la charge",
+    "q": "¿Qué significa 'au détriment de' ?",
+    "a": "en perjuicio de",
     "choices": [
-      "réduire la charge",
-      "alourdir",
-      "compliquer",
-      "augmenter"
+      "en beneficio de",
+      "gracias a",
+      "a pesar de"
     ],
-    "tag": "Registres",
-    "hint": "Alléger la fiscalité / alléger une peine",
-    "expl": "ALLÉGER = aligerar, reducir. ALLÉGER les impôts = reducir los impuestos. ALLÉGER la procédure = simplificarla. Contraire : alourdir, complexifier."
+    "tag": "Expressions",
+    "dictee": "perjuicio",
+    "expl": "Au détriment de = en detrimento de. La qualité au détriment de la quantité."
   },
   {
     "id": "b1v2_05",
-    "q": "¿Qué significa 'mettre en évidence'?",
-    "a": "Montrer clairement, souligner, démontrer",
+    "q": "¿Qué significa 'à l'instar de' ?",
+    "a": "siguiendo el ejemplo de",
     "choices": [
-      "montrer clairement",
-      "cacher",
-      "nuancer",
-      "minimiser"
+      "contrariamente a",
+      "a pesar de",
+      "en lugar de"
     ],
-    "tag": "Registres",
-    "hint": "L'étude met en évidence que...",
-    "expl": "METTRE EN ÉVIDENCE = poner de manifiesto, demostrar claramente. Synonymes : souligner, démontrer, révéler, montrer, illustrer."
+    "tag": "Expressions",
+    "dictee": "ejemplo",
+    "expl": "À l'instar de = al igual que, siguiendo el ejemplo de."
   },
   {
     "id": "b1v2_06",
-    "q": "¿Cuál es la diferencia entre 'davantage' y 'plus'?",
-    "a": "DAVANTAGE = plus (quantité) sans complément / PLUS peut avoir des compléments",
+    "q": "¿Qué significa 'au fil du temps' ?",
+    "a": "con el paso del tiempo",
     "choices": [
-      "Davantage = plus sans complément, plus = avec compléments",
-      "Même sens",
-      "Davantage = comparatif, plus = superlatif",
-      "Davantage = formel, plus = familier"
+      "de repente, bruscamente",
+      "antes de todo",
+      "al principio siempre"
     ],
-    "tag": "Nuances",
-    "hint": "J'en veux DAVANTAGE / Je veux PLUS DE temps",
-    "expl": "DAVANTAGE = más (sin complemento). J'en veux DAVANTAGE. PLUS DE + nom. Je veux PLUS DE temps. Ne pas dire 'davantage de' : incorrecto en français soigné."
+    "tag": "Expressions",
+    "dictee": "tiempo",
+    "expl": "Au fil du temps = con el paso del tiempo, progresivamente."
   },
   {
     "id": "b1v2_07",
-    "q": "¿Qué significa 'prégnant'?",
-    "a": "Qui s'impose fortement à l'esprit, marquant",
+    "q": "¿Qué significa 'faire fi de' ?",
+    "a": "ignorar, no hacer caso",
     "choices": [
-      "qui marque l'esprit",
-      "sans importance",
-      "agréable",
-      "discret"
+      "respetar, cumplir",
+      "utilizar, aprovechar",
+      "buscar, investigar"
     ],
-    "tag": "Vocabulaire soutenu",
-    "hint": "Une image prégnante reste en mémoire",
-    "expl": "PRÉGNANT(E) = pregnante, impactante. Une image PRÉGNANTE reste longtemps en mémoire. Synonymes : marquant, saisissant, frappant, percutant."
+    "tag": "Expressions",
+    "dictee": "ignorar",
+    "expl": "Faire fi de = hacer caso omiso de, ignorar. Faire fi des règles = ignorar las reglas."
   },
   {
     "id": "b1v2_08",
-    "q": "¿Cuál es la diferencia entre 'conjoncture' y 'contexte'?",
-    "a": "CONJONCTURE = situation économique du moment / CONTEXTE = ensemble des circonstances",
+    "q": "¿Qué significa 'de surcroît' ?",
+    "a": "además, por añadidura",
     "choices": [
-      "Conjoncture = écon. du moment, contexte = circonstances",
-      "Même sens",
-      "Conjoncture = passé, contexte = futur",
-      "Conjoncture = positif, contexte = neutre"
+      "sin embargo, pero",
+      "en cambio, al contrario",
+      "finalmente, en conclusión"
     ],
-    "tag": "Nuances",
-    "hint": "La conjoncture économique actuelle",
-    "expl": "CONJONCTURE = situación económica coyuntural (momento). CONTEXTE = contexto (marco general). La CONJONCTURE économique. Le CONTEXTE politique. Deux registres différents."
+    "tag": "Connecteurs",
+    "dictee": "además",
+    "expl": "De surcroît = además. Il est intelligent et, de surcroît, travailleur."
   },
   {
     "id": "b1v2_09",
-    "q": "¿Qué significa 'palier' (sustantivo masculino)?",
-    "a": "Niveau de stabilisation / palier d'un escalier",
+    "q": "¿Qué significa 'en l'occurrence' ?",
+    "a": "en este caso concreto",
     "choices": [
-      "niveau de stabilisation",
-      "montée",
-      "problème",
-      "solution"
+      "en general, siempre",
+      "habitualmente, normalmente",
+      "excepcionalmente, raramente"
     ],
-    "tag": "Polysémie",
-    "hint": "Un palier de développement / le palier de l'immeuble",
-    "expl": "PALIER (escalier) = rellano, descansillo. PALIER (fig.) = nivel, meseta. Atteindre un PALIER = llegar a una meseta. Franchir un PALIER = dar un paso más."
+    "tag": "Connecteurs",
+    "dictee": "caso",
+    "expl": "En l'occurrence = en este caso, concretamente."
   },
   {
     "id": "b1v2_10",
-    "q": "¿Qué significan 'en amont' y 'en aval'?",
-    "a": "EN AMONT = avant/en arrière / EN AVAL = après/en avant",
+    "q": "¿Qué significa 'à dessein' ?",
+    "a": "a propósito, adrede",
     "choices": [
-      "Amont = avant, aval = après",
-      "Amont = après, aval = avant",
-      "Même sens",
-      "Amont = haut, aval = bas"
+      "por casualidad",
+      "sin querer",
+      "involuntariamente"
     ],
-    "tag": "Vocabulaire technique",
-    "hint": "Terme fluvial utilisé au sens figuré",
-    "expl": "EN AMONT = río arriba, antes (fig.). EN AVAL = río abajo, después (fig.). Agir EN AMONT du problème = antes de que ocurra. Conséquences EN AVAL = posteriores."
+    "tag": "Expressions",
+    "dictee": "propósito",
+    "expl": "À dessein = a propósito. Il l'a fait à dessein = lo hizo adrede."
   },
   {
     "id": "b1v2_11",
-    "q": "¿Qué significa 'ériger en'?",
-    "a": "Élever au rang de, transformer en, consacrer comme",
+    "q": "¿Qué significa 'en amont' (sentido figurado) ?",
+    "a": "antes, con anticipación",
     "choices": [
-      "élever au rang de",
-      "réduire",
-      "analyser",
-      "critiquer"
+      "después, posteriormente",
+      "durante, mientras tanto",
+      "al mismo tiempo"
     ],
     "tag": "Expressions",
-    "hint": "Ériger en principe / ériger en exemple",
-    "expl": "ÉRIGER EN = erigir en, convertir en. ÉRIGER en principe = convertir en principio. ÉRIGER en modèle = poner como modelo. Synonymes : élever, consacrer, instituer."
+    "dictee": "antes",
+    "expl": "En amont = antes, río arriba (fig.). Agir en amont = actuar antes de que ocurra."
   },
   {
     "id": "b1v2_12",
-    "q": "¿Qué significa 'au détriment de'?",
-    "a": "Au préjudice de, en défavorisant",
+    "q": "¿Qué significa 'remettre en question' ?",
+    "a": "cuestionar, poner en duda",
     "choices": [
-      "en défavorisant",
-      "au profit de",
-      "en aidant",
-      "à cause de"
+      "confirmar, reforzar",
+      "mejorar, perfeccionar",
+      "analizar, estudiar"
     ],
     "tag": "Expressions",
-    "hint": "La croissance au détriment de l'environnement",
-    "expl": "AU DÉTRIMENT DE = en detrimento de, en perjuicio de. La qualité au DÉTRIMENT de la quantité = sacrificando la calidad. Contraire : AU PROFIT DE, AU BÉNÉFICE DE."
+    "dictee": "cuestionar",
+    "expl": "Remettre en question = cuestionar. Remettre en question ses certitudes = cuestionar sus certezas."
   },
   {
     "id": "b1v2_13",
-    "q": "¿Qué significa 'à l'instar de'?",
-    "a": "À l'exemple de, comme, à l'image de",
+    "q": "¿Qué significa 'jalonner' ?",
+    "a": "jalonar, marcar un recorrido",
     "choices": [
-      "à l'exemple de",
-      "contrairement à",
-      "grâce à",
-      "malgré"
+      "comenzar, iniciar",
+      "terminar, concluir",
+      "interrumpir, detener"
     ],
-    "tag": "Expressions",
-    "hint": "À l'instar de ses prédécesseurs...",
-    "expl": "À L'INSTAR DE = a imagen de, al igual que, siguiendo el ejemplo de. À L'INSTAR DES autres pays = como los demás países."
+    "tag": "Verbes",
+    "dictee": "marcar",
+    "expl": "Jalonner = jalonar, marcar a intervalos. Les étapes qui jalonnent sa carrière."
   },
   {
     "id": "b1v2_14",
-    "q": "¿Qué significa 'au fil de'?",
-    "a": "Au cours de, progressivement, tout au long de",
+    "q": "¿Qué significa 'épineux' ?",
+    "a": "delicado, difícil",
     "choices": [
-      "au cours de progressivement",
-      "soudainement",
-      "malgré",
-      "avant"
+      "sencillo, fácil",
+      "agradable, grato",
+      "evidente, claro"
     ],
-    "tag": "Expressions",
-    "hint": "Au fil des ans / au fil du temps",
-    "expl": "AU FIL DE = a lo largo de, con el paso de. AU FIL DU TEMPS = con el paso del tiempo. AU FIL DES ANS = a lo largo de los años. Progression graduelle."
+    "tag": "Adjectifs",
+    "dictee": "delicado",
+    "expl": "Épineux = espinoso, delicado. Un sujet épineux = un tema delicado."
   },
   {
     "id": "b1v2_15",
-    "q": "¿Qué significa 'faire fi de'?",
-    "a": "Ignorer, ne pas tenir compte de, mépriser",
+    "q": "¿Qué significa 'en définitive' ?",
+    "a": "en definitiva, finalmente",
     "choices": [
-      "ignorer mépriser",
-      "respecter",
-      "utiliser",
-      "chercher"
+      "en primer lugar",
+      "sin embargo, pero",
+      "por ejemplo, así"
     ],
-    "tag": "Expressions",
-    "hint": "Faire fi des conventions = les ignorer",
-    "expl": "FAIRE FI DE = ignorar, hacer caso omiso de. FAIRE FI des risques = ignorar los riesgos. Synonymes : négliger, ignorer, mépriser, ne pas tenir compte de."
+    "tag": "Connecteurs",
+    "dictee": "definitiva",
+    "expl": "En définitive = en definitiva, a fin de cuentas."
   },
   {
     "id": "b1v2_16",
-    "q": "¿Qué significa 'de surcroît'?",
-    "a": "En plus, par-dessus le marché, qui plus est",
+    "q": "¿Qué significa 'sans conteste' ?",
+    "a": "indudablemente, sin duda",
     "choices": [
-      "en plus par-dessus",
-      "au contraire",
-      "malgré tout",
-      "finalement"
+      "probablemente, quizás",
+      "con algunas dudas",
+      "aparentemente, según parece"
     ],
     "tag": "Connecteurs",
-    "hint": "Il est intelligent et, DE SURCROÎT, travailleur",
-    "expl": "DE SURCROÎT = además, por añadidura. Synonymes : EN OUTRE, QUI PLUS EST, PAR AILLEURS, DE PLUS, EN PLUS. Registre soutenu."
+    "dictee": "indudablemente",
+    "expl": "Sans conteste = sin duda alguna. C'est sans conteste la meilleure solution."
   },
   {
     "id": "b1v2_17",
-    "q": "¿Qué significa 'nonobstant'?",
-    "a": "Malgré, en dépit de (très soutenu)",
+    "q": "¿Qué significa 'en marge de' ?",
+    "a": "al margen de, fuera de",
     "choices": [
-      "malgré en dépit de",
-      "grâce à",
-      "à cause de",
-      "selon"
+      "en el centro de",
+      "gracias a",
+      "a causa de"
     ],
-    "tag": "Connecteurs",
-    "hint": "Terme juridique et littéraire",
-    "expl": "NONOBSTANT = no obstante, a pesar de (très formel). Surtout dans les textes juridiques. Synonymes : malgré, en dépit de, néanmoins, cependant."
+    "tag": "Expressions",
+    "dictee": "margen",
+    "expl": "En marge de = al margen de. Vivre en marge de la société."
   },
   {
     "id": "b1v2_18",
-    "q": "¿Qué significa 'à cet égard'?",
-    "a": "À ce sujet, en ce qui concerne ce point",
+    "q": "¿Qué significa 'au gré de' ?",
+    "a": "según, al ritmo de",
     "choices": [
-      "à ce sujet sur ce point",
-      "malgré cela",
-      "grâce à cela",
-      "depuis lors"
-    ],
-    "tag": "Connecteurs",
-    "hint": "À CET ÉGARD, il convient de noter que...",
-    "expl": "À CET ÉGARD = al respecto, en este sentido. Synonymes : À CE SUJET, EN CE QUI CONCERNE CE POINT, DE CE POINT DE VUE. Registre formel/écrit."
-  },
-  {
-    "id": "b1v2_19",
-    "q": "¿Qué significa 'en l'occurrence'?",
-    "a": "Dans ce cas précis, en la circonstance",
-    "choices": [
-      "dans ce cas précis",
-      "en général",
-      "habituellement",
-      "par exception"
-    ],
-    "tag": "Connecteurs",
-    "hint": "En l'occurrence, il s'agit de...",
-    "expl": "EN L'OCCURRENCE = en este caso, concretamente. Sert à préciser de quoi il s'agit. Synonymes : dans ce cas, ici, en l'espèce, concrètement."
-  },
-  {
-    "id": "b1v2_20",
-    "q": "¿Qué significa 'à même de'?",
-    "a": "Capable de, en mesure de, apte à",
-    "choices": [
-      "capable de en mesure de",
-      "incapable de",
-      "obligé de",
-      "prêt à"
+      "a pesar de",
+      "antes de",
+      "después de"
     ],
     "tag": "Expressions",
-    "hint": "Je ne suis pas à même de répondre",
-    "expl": "ÊTRE À MÊME DE = estar en condiciones de, ser capaz de. Je suis À MÊME DE vous aider = estoy en condiciones de ayudarle. Synonymes : capable de, en mesure de, apte à."
-  },
-  {
-    "id": "b1v2_21",
-    "q": "¿Qué significa 'à dessein'?",
-    "a": "Intentionnellement, exprès, volontairement",
-    "choices": [
-      "intentionnellement",
-      "par hasard",
-      "involontairement",
-      "sans raison"
-    ],
-    "tag": "Expressions",
-    "hint": "Il a agi À DESSEIN = il l'a fait exprès",
-    "expl": "À DESSEIN = a propósito, adrede. Synonymes : EXPRÈS, INTENTIONNELLEMENT, VOLONTAIREMENT, DÉLIBÉRÉMENT. Contraire : par inadvertance, par hasard."
-  },
-  {
-    "id": "b1v2_22",
-    "q": "¿Qué significa 'à bon escient'?",
-    "a": "De façon judicieuse, à propos, avec discernement",
-    "choices": [
-      "judicieusement à propos",
-      "sans réfléchir",
-      "excessivement",
-      "rarement"
-    ],
-    "tag": "Expressions",
-    "hint": "Utiliser un mot À BON ESCIENT = bien l'employer",
-    "expl": "À BON ESCIENT = con buen juicio, acertadamente. Utiliser à BON ESCIENT = usar bien. À MAUVAIS ESCIENT = mal à propos. Synonymes : judicieusement, pertinemment."
-  },
-  {
-    "id": "b1v2_23",
-    "q": "¿Qué significa 'à fortiori'?",
-    "a": "À plus forte raison, encore plus",
-    "choices": [
-      "à plus forte raison",
-      "à moindre raison",
-      "peut-être",
-      "en revanche"
-    ],
-    "tag": "Expressions",
-    "hint": "Si A est vrai, alors À FORTIORI B l'est aussi",
-    "expl": "À FORTIORI = con más razón, a fortiori. Si tu ne sais pas conduire, tu ne peux À FORTIORI pas piloter un avion. Registre soutenu/philosophique."
-  },
-  {
-    "id": "b1v2_24",
-    "q": "¿Qué significa 'ipso facto'?",
-    "a": "Par le fait même, automatiquement, par voie de conséquence",
-    "choices": [
-      "automatiquement par là même",
-      "par hasard",
-      "avec difficulté",
-      "lentement"
-    ],
-    "tag": "Expressions latines",
-    "hint": "Locution latine : par le fait lui-même",
-    "expl": "IPSO FACTO = ipso facto, automáticamente. En signant ce contrat, vous devenez IPSO FACTO membre. Locution latine très utilisée en français."
-  },
-  {
-    "id": "b1v2_25",
-    "q": "¿Qué significa 'mutatis mutandis'?",
-    "a": "En changeant ce qui doit être changé, toutes choses égales par ailleurs",
-    "choices": [
-      "en changeant ce qui doit l'être",
-      "sans rien changer",
-      "par conséquent",
-      "en conclusion"
-    ],
-    "tag": "Expressions latines",
-    "hint": "Adapter en faisant les changements nécessaires",
-    "expl": "MUTATIS MUTANDIS = cambiando lo que hay que cambiar. Cette règle s'applique, MUTATIS MUTANDIS, à d'autres situations. Registre juridique/académique."
+    "dictee": "según",
+    "expl": "Au gré de = según. Au gré des événements = según los acontecimientos."
   }
 ]
