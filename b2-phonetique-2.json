@@ -1,240 +1,240 @@
 [
   {
     "id": "b2ph2_01",
-    "q": "Qu'est-ce que la 'versification syllabique' française ?",
-    "a": "Le vers français compte les syllabes (alexandrin = 12 syllabes)",
+    "q": "Comment prononcer les consonnes [p], [t], [k] en français par rapport à l'espagnol ?",
+    "a": "En français, [p] [t] [k] sont NON aspirés (sans souffle d'air) — différent de l'anglais",
     "choices": [
-      "Comptage de syllabes (alexandrin = 12)",
-      "Comptage des accents",
-      "Comptage des mots",
-      "Longueur des voyelles"
+      "Non aspirés sans souffle en français",
+      "Aspirés comme en anglais",
+      "Très aspirés",
+      "Identiques à l'espagnol"
     ],
-    "tag": "Versification",
-    "hint": "L'alexandrin = 12 syllabes / l'octosyllabe = 8",
-    "expl": "VERSIFICATION FRANÇAISE = syllabique (pas accentuelle comme l'anglais). ALEXANDRIN = 12 syllabes. DÉCASYLLABE = 10. OCTOSYLLABE = 8. Le E muet compte selon la règle : E devant consonne compte."
+    "tag": "Consonnes",
+    "hint": "Patte [pat] — pas de souffle après le P, comme en espagnol",
+    "expl": "[p] [t] [k] OCCLUSIVES SOURDES : en français et en espagnol, elles sont non aspirées (sans souffle). Différent de l'anglais (PAN avec aspiration). Pour un hispanophone, cet aspect est naturel. À surveiller : la position de la langue pour [t] et [d] (dentale en français, alvéolaire en anglais)."
   },
   {
     "id": "b2ph2_02",
-    "q": "Quel est le statut du E muet dans la versification classique ?",
-    "a": "E muet devant consonne compte comme syllabe / E muet devant voyelle ou en fin de vers ne compte pas",
+    "q": "Comment distinguer [b] et [v] en français ?",
+    "a": "[b] = occlusive bilabiale / [v] = fricative labiodentale — lèvre inférieure touche les dents pour [v]",
     "choices": [
-      "E compte devant consonne, élide devant voyelle ou fin de vers",
-      "E toujours compté",
-      "E jamais compté",
-      "E compté seulement dans les mots accentués"
+      "[b] lèvres fermées / [v] lèvre inf. touche les dents",
+      "Même son en français",
+      "[b] toujours en début de mot",
+      "[v] = son espagnol identique"
     ],
-    "tag": "Versification",
-    "hint": "'La bElle endormie' : bel-le(e) compte car consonne suit",
-    "expl": "E MUET en versification classique : compte comme syllabe devant consonne. 'Elle marche' = el-le-mar-che (4 syll). Ne compte pas devant voyelle (élision) ni en fin de vers. Règle fondamentale."
+    "tag": "Consonnes",
+    "hint": "BEAU [bo] / VEAU [vo] — deux sons bien distincts",
+    "expl": "[b] OCCLUSIVE : les deux lèvres se ferment complètement (BEAU, BLANC). [v] FRICATIVE : la lèvre inférieure touche légèrement les dents supérieures (VEAU, VIE). Contrairement à l'espagnol (où B et V sont souvent identiques), en français ce sont deux phonèmes distincts. BEAU ≠ VEAU."
   },
   {
     "id": "b2ph2_03",
-    "q": "Qu'est-ce que la 'rime riche' vs 'rime suffisante' ?",
-    "a": "RICHE = 3+ sons identiques / SUFFISANTE = 2 sons / PAUVRE = 1 son",
+    "q": "Comment prononcer le son [ʒ] (J français) ?",
+    "a": "[ʒ] = fricative palatale sonore dans jour, je, général — plus doux que le J espagnol",
     "choices": [
-      "Riche = 3+ sons, suffisante = 2, pauvre = 1",
-      "Riche = mots longs, pauvre = mots courts",
-      "Riche = sémantiquement liés, pauvre = non liés",
-      "Riche = fin de vers long, pauvre = fin de vers court"
+      "Fricative palatale sonore, plus douce que J espagnol",
+      "Identique au J espagnol",
+      "Comme le Y espagnol",
+      "Comme le CH français"
     ],
-    "tag": "Versification",
-    "hint": "AMOUR/TOUJOURS (2 sons) / AMOUR/VELOURS (3+ sons)",
-    "expl": "RIME RICHE : 3+ phonèmes identiques. AMOUR/VELOURS [muʁ]. RIME SUFFISANTE (normale) : 2 phonèmes. AMOUR/TOUJOURS [uʁ]. RIME PAUVRE : 1 phonème. AIMER/PARTAGER [e]. Qualité croissante."
+    "tag": "Consonnes",
+    "hint": "JOUR [ʒuʁ], JE [ʒə], GÉNÉRAL [ʒeneʁal]",
+    "expl": "[ʒ] = fricative palatale SONORE. Comme le J espagnol [x] mais produit plus en avant dans la bouche et avec vibration des cordes vocales. JOUR, JE, JEAN, GÉNÉRAL, GIRAFE. Différent de [ʃ] (CHAT) qui est sourd. Paire : JOUE [ʒu] / CHOU [ʃu]."
   },
   {
     "id": "b2ph2_04",
-    "q": "Qu'est-ce que la 'diérèse' et la 'synérèse' ?",
-    "a": "DIÉRÈSE = deux syllabes séparées (vi-on) / SYNÉRÈSE = fusionnées (vion)",
+    "q": "Comment se prononce le son [ʃ] (CH français) ?",
+    "a": "CH = [ʃ] dans chat, chose, chef — son comme le CH espagnol de Amérique latine",
     "choices": [
-      "Diérèse = syllabes séparées, synérèse = fusionnées",
-      "Même chose",
-      "Diérèse = rime, synérèse = consonne",
-      "Diérèse = erreur, synérèse = correct"
+      "[ʃ] comme dans chat/chef",
+      "CH = [tʃ] toujours",
+      "CH = [k] toujours",
+      "CH = [s]"
     ],
-    "tag": "Versification",
-    "hint": "Lion = 2 syllabes (li-on) = diérèse / lion = 1 syllabe = synérèse",
-    "expl": "DIÉRÈSE : deux voyelles adjacentes prononcées en deux syllabes. VI-O-LEN-CE (4 syllabes, diérèse sur io). SYNÉRÈSE : voyelles fusionnées en une syllabe. VION-CE (3 syllabes). Utilisé en poésie pour ajuster le compte."
+    "tag": "Consonnes",
+    "hint": "CHAT [ʃa], CHEF [ʃɛf], CHOSE [ʃoz]",
+    "expl": "CH = [ʃ] DANS LA MAJORITÉ des mots : CHAT, CHEF, CHOSE, CHEMISE, CHEZ. EXCEPTION : CH = [k] dans les mots d'origine grecque ou latine : ORCHESTRE, CHAOS, CHRONO, ECHO. Exception 2 : CH = [h] dans certains emprunts (YAHOO). Vérifier selon le mot."
   },
   {
     "id": "b2ph2_05",
-    "q": "Qu'est-ce que l''allitération' ?",
-    "a": "Répétition d'une même consonne (ou groupe) en début de mots proches",
+    "q": "Qu'est-ce que l'allitération ?",
+    "a": "Répétition d'une même consonne en début de mots proches, effet sonore expressif",
     "choices": [
       "Répétition d'une consonne en début de mots proches",
       "Répétition d'une voyelle",
       "Répétition d'un mot",
-      "Répétition d'une rime"
+      "Rime finale"
     ],
     "tag": "Stylistique phonétique",
-    "hint": "'Pour qui sont ces serpents qui sifflent sur vos têtes'",
-    "expl": "ALLITÉRATION = aliteración. Répétition de consonnes. 'Pour qui sont ces serpents qui SIFFLENT SUR vos têtes' (Racine). Effet sonore. Comparer ASSONANCE = répétition de voyelles."
+    "hint": "'Pour qui sont ces serpents qui sifflent sur vos têtes' — S répété",
+    "expl": "ALLITÉRATION = aliteración. Répétition de consonnes initiales. 'Pour qui sont ces SERPENTS qui SIFFLENT SUR vos têtes' (Racine) — répétition du [s]. Effet expressif, mnémotechnique, musical. Très utilisée en publicité, poésie, slogans. À distinguer de l'assonance (voyelles)."
   },
   {
     "id": "b2ph2_06",
-    "q": "Qu'est-ce que l''assonance' ?",
-    "a": "Répétition d'une même voyelle dans des mots proches",
+    "q": "Qu'est-ce que l'assonance ?",
+    "a": "Répétition d'une même voyelle dans des mots proches, crée une musicalité",
     "choices": [
       "Répétition d'une voyelle dans des mots proches",
       "Répétition d'une consonne",
-      "Rime identique",
+      "Rime parfaite",
       "Répétition d'un groupe"
     ],
     "tag": "Stylistique phonétique",
     "hint": "'Je fais souvent ce rêve étrange et pénétrant' — son [ã] répété",
-    "expl": "ASSONANCE = asonancia. Répétition de voyelles. 'Je fais souvent ce rêve étrange et pénétrant' (Verlaine) — son [ã] dominant. Crée une musicalité. Comparer ALLITÉRATION = consonnes."
+    "expl": "ASSONANCE = asonancia. Répétition de voyelles. 'Je fais souvENT ce rêve étrANGE et pénétrANT' (Verlaine) — son [ã] dominant. Crée une musicalité, une atmosphère. Différente de l'allitération (consonnes). Fréquente en poésie moderne (pas de rime mais assonances)."
   },
   {
     "id": "b2ph2_07",
-    "q": "Qu'est-ce que l''harmonie imitative' (onomatopée élargie) ?",
-    "a": "Phonèmes choisis pour imiter le sens par leur sonorité",
+    "q": "Qu'est-ce qu'une onomatopée et donnez des exemples en français ?",
+    "a": "Mot dont le son imite la chose désignée : boum, crac, plouf, ronron, tic-tac",
     "choices": [
-      "Phonèmes imitant le sens par leur sonorité",
-      "Répétition de sons",
-      "Rythme rapide",
-      "Mots étrangers imitatifs"
+      "Mot imitant le son de la chose : boum, crac, plouf",
+      "Figure de style abstraite",
+      "Synonyme de métaphore",
+      "Répétition de sons"
     ],
-    "tag": "Stylistique phonétique",
-    "hint": "'Les sanglots longs des violons de l'automne' — sons nasaux = mélancolie",
-    "expl": "HARMONIE IMITATIVE : sons qui évoquent le sens. Voyelles sombres [ɔ, u, ɑ] = tristesse, lenteur. Voyelles claires [i, e] = légèreté, joie. Occlusives [p, b, t, d] = force, bruit. Fricatives [s, ʃ] = douceur, vent."
+    "tag": "Phonétique expressive",
+    "hint": "BOUM, CRAC, PLOUF, GLOUGLOU, RONRON — sons imitatifs",
+    "expl": "ONOMATOPÉE : mot qui reproduit un son. BOUM (explosion), CRAC (rupture), PLOUF (eau), RONRON (chat), TIC-TAC (montre), GLOUGLOU (liquide), COCORICO (coq). Souvent invariables et familiers. Les onomatopées varient selon les langues (le coq fait COCORICO en FR vs QUIQUIRIQUÍ en ES)."
   },
   {
     "id": "b2ph2_08",
-    "q": "Qu'est-ce que la 'métathèse' ?",
-    "a": "Interversion de sons dans un mot (phénomène historique ou lapsus)",
+    "q": "Comment les accents régionaux influencent-ils la prononciation du français ?",
+    "a": "Accent du Midi : voyelles plus ouvertes, E muet prononcé / Parisien : standard de référence",
     "choices": [
-      "Interversion de sons dans un mot",
-      "Suppression de sons",
-      "Ajout de sons",
-      "Substitution d'un son"
+      "Midi = voyelles ouvertes + E muet prononcé / Paris = standard",
+      "Tous les accents sont identiques",
+      "Seul l'accent parisien est correct",
+      "L'accent du Midi est incorrectement considéré comme standard"
     ],
-    "tag": "Phonologie historique",
-    "hint": "FROMAGE vient de FORMAGE par métathèse",
-    "expl": "MÉTATHÈSE = metátesis. Interversion de phonèmes. FROMAGE vient de FORMAGE (for → fro). INFIRMIER → INFIRMIÈRE (lapsus courant). Phénomène historique ou erreur de parole. 'Bestiaux' → 'béstiaux' (métatèse populaire)."
+    "tag": "Variation",
+    "hint": "MATIN prononcé [matɛ̃] (Paris) vs [matɛn] ou [matɛ̃] (Midi)",
+    "expl": "VARIATION RÉGIONALE : ACCENT DU MIDI (sud de la France) = E muet prononcé (une rose = une rozeu), distinction o ouvert/fermé maintenue, rythme plus saccadé. PARISIEN = standard télévisuel. QUÉBÉCOIS = nombreuses particularités ([tsj] pour [t] devant [i]). Toutes ces variétés sont du français correct."
   },
   {
     "id": "b2ph2_09",
-    "q": "Qu'est-ce que la 'syncope' phonétique ?",
-    "a": "Suppression d'un son ou d'une syllabe à l'intérieur d'un mot",
+    "q": "Comment prononcer correctement les mots d'emprunt anglais courants en français ?",
+    "a": "Les emprunts s'adaptent à la phonologie française : stress, week-end, shampooing",
     "choices": [
-      "Suppression d'un son à l'intérieur d'un mot",
-      "Ajout d'un son",
-      "Interversion de sons",
-      "Suppression finale"
+      "Adaptés à la phonologie française",
+      "Prononcés à l'anglaise",
+      "Toujours francisés",
+      "Jamais acceptés"
     ],
-    "tag": "Phonologie historique",
-    "hint": "MASQUE vient de MASCARE par syncope du A",
-    "expl": "SYNCOPE = síncopa. Suppression à l'intérieur du mot. MASQUE ← MASCARE (syncope de A). SEMAINE ← SEPTIMANA (syncope de TI). Fréquent dans l'évolution du latin au français."
+    "tag": "Emprunts",
+    "hint": "STRESS [stʁɛs], WEEK-END [wikɛnd], PARKING [paʁkiŋ]",
+    "expl": "EMPRUNTS DE L'ANGLAIS adaptés au français : STRESS [stʁɛs], WEEK-END [wikɛnd], SHAMPOOING [ʃɑ̃pwɛ̃], PARKING [paʁkiŋ], FOOTBALL [futbol], EMAIL [imɛl]. Le R anglais devient R guttural français, les voyelles s'adaptent. Certains gardent une prononciation proche de l'original (jazz, blues)."
   },
   {
     "id": "b2ph2_10",
-    "q": "Qu'est-ce que l''amuïssement' ?",
-    "a": "Affaiblissement progressif d'un son jusqu'à sa disparition",
+    "q": "Qu'est-ce que la syllabe ouverte et fermée en français ?",
+    "a": "Ouverte = finit par une voyelle (ta-, re-) / fermée = finit par une consonne prononcée (arc, porte)",
     "choices": [
-      "Affaiblissement puis disparition d'un son",
-      "Renforcement d'un son",
-      "Nasalisation d'un son",
-      "Allongement d'un son"
+      "Ouverte = finit par voyelle / fermée = finit par consonne prononcée",
+      "Ouverte = longue / fermée = courte",
+      "Ouverte = accentuée",
+      "Fermée = muette"
     ],
-    "tag": "Phonologie historique",
-    "hint": "Le H latin s'est amuï en français (s'est effacé)",
-    "expl": "AMUÏSSEMENT = enmudecimiento. Son qui s'affaiblit et disparaît. Le H latin s'est AMUÏ en français : HOMO → homme [ɔm] (h muet). Le S devant consonne s'est AMUÏ : FESTUM → fête (l'accent circonflexe marque l'ancien S)."
+    "tag": "Syllabe",
+    "hint": "ta- = ouverte / tac = fermée (consonne finale prononcée)",
+    "expl": "SYLLABE OUVERTE : se termine par une voyelle (MA-ri, ta-BLE, POR-te). FERMÉE : se termine par une consonne prononcée (ARC, PORTE, CARTES). Le français favorise les syllabes ouvertes (environ 80%). Cette structure influe sur la prononciation des voyelles : syllabe ouverte → voyelle plus fermée."
   },
   {
     "id": "b2ph2_11",
     "q": "Quel est le rapport entre les lettres et les sons en français ?",
-    "a": "Rapport très complexe et non bijectif : une lettre ≠ un son, un son ≠ une lettre",
+    "a": "Rapport complexe et non bijectif : une lettre peut avoir plusieurs sons, un son plusieurs graphies",
     "choices": [
-      "Rapport complexe et non bijectif",
+      "Rapport complexe non bijectif : 1 lettre ≠ 1 son",
       "Un pour un",
       "Toujours phonétique",
-      "Toujours arbitraire"
+      "Entièrement arbitraire"
     ],
     "tag": "Graphie-phonie",
-    "hint": "CH = [ʃ] / [k] / [h] selon les mots",
-    "expl": "Graphie-phonie COMPLEXE en français : CH = [ʃ] (chat), [k] (orchestre), [h] (chaos). S = [s] ou [z] selon position. Voyelles nasales = IN, IM, AIN, EIN, EN, AN, ON... Le français est peu phonétique."
+    "hint": "CH = [ʃ] (chat) / [k] (orchestre) — même graphie, sons différents",
+    "expl": "GRAPHIE-PHONIE COMPLEXE en français : CH = [ʃ] (chat), [k] (orchestre). S = [s] (sac) ou [z] (rose). G = [g] (gare) ou [ʒ] (girafe). Les voyelles nasales s'écrivent IN, IM, AIN, EIN, EN, AN, ON, OM... Le français est peu phonétique — la lecture à voix haute demande de connaître les règles."
   },
   {
     "id": "b2ph2_12",
-    "q": "Qu'est-ce que la 'phonostylistique' ?",
-    "a": "Étude des effets de sens produits par les choix phonétiques dans un texte",
+    "q": "Comment prononcer le son [ɑ̃] (AN/EN) sans confondre avec le O ?",
+    "a": "[ɑ̃] = bouche ouverte + résonance nasale : avant, grand, pendant — ne pas fermer les lèvres",
     "choices": [
-      "Effets de sens des choix phonétiques dans un texte",
-      "Phonétique correcte",
-      "Stylistique syntaxique",
-      "Étude du rythme seul"
+      "Bouche ouverte + résonance nasale dans avant/grand",
+      "Lèvres arrondies comme O",
+      "Bouche fermée",
+      "Comme le son espagnol AN"
     ],
-    "tag": "Stylistique phonétique",
-    "hint": "Analyser les sons pour leur effet expressif dans un poème",
-    "expl": "PHONOSTYLISTIQUE = fonoestilística. Analyse des effets phoniques : allitérations, assonances, harmonie imitative, rythme. Comment les sons contribuent au sens et à l'expressivité d'un texte."
+    "tag": "Voyelles nasales",
+    "hint": "AVANT [avɑ̃] — bouche plus ouverte que pour O, résonance nasale",
+    "expl": "[ɑ̃] GRAPHIES : AN, AM, EN, EM. AVANT [avɑ̃], GRAND [gʁɑ̃], PENDANT [pɑ̃dɑ̃], France [fʁɑ̃s]. Bouche ouverte (plus que pour [ɔ̃]). Résonance nasale. Erreur fréquente : arrondir les lèvres comme pour O. Distinguer de [ɔ̃] (BON) où les lèvres sont plus arrondies."
   },
   {
     "id": "b2ph2_13",
-    "q": "Qu'est-ce que la 'crase' ?",
-    "a": "Fusion de deux voyelles en une seule (contraction historique ou stylistique)",
+    "q": "Comment prononcer le son [ɔ̃] (ON) ?",
+    "a": "[ɔ̃] = lèvres arrondies + résonance nasale : bon, mon, selon — comme un O nasal",
     "choices": [
-      "Fusion de deux voyelles en une",
-      "Séparation de voyelles",
-      "Élision simple",
-      "Nasalisation"
+      "Lèvres arrondies + résonance nasale dans bon/mon",
+      "Comme AN mais arrondi",
+      "Bouche ouverte",
+      "Même que [ɑ̃]"
     ],
-    "tag": "Phonologie",
-    "hint": "AU = À + LE (crase) / DU = DE + LE",
-    "expl": "CRASE = crasis. Fusion de deux voyelles. En français : À + LE = AU. DE + LE = DU. À + LES = AUX. DE + LES = DES. Ces contractions obligatoires sont des crases figées."
+    "tag": "Voyelles nasales",
+    "hint": "BON [bɔ̃], MON [mɔ̃], SELON [səlɔ̃] — O + nasalité",
+    "expl": "[ɔ̃] GRAPHIES : ON, OM. BON [bɔ̃], MON [mɔ̃], SELON [səlɔ̃], ALLONS [alɔ̃], MAISON [mɛzɔ̃]. Lèvres arrondies (comme pour O) + résonance nasale. Distinguer de [ɑ̃] (bouche plus ouverte) et [ɛ̃] (lèvres moins arrondies)."
   },
   {
     "id": "b2ph2_14",
-    "q": "Comment se réalise la 'chute du -ant' dans certaines régions ?",
-    "a": "Langue du Midi : -MENT prononcé [mɑ̃] vs Midi [-mɑ̃n] ou [-mɔ̃]",
+    "q": "Comment prononcer le son [ɛ̃] (IN/AIN) ?",
+    "a": "[ɛ̃] = lèvres peu arrondies + résonance nasale : fin, bien, main, train",
     "choices": [
-      "Différentes réalisations selon les régions",
-      "Toujours [mɑ̃]",
-      "Toujours [mɔ̃]",
-      "[mɑ̃n] partout"
+      "Lèvres peu arrondies + résonance nasale dans fin/bien/main",
+      "Lèvres très arrondies",
+      "Comme le E ouvert non nasal",
+      "Comme AN"
     ],
-    "tag": "Variation régionale",
-    "hint": "Lentement prononcé différemment selon les régions",
-    "expl": "VARIATION RÉGIONALE des suffixes en -MENT : Standard [mɑ̃] muet. Midi = souvent réalisé avec une légère nasale finale. Nord/Belgique = parfois [mɑ̃n] avec N final. Variation importante à connaître."
+    "tag": "Voyelles nasales",
+    "hint": "FIN [fɛ̃], BIEN [bjɛ̃], MAIN [mɛ̃] — E ouvert nasalisé",
+    "expl": "[ɛ̃] GRAPHIES : IN, IM, AIN, EIN, IEN (+ Y). FIN [fɛ̃], BIEN [bjɛ̃], MAIN [mɛ̃], TRAIN [tʁɛ̃], MILITAIRE. Lèvres peu arrondies, bouche légèrement ouverte. Résonance nasale. Distinguer de [ɑ̃] (bouche plus ouverte) et [ɔ̃] (lèvres plus arrondies)."
   },
   {
     "id": "b2ph2_15",
-    "q": "Qu'est-ce que le 'relâchement articulatoire' en français familier ?",
-    "a": "Réduction de l'effort articulatoire : consonnes moins distinctes, voyelles plus centrales",
+    "q": "Qu'est-ce que le E muet final et comment l'utilise-t-on ?",
+    "a": "Le E final ne se prononce généralement pas : table [tabl], rouge [ʁuʒ] — mais maintenu dans le chant",
     "choices": [
-      "Réduction de l'effort articulatoire",
-      "Prononciation exagérée",
-      "Articulation extrême",
-      "Parler plus fort"
+      "Ne se prononce pas : table/rouge — maintenu dans le chant",
+      "Toujours prononcé",
+      "Prononcé seulement en poésie",
+      "Prononcé au Midi"
     ],
-    "tag": "Oral familier",
-    "hint": "'Tu as mangé' → [t.ya.mɑ̃.ʒe] → [t.a.mɑ̃.ʒe] → [t.mɑ̃.ʒe]",
-    "expl": "RELÂCHEMENT ARTICULATOIRE en registre familier/rapide : consonnes moins nettes, voyelles réduites. 'Tu as' → [tya] → [ta]. 'Je ne sais' → [ʒ.ne.se] → [ʃ.ne.se] → [ʃ.se]. Continuum selon le registre."
+    "tag": "E caduc",
+    "hint": "TABLE [tabl], ROUGE [ʁuʒ], PORTE [pɔʁt] — E final muet",
+    "expl": "E MUET FINAL : en français standard, le E final ne se prononce pas (TABLE, ROUGE, PORTE, FEMME). Exception : accent du Midi où il est souvent prononcé (TABLEE). En CHANT et en poésie classique, le E muet se prononce pour des raisons métriques. À l'oral courant : toujours muet."
   },
   {
     "id": "b2ph2_16",
-    "q": "Qu'est-ce que la 'gemination' (consonne géminée) ?",
-    "a": "Prononciation d'une consonne double (deux fois) pour l'emphase en français",
+    "q": "Comment prononcer correctement le mot 'plus' selon le contexte ?",
+    "a": "PLUS = [ply] (quantité positive) / [plys] (comparatif) / [ply] (négation ne...plus)",
     "choices": [
-      "Consonne prononcée deux fois pour l'emphase",
-      "Consonne double = règle toujours",
-      "Phénomène inexistant",
-      "Consonne longue naturellement"
+      "[ply] quantité / [plys] comparatif / [ply] négation",
+      "Toujours [plys]",
+      "Toujours [ply]",
+      "[plys] seulement devant voyelle"
     ],
-    "tag": "Phonologie",
-    "hint": "Il est VRAIMENT nul ! — n emphatique doublé [nn] possible",
-    "expl": "GEMINATION en français = emphatique. Normalement, les consonnes doubles = une seule consonne. Mais emphase possible : C'est INNacceptable ! (n.n allongé). Aussi dans certains mots : ILLICITE (l.l). Rare mais réel."
+    "tag": "Prononciation contextuelle",
+    "hint": "Il n'en veut PLUS [ply] / il est PLUS grand [plys] que...",
+    "expl": "PLUS a trois prononciations : [ply] dans NE...PLUS (négation) : il ne vient PLUS [ply]. [ply] devant consonne dans comparatif : PLUS grand [ply gʁɑ̃]. [plys] devant voyelle : PLUS ancien [plyz ɑ̃sjɛ̃]. [plys] seul ou en fin d'énoncé : j'en veux PLUS [plys] (= davantage)."
   },
   {
     "id": "b2ph2_17",
-    "q": "Qu'est-ce que la 'pharyngalisation' dans certains accents francophones ?",
-    "a": "Influence de la pharyngalisation arabe sur certains accents francophones du Maghreb",
+    "q": "Quelles sont les règles de base pour l'orthographe des sons [s] et [z] ?",
+    "a": "S entre voyelles = [z] (maison) / SS entre voyelles = [s] (masse) / C devant e,i = [s]",
     "choices": [
-      "Influence phonologique arabe sur accents maghrébins",
-      "Phénomène parisien",
-      "Trait du français méridional",
-      "Caractéristique de la Belgique"
+      "S entre voyelles = [z] / SS = [s] / C devant e,i = [s]",
+      "S toujours [s]",
+      "Z toujours [z]",
+      "C toujours [k]"
     ],
-    "tag": "Variation",
-    "hint": "L'accent maghrébin du français — trait pharyngal",
-    "expl": "PHARYNGALISATION = constricción faríngea. Trait phonologique de l'arabe qui influence les accents francophones du Maghreb. Certaines consonnes ont une qualité pharyngalisée distinctive."
+    "tag": "Graphie-phonie",
+    "hint": "ROSe [z] / ROSSe [s] — S simple entre voyelles = [z] !",
+    "expl": "RÈGLE S/Z : S entre deux voyelles = [z] (ROSE, MAISON, VOISIN). SS entre deux voyelles = [s] (MASSE, POISSON, PASSER). C devant E, I, Y = [s] (CECI, CIVIL, CYCLE). C devant A, O, U = [k] (CAR, COL, CUL). Ç = toujours [s] (FAÇON, LEÇON, REÇU)."
   }
 ]

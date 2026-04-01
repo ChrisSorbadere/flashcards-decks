@@ -309,17 +309,17 @@
   },
   {
     "id": "b2v1_23",
-    "q": "Que signifie 'propédeutique' ?",
-    "a": "Enseignement préparatoire à une discipline plus poussée",
+    "q": "Que signifie 'pragmatique' ?",
+    "a": "Ce qui est efficace en pratique, orienté vers l'action concrète et les résultats",
     "choices": [
-      "Enseignement préparatoire",
-      "Enseignement final",
-      "Enseignement pratique",
-      "Enseignement théorique seul"
+      "Efficace en pratique orienté action et résultats",
+      "Théorique",
+      "Idéaliste",
+      "Ambigu"
     ],
-    "tag": "Éducation",
-    "hint": "Ce cours sert de PROPÉDEUTIQUE à l'analyse littéraire",
-    "expl": "PROPÉDEUTIQUE = propedéutico/a. Enseignement introductif et préparatoire. En France, ancienne 1ère année d'études supérieures. Sens élargi : préparation intellectuelle à une discipline."
+    "tag": "Général",
+    "hint": "Une approche PRAGMATIQUE = une approche qui fonctionne en pratique",
+    "expl": "PRAGMATIQUE = pragmático. Orienté vers l'efficacité pratique plutôt que les principes abstraits. Une solution PRAGMATIQUE. LE PRAGMATISME politique. Synonymes : pratique, réaliste, opérationnel. Antonymes : idéaliste, dogmatique."
   },
   {
     "id": "b2v1_24",

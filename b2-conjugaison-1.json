@@ -85,31 +85,31 @@
   },
   {
     "id": "b2c1_07",
-    "q": "Quel est le conditionnel passé 2ème forme (forme littéraire) ?",
-    "a": "Il eût fait = conditionnel passé littéraire (équivalent de il aurait fait)",
+    "q": "Quelle est la différence entre le conditionnel présent et le conditionnel passé ?",
+    "a": "Conditionnel présent = éventualité présente/future / conditionnel passé = éventualité passée non réalisée",
     "choices": [
-      "Il eût fait (subjonctif PQP valeur conditionnelle)",
-      "Il aurait fait",
-      "Il avait fait",
-      "Il aura fait"
+      "Présent = éventuel futur / passé = non réalisé passé",
+      "Même sens",
+      "Présent = certain / passé = incertain",
+      "Présent = oral / passé = écrit"
     ],
-    "tag": "Formes littéraires",
-    "hint": "EÛT FAIT = forme littéraire du conditionnel passé",
-    "expl": "CONDITIONNEL PASSÉ 2ème forme = subjonctif plus-que-parfait utilisé comme conditionnel. Il EÛT FAIT = il aurait fait. S'il EÛT SU = s'il avait su. Textes littéraires classiques."
+    "tag": "Conditionnel",
+    "hint": "Il VIENDRAIT (présent) vs il SERAIT VENU (passé)",
+    "expl": "CONDITIONNEL PRÉSENT : éventualité actuelle ou future. IL VIENDRAIT si tu l'invitais. CONDITIONNEL PASSÉ : éventualité passée non réalisée. IL SERAIT VENU s'il avait pu. Fondamental pour les hypothèses."
   },
   {
     "id": "b2c1_08",
-    "q": "Comment reconnaît-on le conditionnel passé 2ème forme ?",
-    "a": "Subjonctif imparfait de avoir/être + participe passé : il eût mangé / il fût parti",
+    "q": "Comment exprime-t-on un regret avec le conditionnel passé ?",
+    "a": "J'aurais dû / j'aurais pu / j'aurais voulu + infinitif = regret sur le passé",
     "choices": [
-      "Subjonctif imparfait avoir/être + PP",
-      "Conditionnel présent + PP",
-      "Futur antérieur",
-      "Imparfait + PP"
+      "J'aurais dû/pu/voulu + inf",
+      "J'ai dû + inf",
+      "Je devrais + inf",
+      "J'avais dû + inf"
     ],
-    "tag": "Formes littéraires",
-    "hint": "Il EÛT MANGÉ / Il FÛT PARTI",
-    "expl": "Conditionnel passé 2ème forme : EÛT MANGÉ (= aurait mangé). FÛT PARTI (= serait parti). Se FUSSENT LEVÉS (= se seraient levés). Uniquement dans les textes littéraires."
+    "tag": "Conditionnel passé",
+    "hint": "J'AURAIS DÛ te prévenir = je regrette de ne pas t'avoir prévenu",
+    "expl": "REGRET avec conditionnel passé : J'AURAIS DÛ partir plus tôt. J'AURAIS PU t'aider. J'AURAIS VOULU être là. Ces constructions expriment ce qu'on n'a pas fait dans le passé et qu'on regrette. Très fréquent."
   },
   {
     "id": "b2c1_09",
@@ -169,17 +169,17 @@
   },
   {
     "id": "b2c1_13",
-    "q": "Comment fonctionne l'imparfait hypocoristique ?",
-    "a": "Alors, on était malade ? — imparfait pour parler à un enfant ou avec tendresse",
+    "q": "Comment fonctionne l'imparfait d'atténuation ou de politesse ?",
+    "a": "Je voulais vous demander... — l'imparfait adoucit une demande présente",
     "choices": [
-      "Imparfait affectif pour enfants/tendresse",
-      "Imparfait médical",
-      "Imparfait conditionnel",
+      "Imparfait pour adoucir une demande présente",
+      "Imparfait factuel",
+      "Imparfait d'habitude",
       "Imparfait narratif"
     ],
     "tag": "Valeurs de l'imparfait",
-    "hint": "Alors, on était fatigué, mon chéri ?",
-    "expl": "IMPARFAIT HYPOCORISTIQUE = imparfait affectif utilisé avec enfants ou tendresse. 'Alors, on était malade ?' Imitation du point de vue de l'enfant ou ton de sollicitude."
+    "hint": "Je VOULAIS vous dire... (= je veux, mais c'est plus poli)",
+    "expl": "IMPARFAIT DE POLITESSE très courant : Je VOULAIS vous demander quelque chose (= je veux, mais c'est plus poli). Je VENAIS pour... Utilisé pour atténuer une demande ou signaler qu'on s'excuse d'interrompre."
   },
   {
     "id": "b2c1_14",

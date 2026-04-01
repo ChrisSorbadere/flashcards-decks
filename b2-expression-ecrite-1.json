@@ -141,17 +141,17 @@
   },
   {
     "id": "b2ee1_11",
-    "q": "Comment analyse-t-on la 'progression thématique' ?",
-    "a": "Comment le thème évolue de phrase en phrase : linéaire, constante, dérivée",
+    "q": "Comment structure-t-on un paragraphe argumentatif efficace ?",
+    "a": "Idée directrice (topic sentence) → argument → exemple/preuve → lien avec la thèse",
     "choices": [
-      "Évolution du thème de phrase en phrase",
-      "Structure du paragraphe",
-      "Plan du texte",
-      "Choix lexicaux"
+      "Idée + argument + exemple + lien thèse",
+      "Exemple puis idée",
+      "Seulement des exemples",
+      "Citation + commentaire uniquement"
     ],
-    "tag": "Analyse textuelle",
-    "hint": "Thème linéaire : rhème de P1 = thème de P2",
-    "expl": "PROGRESSION THÉMATIQUE : LINÉAIRE (rhème de P1 = thème de P2). À THÈME CONSTANT (même thème repris). À THÈMES DÉRIVÉS (thème général se fragmente). Analyse de la logique informationnelle du texte."
+    "tag": "Argumentation",
+    "hint": "AEI : Affirmation → Explication → Illustration",
+    "expl": "PARAGRAPHE ARGUMENTATIF : IDÉE DIRECTRICE (affirme clairement). ARGUMENT (explique pourquoi). EXEMPLE/ILLUSTRATION (prouve concrètement). LIEN (articule avec l'idée suivante). Structure AEI : Affirmation, Explication, Illustration. Un seul argument par paragraphe."
   },
   {
     "id": "b2ee1_12",

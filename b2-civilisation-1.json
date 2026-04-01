@@ -29,17 +29,17 @@
   },
   {
     "id": "b2civ1_03",
-    "q": "Qu'est-ce que la 'Question Prioritaire de Constitutionnalité' (QPC) ?",
-    "a": "Mécanisme permettant à tout citoyen de contester la constitutionnalité d'une loi en vigueur",
+    "q": "Qu'est-ce que le Conseil constitutionnel et quel est son rôle ?",
+    "a": "Juridiction suprême qui vérifie la conformité des lois à la Constitution",
     "choices": [
-      "Citoyen peut contester la constitutionnalité d'une loi en vigueur",
-      "Contrôle avant promulgation seulement",
-      "Procédure parlementaire",
-      "Recours au Parlement"
+      "Vérifie la conformité des lois à la Constitution",
+      "Gouverne en cas de crise",
+      "Rédige les lois",
+      "Juge les ministres"
     ],
     "tag": "Institutions",
-    "hint": "Depuis 2010 : tout citoyen peut invoquer la QPC",
-    "expl": "QPC (introduite en 2010) = cuestión de constitucionalidad prioritaria. Tout justiciable peut soulever lors d'un procès que la loi appliquée viole ses droits constitutionnels. Transmise au Conseil constitutionnel."
+    "hint": "Conseil constitutionnel = gardien de la Constitution française",
+    "expl": "CONSEIL CONSTITUTIONNEL : 9 membres nommés (3 par le Président, 3 par l'AN, 3 par le Sénat). Vérifie que les lois respectent la Constitution. Depuis 2010, tout citoyen peut le saisir via la QPC si ses droits sont violés."
   },
   {
     "id": "b2civ1_04",
@@ -71,17 +71,17 @@
   },
   {
     "id": "b2civ1_06",
-    "q": "Qu'est-ce que la 'jurisprudence' du Conseil d'État ?",
-    "a": "Ensemble des décisions du Conseil d'État qui font référence et guident les décisions futures",
+    "q": "Qu'est-ce que le Conseil d'État et quel est son rôle ?",
+    "a": "Plus haute juridiction administrative et conseiller juridique du gouvernement",
     "choices": [
-      "Décisions de référence guidant les décisions futures",
-      "Lois administratives",
-      "Règlements ministériels",
-      "Circulaires"
+      "Juridiction administrative suprême + conseiller du gouvernement",
+      "Tribunal ordinaire",
+      "Chambre du Parlement",
+      "Organe consultatif sans pouvoir"
     ],
-    "tag": "Droit",
-    "hint": "La jurisprudence COMMUNE DE GRENOBLE, NICOLO... — arrêts clés",
-    "expl": "JURISPRUDENCE DU CE : ensemble de ses décisions qui font référence. Arrêts fondateurs : BLANCO (1873, droit admin), NICOLO (1989, primauté du droit européen), COMMUNE DE GRENOBLE (libertés fondamentales)."
+    "tag": "Institutions",
+    "hint": "Conseil d'État = juge des litiges avec l'administration",
+    "expl": "CONSEIL D'ÉTAT : double rôle. JURIDICTIONNEL : juge en dernier ressort les litiges entre citoyens et administration (État, collectivités). CONSULTATIF : examine les projets de loi avant le Parlement. Fondé en 1799 par Napoléon."
   },
   {
     "id": "b2civ1_07",
@@ -113,17 +113,17 @@
   },
   {
     "id": "b2civ1_09",
-    "q": "Qu'est-ce que la 'primauté du droit européen' en France ?",
-    "a": "Le droit européen prime sur le droit national français (sauf la Constitution)",
+    "q": "Qu'est-ce que l'Union européenne et comment la France y participe-t-elle ?",
+    "a": "Union de 27 États avec institutions communes (Commission, Parlement, Conseil) — France membre fondateur",
     "choices": [
-      "Droit européen prime sur droit national sauf Constitution",
-      "Droit français toujours supérieur",
-      "Égalité entre droits",
-      "Droit européen prime sur tout"
+      "27 États avec institutions communes — France membre fondateur",
+      "Alliance militaire",
+      "Zone de libre-échange uniquement",
+      "Organisation mondiale"
     ],
-    "tag": "Droit européen",
-    "hint": "Arrêt NICOLO (CE, 1989) : le juge applique le traité contre la loi",
-    "expl": "PRIMAUTÉ DU DROIT EUROPÉEN : règlements et directives UE priment sur les lois françaises (CJCE, Costa/ENEL 1964). Sauf la Constitution (CC). Le CE a accepté cette primauté depuis l'arrêt NICOLO (1989)."
+    "tag": "Europe",
+    "hint": "UE = 27 membres, France = membre fondateur depuis le Traité de Rome (1957)",
+    "expl": "UNION EUROPÉENNE : 27 États membres. INSTITUTIONS : Commission (exécutif), Parlement européen (élu), Conseil de l'UE (ministres), Cour de Justice. FRANCE = membre fondateur (1957). La loi européenne prime sur la loi française (sauf la Constitution)."
   },
   {
     "id": "b2civ1_10",

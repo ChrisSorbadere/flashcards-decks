@@ -197,17 +197,17 @@
   },
   {
     "id": "b2gr1_15",
-    "q": "Comment fonctionne 'il n'est que de' ?",
-    "a": "IL N'EST QUE DE + infinitif = il suffit de, il n'y a qu'à",
+    "q": "Comment fonctionne la construction 'avoir du mal à' + infinitif ?",
+    "a": "AVOIR DU MAL À + inf = avoir de la difficulté à faire quelque chose",
     "choices": [
-      "Il n'est que de = il suffit de",
-      "Il n'est que de = il est impossible de",
-      "Il n'est que de = il est obligatoire de",
-      "Il n'est que de = il vaut mieux"
+      "Avoir de la difficulté à faire qqch",
+      "Avoir de la chance",
+      "Avoir l'habitude",
+      "Ne pas vouloir"
     ],
-    "tag": "Structures",
-    "hint": "IL N'EST QUE DE REGARDER pour comprendre = il suffit de regarder",
-    "expl": "IL N'EST QUE DE + inf = il suffit de, solo hay que. IL N'EST QUE DE REGARDER autour de soi. Registre soutenu/littéraire. Synonymes : il suffit de, il n'y a qu'à."
+    "tag": "Constructions verbales",
+    "hint": "J'AI DU MAL À comprendre = j'ai du mal à, c'est difficile pour moi",
+    "expl": "AVOIR DU MAL À + infinitif : Il A DU MAL À s'exprimer en français. Elle A EU DU MAL À trouver un logement. Construction très fréquente. Synonymes : avoir de la peine à, avoir du mal à, peiner à. Très utile dans les écrits et à l'oral."
   },
   {
     "id": "b2gr1_16",
@@ -281,17 +281,17 @@
   },
   {
     "id": "b2gr1_21",
-    "q": "Comment fonctionne 'ne... que... ne' (double négation avec que) ?",
-    "a": "Il ne dépense que ce qu'il ne peut éviter — structure restrictive double",
+    "q": "Quelle est la valeur restrictive de 'ne...que' ?",
+    "a": "NE...QUE = seulement, uniquement — restriction sans négation réelle",
     "choices": [
-      "Structure restrictive complexe",
-      "Simple négation",
-      "Double négation = affirmation",
-      "Construction impossible"
+      "NE...QUE = seulement/uniquement (restriction)",
+      "Négation totale",
+      "Double négation",
+      "Approximation"
     ],
     "tag": "Structures",
-    "hint": "'Il ne fait que ce qu'il ne peut refuser'",
-    "expl": "NE... QUE... NE : structure complexe. Il NE fait QUE CE QU'IL NE peut refuser = il fait seulement ce qu'il est obligé de faire. Analyse : NE...QUE (restriction) + NE...pas (négation dans la relative)."
+    "hint": "Il NE mange QUE des légumes = seulement des légumes",
+    "expl": "NE...QUE : valeur RESTRICTIVE, pas vraiment négative. Il NE MANGE QUE des légumes = il mange seulement des légumes (il mange, mais seulement ça). Distinguer de NE...PAS (négation totale). Très fréquent et essentiel en B2."
   },
   {
     "id": "b2gr1_22",

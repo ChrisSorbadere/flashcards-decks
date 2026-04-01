@@ -337,16 +337,16 @@
   },
   {
     "id": "b2v2_25",
-    "q": "Que signifie 'désenchantement du monde' ?",
-    "a": "Concept de Max Weber sur la perte du sens sacré au profit de la rationalisation",
+    "q": "Que signifie 'décroissance' dans le contexte économique ?",
+    "a": "Courant qui prône une réduction volontaire de la production et de la consommation pour préserver la planète",
     "choices": [
-      "Perte du sens sacré par la rationalisation (Weber)",
-      "Simple pessimisme",
-      "Crise économique",
-      "Sécularisation simple"
+      "Réduction volontaire production/consommation pour la planète",
+      "Récession économique",
+      "Déclin industriel",
+      "Réforme fiscale"
     ],
-    "tag": "Sociologie",
-    "hint": "MAX WEBER : rationalisation = DÉSENCHANTEMENT",
-    "expl": "DÉSENCHANTEMENT DU MONDE (Max Weber) = desencantamiento del mundo. La modernité rationnelle fait disparaître le sens magique/sacré du monde. Sécularisation, bureaucratisation. Concept fondamental en sociologie."
+    "tag": "Environnement/Économie",
+    "hint": "La DÉCROISSANCE = l'inverse de la croissance comme objectif",
+    "expl": "DÉCROISSANCE = decrecimiento. Mouvement qui conteste l'objectif de croissance économique continue. Prône la réduction de la production, de la consommation et de l'empreinte écologique. Figures : Serge Latouche. S'oppose au développement durable (jugé insuffisant). Concept central dans les débats environnementaux contemporains."
   }
 ]

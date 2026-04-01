@@ -183,17 +183,17 @@
   },
   {
     "id": "b2civ2_14",
-    "q": "Qu'est-ce que la 'Négritude' et son lien avec la francophonie ?",
-    "a": "Mouvement littéraire et politique de valorisation de la culture africaine noire, né en français",
+    "q": "Qu'est-ce que la francophonie et combien de personnes parlent français dans le monde ?",
+    "a": "Ensemble des locuteurs francophones : environ 320 millions de locuteurs dans 88 pays",
     "choices": [
-      "Valorisation culture africaine noire née en français",
-      "Mouvement contre la France",
-      "Courant littéraire brésilien",
-      "Mouvement anticolonial violent"
+      "~320 millions de locuteurs dans 88 pays",
+      "Seulement la France et ses DOM-TOM",
+      "50 millions en Europe uniquement",
+      "100 millions en Afrique uniquement"
     ],
-    "tag": "Littérature/Francophonie",
-    "hint": "SENGHOR, CÉSAIRE, DAMAS — en langue française",
-    "expl": "NÉGRITUDE (années 1930) : Léopold Sédar SENGHOR, Aimé CÉSAIRE, Léon-Gontran DAMAS. Valorisation des valeurs culturelles africaines. Paradoxe : en FRANÇAIS, langue du colonisateur. Fondatrice de la littérature francophone africaine."
+    "tag": "Francophonie",
+    "hint": "320 millions de francophones dans 88 pays — l'Afrique = 1er continent francophone",
+    "expl": "FRANCOPHONIE : environ 320 millions de locuteurs (OIF, 2022). L'AFRIQUE est désormais le premier continent francophone (50% des francophones). OIF = Organisation Internationale de la Francophonie, 88 États membres. Le français = 5ème langue mondiale."
   },
   {
     "id": "b2civ2_15",

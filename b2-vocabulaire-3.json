@@ -71,17 +71,17 @@
   },
   {
     "id": "b2v3_06",
-    "q": "Qu'est-ce qu'une 'syllepse' ?",
-    "a": "Figure où un mot est pris à la fois au sens propre et figuré",
+    "q": "Qu'est-ce qu'une 'comparaison' et en quoi diffère-t-elle de la métaphore ?",
+    "a": "La comparaison utilise un outil comparatif (comme, tel) / la métaphore assimile directement sans outil",
     "choices": [
-      "Mot pris au sens propre et figuré simultanément",
-      "Répétition",
-      "Opposition",
-      "Comparaison"
+      "Comparaison = avec outil (comme/tel) / métaphore = sans outil",
+      "Même figure",
+      "Comparaison = plus forte",
+      "Métaphore = avec outil"
     ],
     "tag": "Rhétorique",
-    "hint": "'Je me suis éteint dans ses bras' — éteindre au propre et au figuré",
-    "expl": "SYLLEPSE = silepsis. Un terme vaut simultanément au sens propre et figuré. 'Il faut cultiver notre jardin' (Voltaire) = jardin réel + vie intérieure. Équivoque productive."
+    "hint": "Il court COMME le vent (comparaison) / il EST un vent (métaphore)",
+    "expl": "COMPARAISON : comparant + outil (COMME, TEL, SEMBLABLE À) + comparé. 'Il court COMME le vent.' MÉTAPHORE : assimilation directe sans outil comparatif. 'Il est un vent qui balaye tout.' La métaphore est plus audacieuse. Toute métaphore peut devenir une comparaison en ajoutant 'comme'."
   },
   {
     "id": "b2v3_07",
@@ -281,17 +281,17 @@
   },
   {
     "id": "b2v3_21",
-    "q": "Qu'est-ce qu'un 'topos' littéraire ?",
-    "a": "Lieu commun, thème récurrent et conventionnel dans la littérature",
+    "q": "Qu'est-ce qu'un 'cliché' ou 'lieu commun' dans l'écriture ?",
+    "a": "Expression ou idée tellement répétée qu'elle a perdu sa force expressive",
     "choices": [
-      "Lieu commun thème récurrent",
-      "Sujet original",
-      "Figure de style",
-      "Ton du texte"
+      "Expression trop répétée qui a perdu sa force",
+      "Figure de style originale",
+      "Terme technique",
+      "Mot rare"
     ],
-    "tag": "Littérature",
-    "hint": "Le TOPOS de la vie comme voyage, de la femme fatale...",
-    "expl": "TOPOS (pluriel : TOPOI) = tópico, lugar común literario. Thèmes récurrents : le locus amoenus (lieu agréable), la femme fatale, le carpe diem, la fuite du temps. Héritage antique."
+    "tag": "Stylistique",
+    "hint": "'Beau comme un dieu', 'blanc comme neige' = clichés usés",
+    "expl": "CLICHÉ/LIEU COMMUN : expression figée tellement répétée qu'elle ne surprend plus. 'Beau comme un dieu', 'blanc comme neige', 'passer à la vitesse supérieure'. À éviter dans l'écriture soignée. Les reconnaître permet d'analyser le style d'un auteur (qui les utilise ironiquement ou naïvement)."
   },
   {
     "id": "b2v3_22",
@@ -309,17 +309,17 @@
   },
   {
     "id": "b2v3_23",
-    "q": "Que signifie 'catalexis' dans la terminologie littéraire ?",
-    "a": "Terme technique de métrique : vers dont la dernière syllabe est absente",
+    "q": "Qu'est-ce que l'intertextualité et donnez un exemple ?",
+    "a": "Relations entre textes : citations, allusions, réécriture — ex. Molière réécrit Plaute",
     "choices": [
-      "Vers à dernière syllabe absente (métrique)",
-      "Figure de style",
-      "Type de rime",
-      "Rythme de prose"
+      "Relations entre textes : citations, allusions, réécriture",
+      "Résumé d'un texte",
+      "Analyse d'un texte",
+      "Traduction d'un texte"
     ],
-    "tag": "Littérature",
-    "hint": "Terme de versification ancienne",
-    "expl": "CATALEXIS = verso cataléctico (métrique). Vers auquel manque la dernière syllabe attendue. Terme très technique de prosodie antique. Connaissance utile pour l'analyse de poésie classique."
+    "tag": "Analyse textuelle",
+    "hint": "MOLIÈRE s'inspire de PLAUTE / ANOUILH réécrit SOPHOCLE = intertextualité",
+    "expl": "INTERTEXTUALITÉ (Julia Kristeva) : tout texte est en relation avec d'autres textes. CITATION explicite (guillemets). ALLUSION implicite (référence sans mention). RÉÉCRITURE (parodie, pastiche, suite). Ex. : ANOUILH réécrit SOPHOCLE (Antigone). Repérer l'intertextualité enrichit l'analyse."
   },
   {
     "id": "b2v3_24",
@@ -337,16 +337,16 @@
   },
   {
     "id": "b2v3_25",
-    "q": "Que signifie 'diachronie' vs 'synchronie' ?",
-    "a": "DIACHRONIE = évolution dans le temps / SYNCHRONIE = état à un moment donné",
+    "q": "Que signifie 'registre de langue' et comment le distinguer dans un texte ?",
+    "a": "Niveau de langue utilisé : soutenu, courant, familier, populaire — repérable au vocabulaire et à la syntaxe",
     "choices": [
-      "Diachronie = évolution temporelle, synchronie = état fixe",
-      "Même sens",
-      "Diachronie = spatial, synchronie = temporel",
-      "Diachronie = général, synchronie = particulier"
+      "Niveau de langue : soutenu/courant/familier/populaire",
+      "Style de l'auteur uniquement",
+      "Le sujet traité",
+      "La longueur des phrases"
     ],
-    "tag": "Linguistique",
-    "hint": "Saussure : axe DIACHRONIQUE (temps) vs axe SYNCHRONIQUE (moment)",
-    "expl": "DIACHRONIE (Saussure) = diacronía = étude de la langue dans son évolution historique. SYNCHRONIE = sincronía = étude de la langue à un moment donné. Distinction fondamentale en linguistique."
+    "tag": "Registres",
+    "hint": "DEMEURE (soutenu) / MAISON (courant) / BARAQUE (familier) = même réalité",
+    "expl": "REGISTRE DE LANGUE : SOUTENU (vocabulaire riche, syntaxe complexe, passé simple : 'Il demeura'). COURANT (standard, neutre : 'Il habite'). FAMILIER (contractions, mots courants : 'Il crèche'). POPULAIRE (argot, verlan). Identifier par : choix lexicaux, complexité syntaxique, pronoms utilisés (on vs nous)."
   }
 ]

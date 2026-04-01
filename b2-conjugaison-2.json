@@ -281,17 +281,17 @@
   },
   {
     "id": "b2c2_21",
-    "q": "Comment fonctionne le passé surcomposé ?",
-    "a": "J'ai eu fini — passé composé de l'auxiliaire + PP : antériorité dans un contexte oral",
+    "q": "Comment exprime-t-on une action immédiatement antérieure à une autre au passé ?",
+    "a": "Plus-que-parfait pour l'action antérieure : dès qu'il avait fini, il partait",
     "choices": [
-      "Passé composé avoir/être + PP — antériorité orale",
-      "Futur antérieur",
-      "Plus-que-parfait",
-      "Conditionnel passé"
+      "Plus-que-parfait pour l'antérieure",
+      "Passé composé pour les deux",
+      "Imparfait pour les deux",
+      "Passé simple pour les deux"
     ],
-    "tag": "Temps rares",
-    "hint": "Quand j'AI EU FINI, je suis sorti (oral, régional)",
-    "expl": "PASSÉ SURCOMPOSÉ = J'AI EU MANGÉ. Exprime l'antériorité en contexte oral, surtout dans le sud de la France et la Suisse romande. Quand j'AI EU FINI = après avoir fini (oral)."
+    "tag": "Antériorité",
+    "hint": "Dès qu'il AVAIT TERMINÉ, il partait (PQP + imparfait)",
+    "expl": "ANTÉRIORITÉ dans le passé : plus-que-parfait. Dès qu'il AVAIT FINI, il partait. Quand elle ÉTAIT ARRIVÉE, tout était calme. Le PQP indique qu'une action est accomplie AVANT une autre action passée."
   },
   {
     "id": "b2c2_22",

@@ -15,17 +15,17 @@
   },
   {
     "id": "b2gr2_02",
-    "q": "Qu'est-ce qu'un 'zeugme' stylistique ?",
-    "a": "Un seul verbe gouverne deux compléments de nature différente",
+    "q": "Qu'est-ce qu'une 'phrase nominale' et quel est son effet ?",
+    "a": "Phrase sans verbe conjugué : 'Silence. Personne.' — effet de concision et d'impact",
     "choices": [
-      "Un verbe avec deux compléments incompatibles",
-      "Une métaphore",
-      "Une répétition",
-      "Un chiasme"
+      "Phrase sans verbe, effet de concision et d'impact",
+      "Phrase longue",
+      "Phrase avec plusieurs verbes",
+      "Phrase interrogative"
     ],
     "tag": "Stylistique",
-    "hint": "'Il prit son chapeau et congé' — prendre chapeau ET congé",
-    "expl": "ZEUGME = zeugma. Un verbe régit deux compléments de natures différentes. 'Il prit son chapeau et congé.' 'Elle emporte ses affaires et son courage.' Effet comique ou poétique."
+    "hint": "Titre de journal : 'Catastrophe au Japon.' — phrase nominale percutante",
+    "expl": "PHRASE NOMINALE : pas de verbe conjugué. 'Silence. Obscurité totale. Personne.' Effets : concision, dynamisme, choc, urgence. Très utilisée dans la presse (titres), la publicité, la littérature. Aussi appelée phrase elliptique."
   },
   {
     "id": "b2gr2_03",
@@ -85,17 +85,17 @@
   },
   {
     "id": "b2gr2_07",
-    "q": "Qu'est-ce que l''anacoluthe' ?",
-    "a": "Rupture de construction syntaxique en cours de phrase",
+    "q": "Qu'est-ce que l'ellipse stylistique et comment l'identifier ?",
+    "a": "Suppression d'éléments devinables par le contexte : 'Il part demain, elle [part] la semaine prochaine'",
     "choices": [
-      "Rupture de construction en cours de phrase",
-      "Répétition",
-      "Ellipse",
-      "Inversion"
+      "Suppression d'éléments devinables",
+      "Phrase incomplète par erreur",
+      "Phrase trop longue",
+      "Répétition d'un mot"
     ],
     "tag": "Stylistique",
-    "hint": "'Moi, les grandes questions, je m'en méfie' — rupture",
-    "expl": "ANACOLUTHE = anacolutia. Rupture de la construction. 'Moi, partir maintenant, c'est impossible.' Le 'moi' commence une construction abandonnée. Effet d'oralité, d'emphase, parfois de maladresse voulue."
+    "hint": "Il mange des pommes, elle [mange] des poires — ellipse du verbe",
+    "expl": "ELLIPSE : suppression d'éléments récupérables dans le contexte. 'Il mange des pommes, elle [mange] des poires.' 'Pierre est venu, Paul [est venu] aussi.' La ellipse évite les répétitions et allège le style. Fréquente dans les comparaisons et les structures parallèles."
   },
   {
     "id": "b2gr2_08",
@@ -141,17 +141,17 @@
   },
   {
     "id": "b2gr2_11",
-    "q": "Comment fonctionne la 'période' rhétorique ?",
-    "a": "Longue phrase construite en plusieurs membres avec un crescendo vers la conclusion",
+    "q": "Qu'est-ce que la mise en relief par 'c'est...qui/que' ?",
+    "a": "C'EST...QUI/QUE = construction qui met un élément en relief : C'est LUI qui l'a fait",
     "choices": [
-      "Longue phrase en crescendo vers conclusion",
-      "Phrase nominale",
-      "Phrase courte et forte",
-      "Question rhétorique"
+      "Mise en relief d'un élément : C'est LUI qui...",
+      "Construction neutre",
+      "Tournure passive",
+      "Question indirecte"
     ],
-    "tag": "Rhétorique",
-    "hint": "La grande phrase de Cicéron ou Bossuet",
-    "expl": "LA PÉRIODE = frase periódica. Longue construction en plusieurs membres qui se termine par une conclusion attendue. Typique du style oratoire classique (Bossuet, Cicéron). Effet de majesté."
+    "tag": "Mise en relief",
+    "hint": "C'EST LUI qui a fait ça (pas elle) — focalisation sur LUI",
+    "expl": "MISE EN RELIEF : C'EST + élément focalisé + QUI (sujet) / QUE (COD). C'EST LUI QUI a fait ça = emphase sur LUI. C'EST CE LIVRE QUE je veux = emphase sur CE LIVRE. Très fréquente à l'oral et dans les textes expressifs. Équivalent espagnol : Es ÉL quien lo hizo."
   },
   {
     "id": "b2gr2_12",
@@ -309,17 +309,17 @@
   },
   {
     "id": "b2gr2_23",
-    "q": "Qu'est-ce que 'la langue de bois' grammaticalement ?",
-    "a": "Utilisation de constructions impersonnelles, passives et nominales pour éviter l'engagement",
+    "q": "Qu'est-ce que la 'modalisation' dans un texte et comment la reconnaître ?",
+    "a": "Ensemble des marques exprimant l'attitude de l'auteur : peut-être, certainement, il semble que...",
     "choices": [
-      "Impersonnel, passif, nominal pour éviter l'engagement",
-      "Style familier",
-      "Style technique",
-      "Style journalistique"
+      "Marques de l'attitude de l'auteur : peut-être, certainement, il semble",
+      "Seulement les adjectifs",
+      "Seulement la ponctuation",
+      "Seulement le vocabulaire"
     ],
     "tag": "Stylistique",
-    "hint": "'Il a été procédé à...' / 'des mesures ont été prises'",
-    "expl": "LANGUE DE BOIS = construcciones impersonales + voz pasiva + nominalización. 'Il a été procédé à une réorganisation' = on a réorganisé. Ces constructions effacent l'acteur et l'engagement."
+    "hint": "PEUT-ÊTRE, CERTAINEMENT, IL SEMBLE QUE, À MON AVIS = modalisateurs",
+    "expl": "MODALISATION : ensemble des marques qui indiquent la position de l'énonciateur. MODALISATEURS : adverbes (peut-être, certainement, probablement), verbes (sembler, paraître, devoir), guillemets (distance), conditionnel journalistique (le ministre serait favorable). Analyser la modalisation = analyser comment l'auteur présente son degré de certitude."
   },
   {
     "id": "b2gr2_24",

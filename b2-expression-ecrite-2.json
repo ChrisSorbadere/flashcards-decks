@@ -57,45 +57,45 @@
   },
   {
     "id": "b2ee2_05",
-    "q": "Qu'est-ce que la 'mise en abyme' ?",
-    "a": "Procédé narratif où une histoire contient une autre histoire qui la reflète",
+    "q": "Comment identifie-t-on le point de vue d'un narrateur dans un texte ?",
+    "a": "Omniscient (sait tout), interne (limité à un personnage), externe (observateur neutre)",
     "choices": [
-      "Histoire dans l'histoire qui la reflète",
-      "Simple récit enchâssé",
-      "Synonyme de métaphore",
-      "Retour en arrière"
+      "Omniscient / interne / externe",
+      "Subjectif / objectif",
+      "Premier / troisième personne",
+      "Passé / présent"
     ],
     "tag": "Narratologie",
-    "hint": "Un tableau qui représente le tableau lui-même = mise en abyme",
-    "expl": "MISE EN ABYME = mise en abyme. Procédé où une œuvre contient en miniature une représentation d'elle-même. Le roman dans le roman. André Gide l'a théorisé. Effets de réflexivité et de vertige."
+    "hint": "QUI SAIT QUOI dans le texte ? — 3 focalisations",
+    "expl": "POINT DE VUE NARRATIF : OMNISCIENT = narrateur sait tout (pensées de tous). INTERNE = limité à un personnage (on ne sait que ce qu'il sait). EXTERNE = observateur neutre (comportements sans pensées). Identifier avec 'qui sait quoi ?'"
   },
   {
     "id": "b2ee2_06",
-    "q": "Qu'est-ce que le 'pacte autobiographique' selon Philippe Lejeune ?",
-    "a": "Contrat implicite entre auteur et lecteur : auteur = narrateur = personnage",
+    "q": "Qu'est-ce qu'un 'narrateur homodiégétique' vs 'hétérodiégétique' ?",
+    "a": "HOMO = narrateur personnage de l'histoire / HÉTÉRO = narrateur extérieur",
     "choices": [
-      "Contrat implicite : auteur = narrateur = personnage",
-      "Simple récit à la première personne",
-      "Biographie autorisée",
-      "Roman à clé"
+      "Homo = personnage narrateur / hétéro = narrateur extérieur",
+      "Homo = 1ère personne / hétéro = 3ème",
+      "Homo = présent / hétéro = passé",
+      "Même chose"
     ],
-    "tag": "Genres textuels",
-    "hint": "LEJEUNE : je = auteur = narrateur = personnage dans l'autobiographie",
-    "expl": "PACTE AUTOBIOGRAPHIQUE (Lejeune) = pacto autobiográfico. Identité entre auteur réel, narrateur et personnage. Je m'engage à dire la vérité sur moi-même. Distingue autobiographie du roman autobiographique."
+    "tag": "Narratologie",
+    "hint": "Je raconte MA propre histoire (homo) vs je raconte LEUR histoire (hétéro)",
+    "expl": "NARRATEUR HOMODIÉGÉTIQUE = il raconte une histoire dans laquelle il est personnage (je). HÉTÉRODIÉGÉTIQUE = il raconte une histoire dont il n'est pas personnage (il/elle). Distinction fondamentale en analyse narrative."
   },
   {
     "id": "b2ee2_07",
-    "q": "Qu'est-ce que le 'discours indirect libre' ?",
-    "a": "Fusion du discours du personnage et de la narration sans guillemets ni verbe introducteur",
+    "q": "Comment distingue-t-on le discours direct, indirect et le style indirect libre ?",
+    "a": "Direct = guillemets / Indirect = que + concordance / Indirect libre = fusion sans marqueur",
     "choices": [
-      "Fusion du discours du personnage et de la narration",
-      "Discours direct sans guillemets",
-      "Discours indirect normal",
-      "Monologue intérieur"
+      "Direct = guillemets / indirect = que + concordance / indirect libre = fusion",
+      "Tous équivalents",
+      "Direct = formel / indirect = familier",
+      "Direct = oral / indirect = écrit"
     ],
-    "tag": "Narratologie",
-    "hint": "'Il prit son manteau. Il faisait froid dehors, décidément.' — indirect libre",
-    "expl": "DISCOURS INDIRECT LIBRE = estilo indirecto libre. Fusion voix narrateur/personnage. 'Il prit son manteau. Décidément, il faisait trop froid !' (pensée du personnage sans marqueur). Flaubert en est le maître."
+    "tag": "Discours rapporté",
+    "hint": "'Je pars' (direct) / il dit qu'il partait (indirect) / Il partirait. Décidément. (indirect libre)",
+    "expl": "DISCOURS DIRECT : guillemets, paroles exactes. 'Je pars demain.' INDIRECT : que + concordance. Il a dit QU'IL PARTIRAIT. INDIRECT LIBRE : fusion voix narrateur/personnage, sans marqueur. 'Il partirait. Décidément, rien ne le retenait.' Identifier par l'absence de verbe introducteur et guillemets."
   },
   {
     "id": "b2ee2_08",
@@ -211,30 +211,30 @@
   },
   {
     "id": "b2ee2_16",
-    "q": "Qu'est-ce que la 'neutralité axiologique' dans un texte académique ?",
-    "a": "Absence de jugement de valeur personnel dans l'analyse — décrire sans évaluer",
+    "q": "Comment réussit-on l'introduction d'une dissertation ?",
+    "a": "Accroche → présentation du sujet → problématique → annonce du plan",
     "choices": [
-      "Absence de jugement de valeur dans l'analyse",
-      "Absence d'opinion",
-      "Texte sans adjectifs",
-      "Texte sans verbes d'opinion"
+      "Accroche + sujet + problématique + plan",
+      "Résumé + thèse",
+      "Plan détaillé uniquement",
+      "Définition + exemples"
     ],
-    "tag": "Style académique",
-    "hint": "Décrire ce qui EST sans dire ce qui DEVRAIT être",
-    "expl": "NEUTRALITÉ AXIOLOGIQUE (Weber) = neutralidad valorativa. Décrire et analyser sans porter de jugements de valeur personnels. En sociologie/sciences humaines : séparer description (IS) et prescription (OUGHT)."
+    "tag": "Dissertation",
+    "hint": "ACCROCHE → SUJET → PROBLÉMATIQUE → PLAN",
+    "expl": "INTRODUCTION DE DISSERTATION : ACCROCHE (citation, paradoxe, fait). PRÉSENTATION DU SUJET (délimitation). PROBLÉMATIQUE (question précise à laquelle le devoir répond). ANNONCE DU PLAN (sans 'dans un premier temps'). Chaque partie a sa fonction."
   },
   {
     "id": "b2ee2_17",
-    "q": "Qu'est-ce que la 'polyphonie énonciative' dans un texte ?",
-    "a": "Présence de plusieurs voix et points de vue dans le même texte",
+    "q": "Comment réussit-on la conclusion d'une dissertation ?",
+    "a": "Bilan des parties → réponse à la problématique → ouverture vers une question plus large",
     "choices": [
-      "Plusieurs voix et points de vue dans le texte",
-      "Un seul point de vue",
-      "Discours direct uniquement",
-      "Plusieurs styles"
+      "Bilan + réponse + ouverture",
+      "Résumé seulement",
+      "Nouvelle thèse",
+      "Répétition de l'introduction"
     ],
-    "tag": "Analyse",
-    "hint": "L'auteur laisse parler plusieurs voix (personnages, discours rapporté)",
-    "expl": "POLYPHONIE ÉNONCIATIVE = polifonía enunciativa. Dans un texte, l'auteur intègre d'autres voix : citations, discours indirect libre, ironie (où l'auteur dit le contraire de ce qu'il pense). Analyse des voix."
+    "tag": "Dissertation",
+    "hint": "BILAN → RÉPONSE → OUVERTURE",
+    "expl": "CONCLUSION DE DISSERTATION : BILAN synthétique des étapes du raisonnement. RÉPONSE CLAIRE à la problématique posée en introduction. OUVERTURE vers une question connexe ou une perspective plus large. Ne jamais introduire un argument nouveau en conclusion."
   }
 ]

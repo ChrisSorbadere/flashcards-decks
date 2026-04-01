@@ -1,240 +1,240 @@
 [
   {
     "id": "b2ph1_01",
-    "q": "Qu'est-ce que la 'coarticulation' en phonétique ?",
-    "a": "Influence mutuelle des sons adjacents sur leur réalisation",
+    "q": "Qu'est-ce que la liaison obligatoire en français ?",
+    "a": "La liaison est obligatoire entre déterminant et nom, pronom sujet et verbe, après prépositions courtes",
     "choices": [
-      "Influence mutuelle des sons adjacents",
-      "Prononciation distincte de chaque son",
-      "Articulation exagérée",
-      "Prononciation lente et précise"
+      "Obligatoire : déterminant+nom, pronom+verbe, prépositions courtes",
+      "Toujours facultative",
+      "Jamais avec les noms",
+      "Seulement à l'oral soutenu"
     ],
-    "tag": "Phonétique",
-    "hint": "Les sons ne sont pas isolés mais s'influencent mutuellement",
-    "expl": "COARTICULATION = coarticulación. Les sons s'influencent mutuellement. 'Tu' prononcé [ty] mais dans 'tulle' légèrement différent. Assimilation, dissimilation = phénomènes de coarticulation."
+    "tag": "Liaison",
+    "hint": "LES-z-enfants, vous-z-avez — liaison toujours obligatoire",
+    "expl": "LIAISON OBLIGATOIRE : déterminant + nom (les-z-amis), pronom sujet + verbe (vous-z-avez), prépositions courtes (en-n-été, chez-z-eux), adjectif + nom (un-n-homme). Contrairement à la liaison facultative, ces cas ne souffrent pas d'exception en registre soigné."
   },
   {
     "id": "b2ph1_02",
-    "q": "Qu'est-ce que la 'prosodie émotionnelle' ?",
-    "a": "Variations de hauteur, intensité et débit qui encodent les émotions",
+    "q": "Qu'est-ce que la liaison interdite en français ?",
+    "a": "La liaison est interdite après un nom singulier, après ET, avant H aspiré",
     "choices": [
-      "Variations prosodiques encodant les émotions",
-      "Vocabulaire émotionnel",
-      "Syntaxe des émotions",
-      "Intonation seulement"
+      "Interdite après nom singulier, après ET, avant H aspiré",
+      "Interdite après les verbes",
+      "Interdite après les pronoms",
+      "Interdite seulement à l'écrit"
     ],
-    "tag": "Prosodie",
-    "hint": "La voix qui tremble, monte ou baisse selon l'émotion",
-    "expl": "PROSODIE ÉMOTIONNELLE : hauteur (fréquence), intensité (volume), débit et qualité de voix encodent les émotions. La colère : forte intensité, débit rapide, hauteur variable. La tristesse : débit lent, voix basse."
+    "tag": "Liaison",
+    "hint": "Un garçon | intelligent (pas de liaison) / ET | il (jamais de liaison)",
+    "expl": "LIAISON INTERDITE : après un nom singulier (un garçon | arrive), après ET (toi et | elle), avant H aspiré (les | haricots, les | hiboux). Ces cas créent une faute de prononciation même en registre soutenu."
   },
   {
     "id": "b2ph1_03",
-    "q": "Qu'est-ce que la 'fréquence fondamentale' (F0) ?",
-    "a": "La hauteur de base de la voix, déterminée par la vibration des cordes vocales",
+    "q": "Qu'est-ce que l'élision en français et quels mots sont concernés ?",
+    "a": "Suppression de la voyelle finale devant un mot commençant par voyelle : le, la, je, me, te, se, de, que, ce",
     "choices": [
-      "Hauteur de base de la voix",
-      "Volume de la voix",
-      "Timbre de la voix",
-      "Débit de parole"
+      "Suppression voyelle finale : le/la/je/me/te/se/de/que/ce",
+      "Seulement l'article",
+      "Seulement devant les noms",
+      "Uniquement à l'écrit"
     ],
-    "tag": "Phonétique acoustique",
-    "hint": "F0 = ce qui distingue les voix graves des voix aiguës",
-    "expl": "FRÉQUENCE FONDAMENTALE (F0) = la hauteur de base. Voix de femme : 200-300 Hz. Voix d'homme : 100-150 Hz. L'intonation = variations de F0 dans le discours. Perçue comme hauteur mélodique."
+    "tag": "Élision",
+    "hint": "l'ami, j'arrive, qu'il, c'est, d'accord — élision obligatoire",
+    "expl": "ÉLISION : la voyelle finale de certains mots tombe devant une voyelle ou H muet. Articles (l'ami), pronoms (j'arrive, m'a dit, t'a vu), conjonctions (qu'il), démonstratifs (c'est). Obligatoire, pas facultative."
   },
   {
     "id": "b2ph1_04",
-    "q": "Qu'est-ce qu'un 'groupe de souffle' ?",
-    "a": "Segment de parole prononcé en une seule expiration, délimité par des pauses",
+    "q": "Qu'est-ce que l'enchaînement consonantique en français ?",
+    "a": "La consonne finale prononcée d'un mot se rattache à la voyelle initiale du mot suivant",
     "choices": [
-      "Segment prononcé en une expiration",
-      "Une phrase grammaticale",
-      "Un groupe rythmique",
-      "Une syllabe"
+      "Consonne finale se rattache à voyelle initiale suivante",
+      "Liaison supplémentaire",
+      "Élision consonantique",
+      "Phénomène rare"
     ],
-    "tag": "Prosodie",
-    "hint": "On ne peut pas parler sans respirer — le groupe de souffle délimite",
-    "expl": "GROUPE DE SOUFFLE = porción de habla pronunciada en una espiración. Correspond souvent au groupe syntaxique. Longueur variable selon la capacité respiratoire et le débit."
+    "tag": "Enchaînement",
+    "hint": "il-arrive → [i-la-Riv] / elle-aime → [ε-lεm]",
+    "expl": "ENCHAÎNEMENT : la consonne finale toujours prononcée s'enchaîne à la voyelle initiale du mot suivant. IL-arrive → [i-la-Riv]. ELLE-aime → [ε-lεm]. Différent de la liaison (consonne normalement muette). Contribue au rythme syllabique du français."
   },
   {
     "id": "b2ph1_05",
-    "q": "Qu'est-ce que le 'sandhi' externe en français ?",
-    "a": "Phénomènes phonologiques à la jonction de mots : liaisons, élisions, enchaînements",
+    "q": "Quelles sont les voyelles nasales du français et comment les prononcer ?",
+    "a": "[ã] comme dans 'dans', [ɛ̃] comme dans 'fin', [ɔ̃] comme dans 'bon' — résonance nasale",
     "choices": [
-      "Phénomènes à la jonction de mots",
-      "Phénomènes à l'intérieur des mots",
-      "Changements prosodiques",
-      "Réduction vocalique"
+      "[ã] dans/grand, [ɛ̃] fin/bien, [ɔ̃] bon/mon",
+      "[ã] bon, [ɛ̃] dans, [ɔ̃] fin",
+      "Deux nasales seulement",
+      "Quatre nasales en français moderne"
     ],
-    "tag": "Phonologie",
-    "hint": "Liaison, élision, enchaînement = sandhi external",
-    "expl": "SANDHI EXTERNE = phénomènes phonologiques entre les mots : LIAISON (les-z-amis), ÉLISION (l'ami), ENCHAÎNEMENT (il-arrive). Ces phénomènes caractérisent fortement le français."
+    "tag": "Voyelles nasales",
+    "hint": "Les nasales n'existent pas en espagnol — attention aux pièges",
+    "expl": "VOYELLES NASALES : [ã] (dans, grand, temps, avant) — graphies : an, am, en, em. [ɛ̃] (fin, bien, train, main) — graphies : in, im, ain, ien. [ɔ̃] (bon, mon, selon) — graphies : on, om. La voyelle résonne dans le nez. Le N/M ne se prononce pas séparément."
   },
   {
     "id": "b2ph1_06",
-    "q": "Comment fonctionne la 'réduction vocalique' dans le français rapide ?",
-    "a": "Les voyelles atones se réduisent ou disparaissent dans le parler rapide",
+    "q": "Comment prononcer le R français pour un hispanophone ?",
+    "a": "R français = guttural (gorge, langue basse), jamais roulé comme en espagnol",
     "choices": [
-      "Voyelles atones se réduisent ou disparaissent",
-      "Toutes les voyelles se réduisent",
-      "Seulement les voyelles finales",
-      "Seulement les E caducs"
+      "Guttural gorge/langue basse, jamais roulé",
+      "Roulé comme en espagnol",
+      "Comme un L",
+      "Muet en fin de mot"
     ],
-    "tag": "Phonologie",
-    "hint": "'Je ne sais pas' → [ʃ.ne.se.pa] → [ʃ.ne.spa] → [ʃ.spa]",
-    "expl": "RÉDUCTION VOCALIQUE en débit rapide. 'Je ne sais pas' → ['ʃ.ne.se.pa] (soigné) → ['ʃ.ne.spa] (normal) → ['ʃ.spa] (très rapide). Gradation selon le registre et le débit."
+    "tag": "Consonnes",
+    "hint": "Comme un J espagnol prolongé dans la gorge — langue basse et plate",
+    "expl": "R FRANÇAIS [ʁ] = fricative uvulaire. La langue reste BASSE et PLATE. La vibration se produit dans la GORGE (uvule). Jamais roulée comme en espagnol. Technique : imiter un J espagnol prolongé [x] → bouger vers l'arrière de la gorge. Mots clés : rapport, rouge, France, rédiger."
   },
   {
     "id": "b2ph1_07",
-    "q": "Qu'est-ce que la 'prosodie de focalisation' ?",
-    "a": "Accent de focalisation sur un mot pour le mettre en relief informationnel",
+    "q": "Comment prononcer le U français [y] par opposition au OU [u] ?",
+    "a": "[y] = lèvres arrondies + langue en avant (TU) / [u] = lèvres arrondies + langue en arrière (TOUT)",
     "choices": [
-      "Accent sur un mot pour le mettre en relief",
-      "Intonation normale",
-      "Accent de groupe",
-      "Accent de début"
+      "[y] lèvres arrondies + langue avant / [u] lèvres arrondies + langue arrière",
+      "Même son",
+      "[y] = i prolongé",
+      "[u] = ou espagnol identique"
     ],
-    "tag": "Prosodie",
-    "hint": "Je veux PARTIR (pas rester) — focalisation sur PARTIR",
-    "expl": "FOCALISATION PROSODIQUE : allongement + hausse tonale sur le mot focalisé. Je veux PARTIR (et non rester). C'est LUI (et non elle). L'accent de focalisation transgresse l'accent de groupe normal."
+    "tag": "Voyelles",
+    "hint": "TU [ty] ≠ TOUT [tu] — différence langue avant/arrière",
+    "expl": "[y] dans TU, RUE, SUR : lèvres arrondies comme pour [u] MAIS langue en position de [i] (en avant). [u] dans TOUT, VOUS, OUVRIR : lèvres arrondies + langue en arrière. Paire minimale : TU [ty] / TOUT [tu]. Erreur fréquente des hispanophones : prononcer [y] comme [u]."
   },
   {
     "id": "b2ph1_08",
-    "q": "Qu'est-ce que la 'mélodie du discours argumentatif' ?",
-    "a": "Intonation montante sur les prémisses et descendante sur la conclusion",
+    "q": "Qu'est-ce que le E caduc (E muet) et quand disparaît-il ?",
+    "a": "Le E caduc [ə] disparaît souvent à l'oral : je ne sais pas → j'sais pas",
     "choices": [
-      "Montante sur prémisses, descendante sur conclusion",
-      "Plate tout au long",
-      "Montante tout au long",
-      "Descendante tout au long"
+      "Disparaît souvent à l'oral en parler rapide",
+      "Toujours prononcé",
+      "Jamais prononcé",
+      "Seulement en fin de mot"
     ],
-    "tag": "Prosodie",
-    "hint": "D'abord ↗ / ensuite ↗ / donc ↘ — structure argumentative",
-    "expl": "Argumentation : intonation MONTANTE sur les arguments intermédiaires (il y a plus à venir). Intonation DESCENDANTE sur la conclusion (signal de clôture). Structure prosodique de l'argumentaire."
+    "tag": "E caduc",
+    "hint": "'je ne sais pas' → [ʃ.ne.se.pa] → [ʃ.ne.spa] → [ʃ.spa]",
+    "expl": "E CADUC [ə] : tend à disparaître en français parlé. 'Je ne sais pas' → [ʃnɛsepa] → [ʃɛsepa]. Règle générale : le E muet tombe souvent quand il est entouré de consonnes prononcées. En registre soutenu, il se maintient davantage."
   },
   {
     "id": "b2ph1_09",
-    "q": "Qu'est-ce qu'une 'voyelle longue' en français ?",
-    "a": "Voyelle allongée par emphase ou par position dans la syllabe (rarissime systématique)",
+    "q": "Comment distinguer les sons [e] et [ɛ] en français ?",
+    "a": "[e] fermé dans parlER, chanTER / [ɛ] ouvert dans fête, être, j'ai, mais",
     "choices": [
-      "Voyelle allongée par emphase ou position",
-      "Toutes les voyelles accentuées",
-      "Voyelles finales seulement",
-      "Phénomène inexistant en français"
+      "[e] fermé parler/chanter / [ɛ] ouvert fête/être/j'ai",
+      "Même son",
+      "[e] toujours en syllabe finale",
+      "[ɛ] seulement devant R"
     ],
-    "tag": "Phonologie",
-    "hint": "PÂTE [pa:t] vs PATTE [pat] — distinction disparaissant",
-    "expl": "QUANTITÉ VOCALIQUE : disparaît en français moderne standard. Reste comme trace : PÂTE vs PATTE, JEÛNE vs JEUNE. À l'oral contemporain, la distinction est quasi effacée dans le français parisien."
+    "tag": "Voyelles",
+    "hint": "parlER [e] fermé / fête [ɛ] ouvert — bouche plus ouverte pour [ɛ]",
+    "expl": "[e] FERMÉ : bouche peu ouverte. En fin de syllabe ouverte (chanTER, parlER, j'ai [ʒe]). [ɛ] OUVERT : bouche plus ouverte. Devant consonne prononcée (fête, être, fait, mais). Paires : chanter [ʃɑ̃te] / chantait [ʃɑ̃tɛ]. Distinction importante pour la conjugaison."
   },
   {
     "id": "b2ph1_10",
-    "q": "Qu'est-ce que la 'loi de position' pour les voyelles moyennes ?",
-    "a": "En syllabe ouverte → voyelle fermée / en syllabe fermée → voyelle ouverte",
+    "q": "Quelles consonnes finales sont généralement muettes en français ?",
+    "a": "S, T, D, X, Z, P finaux sont généralement muets sauf en liaison",
     "choices": [
-      "Syllabe ouverte = fermée / syllabe fermée = ouverte",
-      "Pas de règle de position",
-      "Position ne détermine pas la voyelle",
-      "Toujours voyelle fermée"
+      "S, T, D, X, Z, P muets en finale sauf liaison",
+      "Toutes les consonnes finales sont muettes",
+      "Seulement le S est muet",
+      "Aucune consonne n'est muette"
     ],
-    "tag": "Phonologie",
-    "hint": "BEU-rre (syllabe fermée) [œ] / FEU (syllabe ouverte) [ø]",
-    "expl": "LOI DE POSITION (tendance) : Syllabe OUVERTE (finit par voyelle) → voyelle FERMÉE [e, ø, o]. Syllabe FERMÉE (finit par consonne) → voyelle OUVERTE [ɛ, œ, ɔ]. Tendance, pas règle absolue."
+    "tag": "Consonnes finales",
+    "hint": "commandanT, soldaT, graD — T final muet ! Sauf en liaison",
+    "expl": "CONSONNES FINALES MUETTES : S (vous, amis), T (commandant, soldat), D (grand), X (voix, deux), Z (chez), P (trop). Exception : C, R, F, L souvent prononcés (lac, mer, neuf, fil). La liaison réactive ces consonnes muettes."
   },
   {
     "id": "b2ph1_11",
-    "q": "Qu'est-ce que le 'style oralisé' ou 'écrit oralisé' ?",
-    "a": "Texte écrit conçu pour être lu à voix haute, avec adaptation prosodique",
+    "q": "Qu'est-ce que l'accentuation en français et où tombe l'accent ?",
+    "a": "L'accent en français tombe sur la DERNIÈRE SYLLABE du groupe rythmique, jamais sur une syllabe interne",
     "choices": [
-      "Texte écrit conçu pour être lu à voix haute",
-      "Texte parlé transcrit",
-      "Texte informel",
-      "Texte avec fautes d'orthographe"
+      "Accent sur la dernière syllabe du groupe rythmique",
+      "Accent variable comme en espagnol",
+      "Accent sur la première syllabe",
+      "Pas d'accent en français"
     ],
-    "tag": "Registres",
-    "hint": "Un discours politique, un sermon, un texte de radio",
-    "expl": "STYLE ORALISÉ = texto escrito para ser leído en voz alta. Discours politique, homélies, radio. Structure syntaxique adaptée à l'oral : phrases moins longues, pauses marquées, répétitions permises."
+    "tag": "Accent",
+    "hint": "La maison [la.mɛ.ZÕ] — accent toujours sur la dernière syllabe",
+    "expl": "ACCENT FRANÇAIS : toujours sur la DERNIÈRE syllabe du groupe rythmique (groupe de sens). LA MAIson, VOUS VEnez, il FAIT BEAU. Contrairement à l'espagnol ou l'anglais, l'accent ne distingue pas les mots (PÁpa vs papÁ en espagnol). Le français est une langue à accent fixe de groupe."
   },
   {
     "id": "b2ph1_12",
-    "q": "Comment se réalise 'quoi' dans le français parlé contemporain ?",
-    "a": "[kwa] → [koa] ou même [ka] dans le registre très familier",
+    "q": "Qu'est-ce que le rythme syllabique du français ?",
+    "a": "Chaque syllabe a une durée à peu près égale — français = langue à rythme syllabique (≠ anglais)",
     "choices": [
-      "[kwa] → [koa] ou [ka] familier",
-      "Toujours [kwa]",
-      "Toujours [koa]",
-      "[ki] dans certains dialectes"
+      "Syllabes à durée égale — rythme syllabique",
+      "Syllabes variables comme l'anglais",
+      "Accent sur les syllabes impaires",
+      "Rythme libre"
     ],
-    "tag": "Oral contemporain",
-    "hint": "'Quoi de neuf ?' → [kadnœf] très familier",
-    "expl": "QUOI en français familier : [kwa] → [koa] (relâché) → [ka] (très familier, verlan de 'quoi'). 'C'est quoi ça ?' [se.koa.sa] ou [se.ka.sa]. Variation importante à reconnaître à l'oral."
+    "tag": "Rythme",
+    "hint": "Français : ta-ta-ta-ta / Anglais : TA-ta-ta-TA",
+    "expl": "RYTHME SYLLABIQUE : en français, toutes les syllabes durent à peu près pareil (isochronie syllabique). Très différent de l'anglais (rythme accentuel) où les syllabes accentuées sont plus longues. Pour un hispanophone, le français semble 'monotone'. Conséquence : pas de réduction des voyelles non-accentuées."
   },
   {
     "id": "b2ph1_13",
-    "q": "Qu'est-ce que la 'prosodie paralinguistique' ?",
-    "a": "Sons qui accompagnent le discours sans être des phonèmes : soupirs, hésitations, rires",
+    "q": "Comment fonctionne l'intonation d'une phrase déclarative en français ?",
+    "a": "Montante pendant l'énoncé, descendante à la fin — signal de clôture",
     "choices": [
-      "Sons non phonémiques : soupirs, hésitations, rires",
-      "Phonèmes spéciaux",
-      "Intonation standard",
-      "Pauses uniquement"
+      "Montante pendant l'énoncé, descendante à la fin",
+      "Toujours descendante",
+      "Toujours montante",
+      "Plate"
     ],
-    "tag": "Prosodie",
-    "hint": "'Euh', les soupirs, les rires = paralinguistique",
-    "expl": "PARALINGUISTIQUE = éléments prosodiques non phonémiques. EUH (hésitation). Soupir. Rire. Voix qui se brise. Ces éléments encodent l'attitude, les émotions, les relations sans être des mots."
+    "tag": "Intonation",
+    "hint": "Je mange une pomme ↗ rouge ↘ — fin descendante = clôture",
+    "expl": "INTONATION DÉCLARATIVE : mélodie montante sur le groupe non final (il y a suite), descendante sur le groupe final (clôture). JE MANGE ↗ UNE POMME ↘. Cette courbe mélodique signale la fin de l'énoncé. Différente de la question (montante finale)."
   },
   {
     "id": "b2ph1_14",
-    "q": "Qu'est-ce qu'un 'hiatus' et comment le français le traite-t-il ?",
-    "a": "Rencontre de deux voyelles : le français l'évite par élision, liaison ou semi-voyelle",
+    "q": "Comment distingue-t-on une question par l'intonation en français ?",
+    "a": "Question par intonation = voix montante à la fin (sans inversion ni est-ce que)",
     "choices": [
-      "Rencontre de deux voyelles, évitée par élision/liaison",
-      "Répétition d'une consonne",
-      "Chute d'une syllabe",
-      "Liaison obligatoire"
+      "Voix montante finale = question",
+      "Voix descendante = question",
+      "Intonation plate = question",
+      "Dépend du registre"
     ],
-    "tag": "Phonologie",
-    "hint": "Le-ami → L'ami (élision évite le hiatus)",
-    "expl": "HIATUS = rencontre de deux voyelles à la jonction de mots. Le français l'évite : ÉLISION (l'ami), LIAISON (les-z-amis), SEMI-VOYELLE (il y a → [i.lja]). Certains hiatus subsistent : il a."
+    "tag": "Intonation",
+    "hint": "Tu viens ? ↗ — simple montée finale = question à l'oral",
+    "expl": "QUESTION PAR INTONATION : monter la voix à la fin transforme une phrase déclarative en question. TU VIENS ? ↗ (vs TU VIENS ↘). Très fréquent à l'oral en registre courant/familier. Registre soutenu préfère l'inversion (Viens-tu ?) ou EST-CE QUE tu viens ?"
   },
   {
     "id": "b2ph1_15",
-    "q": "Comment les locuteurs non natifs perçoivent-ils l'accent français ?",
-    "a": "Souvent perçu comme 'monocorde' ou 'musical' selon la langue maternelle",
+    "q": "Comment se prononcent les groupes 'oi' et 'oin' en français ?",
+    "a": "OI = [wa] comme dans moi, soir / OIN = [wɛ̃] comme dans loin, coin",
     "choices": [
-      "Perçu comme monocorde ou musical selon la LM",
-      "Toujours perçu comme rapide",
-      "Perçu comme très accentué",
-      "Perçu comme identique à l'anglais"
+      "OI = [wa] moi/soir / OIN = [wɛ̃] loin/coin",
+      "OI = [oi] comme en espagnol",
+      "OI = [u]",
+      "OIN = [on]"
     ],
-    "tag": "Perception phonétique",
-    "hint": "Un Espagnol trouve le français plat, un Asiatique le trouve musical",
-    "expl": "PERCEPTION DE L'ACCENT : relative à la langue maternelle. Hispanophones : le français semble peu accentué (chaque syllabe égale). Asiatiques (langues tonales) : perçoivent les variations tonales très différemment."
+    "tag": "Graphie-phonie",
+    "hint": "'moi' se prononce [mwa] pas [moi]",
+    "expl": "OI = [wa] : moi [mwa], soir [swaʁ], avoir [avwaʁ], emploi [ɑ̃plwa]. OIN = [wɛ̃] : loin [lwɛ̃], coin [kwɛ̃], point [pwɛ̃], soin [swɛ̃]. Erreur fréquente : prononcer OI comme en espagnol [oi] ou [oj]. La semi-voyelle [w] est essentielle."
   },
   {
     "id": "b2ph1_16",
-    "q": "Qu'est-ce que la 'dysphonie' par rapport à l'enrouement ?",
-    "a": "DYSPHONIE = altération de la voix (pathologie) / enrouement = forme courante",
+    "q": "Comment se prononce le son [ɥ] (U + I) en français ?",
+    "a": "[ɥ] = semi-voyelle dans nuit, lui, puis — lèvres arrondies + langue avant + rapide",
     "choices": [
-      "Dysphonie = altération pathologique, enrouement = courant",
-      "Même chose",
-      "Dysphonie = timbre, enrouement = hauteur",
-      "Dysphonie = féminin, enrouement = masculin"
+      "Semi-voyelle lèvres arrondies+langue avant dans nuit/lui",
+      "Même que oui [w]",
+      "Même que i",
+      "Son inexistant"
     ],
-    "tag": "Voix",
-    "hint": "Le prof qui a perdu la voix = dysphonie légère",
-    "expl": "DYSPHONIE = disfonia. Toute altération de la qualité de la voix : enrouement, voix soufflée, brisée, trop aiguë. En contexte pédagogique : fatigue vocale, dysphonie professionnelle. Hygiène vocale importante."
+    "tag": "Semi-voyelles",
+    "hint": "NUIT [nɥi], LUI [lɥi], DEPUIS [dəpɥi]",
+    "expl": "[ɥ] = semi-voyelle de [y]. NUIT [nɥi], LUI [lɥi], PUIS [pɥi], DEPUIS [dəpɥi]. Lèvres arrondies comme pour [y] mais prononcé très rapidement avant [i]. Les hispanophones prononcent souvent NUIT comme NOI ou NUI — à corriger."
   },
   {
     "id": "b2ph1_17",
-    "q": "Qu'est-ce que le 'tempo' en phonétique ?",
-    "a": "Vitesse d'élocution mesurée en syllabes ou mots par minute",
+    "q": "Comment fonctionnent les accents écrits sur les voyelles en français ?",
+    "a": "Accent aigu (é fermé), grave (è ouvert ou à), circonflexe (ê ou allongement historique)",
     "choices": [
-      "Vitesse d'élocution en syllabes/mots par minute",
-      "Hauteur de la voix",
-      "Volume sonore",
-      "Qualité de l'articulation"
+      "Aigu=é fermé / grave=è ouvert ou à / circonflexe=ê ou historique",
+      "Tous indiquent un accent tonique",
+      "L'accent grave = toujours ouvert",
+      "Le circonflexe = toujours long"
     ],
-    "tag": "Prosodie",
-    "hint": "Parler vite ou lentement = différence de tempo",
-    "expl": "TEMPO = velocidad de elocución. Mesure en syllabes/seconde ou mots/minute. Français ~6-7 syll/sec. Varie selon émotion, contexte, registre. Tempo lent = solennel, pédagogique. Tempo rapide = excitation, urgence."
+    "tag": "Graphie",
+    "hint": "é café [e] / è fête [ɛ] / â pâte [ɑ] / î île = i",
+    "expl": "ACCENTS : AIGU (é) = [e] fermé : café, été, parlé. GRAVE (è) = [ɛ] ouvert : fête, être, père. GRAVE (à, là) = aucune valeur phonique, sert à distinguer (ou/où, a/à). CIRCONFLEXE : ancienne voyelle longue (pâte vs patte), aujourd'hui souvent fusionnées. î, û = même son que i, u."
   }
 ]
