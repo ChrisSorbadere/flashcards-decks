@@ -1,254 +1,254 @@
 [
   {
-    "id": "st2-01",
-    "q": "Comment décrire un véhicule blindé de combat ?",
-    "a": "C'est un véhicule blindé à roues / à chenilles, armé d'un canon de [calibre] mm, pouvant transporter [nombre] soldats.",
+    "id": "sv2-01",
+    "q": "Comment décrire une voiture de façon générale ?",
+    "a": "C'est une voiture de marque [X], modèle [Y], de couleur [Z]. Elle a [4] portes et peut transporter [5] personnes.",
     "choices": [
-      "C'est un gros véhicule militaire armé.",
-      "C'est un tank avec des roues ou des chenilles.",
-      "C'est un véhicule de combat lourd."
+      "C'est un véhicule avec 4 roues.",
+      "C'est une automobile de couleur...",
+      "C'est une voiture qui va vite."
     ],
-    "tag": "Véhicules",
-    "hint": "Roues/chenilles + armement + capacité",
-    "expl": "Description type : mobilité (roues/chenilles), protection (blindage), armement (canon, mitrailleuse), capacité (hommes transportés).",
-    "dictee": "blindé"
+    "tag": "Véhicule",
+    "hint": "Marque + modèle + couleur + portes + capacité",
+    "expl": "Description type : C'est une Seat Ibiza rouge, 5 portes, 5 places. Elle mesure 4,05m de long et pèse environ 1 200 kg.",
+    "dictee": "voiture"
   },
   {
-    "id": "st2-02",
-    "q": "Quelle est la différence entre un char et un véhicule de l'avant blindé (VAB) ?",
-    "a": "Le char est un engin de combat lourd armé d'un canon, tandis que le VAB est un véhicule de transport de troupes blindé.",
+    "id": "sv2-02",
+    "q": "Comment indiquer les dimensions d'un objet ou véhicule ?",
+    "a": "Il mesure [X] mètres de long, [Y] mètres de large et [Z] mètres de haut. Il pèse environ [W] kilogrammes.",
     "choices": [
-      "Le char est plus grand que le VAB.",
-      "Le char attaque, le VAB défend.",
-      "Le char est français, le VAB est étranger."
+      "Il est grand et assez lourd.",
+      "Ses dimensions sont importantes.",
+      "Il a une certaine taille et un certain poids."
     ],
-    "tag": "Véhicules",
-    "hint": "Char = combat / VAB = transport",
-    "expl": "Char (Leclerc) = engin de combat principal, blindage lourd, canon 120mm. VAB = transport blindé, 10 soldats, plus léger.",
-    "dictee": "transport"
+    "tag": "Dimensions",
+    "hint": "Longueur + largeur + hauteur + poids",
+    "expl": "Toujours préciser les trois dimensions + le poids. Ex : La table mesure 1,80m de long, 0,90m de large et 0,75m de haut.",
+    "dictee": "mesure"
   },
   {
-    "id": "st2-03",
-    "q": "Comment décrire les dimensions d'un véhicule militaire ?",
-    "a": "Il mesure [X] mètres de long, [Y] mètres de large et [Z] mètres de haut. Il pèse [tonnage] tonnes.",
+    "id": "sv2-03",
+    "q": "Comment décrire la matière d'un objet ?",
+    "a": "Cet objet est fabriqué en [bois / métal / plastique / verre / cuir / tissu]. Il a une surface [lisse / rugueuse / brillante / mate].",
     "choices": [
-      "Il est grand et lourd.",
-      "Il a une taille normale pour un véhicule militaire.",
-      "Ses dimensions sont importantes."
+      "L'objet est fait d'un certain matériau.",
+      "Sa matière est... avec une surface...",
+      "Il est constitué de... et sa texture est..."
     ],
-    "tag": "Description",
-    "hint": "Longueur × largeur × hauteur + poids",
-    "expl": "Toujours préciser : longueur, largeur, hauteur en mètres, poids en tonnes. Ex: Il mesure 9,87m de long, 3,71m de large.",
+    "tag": "Matériaux",
+    "hint": "Matière + texture de surface",
+    "expl": "Matières courantes : bois (chêne, pin), métal (acier, aluminium), plastique (dur, souple), verre, cuir, tissu, béton, céramique.",
+    "dictee": "fabriqué"
+  },
+  {
+    "id": "sv2-04",
+    "q": "Comment décrire la couleur et l'aspect d'un objet ?",
+    "a": "Il est de couleur [couleur principale]. Il présente [des rayures / des taches / un motif] de couleur [secondaire]. Il est [neuf / usé / abîmé].",
+    "choices": [
+      "Il est d'une certaine couleur avec des détails.",
+      "Sa couleur principale est... avec des...",
+      "Il a l'air... et est de couleur..."
+    ],
+    "tag": "Couleur",
+    "hint": "Couleur principale + motif + état général",
+    "expl": "Description couleur : couleur principale, nuance (clair/foncé), motif éventuel (rayures, carreaux), état (neuf, usé, abîmé, rouillé).",
+    "dictee": "couleur"
+  },
+  {
+    "id": "sv2-05",
+    "q": "Comment décrire un avion de ligne ?",
+    "a": "C'est un avion de la compagnie [X], un [modèle]. Il a deux réacteurs sous les ailes. Il peut transporter [X] passagers sur [X] km.",
+    "choices": [
+      "C'est un grand avion pour les passagers.",
+      "C'est un avion commercial avec des réacteurs.",
+      "C'est un appareil de transport aérien civil."
+    ],
+    "tag": "Transport",
+    "hint": "Compagnie + modèle + moteurs + capacité + autonomie",
+    "expl": "Ex : C'est un Airbus A320 d'Iberia. Il a deux réacteurs sous les ailes. Il peut transporter 180 passagers sur 6 000 km.",
+    "dictee": "réacteurs"
+  },
+  {
+    "id": "sv2-06",
+    "q": "Comment décrire un train à grande vitesse ?",
+    "a": "C'est un train à grande vitesse qui relie [ville A] à [ville B] en [durée]. Il roule à [vitesse] km/h et comporte [X] voitures.",
+    "choices": [
+      "C'est un train rapide entre deux villes.",
+      "C'est un TGV qui va très vite.",
+      "C'est un train moderne pour les longues distances."
+    ],
+    "tag": "Transport",
+    "hint": "Trajet + durée + vitesse + nombre de voitures",
+    "expl": "Ex : L'AVE relie Madrid à Barcelone en deux heures trente. Il roule à 300 km/h et comporte huit voitures avec 400 places.",
+    "dictee": "grande vitesse"
+  },
+  {
+    "id": "sv2-07",
+    "q": "Comment décrire la fonction d'un appareil électroménager ?",
+    "a": "Cet appareil sert à [fonction principale]. On l'utilise dans [lieu]. Il fonctionne à l'électricité / au gaz. Il a une capacité de [X].",
+    "choices": [
+      "C'est un appareil qui fait... dans...",
+      "Cet équipement est utilisé pour...",
+      "Sa fonction principale est de..."
+    ],
+    "tag": "Objets",
+    "hint": "Fonction + lieu + énergie + capacité",
+    "expl": "Ex : Ce réfrigérateur sert à conserver les aliments. On l'utilise dans la cuisine. Il fonctionne à l'électricité. Sa capacité est de 300 litres.",
+    "dictee": "fonction"
+  },
+  {
+    "id": "sv2-08",
+    "q": "Comment comparer deux véhicules en termes de taille ?",
+    "a": "La voiture A est plus grande / plus longue / plus haute que la voiture B. Elle mesure [X] cm de plus. En revanche, elle pèse [Y] kg de plus.",
+    "choices": [
+      "La voiture A est plus grande que B.",
+      "La première est plus grande et plus lourde.",
+      "La voiture A dépasse la voiture B en taille."
+    ],
+    "tag": "Comparaison",
+    "hint": "Comparatif + mesure de la différence",
+    "expl": "Comparaison précise : La berline est plus longue que le SUV de 15 cm. En revanche, le SUV est plus haut de 20 cm.",
+    "dictee": "plus grand"
+  },
+  {
+    "id": "sv2-09",
+    "q": "Comment décrire un vélo ou une moto ?",
+    "a": "C'est un [vélo / moto] de marque [X], de couleur [Y]. Il / elle a [X] vitesses. Le moteur développe [X] chevaux. Il / elle pèse [X] kg.",
+    "choices": [
+      "C'est un deux-roues de couleur... avec un moteur.",
+      "C'est une moto / un vélo qui a des caractéristiques...",
+      "C'est un engin à deux roues de marque..."
+    ],
+    "tag": "Véhicule",
+    "hint": "Type + marque + couleur + vitesses + puissance",
+    "expl": "Ex : C'est une Honda CB500, de couleur noire. Elle a une boîte 6 vitesses. Son moteur développe 47 chevaux. Elle pèse 190 kg.",
+    "dictee": "vitesses"
+  },
+  {
+    "id": "sv2-10",
+    "q": "Comment décrire la forme géométrique d'un objet ?",
+    "a": "Cet objet a une forme [rectangulaire / carrée / ronde / ovale / triangulaire / cylindrique]. Ses côtés sont [droits / arrondis / anguleux].",
+    "choices": [
+      "Sa forme est géométrique et régulière.",
+      "Il a une forme particulière avec des bords...",
+      "Sa silhouette est..."
+    ],
+    "tag": "Forme",
+    "hint": "Forme géométrique + caractéristique des bords",
+    "expl": "Formes : rectangle, carré, cercle, ovale, triangle, cylindre, sphère, cube. Bords : droit, arrondi, anguleux, biseauté.",
+    "dictee": "forme"
+  },
+  {
+    "id": "sv2-11",
+    "q": "Comment décrire un bateau ou un navire civil ?",
+    "a": "C'est un [type de bateau] d'environ [X] mètres de long. Il est en [matière]. Il peut transporter [X] personnes / tonnes de marchandises.",
+    "choices": [
+      "C'est un bateau qui fait... et mesure...",
+      "C'est un navire de... mètres pour...",
+      "C'est une embarcation de type..."
+    ],
+    "tag": "Transport",
+    "hint": "Type + longueur + matière + capacité",
+    "expl": "Ex : C'est un ferry de 180 mètres de long. Il est en acier. Il peut transporter 500 passagers et 80 voitures.",
     "dictee": "mètres"
   },
   {
-    "id": "st2-04",
-    "q": "Comment décrire la couleur et le camouflage d'un véhicule ?",
-    "a": "Il est peint en vert olive / kaki / désert. Il porte un camouflage [type] adapté au terrain [type].",
+    "id": "sv2-12",
+    "q": "Comment décrire l'état général d'un véhicule ?",
+    "a": "Le véhicule est en [bon / mauvais] état général. La carrosserie présente [quelques égratignures / de la rouille / un bon état]. Le moteur tourne [bien / bruyamment].",
     "choices": [
-      "Il est de couleur militaire standard.",
-      "Il a une peinture spéciale pour se camoufler.",
-      "Sa couleur varie selon la mission."
+      "Le véhicule est en bon ou mauvais état.",
+      "Son état général est... avec une carrosserie...",
+      "Il est bien entretenu / abîmé parce que..."
     ],
-    "tag": "Description",
-    "hint": "Couleur + type de camouflage + terrain",
-    "expl": "Camouflages : vert forêt (européen), kaki/sable (désert), blanc (arctique), numérique (moderne). Adapté au théâtre d'opérations.",
-    "dictee": "camouflage"
+    "tag": "État",
+    "hint": "État général + carrosserie + moteur",
+    "expl": "Description état : carrosserie (rayures, bosses, rouille, peinture écaillée), intérieur (propre, sale, usé), mécanique (bruit, vibrations).",
+    "dictee": "état"
   },
   {
-    "id": "st2-05",
-    "q": "Comment décrire l'armement principal d'un hélicoptère de combat ?",
-    "a": "Il est équipé d'une mitrailleuse rotative, de roquettes non guidées et de missiles air-sol / air-air.",
+    "id": "sv2-13",
+    "q": "Comment décrire un ordinateur portable ?",
+    "a": "C'est un ordinateur portable de marque [X], avec un écran de [X] pouces. Il pèse [X] kg et a une autonomie de [X] heures.",
     "choices": [
-      "Il a des armes pour attaquer au sol.",
-      "Il porte des missiles et des canons.",
-      "Il est armé de systèmes d'armes variés."
+      "C'est un laptop de marque... avec un écran...",
+      "C'est un ordinateur portable de... pouces.",
+      "C'est un PC portable léger de..."
     ],
-    "tag": "Aéronefs",
-    "hint": "Canon + roquettes + missiles",
-    "expl": "Ex Tigre : canon 30mm, roquettes 68mm, missiles HOT ou Hellfire. Ex NH90 : principalement transport, peut emporter des mitrailleuses.",
-    "dictee": "missiles"
+    "tag": "Technologie",
+    "hint": "Marque + taille écran + poids + autonomie",
+    "expl": "Ex : C'est un Dell de 15,6 pouces. Il pèse 1,8 kg. Sa batterie permet 8 heures d'utilisation. Il est de couleur gris anthracite.",
+    "dictee": "portable"
   },
   {
-    "id": "st2-06",
-    "q": "Comment décrire la fonction d'un matériel du génie ?",
-    "a": "Ce matériel permet de [franchir un obstacle / construire un pont / détecter et neutraliser des mines].",
+    "id": "sv2-14",
+    "q": "Comment décrire un meuble comme une armoire ou une bibliothèque ?",
+    "a": "C'est une [armoire / bibliothèque] en [matière], mesurant [H] × [L] × [P] cm. Elle comporte [X] étagères et [X] tiroirs / portes.",
     "choices": [
-      "C'est un engin qui fait des travaux militaires.",
-      "Il sert à construire ou détruire des obstacles.",
-      "C'est un équipement spécialisé du génie."
+      "C'est un meuble en... avec des étagères.",
+      "C'est un rangement de... cm avec des tiroirs.",
+      "C'est un meuble de... fait en..."
     ],
-    "tag": "Matériel",
-    "hint": "Franchissement / construction / déminage",
-    "expl": "Matériels du génie : poseur de pont (franchissement), bulldozer blindé (ouverture d'itinéraire), détecteur de mines (déminage).",
-    "dictee": "franchir"
+    "tag": "Objets",
+    "hint": "Type + matière + dimensions + structure interne",
+    "expl": "Ex : C'est une bibliothèque en bois de chêne, mesurant 200 × 90 × 30 cm. Elle comporte 5 étagères réglables et 2 portes vitrées.",
+    "dictee": "étagères"
   },
   {
-    "id": "st2-07",
-    "q": "Comment décrire un système d'artillerie ?",
-    "a": "C'est une pièce d'artillerie tractée / automotrice, d'un calibre de [mm], avec une portée de [km].",
+    "id": "sv2-15",
+    "q": "Comment indiquer à quoi sert un outil spécifique ?",
+    "a": "Cet outil sert à [action : visser, couper, mesurer...]. Il s'utilise dans [domaine : menuiserie, plomberie...]. Il est fabriqué en [matière].",
     "choices": [
-      "C'est un grand canon militaire.",
-      "C'est une arme qui tire loin.",
-      "C'est un système d'armes lourd."
+      "C'est un outil qui permet de faire...",
+      "Sa fonction est de... dans le domaine de...",
+      "On l'utilise pour... c'est en..."
     ],
-    "tag": "Artillerie",
-    "hint": "Tractée/automotrice + calibre + portée",
-    "expl": "Ex CAESAR : obusier automoteur 155mm, portée 40km, déploiement en 60 secondes. Tractée vs automotrice = mobilité différente.",
-    "dictee": "portée"
+    "tag": "Outils",
+    "hint": "Action + domaine + matière",
+    "expl": "Ex : Cette perceuse sert à faire des trous dans le bois ou le béton. Elle s'utilise en bricolage et dans la construction.",
+    "dictee": "sert"
   },
   {
-    "id": "st2-08",
-    "q": "Quelle est la matière principale utilisée pour le blindage des véhicules modernes ?",
-    "a": "Les véhicules modernes utilisent de l'acier, de l'aluminium, des céramiques composites et des blindages réactifs.",
+    "id": "sv2-16",
+    "q": "Comment décrire un appareil photo ou une caméra ?",
+    "a": "C'est un [appareil photo / caméra] de marque [X]. Il pèse [X] grammes. Son objectif fait [X] mm. La résolution est de [X] mégapixels.",
     "choices": [
-      "Les véhicules sont faits d'acier très épais.",
-      "Le blindage est en métal renforcé.",
-      "Les matériaux varient selon le niveau de protection."
+      "C'est un appareil de prise de vue de marque...",
+      "C'est une caméra / un APN de... mégapixels.",
+      "C'est un équipement photo de marque..."
     ],
-    "tag": "Matériaux",
-    "hint": "Acier + céramique + composite + réactif",
-    "expl": "Évolution : acier homogène → aluminium (légèreté) → composite (céramique + acier) → blindage réactif explosive (ERA) contre RPG.",
-    "dictee": "composite"
+    "tag": "Technologie",
+    "hint": "Type + marque + poids + objectif + résolution",
+    "expl": "Ex : C'est un Nikon D750. Il pèse 840 grammes. Son objectif de 50 mm est fixe. La résolution est de 24 mégapixels.",
+    "dictee": "mégapixels"
   },
   {
-    "id": "st2-09",
-    "q": "Comment décrire un drone militaire de reconnaissance ?",
-    "a": "C'est un aéronef sans pilote, téléopéré ou autonome, équipé de capteurs optiques et infrarouges pour la surveillance.",
+    "id": "sv2-17",
+    "q": "Comment décrire un sac à dos ou une valise ?",
+    "a": "C'est un [sac à dos / valise] de couleur [X], en [matière]. Il / elle a une capacité de [X] litres / fait [X] × [X] cm. Il / elle pèse [X] kg à vide.",
     "choices": [
-      "C'est un avion sans pilote qui filme.",
-      "C'est un appareil téléguidé pour observer.",
-      "C'est un engin volant de reconnaissance."
+      "C'est un sac de couleur... en... avec une capacité de...",
+      "C'est une valise / un sac à dos en... de... litres.",
+      "C'est un bagage de couleur..."
     ],
-    "tag": "Drones",
-    "hint": "Sans pilote + capteurs + mission",
-    "expl": "Drones : MALE (Moyenne Altitude Longue Endurance) comme Reaper, PATROLLER. Missions : ISR (renseignement, surveillance, reconnaissance).",
-    "dictee": "reconnaissance"
+    "tag": "Objets",
+    "hint": "Type + couleur + matière + capacité + poids à vide",
+    "expl": "Ex : C'est un sac à dos noir en nylon, de 45 litres. Il pèse 1,2 kg à vide et dispose de 4 compartiments.",
+    "dictee": "capacité"
   },
   {
-    "id": "st2-10",
-    "q": "Comment indiquer la vitesse et l'autonomie d'un véhicule militaire ?",
-    "a": "Il peut atteindre une vitesse maximale de [X] km/h et dispose d'une autonomie de [Y] km.",
+    "id": "sv2-18",
+    "q": "Comment expliquer le fonctionnement d'une machine simple ?",
+    "a": "Cette machine fonctionne de la façon suivante : d'abord, on [action 1]. Ensuite, on [action 2]. Enfin, la machine [résultat].",
     "choices": [
-      "Il va assez vite et peut rouler longtemps.",
-      "Sa vitesse et son autonomie sont bonnes.",
-      "Il est rapide avec une bonne réserve de carburant."
+      "Cette machine marche en faisant... puis...",
+      "Pour utiliser cette machine, il faut... ensuite...",
+      "Le fonctionnement est : d'abord... puis... enfin..."
     ],
-    "tag": "Performances",
-    "hint": "Vitesse max + autonomie en km",
-    "expl": "Ex Leclerc : 72 km/h sur route, autonomie 550 km. Toujours préciser la distinction route vs tout-terrain.",
-    "dictee": "autonomie"
-  },
-  {
-    "id": "st2-11",
-    "q": "Comment décrire un fusil d'assaut dans un contexte militaire ?",
-    "a": "C'est une arme individuelle automatique, calibre [mm], d'une portée efficace de [m], avec un chargeur de [X] cartouches.",
-    "choices": [
-      "C'est un fusil militaire moderne.",
-      "C'est l'arme standard du fantassin.",
-      "C'est une arme de petit calibre automatique."
-    ],
-    "tag": "Armement",
-    "hint": "Calibre + portée + capacité chargeur",
-    "expl": "Ex FAMAS : 5,56mm, 450m portée efficace, chargeur 25 coups. HK416 (remplaçant) : même calibre, chargeur 30 coups.",
-    "dictee": "calibre"
-  },
-  {
-    "id": "st2-12",
-    "q": "Que signifie NBC dans le contexte militaire ?",
-    "a": "NBC signifie Nucléaire, Biologique, Chimique. C'est la menace des armes de destruction massive.",
-    "choices": [
-      "C'est un type de radio militaire.",
-      "C'est un acronyme de l'OTAN pour les menaces spéciales.",
-      "C'est un niveau de protection du matériel."
-    ],
-    "tag": "Acronymes",
-    "hint": "3 types d'armes de destruction massive",
-    "expl": "NBC = Nucléaire Biologique Chimique. Protection NRBC (+ Radiologique). Tenue de protection, masque à gaz, détecteurs.",
-    "dictee": "nucléaire"
-  },
-  {
-    "id": "st2-13",
-    "q": "Comment décrire la capacité d'emport d'un hélicoptère de transport ?",
-    "a": "Il peut transporter jusqu'à [X] soldats en équipement complet ou [Y] tonnes de fret en soute / en élingue.",
-    "choices": [
-      "Il transporte des soldats et du matériel.",
-      "Sa capacité de transport est importante.",
-      "Il peut emmener beaucoup de personnes."
-    ],
-    "tag": "Aéronefs",
-    "hint": "Hommes + tonnes + soute/élingue",
-    "expl": "Ex Cougar : 25 soldats ou 4,5 tonnes. Ex CH-47 Chinook : 55 soldats ou 12,7 tonnes. Élingue = chargement suspendu sous l'hélicoptère.",
-    "dictee": "élingue"
-  },
-  {
-    "id": "st2-14",
-    "q": "Que désigne le terme 'furtif' appliqué à un aéronef ?",
-    "a": "Un aéronef furtif est conçu pour réduire sa signature radar, thermique et acoustique afin d'éviter la détection ennemie.",
-    "choices": [
-      "Un avion très rapide difficile à voir.",
-      "Un appareil qui vole à très basse altitude.",
-      "Un aéronef peint de façon à se camoufler."
-    ],
-    "tag": "Technologies",
-    "hint": "Réduction de signature + détection",
-    "expl": "Furtivité (stealth) : forme angulaire absorbant les ondes radar, revêtements spéciaux, réduction des émissions thermiques.",
-    "dictee": "furtif"
-  },
-  {
-    "id": "st2-15",
-    "q": "Comment décrire un véhicule de commandement ?",
-    "a": "C'est un véhicule blindé aménagé avec des systèmes de communication, de cartographie et de coordination des opérations.",
-    "choices": [
-      "C'est un véhicule pour les officiers supérieurs.",
-      "C'est un poste de commandement mobile.",
-      "C'est un véhicule équipé d'antennes et de radios."
-    ],
-    "tag": "Commandement",
-    "hint": "Communications + cartographie + coordination",
-    "expl": "PC (Poste de Commandement) blindé : systèmes radio sécurisés, écrans tactiques, générateurs électriques, traitement des renseignements.",
-    "dictee": "commandement"
-  },
-  {
-    "id": "st2-16",
-    "q": "Quelle est la différence entre une frégate et un destroyer ?",
-    "a": "La frégate est plus légère et polyvalente, le destroyer est plus lourd avec une capacité de frappe plus importante.",
-    "choices": [
-      "La frégate est plus ancienne que le destroyer.",
-      "Le destroyer est plus rapide que la frégate.",
-      "La frégate est pour la défense, le destroyer pour l'attaque."
-    ],
-    "tag": "Marine",
-    "hint": "Taille + mission + capacité de frappe",
-    "expl": "Frégate (3-5 000 t) : escorte, anti-sous-marin, polyvalente. Destroyer (6-10 000 t) : frappe, défense anti-aérienne de zone.",
-    "dictee": "polyvalente"
-  },
-  {
-    "id": "st2-17",
-    "q": "Comment décrire un équipement de protection individuelle du soldat ?",
-    "a": "Le soldat porte un gilet pare-balles, un casque balistique, des lunettes de protection et des genouillères.",
-    "choices": [
-      "Le soldat a un équipement de protection complet.",
-      "Il porte une armure moderne et un casque.",
-      "Son équipement le protège des balles et des éclats."
-    ],
-    "tag": "Équipement",
-    "hint": "Gilet + casque + protection balistique",
-    "expl": "EPI moderne : gilet pare-balles avec plaques céramiques, casque Kevlar, lunettes balistiques, genouillères, coudières.",
-    "dictee": "balistique"
-  },
-  {
-    "id": "st2-18",
-    "q": "Que signifie le terme 'logistique' dans un contexte militaire ?",
-    "a": "La logistique comprend le ravitaillement, le transport, la maintenance et le soutien sanitaire des forces en opération.",
-    "choices": [
-      "C'est l'organisation des mouvements de troupes.",
-      "C'est le service qui gère les stocks et le transport.",
-      "C'est la planification des opérations militaires."
-    ],
-    "tag": "Logistique",
-    "hint": "Ravitaillement + transport + maintenance + santé",
-    "expl": "Les 4 fonctions logistiques : ravitaillement (munitions, carburant, vivres), transport, maintenance du matériel, soutien médical.",
-    "dictee": "ravitaillement"
+    "tag": "Fonctionnement",
+    "hint": "D'abord + ensuite + enfin + résultat",
+    "expl": "Structure explicative : d'abord (action initiale), ensuite (processus), enfin (résultat). Ex : D'abord, on insère la capsule. Ensuite, on appuie. Enfin, le café coule.",
+    "dictee": "fonctionne"
   }
 ]

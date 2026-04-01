@@ -1,254 +1,254 @@
 [
   {
-    "id": "st5-01",
-    "q": "Comment décrire la corpulence d'un individu en termes militaires ?",
-    "a": "L'individu est de corpulence [mince / moyenne / forte / athlétique], mesurant environ [X] cm et pesant environ [Y] kg.",
+    "id": "sp5-01",
+    "q": "Comment décrire la taille et la corpulence d'un membre de la famille ?",
+    "a": "Mon père est grand / de taille moyenne / petit. Il mesure environ [X] cm. Il est mince / de corpulence moyenne / fort.",
     "choices": [
-      "Il est grand et fort.",
-      "Il a une silhouette normale.",
-      "Sa taille et son poids sont dans la moyenne."
+      "Mon père est de grande / petite taille et il est...",
+      "Sa taille est... et sa corpulence est...",
+      "Il est grand/petit et mince/gros."
     ],
-    "tag": "Description physique",
-    "hint": "Corpulence + taille + poids estimé",
-    "expl": "Description militaire : corpulence (mince, athlétique, moyenne, forte), taille en cm, poids estimé en kg. Toujours approximatif.",
-    "dictee": "corpulence"
+    "tag": "Physique",
+    "hint": "Taille + mesure approx. + corpulence",
+    "expl": "Taille : grand (+1m80), de taille moyenne (1m70-1m80), petit (-1m65). Corpulence : mince, svelte, athlétique, de corpulence moyenne, fort, corpulent.",
+    "dictee": "grand"
   },
   {
-    "id": "st5-02",
-    "q": "Comment décrire la tenue vestimentaire d'un militaire ?",
-    "a": "Il porte une tenue de combat [couleur/camouflage], avec [insigne de grade] sur [épaulettes/brassard], et des brodequins [couleur].",
+    "id": "sp5-02",
+    "q": "Comment décrire la couleur et le style des cheveux ?",
+    "a": "Ma mère a les cheveux [courts / mi-longs / longs], [couleur : bruns / blonds / roux / gris / blancs], [raides / ondulés / bouclés].",
     "choices": [
-      "Il est habillé en militaire avec un uniforme.",
-      "Sa tenue est de couleur militaire avec des insignes.",
-      "Il porte un uniforme avec des décorations."
+      "Mes cheveux / ses cheveux sont de couleur...",
+      "Il / elle a les cheveux... de couleur...",
+      "Sa coiffure est... avec des cheveux..."
     ],
-    "tag": "Tenue",
-    "hint": "Couleur + camouflage + grade + chaussures",
-    "expl": "Tenue militaire : couleur (vert, kaki, bleu), camouflage (CE, FÉLIN, OTAN), grade (sur épaulettes, poitrine), chaussures (brodequins, rangers).",
-    "dictee": "uniforme"
-  },
-  {
-    "id": "st5-03",
-    "q": "Comment décrire les traits du visage d'un individu ?",
-    "a": "Il a un visage [ovale / rond / carré / allongé], avec des yeux [couleur], un nez [droit / aquilin / épaté] et des lèvres [minces / charnues].",
-    "choices": [
-      "Il a un visage normal avec des traits particuliers.",
-      "Ses traits du visage sont reconnaissables.",
-      "Il a des yeux, un nez et une bouche distincts."
-    ],
-    "tag": "Description physique",
-    "hint": "Forme visage + yeux + nez + lèvres",
-    "expl": "Description systématique : forme du visage, yeux (couleur, forme), nez (taille, forme), bouche, menton, oreilles (particularités).",
-    "dictee": "visage"
-  },
-  {
-    "id": "st5-04",
-    "q": "Comment décrire la démarche et l'attitude corporelle d'un militaire ?",
-    "a": "Il se tient droit, a une démarche assurée / martiale. Il fait preuve d'une posture ferme, caractéristique d'une formation militaire.",
-    "choices": [
-      "Il marche comme un militaire entraîné.",
-      "Sa façon de marcher est typiquement militaire.",
-      "Il a une bonne posture et une démarche correcte."
-    ],
-    "tag": "Comportement",
-    "hint": "Posture + démarche + attitude",
-    "expl": "Indicateurs militaires : garde-à-vous, démarche cadencée, posture droite, gestes économiques, regard direct. Trahit une formation.",
-    "dictee": "démarche"
-  },
-  {
-    "id": "st5-05",
-    "q": "Comment décrire le grade visible sur un uniforme ?",
-    "a": "L'individu porte [X étoiles / galons / chevrons] sur ses épaulettes / sa manche, indiquant le grade de [nom du grade].",
-    "choices": [
-      "Il a des décorations sur l'uniforme qui indiquent son grade.",
-      "Son grade est visible sur ses épaulettes.",
-      "Les insignes montrent son niveau hiérarchique."
-    ],
-    "tag": "Grade",
-    "hint": "Nombre + type d'insigne + emplacement",
-    "expl": "Grades FR armée de terre : soldat → caporal → sergent → adjudant → lieutenant → capitaine → commandant → colonel → général.",
-    "dictee": "épaulettes"
-  },
-  {
-    "id": "st5-06",
-    "q": "Comment évaluer l'âge approximatif d'un individu ?",
-    "a": "L'individu semble avoir entre [X] et [Y] ans. Il présente [rides / cheveux grisonnants / peau lisse] caractéristiques de cette tranche d'âge.",
-    "choices": [
-      "Il a l'air d'avoir un certain âge.",
-      "Son âge est difficile à déterminer précisément.",
-      "Il paraît [jeune / mûr / âgé]."
-    ],
-    "tag": "Description physique",
-    "hint": "Tranche d'âge + indices physiques",
-    "expl": "Indices d'âge : peau (rides, taches), cheveux (couleur, densité), posture, mains. Toujours donner une fourchette de 10 ans.",
-    "dictee": "âge"
-  },
-  {
-    "id": "st5-07",
-    "q": "Comment décrire les cheveux d'un individu ?",
-    "a": "Il a les cheveux [courts / mi-longs / longs], [couleur], [raides / ondulés / bouclés / crépus], portés [coupe militaire / libre].",
-    "choices": [
-      "Il a des cheveux d'une certaine couleur et longueur.",
-      "Sa coiffure est caractéristique.",
-      "Ses cheveux ont une apparence particulière."
-    ],
-    "tag": "Description physique",
-    "hint": "Longueur + couleur + texture + coupe",
-    "expl": "Cheveux militaires : souvent courts réglementairement. Longueur (rasé, court, mi-long), couleur (brun, blond, roux, gris, blanc).",
+    "tag": "Physique",
+    "hint": "Longueur + couleur + texture",
+    "expl": "Longueur : rasé, très courts, courts, mi-longs, longs. Couleur : noir, brun, châtain, blond, roux, poivre et sel, gris, blanc. Texture : raides, ondulés, bouclés, frisés, crépus.",
     "dictee": "cheveux"
   },
   {
-    "id": "st5-08",
-    "q": "Comment décrire le profil psychologique d'un officier de liaison ?",
-    "a": "Il se montre ouvert au dialogue, rigoureux dans son travail, capable d'adapter son discours à ses interlocuteurs et respectueux des protocoles.",
+    "id": "sp5-03",
+    "q": "Comment décrire la couleur des yeux ?",
+    "a": "Il / elle a les yeux [bleus / verts / marron / noirs / gris / noisette]. Ses yeux sont [grands / petits / en amande].",
     "choices": [
-      "C'est un militaire compétent et professionnel.",
-      "Il a les qualités nécessaires pour son poste.",
-      "C'est un bon officier avec des qualités relationnelles."
-    ],
-    "tag": "Psychologie",
-    "hint": "Ouverture + rigueur + adaptation + protocole",
-    "expl": "Officier de liaison : diplomatie, rigueur, discrétion, adaptabilité culturelle, maîtrise des langues, respect des hiérarchies multiples.",
-    "dictee": "rigueur"
-  },
-  {
-    "id": "st5-09",
-    "q": "Comment signaler un individu suspect dans un rapport ?",
-    "a": "Individu de sexe [M/F], âge estimé [X-Y] ans, taille [X] cm, vêtements [description], vu à [lieu] à [heure], comportement [description].",
-    "choices": [
-      "C'est quelqu'un qui semblait suspect dans la zone.",
-      "Un individu avec une attitude anormale a été repéré.",
-      "Une personne suspecte a été observée."
-    ],
-    "tag": "Rapport",
-    "hint": "Sexe + âge + taille + vêtements + lieu + heure + comportement",
-    "expl": "Rapport de contact : SALUTE (Size, Activity, Location, Uniform, Time, Equipment). Description systématique et factuelle.",
-    "dictee": "suspect"
-  },
-  {
-    "id": "st5-10",
-    "q": "Comment décrire les décorations militaires visibles sur un uniforme ?",
-    "a": "Il porte sur sa poitrine gauche [X] décorations, dont [nom des médailles / rubans], indiquant des participations à [opérations / missions].",
-    "choices": [
-      "Il a des médailles sur son uniforme.",
-      "Ses décorations montrent son expérience.",
-      "Il porte des rubans et médailles militaires."
-    ],
-    "tag": "Décorations",
-    "hint": "Emplacement + nombre + identification + signification",
-    "expl": "Décorations FR : Légion d'honneur, Médaille militaire, Croix de guerre, médailles OPEX, médailles OTAN. Hiérarchie protocolaire.",
-    "dictee": "décorations"
-  },
-  {
-    "id": "st5-11",
-    "q": "Comment décrire le niveau de forme physique d'un soldat ?",
-    "a": "Le soldat est en excellente / bonne / moyenne condition physique. Il présente [musculature développée / bonne endurance / agilité].",
-    "choices": [
-      "Il est en bonne santé et bien entraîné.",
-      "Sa condition physique est celle d'un militaire.",
-      "Il a l'air d'être en bonne forme."
+      "Ses yeux sont de couleur... et ont une forme...",
+      "Il / elle a des yeux... de forme...",
+      "La couleur de ses yeux est... et ils sont..."
     ],
     "tag": "Physique",
-    "hint": "Niveau + indicateurs physiques",
-    "expl": "Condition physique militaire : tests MSIG (armée FR), Cooper test, parcours de combat. Critères : force, endurance, agilité, vitesse.",
-    "dictee": "physique"
+    "hint": "Couleur + forme des yeux",
+    "expl": "Couleur yeux : bleus, verts, gris, noisette, marron, noirs. Forme : grands, petits, en amande, ronds, bridés. Particularités : lunettes, lentilles.",
+    "dictee": "yeux"
   },
   {
-    "id": "st5-12",
-    "q": "Comment décrire le comportement d'un individu lors d'un interrogatoire ?",
-    "a": "L'individu se montre [coopératif / hostile / évasif / nerveux]. Il maintient / évite le contact visuel et présente [signes de stress / calme].",
+    "id": "sp5-04",
+    "q": "Comment décrire le visage d'une personne ?",
+    "a": "Il / elle a un visage [ovale / rond / carré / allongé]. Son teint est [clair / mat / foncé]. Il / elle a un nez [droit / retroussé] et des lèvres [fines / charnues].",
     "choices": [
-      "Il répond aux questions d'une certaine façon.",
-      "Son comportement pendant l'interrogatoire est notable.",
-      "Il réagit de manière particulière aux questions."
+      "Son visage est de forme... avec un teint...",
+      "Il / elle a un visage... et un teint...",
+      "La forme de son visage est... avec des traits..."
     ],
-    "tag": "Comportement",
-    "hint": "Attitude + contact visuel + signes de stress",
-    "expl": "HUMINT : observation du comportement, cohérence du discours, signes de stress (transpiration, tremblements, regard fuyant).",
-    "dictee": "comportement"
+    "tag": "Physique",
+    "hint": "Forme visage + teint + nez + lèvres",
+    "expl": "Visage : ovale (el más común), rond, carré, allongé, triangulaire. Teint : clair/pâle, mat, olivâtre, foncé. Nez : droit, aquilin, retroussé, épaté.",
+    "dictee": "visage"
   },
   {
-    "id": "st5-13",
-    "q": "Comment décrire les particularités physiques distinctives ?",
-    "a": "L'individu présente [tatouage / cicatrice / signe distinctif] sur [emplacement], de [description]. Il porte [lunettes / prothèse / appareil].",
+    "id": "sp5-05",
+    "q": "Comment décrire le style vestimentaire habituel d'un ami ?",
+    "a": "En général, il / elle s'habille [sportivement / élégamment / de façon décontractée]. Il / elle préfère les vêtements [type] de couleur [X].",
     "choices": [
-      "Il a des marques particulières sur le corps.",
-      "Ses caractéristiques physiques sont remarquables.",
-      "Il a des signes qui permettent de l'identifier."
+      "Sa façon de s'habiller est... il / elle préfère...",
+      "Son style vestimentaire est... avec des préférences pour...",
+      "Il / elle porte habituellement des vêtements..."
     ],
-    "tag": "Identification",
-    "hint": "Type + localisation + description",
-    "expl": "Signes distinctifs : tatouages (description, emplacement), cicatrices, grains de beauté, prothèses, lunettes. Éléments d'identification clés.",
-    "dictee": "distinctif"
+    "tag": "Apparence",
+    "hint": "Style + type de vêtements + couleurs préférées",
+    "expl": "Style : élégant/chic, décontracté/casual, sportif, classique, original. Types : costume, jean, robe, uniforme. Couleurs préférées.",
+    "dictee": "s'habille"
   },
   {
-    "id": "st5-14",
-    "q": "Comment décrire la nationalité probable d'un individu ?",
-    "a": "Par ses traits physiques / sa langue / son accent / sa tenue, l'individu semble être d'origine [région / pays]. À confirmer par contrôle documentaire.",
+    "id": "sp5-06",
+    "q": "Comment décrire le caractère d'un collègue ?",
+    "a": "Mon collègue est quelqu'un de [généreux / sérieux / drôle / patient / ambitieux]. Il / elle est [toujours calme / parfois impatient(e)]. Tout le monde l'apprécie.",
     "choices": [
-      "Il semble venir d'un certain pays.",
-      "Sa nationalité peut être déduite de son apparence.",
-      "Il paraît être étranger / d'une certaine origine."
+      "Il / elle a un caractère... et est souvent...",
+      "Mon collègue est... avec comme trait de caractère...",
+      "Sa personnalité est... il / elle est..."
     ],
-    "tag": "Identification",
-    "hint": "Traits + langue + accent + tenue + confirmation",
-    "expl": "Évaluation nationalité : toujours provisoire jusqu'à contrôle documentaire. Attention aux stéréotypes. Base : langue, accent, documents.",
-    "dictee": "nationalité"
+    "tag": "Caractère",
+    "hint": "Adjectif principal + nuance + opinion des autres",
+    "expl": "Caractère positif : généreux, patient, fiable, dynamique, créatif, rigoureux. Négatif : impatient, perfectionniste, autoritaire, timide.",
+    "dictee": "caractère"
   },
   {
-    "id": "st5-15",
-    "q": "Comment décrire la maîtrise linguistique d'un interlocuteur ?",
-    "a": "L'interlocuteur s'exprime en [langue] avec un accent [léger / marqué], un vocabulaire [riche / limité] et une grammaire [correcte / approximative].",
+    "id": "sp5-07",
+    "q": "Comment décrire l'énergie et le dynamisme d'une personne ?",
+    "a": "C'est quelqu'un de très dynamique / calme / posé. Il / elle est toujours [actif / motivé / enthousiaste]. Il / elle n'est jamais [fatigué / découragé].",
     "choices": [
-      "Il parle bien / mal la langue.",
-      "Son niveau de langue est noté.",
-      "Il communique avec plus ou moins de facilité."
+      "Il / elle est très actif(ve) et toujours...",
+      "Son énergie est... il / elle est rarement...",
+      "C'est une personne dynamique qui..."
+    ],
+    "tag": "Personnalité",
+    "hint": "Niveau d'énergie + manifestations + contraire",
+    "expl": "Énergie : très dynamique, énergique, actif, débordant d'énergie. Calme : posé, tranquille, serein, réfléchi, méthodique.",
+    "dictee": "dynamique"
+  },
+  {
+    "id": "sp5-08",
+    "q": "Comment décrire comment une personne communique ?",
+    "a": "Il / elle communique [facilement / avec difficulté]. Il / elle est [ouvert(e) à la discussion / réservé(e)]. Il / elle s'exprime [clairement / avec hésitation].",
+    "choices": [
+      "Sa façon de communiquer est... il / elle est...",
+      "Il / elle parle... et est... dans ses échanges.",
+      "Sa communication est... avec un style..."
     ],
     "tag": "Communication",
-    "hint": "Langue + accent + vocabulaire + grammaire",
-    "expl": "Évaluation linguistique rapide : langue parlée, accent (origine probable), aisance lexicale, précision grammaticale, register utilisé.",
-    "dictee": "accent"
+    "hint": "Facilité + ouverture + clarté d'expression",
+    "expl": "Communication : ouvert / réservé / extraverti / introverti. Style : direct, diplomate, hésitant, éloquent, précis, vague, chaleureux, formel.",
+    "dictee": "communique"
   },
   {
-    "id": "st5-16",
-    "q": "Comment décrire un civil en zone de conflit ?",
-    "a": "L'individu civil est de sexe [M/F], âge estimé [X] ans, vêtu de [tenue civile], sans armement apparent, manifestant [comportement calme / agité / craintif].",
+    "id": "sp5-09",
+    "q": "Comment décrire les objectifs et ambitions d'un ami ?",
+    "a": "Il / elle a pour objectif de [but professionnel]. À long terme, il / elle souhaite [ambition]. Il / elle travaille dur pour [action concrète].",
     "choices": [
-      "C'est un civil dans une zone militaire.",
-      "C'est une personne non combattante dans la zone.",
-      "C'est un habitant local sans équipement militaire."
+      "Ses objectifs sont de... et il / elle veut...",
+      "Il / elle ambitionne de... et travaille pour...",
+      "Ses buts sont... il / elle espère..."
     ],
-    "tag": "Protection",
-    "hint": "Sexe + âge + tenue + armement + comportement",
-    "expl": "Distinction combattants/civils : fondamentale en DIH (Droit International Humanitaire). Civil = non combattant, protection obligatoire.",
-    "dictee": "civil"
+    "tag": "Objectifs",
+    "hint": "But professionnel + ambition long terme + action",
+    "expl": "Objectifs : progresser dans sa carrière, fonder une famille, voyager, créer une entreprise, obtenir un diplôme. Ambitions : devenir, atteindre, réussir.",
+    "dictee": "objectif"
   },
   {
-    "id": "st5-17",
-    "q": "Comment décrire l'attitude d'un militaire au garde-à-vous ?",
-    "a": "Le militaire se tient droit, talons joints, bras le long du corps, regard fixe vers l'avant, immobile et silencieux.",
+    "id": "sp5-10",
+    "q": "Comment décrire physiquement un parent (père ou mère) ?",
+    "a": "Mon père / ma mère a environ [X] ans. Il / elle est [taille] avec des cheveux [description] et des yeux [couleur]. Il / elle ressemble à [comparaison].",
     "choices": [
-      "Il est debout bien droit comme un militaire.",
-      "Il adopte la position réglementaire au garde-à-vous.",
-      "Il se tient très droit avec les bras le long du corps."
+      "Mon père / ma mère a... ans et est...",
+      "Il / elle a une apparence de... avec des cheveux...",
+      "Mon parent mesure... a des cheveux... et des yeux..."
     ],
-    "tag": "Protocole",
-    "hint": "Talons + bras + regard + immobilité",
-    "expl": "Garde-à-vous : talons joints, pieds à 45°, bras tendus le long du corps, menton rentré, regard horizontal fixe. Position de respect.",
-    "dictee": "garde-à-vous"
+    "tag": "Famille",
+    "hint": "Âge + taille + cheveux + yeux + ressemblance",
+    "expl": "Description parent : âge approximatif, taille, corpulence, cheveux (couleur, longueur), yeux, particularités, ressemblance familiale.",
+    "dictee": "ressemble"
   },
   {
-    "id": "st5-18",
-    "q": "Comment décrire un médecin militaire en opération ?",
-    "a": "Il porte la tenue de combat avec le brassard à croix rouge, un sac médical et est armé conformément au droit international humanitaire.",
+    "id": "sp5-11",
+    "q": "Comment comparer physiquement deux membres d'une famille ?",
+    "a": "Mon frère est plus grand que ma sœur. Ma sœur est plus mince que mon frère. En revanche, ma sœur a les yeux plus clairs que mon frère.",
     "choices": [
-      "C'est un soldat qui s'occupe des blessés.",
-      "C'est un militaire avec une formation médicale.",
-      "C'est un médecin qui sert dans l'armée."
+      "L'un est plus... que l'autre et moins...",
+      "Entre les deux, l'un est plus... et l'autre est...",
+      "En comparant, l'un est... tandis que l'autre est..."
     ],
-    "tag": "Fonctions",
-    "hint": "Tenue + brassard + équipement + DIH",
-    "expl": "Médecin militaire : protégé par les Conventions de Genève. Brassard croix rouge obligatoire. Peut être armé pour légitime défense uniquement.",
-    "dictee": "médecin"
+    "tag": "Comparaison",
+    "hint": "Plus grand + plus mince + en revanche + yeux",
+    "expl": "Comparatifs : plus grand que / moins grand que / aussi grand que. Superlatif : le plus grand de la famille.",
+    "dictee": "plus grand"
+  },
+  {
+    "id": "sp5-12",
+    "q": "Comment décrire l'humeur habituelle d'un ami ?",
+    "a": "En général, il / elle est de bonne humeur. Il / elle est rarement triste / énervé(e). C'est quelqu'un de [positif / optimiste / jovial].",
+    "choices": [
+      "Il / elle est souvent... et rarement...",
+      "Son humeur habituelle est... il / elle est généralement...",
+      "C'est une personne... d'humeur..."
+    ],
+    "tag": "Humeur",
+    "hint": "Humeur habituelle + exceptions + adjectif global",
+    "expl": "Humeur : de bonne/mauvaise humeur, gai, joyeux, mélancolique, calme, colérique, optimiste, pessimiste, stressé, serein.",
+    "dictee": "humeur"
+  },
+  {
+    "id": "sp5-13",
+    "q": "Comment décrire les valeurs d'un collègue militaire ?",
+    "a": "C'est quelqu'un qui accorde beaucoup d'importance à [la loyauté / l'honnêteté / le sens du devoir / le respect hiérarchique].",
+    "choices": [
+      "Ses valeurs principales sont... il accorde de l'importance à...",
+      "Il / elle valorise particulièrement... et croit en...",
+      "Ce collègue tient surtout à... dans son travail."
+    ],
+    "tag": "Valeurs",
+    "hint": "Valeur principale + importance accordée",
+    "expl": "Valeurs militaires : honneur, loyauté, courage, discipline, solidarité, sens du devoir, respect de l'institution, dépassement de soi.",
+    "dictee": "valeurs"
+  },
+  {
+    "id": "sp5-14",
+    "q": "Comment décrire comment une personne gère le stress ?",
+    "a": "Face au stress, il / elle reste [calme / professionnel]. Il / elle gère la pression [facilement / difficilement]. Il / elle prend du recul avant de réagir.",
+    "choices": [
+      "Il / elle réagit au stress en étant... et en...",
+      "Face à la pression, il / elle est... et gère...",
+      "Son comportement sous pression est de..."
+    ],
+    "tag": "Psychologie",
+    "hint": "Réaction + gestion + stratégie",
+    "expl": "Gestion du stress : calme sous pression, garde le sang-froid, prend du recul, cherche des solutions, délègue, s'effondre, panique.",
+    "dictee": "stress"
+  },
+  {
+    "id": "sp5-15",
+    "q": "Comment décrire la sociabilité d'une personne ?",
+    "a": "Il / elle est très sociable / plutôt réservé(e). Il / elle s'intègre [facilement / avec difficulté] dans un groupe. Il / elle a [beaucoup / peu] d'amis.",
+    "choices": [
+      "Il / elle est sociable ou réservé(e) et a...",
+      "Sa sociabilité est... il / elle s'intègre...",
+      "C'est une personne... qui a... amis."
+    ],
+    "tag": "Social",
+    "hint": "Niveau de sociabilité + intégration + cercle d'amis",
+    "expl": "Sociabilité : extraverti (beaucoup d'amis, aime les groupes), introverti (peu d'amis proches, préfère les petits groupes), ambiverti.",
+    "dictee": "sociable"
+  },
+  {
+    "id": "sp5-16",
+    "q": "Comment décrire les habitudes d'un ami dans sa vie quotidienne ?",
+    "a": "En général, il / elle se lève à [heure]. Il / elle [sport / activité] le matin / le soir. Le week-end, il / elle préfère [activité].",
+    "choices": [
+      "Ses habitudes quotidiennes sont de se lever à... et...",
+      "Il / elle a une routine de... et le week-end...",
+      "Chaque jour, il / elle... et le week-end..."
+    ],
+    "tag": "Vie quotidienne",
+    "hint": "Heure lever + activités + week-end",
+    "expl": "Habitudes : lever tôt/tard, sport matinal/vespéral, repas en famille, activités week-end, temps libre (lecture, jardinage, cinéma).",
+    "dictee": "habitudes"
+  },
+  {
+    "id": "sp5-17",
+    "q": "Comment décrire l'apparence physique d'un(e) ami(e) de façon positive ?",
+    "a": "C'est quelqu'un qui a fière allure. Il / elle prend soin de son apparence. Il / elle est toujours [soigné(e) / élégant(e) / naturel(le)].",
+    "choices": [
+      "Il / elle a une belle apparence et est...",
+      "Son apparence est... il / elle prend soin de...",
+      "C'est une personne qui paraît... et qui est..."
+    ],
+    "tag": "Physique",
+    "hint": "Impression générale + soin de l'apparence + adjectif",
+    "expl": "Apparence positive : a fière allure, bien présenté, soigné, élégant, naturel, détendu, rayonnant, en forme. Éviter jugements négatifs.",
+    "dictee": "allure"
+  },
+  {
+    "id": "sp5-18",
+    "q": "Comment conclure la description d'une personne ?",
+    "a": "En résumé, c'est quelqu'un de [qualité principale]. Je [l'admire / l'apprécie / l'estime] beaucoup pour [raison]. C'est une personne importante dans ma vie.",
+    "choices": [
+      "Pour conclure, c'est une personne... que j'apprécie...",
+      "En résumé, il / elle est... et je...",
+      "C'est quelqu'un que j'aime bien parce que..."
+    ],
+    "tag": "Conclusion",
+    "hint": "Résumé + sentiment + raison + importance",
+    "expl": "Conclusion description : qualité principale, sentiment envers la personne, raison de l'appréciation, importance dans la vie (famille, ami, collègue).",
+    "dictee": "résumé"
   }
 ]

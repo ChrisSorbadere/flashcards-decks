@@ -1,254 +1,254 @@
 [
   {
-    "id": "st3-01",
-    "q": "Comment décrire un itinéraire en termes militaires ?",
-    "a": "L'itinéraire principal passe par [point A], traverse [lieu], longe [obstacle naturel] et rejoint [point B].",
+    "id": "si3-01",
+    "q": "Comment expliquer un trajet simple en ville ?",
+    "a": "Pour aller de [A] à [B], prenez la rue [X], tournez à droite / à gauche au carrefour, continuez tout droit pendant [X] mètres.",
     "choices": [
-      "L'itinéraire va du point A au point B.",
-      "On doit passer par plusieurs endroits.",
-      "Le chemin suit une route principale."
+      "Allez tout droit puis tournez quelque part.",
+      "Suivez la rue principale puis tournez.",
+      "Continuez et tournez à un certain endroit."
     ],
-    "tag": "Itinéraire",
-    "hint": "Points de passage + obstacles + destination",
-    "expl": "Description militaire d'itinéraire : axe principal, points de passage obligatoires (PPO), obstacles, alternatives possibles.",
-    "dictee": "itinéraire"
+    "tag": "En ville",
+    "hint": "Rue + direction au carrefour + tout droit + distance",
+    "expl": "Structure : prenez la rue X, tournez à droite/gauche, continuez tout droit, vous arrivez à destination.",
+    "dictee": "tournez"
   },
   {
-    "id": "st3-02",
-    "q": "Que signifie un 'point de passage obligatoire' (PPO) ?",
-    "a": "Un PPO est un point par lequel les forces doivent obligatoirement transiter en raison du terrain ou des contraintes tactiques.",
+    "id": "si3-02",
+    "q": "Comment indiquer qu'il faut traverser au passage piéton ?",
+    "a": "Traversez la rue au passage piéton. Attendez que le feu soit vert pour piétons. La rue est à sens unique / à double sens.",
     "choices": [
-      "C'est un point de contrôle administratif.",
-      "C'est un carrefour important sur l'axe de marche.",
-      "C'est un endroit où les véhicules font le plein."
+      "Passez la rue à l'endroit prévu pour les piétons.",
+      "Traversez quand le signal vous l'indique.",
+      "Il faut passer la chaussée au bon endroit."
     ],
-    "tag": "Itinéraire",
-    "hint": "Passage obligé + terrain + tactique",
-    "expl": "PPO : pont, col, gué, nœud routier. Vulnérables car prévisibles. À sécuriser ou à éviter si menace.",
-    "dictee": "passage"
+    "tag": "En ville",
+    "hint": "Passage piéton + feu vert + sens de circulation",
+    "expl": "Vocabulaire : passage piéton (paso de cebra), feu tricolore (semáforo), sens unique (sentido único), double sens (doble sentido).",
+    "dictee": "traversez"
   },
   {
-    "id": "st3-03",
-    "q": "Comment indiquer une direction en termes militaires ?",
-    "a": "Prenez l'axe nord / cap au 045 degrés / direction [point remarquable]. Après [distance], infléchissez vers [direction].",
+    "id": "si3-03",
+    "q": "Comment décrire un carrefour ou un rond-point ?",
+    "a": "Au carrefour, prenez la troisième sortie du rond-point. Vous passerez devant [repère visible]. Le rond-point est après les feux.",
     "choices": [
-      "Allez tout droit puis tournez.",
-      "Suivez la route principale vers le nord.",
-      "Avancez dans la direction indiquée."
+      "Au croisement, prenez une certaine direction.",
+      "Il y a un rond-point où il faut sortir à...",
+      "Après le carrefour, vous prenez..."
+    ],
+    "tag": "En ville",
+    "hint": "Sortie du rond-point + repère + position",
+    "expl": "Rond-point : prenez la 1ère / 2ème / 3ème sortie. Carrefour : feux tricolores, stop, priorité à droite.",
+    "dictee": "rond-point"
+  },
+  {
+    "id": "si3-04",
+    "q": "Comment expliquer comment se garer ?",
+    "a": "Garez-vous sur le parking à gauche / le long du trottoir à droite. Attention, c'est une zone bleue / payante de [heure] à [heure].",
+    "choices": [
+      "Vous pouvez stationner à cet endroit.",
+      "Il faut se garer quelque part dans cette rue.",
+      "Trouvez une place de parking là-bas."
+    ],
+    "tag": "En ville",
+    "hint": "Parking + emplacement + restrictions horaires",
+    "expl": "Stationnement : parking souterrain, zone bleue (disque obligatoire), horodateur, emplacement réservé, interdit de stationner.",
+    "dictee": "garez-vous"
+  },
+  {
+    "id": "si3-05",
+    "q": "Comment décrire un itinéraire de chez soi jusqu'au travail ?",
+    "a": "Je pars de chez moi à [heure]. Je prends [transport] jusqu'à [arrêt]. Ensuite, je marche pendant [durée]. J'arrive au travail à [heure].",
+    "choices": [
+      "Je vais au travail en prenant... et j'arrive à...",
+      "Mon trajet domicile-travail dure... et je prends...",
+      "Pour aller au bureau, je prends... puis je..."
+    ],
+    "tag": "Quotidien",
+    "hint": "Heure départ + transport + arrêt + marche + heure arrivée",
+    "expl": "Trajet domicile-travail : moyen de transport, durée, correspondances éventuelles. Ex : Je pars à 7h30, je prends le bus 5, j'arrive à 8h.",
+    "dictee": "trajet"
+  },
+  {
+    "id": "si3-06",
+    "q": "Comment utiliser les points cardinaux pour décrire un itinéraire ?",
+    "a": "Depuis la place centrale, dirigez-vous vers le nord sur [X] mètres. Ensuite, tournez vers l'est. Le bâtiment est au sud de la mairie.",
+    "choices": [
+      "Allez vers le nord puis tournez vers l'est.",
+      "La direction est nord puis est.",
+      "Suivez la direction nord et ensuite est."
     ],
     "tag": "Orientation",
-    "hint": "Cap + azimut + points remarquables",
-    "expl": "Navigation militaire : azimut (0-360°), points cardinaux, points remarquables (clocher, croisement, cote). Carte + boussole + GPS.",
-    "dictee": "azimut"
+    "hint": "Nord / sud / est / ouest + distance + repère",
+    "expl": "Nord (septentrion), Sud (midi), Est (levant), Ouest (couchant). Toujours combiner avec des repères visuels (bâtiment, rue, monument).",
+    "dictee": "nord"
   },
   {
-    "id": "st3-04",
-    "q": "Comment décrire un franchissement de cours d'eau ?",
-    "a": "Le franchissement s'effectue au niveau du gué / du pont / du bac, à [X] km en aval / en amont du village de [nom].",
+    "id": "si3-07",
+    "q": "Comment expliquer comment entrer dans un bâtiment ?",
+    "a": "Entrez par la porte principale / l'entrée de service. Présentez-vous à l'accueil / à la réception. Vous devrez peut-être montrer votre badge.",
     "choices": [
-      "On traverse la rivière à cet endroit.",
-      "Le cours d'eau se passe ici.",
-      "On peut traverser l'eau à plusieurs endroits."
+      "Passez la porte et allez à l'accueil.",
+      "Entrez par la porte et présentez-vous.",
+      "L'entrée du bâtiment est là, allez à l'accueil."
     ],
-    "tag": "Franchissement",
-    "hint": "Gué/pont/bac + localisation précise",
-    "expl": "Types de franchissement : gué (peu profond, < 1m), pont (vérifier charge admissible), bac (ferry militaire), pont de bateaux (génie).",
-    "dictee": "franchissement"
+    "tag": "Bâtiment",
+    "hint": "Porte + accueil + badge",
+    "expl": "Entrée bâtiment : porte principale / de service / de secours, sas de sécurité, accueil, badge magnétique, interphone, digicode.",
+    "dictee": "accueil"
   },
   {
-    "id": "st3-05",
-    "q": "Comment indiquer une distance en termes militaires ?",
-    "a": "La distance est de [X] kilomètres à vol d'oiseau / [Y] kilomètres par la route, soit environ [Z] heures de marche.",
+    "id": "si3-08",
+    "q": "Comment indiquer comment accéder à un étage ?",
+    "a": "Prenez l'ascenseur / l'escalier jusqu'au [X]ème étage. Sortez de l'ascenseur et tournez à gauche / droite. Le bureau est au bout du couloir.",
     "choices": [
-      "C'est loin d'ici, environ [distance].",
-      "La distance est approximativement de [X] km.",
-      "Il faut compter [X] km environ."
+      "Montez au bon étage par l'ascenseur ou l'escalier.",
+      "Pour accéder à l'étage, prenez l'ascenseur.",
+      "Vous devez monter par... jusqu'au... étage."
     ],
-    "tag": "Distance",
-    "hint": "Vol d'oiseau + route + temps",
-    "expl": "Toujours distinguer distance directe (vol d'oiseau) et distance itinéraire (route). Ajouter le temps estimé selon le mode de déplacement.",
-    "dictee": "distance"
+    "tag": "Bâtiment",
+    "hint": "Ascenseur/escalier + étage + direction + couloir",
+    "expl": "Vocabulaire bâtiment : rez-de-chaussée (RDC), 1er/2ème étage, sous-sol, ascenseur, escalier, palier, couloir, porte.",
+    "dictee": "ascenseur"
   },
   {
-    "id": "st3-06",
-    "q": "Que désigne le terme 'axe de progression' ?",
-    "a": "L'axe de progression est l'itinéraire principal emprunté par les forces pour avancer vers leur objectif.",
+    "id": "si3-09",
+    "q": "Comment décrire la localisation d'un bureau dans un couloir ?",
+    "a": "Le bureau est le [X]ème sur la droite / la gauche. Il est en face des toilettes / à côté de la salle de réunion. Le numéro de la porte est [X].",
     "choices": [
-      "C'est la direction générale d'une offensive.",
-      "C'est la route principale utilisée par les troupes.",
-      "C'est le chemin prévu pour atteindre l'objectif."
+      "Le bureau se trouve à droite / gauche dans le couloir.",
+      "C'est la porte numéro... dans ce couloir.",
+      "Le bureau est après / avant la salle de réunion."
     ],
-    "tag": "Tactique",
-    "hint": "Itinéraire principal + forces + objectif",
-    "expl": "Axe de progression nommé (ex: axe NAPOLÉON) pour la coordination. Distinguer axe principal et axes secondaires / de contournement.",
-    "dictee": "progression"
-  },
-  {
-    "id": "st3-07",
-    "q": "Comment décrire un checkpoint (point de contrôle) ?",
-    "a": "Le checkpoint est établi à [lieu], sur l'axe [nom]. Il est tenu par [unité] et contrôle les personnes et véhicules.",
-    "choices": [
-      "C'est un barrage routier militaire.",
-      "C'est un poste de surveillance sur une route.",
-      "C'est un point de vérification des identités."
-    ],
-    "tag": "Sécurité",
-    "hint": "Lieu + axe + unité + mission",
-    "expl": "Checkpoint : contrôle des identités, fouille des véhicules, filtrage de la population. Position défensive, signalisation, règles d'engagement.",
-    "dictee": "checkpoint"
-  },
-  {
-    "id": "st3-08",
-    "q": "Comment indiquer un point de rassemblement ?",
-    "a": "Le point de rassemblement est fixé à [coordonnées / lieu-dit], à [distance] de l'objectif, à [heure] heures.",
-    "choices": [
-      "On se retrouve à cet endroit précis.",
-      "Le rassemblement a lieu quelque part.",
-      "Tout le monde doit converger vers ce point."
-    ],
-    "tag": "Coordination",
-    "hint": "Coordonnées + distance + heure",
-    "expl": "Point de rassemblement (PR) : lieu de regroupement après une action. Toujours coordonnées précises + heure de rassemblement.",
-    "dictee": "rassemblement"
-  },
-  {
-    "id": "st3-09",
-    "q": "Comment décrire un obstacle sur un itinéraire militaire ?",
-    "a": "L'itinéraire est coupé par [type d'obstacle] à [lieu]. Un contournement est possible par [solution alternative].",
-    "choices": [
-      "Il y a un obstacle sur la route.",
-      "Le chemin est bloqué à cet endroit.",
-      "On ne peut pas passer directement."
-    ],
-    "tag": "Obstacles",
-    "hint": "Type + lieu + solution de contournement",
-    "expl": "Obstacles : zone inondée, pont détruit, éboulement, zone minée, barrage ennemi. Toujours proposer une solution alternative.",
-    "dictee": "obstacle"
-  },
-  {
-    "id": "st3-10",
-    "q": "Que signifie 'D+3' dans un ordre d'opération ?",
-    "a": "D+3 signifie le troisième jour après le début des opérations (Jour J). C'est une notation temporelle militaire.",
-    "choices": [
-      "C'est le délai pour atteindre l'objectif.",
-      "C'est 3 jours après le début de la mission.",
-      "C'est un code pour le troisième déploiement."
-    ],
-    "tag": "Temporalité",
-    "hint": "J = jour du début, +3 = trois jours après",
-    "expl": "Notation : J (Jour J), H (Heure H), D (Début). D+3 = 3 jours après début. H+30 = 30 minutes après l'heure H du déclenchement.",
-    "dictee": "J+3"
-  },
-  {
-    "id": "st3-11",
-    "q": "Comment décrire un carrefour en termes militaires ?",
-    "a": "À l'intersection de l'axe [A] et de la route [B], à [X] km au nord / sud / est / ouest de [localité].",
-    "choices": [
-      "C'est là où deux routes se croisent.",
-      "C'est un carrefour important sur la route.",
-      "C'est un nœud routier stratégique."
-    ],
-    "tag": "Terrain",
-    "hint": "Axes + coordonnées cardinales + localité",
-    "expl": "Description précise : 'Au carrefour de la RN7 et de la D403, à 3 km au nord-est de Valence, côte 245.' Toujours une cote ou coordonnée.",
-    "dictee": "intersection"
-  },
-  {
-    "id": "st3-12",
-    "q": "Comment indiquer l'heure d'un mouvement en langage militaire ?",
-    "a": "Le mouvement débute à [H] heures [M] minutes, heure locale / heure ZULU (UTC).",
-    "choices": [
-      "On part à telle heure.",
-      "Le départ est prévu à cette heure.",
-      "L'heure de départ est fixée."
-    ],
-    "tag": "Temporalité",
-    "hint": "Heure locale ou ZULU (UTC)",
-    "expl": "Heure ZULU = UTC = heure universelle. Évite la confusion entre fuseaux horaires dans les coalitions multinationales.",
-    "dictee": "ZULU"
-  },
-  {
-    "id": "st3-13",
-    "q": "Comment décrire un couloir aérien ?",
-    "a": "Le couloir aérien emprunte l'axe [nord-sud / est-ouest], entre les altitudes [X] et [Y] pieds, de [coordonnée A] à [coordonnée B].",
-    "choices": [
-      "C'est une zone de vol réservée aux militaires.",
-      "C'est l'espace aérien utilisé par les avions militaires.",
-      "C'est un passage aérien sécurisé."
-    ],
-    "tag": "Aérien",
-    "hint": "Axe + altitudes min/max + coordonnées",
-    "expl": "Couloir aérien : zone d'espace aérien réservée. Altitude en pieds (aviation), coordonnées en degrés décimaux ou grille MGRS.",
+    "tag": "Bâtiment",
+    "hint": "Position dans le couloir + repère + numéro",
+    "expl": "Localisation dans couloir : à droite/gauche, en face de, à côté de, entre X et Y, au bout du couloir, numéro de porte.",
     "dictee": "couloir"
   },
   {
-    "id": "st3-14",
-    "q": "Comment expliquer un changement d'itinéraire en cours de route ?",
-    "a": "Suite à [obstacle / menace / ordre], l'itinéraire initial est abandonné. Nous empruntons l'axe de substitution par [lieu].",
+    "id": "si3-10",
+    "q": "Comment expliquer un trajet en transports en commun ?",
+    "a": "Prenez la ligne [X] du métro / bus jusqu'à [station]. Changez à [station] pour prendre la ligne [Y]. Descendez à [station finale].",
     "choices": [
-      "On doit changer de route maintenant.",
-      "L'itinéraire prévu n'est plus possible.",
-      "Il faut trouver un autre chemin."
+      "Prenez le bus / métro et changez à...",
+      "Le trajet en transport est : ligne... changement à...",
+      "Vous prenez... puis vous changez à..."
     ],
-    "tag": "Adaptation",
-    "hint": "Cause + décision + axe alternatif",
-    "expl": "Toujours justifier le changement d'itinéraire et préciser le nouvel axe. Communication immédiate à l'échelon supérieur.",
-    "dictee": "substitution"
+    "tag": "Transports",
+    "hint": "Ligne + changement + descente",
+    "expl": "Transports en commun : metro (ligne, direction), bus (numéro, arrêt), tramway, RER. Composter / valider le ticket à l'entrée.",
+    "dictee": "changez"
   },
   {
-    "id": "st3-15",
-    "q": "Que désigne un 'no man's land' en termes militaires ?",
-    "a": "Le no man's land est la zone entre deux dispositifs adverses, non contrôlée par aucune des deux parties.",
+    "id": "si3-11",
+    "q": "Comment indiquer la distance à pied entre deux lieux ?",
+    "a": "C'est à [X] minutes à pied / [X] mètres d'ici. En marchant normalement, vous y êtes en [durée]. C'est [proche / assez loin].",
     "choices": [
-      "C'est une zone neutre entre deux pays.",
-      "C'est le terrain entre les deux lignes ennemies.",
-      "C'est une zone interdite aux civils."
+      "C'est à... minutes / mètres de marche.",
+      "La distance à pied est d'environ... minutes.",
+      "En marchant, c'est à... de distance."
     ],
-    "tag": "Vocabulaire",
-    "hint": "Zone entre les deux forces + non contrôlée",
-    "expl": "No man's land : zone de terrain entre les dispositifs. Dangereuse car exposée aux deux feux. Peut faire l'objet de patrouilles de reconnaissance.",
-    "dictee": "zone"
+    "tag": "Distance",
+    "hint": "Temps de marche + mètres + appréciation",
+    "expl": "Distance piétonne : en minutes (5, 10, 15 min) ou en mètres (100m, 500m). Préciser si c'est plat, en côte, ou si les trottoirs sont praticables.",
+    "dictee": "à pied"
   },
   {
-    "id": "st3-16",
-    "q": "Comment décrire un hélitreuillage sur un itinéraire ?",
-    "a": "L'hélitreuillage est effectué au point [coordonnées], par [type d'hélicoptère], pour [évacuer / ravitailler / déposer] [personnel/matériel].",
+    "id": "si3-12",
+    "q": "Comment décrire comment on accède à un sous-sol ?",
+    "a": "L'accès au sous-sol se fait par l'escalier B ou par l'ascenseur. Appuyez sur le bouton [-1] ou [-2]. Le parking est au sous-sol.",
     "choices": [
-      "Un hélicoptère descend une corde pour récupérer quelqu'un.",
-      "C'est une opération de sauvetage par hélicoptère.",
-      "On utilise un hélicoptère pour accéder à un endroit difficile."
+      "Pour aller au sous-sol, prenez l'escalier ou l'ascenseur.",
+      "Le sous-sol est accessible par... appuyez sur...",
+      "On accède au parking souterrain par..."
     ],
-    "tag": "Aéromobilité",
-    "hint": "Point + appareil + mission",
-    "expl": "Hélitreuillage : extraction/dépôt de personnel sans atterrissage. Utilisé en terrain difficile, EVASAN (évacuation sanitaire), zones inaccessibles.",
-    "dictee": "hélitreuillage"
+    "tag": "Bâtiment",
+    "hint": "Escalier/ascenseur + bouton + niveau",
+    "expl": "Sous-sol : -1, -2, cave, parking souterrain, local technique. Accès : escalier de service, ascenseur (bouton négatif), rampe.",
+    "dictee": "sous-sol"
   },
   {
-    "id": "st3-17",
-    "q": "Comment indiquer une zone d'atterrissage (LZ) ?",
-    "a": "La zone d'atterrissage est localisée à [coordonnées], dimensions [X] × [Y] mètres, terrain [plat/dégagé/balisé], orientation [axe].",
+    "id": "si3-13",
+    "q": "Comment expliquer comment contourner un obstacle sur un itinéraire ?",
+    "a": "La rue est barrée pour [travaux / accident]. Il faut contourner par la rue [X] en prenant à gauche, puis à droite rue [Y].",
     "choices": [
-      "C'est l'endroit où l'hélicoptère peut se poser.",
-      "C'est une zone plate pour les atterrissages.",
-      "C'est un terrain préparé pour les aéronefs."
+      "La rue est bloquée, il faut passer par une autre.",
+      "Pour éviter l'obstacle, prenez une autre rue.",
+      "Il y a un problème sur cet itinéraire, contournez par..."
     ],
-    "tag": "Aéromobilité",
-    "hint": "Coordonnées + dimensions + orientation",
-    "expl": "LZ (Landing Zone) : caractéristiques essentielles pour le pilote : localisation, taille, obstacles, orientation vent, marquage.",
-    "dictee": "atterrissage"
+    "tag": "Contournement",
+    "hint": "Cause + itinéraire alternatif",
+    "expl": "Déviation : rue barrée, travaux (obras), accident, manifestation. Toujours proposer un chemin alternatif précis.",
+    "dictee": "contournez"
   },
   {
-    "id": "st3-18",
-    "q": "Comment décrire un mouvement tactique en colonnes ?",
-    "a": "Les véhicules progressent en colonne ouverte / fermée, avec un intervalle de [X] mètres entre chaque véhicule.",
+    "id": "si3-14",
+    "q": "Comment indiquer comment trouver l'entrée principale d'une caserne ?",
+    "a": "L'entrée principale de la caserne est sur la rue [X]. Il y a un poste de garde à l'entrée. Présentez votre pièce d'identité au planton.",
     "choices": [
-      "Les véhicules avancent les uns derrière les autres.",
-      "La colonne progresse avec des espacements.",
-      "Les chars avancent en file indienne."
+      "La caserne a une entrée sur la rue... avec un garde.",
+      "Pour entrer dans la caserne, allez rue... et présentez...",
+      "L'accès à la caserne se fait par... avec contrôle d'identité."
     ],
-    "tag": "Tactique",
-    "hint": "Colonne + intervalle + espacement",
-    "expl": "Colonne ouverte : grands intervalles (100-500m) contre menace aérienne. Colonne fermée : petits intervalles, zone sécurisée.",
-    "dictee": "colonne"
+    "tag": "Caserne",
+    "hint": "Rue + poste de garde + pièce d'identité",
+    "expl": "Caserne : entrée principale avec poste de garde (planton), contrôle des accès, badge ou pièce d'identité, barrière levante.",
+    "dictee": "planton"
+  },
+  {
+    "id": "si3-15",
+    "q": "Comment décrire un chemin à travers un parc ou un jardin ?",
+    "a": "Traversez le parc en suivant l'allée centrale. Passez devant la fontaine et continuez jusqu'à la grille de sortie nord.",
+    "choices": [
+      "Marchez dans le parc jusqu'à la sortie.",
+      "Traversez le jardin par le chemin principal.",
+      "Passez par le parc en suivant les allées."
+    ],
+    "tag": "Extérieur",
+    "hint": "Allée + repère (fontaine) + sortie",
+    "expl": "Parc : allée (gravillon, bitume), fontaine, bancs, kiosque, sortie (grille, portail). Toujours un repère visible pour guider.",
+    "dictee": "allée"
+  },
+  {
+    "id": "si3-16",
+    "q": "Comment expliquer un itinéraire en voiture sur autoroute ?",
+    "a": "Prenez l'autoroute A[X] direction [ville]. Sortez à la sortie [numéro], puis suivez les panneaux direction [destination]. Le trajet dure [durée].",
+    "choices": [
+      "Prenez l'autoroute A... sortez à... et suivez...",
+      "Sur l'autoroute, prenez la direction... sortie...",
+      "L'itinéraire autoroute est : A... direction... sortie..."
+    ],
+    "tag": "Autoroute",
+    "hint": "Numéro autoroute + direction + sortie + durée",
+    "expl": "Autoroute : péage, voie rapide, bretelle d'entrée/sortie, aire de repos, limitation 120/130 km/h, panneaux de direction.",
+    "dictee": "sortie"
+  },
+  {
+    "id": "si3-17",
+    "q": "Comment décrire un aller-retour dans une journée ?",
+    "a": "Le matin, je pars de [lieu A] à [heure]. J'arrive à [lieu B] à [heure]. Le soir, je reprends le chemin inverse et je rentre à [heure].",
+    "choices": [
+      "J'y vais le matin et je reviens le soir.",
+      "Mon aller dure... et mon retour aussi.",
+      "Je pars tôt et rentre en fin de journée."
+    ],
+    "tag": "Quotidien",
+    "hint": "Départ matin + arrivée + retour soir",
+    "expl": "Structure aller-retour : départ matin (heure), arrivée, temps sur place, départ retour, arrivée chez soi. Préciser le mode de transport.",
+    "dictee": "aller-retour"
+  },
+  {
+    "id": "si3-18",
+    "q": "Comment expliquer où se trouve l'arrêt de bus le plus proche ?",
+    "a": "L'arrêt de bus le plus proche est à [X] mètres, rue [X]. Prenez le bus numéro [X] direction [terminus]. La fréquence est de [X] minutes.",
+    "choices": [
+      "Il y a un arrêt de bus à... mètres d'ici.",
+      "L'arrêt le plus proche est rue... bus numéro...",
+      "Pour prendre le bus, allez à... et prenez le..."
+    ],
+    "tag": "Transports",
+    "hint": "Distance + rue + numéro + direction + fréquence",
+    "expl": "Informations arrêt : nom de l'arrêt, numéros des lignes, direction, fréquence de passage, horaires de début/fin de service.",
+    "dictee": "arrêt"
   }
 ]
