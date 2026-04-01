@@ -1,0 +1,254 @@
+[
+  {
+    "id": "st4-01",
+    "q": "Comment décrire un poste de commandement (PC) ?",
+    "a": "Le PC est installé dans [bâtiment / tente / véhicule], équipé de systèmes de communication, de cartes et d'écrans de situation.",
+    "choices": [
+      "C'est l'endroit où les officiers travaillent.",
+      "C'est un bureau militaire avancé.",
+      "C'est le centre de décision d'une unité."
+    ],
+    "tag": "Lieux militaires",
+    "hint": "Localisation + équipement + fonction",
+    "expl": "PC : centre nerveux de l'unité. Éléments : cellule opérations (OPS), cellule renseignement (RENS), cellule logistique, communications.",
+    "dictee": "commandement"
+  },
+  {
+    "id": "st4-02",
+    "q": "Comment décrire une base militaire ?",
+    "a": "La base est entourée d'une clôture sécurisée. À l'entrée se trouve un poste de garde. On y trouve des casernements, des ateliers et des dépôts.",
+    "choices": [
+      "C'est un grand camp militaire fortifié.",
+      "C'est l'endroit où vivent et travaillent les soldats.",
+      "C'est une installation militaire permanente."
+    ],
+    "tag": "Infrastructures",
+    "hint": "Périmètre + accès + fonctions",
+    "expl": "Base militaire : clôture/mur, poste garde, zones casernement, zones opérations, hangars, dépôts munitions, zone maintenance.",
+    "dictee": "casernement"
+  },
+  {
+    "id": "st4-03",
+    "q": "Comment décrire un poste d'observation (PO) ?",
+    "a": "Le poste d'observation est implanté sur [hauteur / bâtiment], offrant une vue dominante sur [secteur]. Il est occupé par [nombre] soldats.",
+    "choices": [
+      "C'est un endroit élevé pour surveiller.",
+      "C'est un poste de surveillance militaire.",
+      "C'est là où les soldats observent le terrain."
+    ],
+    "tag": "Lieux militaires",
+    "hint": "Position dominante + secteur observé + effectif",
+    "expl": "PO : position dominante, secteur observé 360° ou sector assignment, discrétion maximum, liaison radio avec PC.",
+    "dictee": "observation"
+  },
+  {
+    "id": "st4-04",
+    "q": "Comment décrire un bureau militaire de manière précise ?",
+    "a": "Le bureau se trouve au [étage], mesurant environ [X] m², équipé de [nombre] postes de travail, d'une table de réunion et de systèmes informatiques sécurisés.",
+    "choices": [
+      "C'est un bureau avec des ordinateurs et des tables.",
+      "C'est un espace de travail pour les militaires.",
+      "C'est une pièce avec du mobilier de bureau."
+    ],
+    "tag": "Lieux",
+    "hint": "Étage + superficie + équipement",
+    "expl": "Description précise : localisation dans le bâtiment, superficie, mobilier, équipements informatiques, niveau de classification.",
+    "dictee": "bureau"
+  },
+  {
+    "id": "st4-05",
+    "q": "Comment décrire une salle de briefing ?",
+    "a": "La salle de briefing peut accueillir [X] personnes. Elle est équipée d'un écran de projection, d'une table de conférence et de systèmes de téléconférence sécurisés.",
+    "choices": [
+      "C'est une grande salle pour les réunions militaires.",
+      "C'est là où on présente les ordres d'opération.",
+      "C'est une salle de réunion avec des équipements audiovisuels."
+    ],
+    "tag": "Lieux",
+    "hint": "Capacité + équipements + sécurité",
+    "expl": "Salle de briefing : capacité en sièges, équipement AV (écran, projecteur), systèmes de téléconférence classifiés, tableau de situation.",
+    "dictee": "briefing"
+  },
+  {
+    "id": "st4-06",
+    "q": "Comment décrire une zone de dépôt de munitions ?",
+    "a": "La zone de stockage des munitions est séparée des bâtiments habités par [distance] mètres. Elle est sécurisée par [dispositif] et signalée par des panneaux de danger.",
+    "choices": [
+      "C'est un entrepôt sécurisé pour les armes.",
+      "C'est là où on stocke les munitions.",
+      "C'est une zone dangereuse réservée aux munitions."
+    ],
+    "tag": "Infrastructures",
+    "hint": "Distance sécurité + protection + signalisation",
+    "expl": "Dépôt munitions : distance de sécurité (NBR) obligatoire, bunkers ou abris enterrés, contrôle d'accès strict, panneaux DANGER EXPLOSIFS.",
+    "dictee": "munitions"
+  },
+  {
+    "id": "st4-07",
+    "q": "Comment décrire un hôpital de campagne ?",
+    "a": "L'hôpital de campagne est installé dans [tentes / bâtiment réquisitionné], avec une capacité de [X] lits, un bloc chirurgical, une salle de réveil et une pharmacie.",
+    "choices": [
+      "C'est un hôpital militaire temporaire.",
+      "C'est un centre médical de campagne.",
+      "C'est une installation médicale avancée."
+    ],
+    "tag": "Soutien santé",
+    "hint": "Structure + capacité + équipements médicaux",
+    "expl": "Hôpital de campagne (Role 2/3) : tri (triage), urgences, chirurgie, soins intensifs, évacuation vers hôpital permanent (Role 4).",
+    "dictee": "chirurgical"
+  },
+  {
+    "id": "st4-08",
+    "q": "Comment décrire un point de passage d'une frontière militarisée ?",
+    "a": "Le point de passage est contrôlé par [unité], avec des barrières, des guérites et des dispositifs de contrôle biométrique / documentaire.",
+    "choices": [
+      "C'est un checkpoint à la frontière.",
+      "C'est un poste de contrôle frontalier militaire.",
+      "C'est l'endroit pour passer la frontière sous contrôle."
+    ],
+    "tag": "Sécurité",
+    "hint": "Unité + dispositifs + types de contrôle",
+    "expl": "Passage frontière militarisé : guérite, barrières anti-véhicules (plot béton), scanner véhicules, contrôle documents et biométrie.",
+    "dictee": "frontière"
+  },
+  {
+    "id": "st4-09",
+    "q": "Comment décrire la topographie d'un terrain d'opération ?",
+    "a": "Le terrain est [vallonné / montagneux / plat / boisé], avec des zones dégagées propices à [observation / feux] et des couverts permettant [dissimulation].",
+    "choices": [
+      "Le terrain a différentes caractéristiques naturelles.",
+      "C'est un terrain avec des obstacles naturels.",
+      "Le paysage varie selon les zones."
+    ],
+    "tag": "Terrain",
+    "hint": "Relief + végétation + avantages tactiques",
+    "expl": "Analyse tactique du terrain : OCOKA (Obstacles, Couverts/Dissimulation, Observation, Key terrain, Axes d'approche).",
+    "dictee": "topographie"
+  },
+  {
+    "id": "st4-10",
+    "q": "Comment décrire un aérodrome militaire ?",
+    "a": "L'aérodrome dispose de [X] pistes de [longueur] mètres, orientation [axe], avec des hangars, des dépôts carburant et une tour de contrôle.",
+    "choices": [
+      "C'est un aéroport réservé aux avions militaires.",
+      "C'est une base aérienne avec des pistes.",
+      "C'est l'infrastructure d'accueil des aéronefs militaires."
+    ],
+    "tag": "Infrastructures",
+    "hint": "Pistes + longueur + orientation + équipements",
+    "expl": "Aérodrome mil : piste (longueur, revêtement, orientation), voies de circulation, aires de stationnement, hangar, carburant JP8.",
+    "dictee": "piste"
+  },
+  {
+    "id": "st4-11",
+    "q": "Comment décrire un poste de secours avancé ?",
+    "a": "Le PSA est installé à [distance] en arrière de la ligne de contact, accessible aux véhicules sanitaires, avec [équipements médicaux d'urgence].",
+    "choices": [
+      "C'est un point médical proche du front.",
+      "C'est un endroit où on soigne les blessés.",
+      "C'est une installation médicale avancée."
+    ],
+    "tag": "Soutien santé",
+    "hint": "Distance contact + accès VSAV + équipements",
+    "expl": "PSA (Poste de Secours Avancé) = Role 1. Stabilisation des blessés avant évacuation. Médecin ou infirmier de combat.",
+    "dictee": "secours"
+  },
+  {
+    "id": "st4-12",
+    "q": "Comment décrire une zone de rassemblement des véhicules ?",
+    "a": "La zone de rassemblement est établie dans [bois / zone urbaine / terrain], d'une superficie de [X] ha, avec des positions dispersées et camouflées.",
+    "choices": [
+      "C'est l'endroit où les véhicules sont regroupés.",
+      "C'est une zone de parking pour les blindés.",
+      "C'est là où on stationne les véhicules militaires."
+    ],
+    "tag": "Tactique",
+    "hint": "Terrain + superficie + dispersion + camouflage",
+    "expl": "Zone de rassemblement : camouflage obligatoire, dispersion anti-frappe, positions de défense locale, PC léger.",
+    "dictee": "rassemblement"
+  },
+  {
+    "id": "st4-13",
+    "q": "Comment décrire une place forte ou une citadelle ?",
+    "a": "La citadelle est une fortification en pierre / béton, construite au [siècle], dominant la ville depuis [hauteur]. Elle comporte [éléments défensifs].",
+    "choices": [
+      "C'est un vieux fort militaire sur une hauteur.",
+      "C'est une forteresse historique avec des remparts.",
+      "C'est une construction militaire défensive ancienne."
+    ],
+    "tag": "Fortifications",
+    "hint": "Matériaux + époque + position dominante + éléments",
+    "expl": "Fortification : fossés, remparts, bastions, tours, meurtrières, pont-levis. Analyse défensive toujours pertinente en MOUT.",
+    "dictee": "fortification"
+  },
+  {
+    "id": "st4-14",
+    "q": "Comment décrire les accès à un bâtiment lors d'une opération MOUT ?",
+    "a": "Le bâtiment dispose de [X] accès : une entrée principale au [nord/sud], deux sorties de secours latérales et un accès au sous-sol.",
+    "choices": [
+      "Il y a plusieurs entrées dans ce bâtiment.",
+      "Le bâtiment a une porte principale et d'autres issues.",
+      "Les accès sont répartis autour du bâtiment."
+    ],
+    "tag": "MOUT",
+    "hint": "Nombre + localisation + type d'accès",
+    "expl": "MOUT (Military Operations in Urban Terrain) : analyse systématique des accès, points d'entrée, angles morts, axes d'évacuation.",
+    "dictee": "accès"
+  },
+  {
+    "id": "st4-15",
+    "q": "Comment décrire une zone de largage (DZ) ?",
+    "a": "La DZ est localisée à [coordonnées], superficie [X] ha, terrain [dégagé/plat], sans obstacles en approche [nord/sud/est/ouest].",
+    "choices": [
+      "C'est l'endroit où les parachutistes sautent.",
+      "C'est une zone pour les largages aériens.",
+      "C'est un terrain plat pour les opérations aéroportées."
+    ],
+    "tag": "Aéromobilité",
+    "hint": "Coordonnées + superficie + obstacles + approche",
+    "expl": "DZ (Drop Zone) : zone de largage parachutistes ou matériel. Critères : taille (min 600×600m), obstacles, vent, balisage.",
+    "dictee": "largage"
+  },
+  {
+    "id": "st4-16",
+    "q": "Comment décrire un dépôt logistique avancé ?",
+    "a": "Le dépôt est installé à [lieu], d'une capacité de [X] tonnes, abritant des stocks de [munitions / carburant / vivres], avec un accès [routier/ferroviaire].",
+    "choices": [
+      "C'est un entrepôt militaire avec des réserves.",
+      "C'est là où on stocke les fournitures militaires.",
+      "C'est un point logistique avec des stocks."
+    ],
+    "tag": "Logistique",
+    "hint": "Localisation + capacité + type de stocks + accès",
+    "expl": "Dépôt avancé : point de rupture de charge, redistribution vers unités. Stocks calculés pour [X] jours de combat.",
+    "dictee": "logistique"
+  },
+  {
+    "id": "st4-17",
+    "q": "Comment décrire un état-major (EM) en opérations ?",
+    "a": "L'EM est organisé en sections : J1 (personnel), J2 (renseignement), J3 (opérations), J4 (logistique), J5 (plans), J6 (communications).",
+    "choices": [
+      "C'est le quartier général d'une force militaire.",
+      "C'est l'organisation de commandement d'une unité.",
+      "C'est le bureau principal des officiers supérieurs."
+    ],
+    "tag": "Organisation",
+    "hint": "Sections J1 à J6 + leurs missions",
+    "expl": "Structure EM OTAN : J1 RH, J2 RENS, J3 OPS (cœur), J4 LOG, J5 PLANS/STRAT, J6 COM/SIC, J7 Entraînement, J8 Finance.",
+    "dictee": "état-major"
+  },
+  {
+    "id": "st4-18",
+    "q": "Comment décrire une salle de crise ?",
+    "a": "La salle de crise fonctionne 24h/24, avec des écrans de situation, des systèmes de communication sécurisés et des officiers de permanence.",
+    "choices": [
+      "C'est une salle de réunion pour les urgences.",
+      "C'est le centre de gestion des crises militaires.",
+      "C'est là où on gère les situations d'urgence."
+    ],
+    "tag": "Commandement",
+    "hint": "24h/24 + écrans + com sécurisées + permanence",
+    "expl": "Salle de crise (War Room) : tableau de situation opérationnelle, liaisons radio/téléphone sécurisées, officier de permanence H24.",
+    "dictee": "permanence"
+  }
+]

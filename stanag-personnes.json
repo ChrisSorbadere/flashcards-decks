@@ -1,0 +1,254 @@
+[
+  {
+    "id": "st5-01",
+    "q": "Comment décrire la corpulence d'un individu en termes militaires ?",
+    "a": "L'individu est de corpulence [mince / moyenne / forte / athlétique], mesurant environ [X] cm et pesant environ [Y] kg.",
+    "choices": [
+      "Il est grand et fort.",
+      "Il a une silhouette normale.",
+      "Sa taille et son poids sont dans la moyenne."
+    ],
+    "tag": "Description physique",
+    "hint": "Corpulence + taille + poids estimé",
+    "expl": "Description militaire : corpulence (mince, athlétique, moyenne, forte), taille en cm, poids estimé en kg. Toujours approximatif.",
+    "dictee": "corpulence"
+  },
+  {
+    "id": "st5-02",
+    "q": "Comment décrire la tenue vestimentaire d'un militaire ?",
+    "a": "Il porte une tenue de combat [couleur/camouflage], avec [insigne de grade] sur [épaulettes/brassard], et des brodequins [couleur].",
+    "choices": [
+      "Il est habillé en militaire avec un uniforme.",
+      "Sa tenue est de couleur militaire avec des insignes.",
+      "Il porte un uniforme avec des décorations."
+    ],
+    "tag": "Tenue",
+    "hint": "Couleur + camouflage + grade + chaussures",
+    "expl": "Tenue militaire : couleur (vert, kaki, bleu), camouflage (CE, FÉLIN, OTAN), grade (sur épaulettes, poitrine), chaussures (brodequins, rangers).",
+    "dictee": "uniforme"
+  },
+  {
+    "id": "st5-03",
+    "q": "Comment décrire les traits du visage d'un individu ?",
+    "a": "Il a un visage [ovale / rond / carré / allongé], avec des yeux [couleur], un nez [droit / aquilin / épaté] et des lèvres [minces / charnues].",
+    "choices": [
+      "Il a un visage normal avec des traits particuliers.",
+      "Ses traits du visage sont reconnaissables.",
+      "Il a des yeux, un nez et une bouche distincts."
+    ],
+    "tag": "Description physique",
+    "hint": "Forme visage + yeux + nez + lèvres",
+    "expl": "Description systématique : forme du visage, yeux (couleur, forme), nez (taille, forme), bouche, menton, oreilles (particularités).",
+    "dictee": "visage"
+  },
+  {
+    "id": "st5-04",
+    "q": "Comment décrire la démarche et l'attitude corporelle d'un militaire ?",
+    "a": "Il se tient droit, a une démarche assurée / martiale. Il fait preuve d'une posture ferme, caractéristique d'une formation militaire.",
+    "choices": [
+      "Il marche comme un militaire entraîné.",
+      "Sa façon de marcher est typiquement militaire.",
+      "Il a une bonne posture et une démarche correcte."
+    ],
+    "tag": "Comportement",
+    "hint": "Posture + démarche + attitude",
+    "expl": "Indicateurs militaires : garde-à-vous, démarche cadencée, posture droite, gestes économiques, regard direct. Trahit une formation.",
+    "dictee": "démarche"
+  },
+  {
+    "id": "st5-05",
+    "q": "Comment décrire le grade visible sur un uniforme ?",
+    "a": "L'individu porte [X étoiles / galons / chevrons] sur ses épaulettes / sa manche, indiquant le grade de [nom du grade].",
+    "choices": [
+      "Il a des décorations sur l'uniforme qui indiquent son grade.",
+      "Son grade est visible sur ses épaulettes.",
+      "Les insignes montrent son niveau hiérarchique."
+    ],
+    "tag": "Grade",
+    "hint": "Nombre + type d'insigne + emplacement",
+    "expl": "Grades FR armée de terre : soldat → caporal → sergent → adjudant → lieutenant → capitaine → commandant → colonel → général.",
+    "dictee": "épaulettes"
+  },
+  {
+    "id": "st5-06",
+    "q": "Comment évaluer l'âge approximatif d'un individu ?",
+    "a": "L'individu semble avoir entre [X] et [Y] ans. Il présente [rides / cheveux grisonnants / peau lisse] caractéristiques de cette tranche d'âge.",
+    "choices": [
+      "Il a l'air d'avoir un certain âge.",
+      "Son âge est difficile à déterminer précisément.",
+      "Il paraît [jeune / mûr / âgé]."
+    ],
+    "tag": "Description physique",
+    "hint": "Tranche d'âge + indices physiques",
+    "expl": "Indices d'âge : peau (rides, taches), cheveux (couleur, densité), posture, mains. Toujours donner une fourchette de 10 ans.",
+    "dictee": "âge"
+  },
+  {
+    "id": "st5-07",
+    "q": "Comment décrire les cheveux d'un individu ?",
+    "a": "Il a les cheveux [courts / mi-longs / longs], [couleur], [raides / ondulés / bouclés / crépus], portés [coupe militaire / libre].",
+    "choices": [
+      "Il a des cheveux d'une certaine couleur et longueur.",
+      "Sa coiffure est caractéristique.",
+      "Ses cheveux ont une apparence particulière."
+    ],
+    "tag": "Description physique",
+    "hint": "Longueur + couleur + texture + coupe",
+    "expl": "Cheveux militaires : souvent courts réglementairement. Longueur (rasé, court, mi-long), couleur (brun, blond, roux, gris, blanc).",
+    "dictee": "cheveux"
+  },
+  {
+    "id": "st5-08",
+    "q": "Comment décrire le profil psychologique d'un officier de liaison ?",
+    "a": "Il se montre ouvert au dialogue, rigoureux dans son travail, capable d'adapter son discours à ses interlocuteurs et respectueux des protocoles.",
+    "choices": [
+      "C'est un militaire compétent et professionnel.",
+      "Il a les qualités nécessaires pour son poste.",
+      "C'est un bon officier avec des qualités relationnelles."
+    ],
+    "tag": "Psychologie",
+    "hint": "Ouverture + rigueur + adaptation + protocole",
+    "expl": "Officier de liaison : diplomatie, rigueur, discrétion, adaptabilité culturelle, maîtrise des langues, respect des hiérarchies multiples.",
+    "dictee": "rigueur"
+  },
+  {
+    "id": "st5-09",
+    "q": "Comment signaler un individu suspect dans un rapport ?",
+    "a": "Individu de sexe [M/F], âge estimé [X-Y] ans, taille [X] cm, vêtements [description], vu à [lieu] à [heure], comportement [description].",
+    "choices": [
+      "C'est quelqu'un qui semblait suspect dans la zone.",
+      "Un individu avec une attitude anormale a été repéré.",
+      "Une personne suspecte a été observée."
+    ],
+    "tag": "Rapport",
+    "hint": "Sexe + âge + taille + vêtements + lieu + heure + comportement",
+    "expl": "Rapport de contact : SALUTE (Size, Activity, Location, Uniform, Time, Equipment). Description systématique et factuelle.",
+    "dictee": "suspect"
+  },
+  {
+    "id": "st5-10",
+    "q": "Comment décrire les décorations militaires visibles sur un uniforme ?",
+    "a": "Il porte sur sa poitrine gauche [X] décorations, dont [nom des médailles / rubans], indiquant des participations à [opérations / missions].",
+    "choices": [
+      "Il a des médailles sur son uniforme.",
+      "Ses décorations montrent son expérience.",
+      "Il porte des rubans et médailles militaires."
+    ],
+    "tag": "Décorations",
+    "hint": "Emplacement + nombre + identification + signification",
+    "expl": "Décorations FR : Légion d'honneur, Médaille militaire, Croix de guerre, médailles OPEX, médailles OTAN. Hiérarchie protocolaire.",
+    "dictee": "décorations"
+  },
+  {
+    "id": "st5-11",
+    "q": "Comment décrire le niveau de forme physique d'un soldat ?",
+    "a": "Le soldat est en excellente / bonne / moyenne condition physique. Il présente [musculature développée / bonne endurance / agilité].",
+    "choices": [
+      "Il est en bonne santé et bien entraîné.",
+      "Sa condition physique est celle d'un militaire.",
+      "Il a l'air d'être en bonne forme."
+    ],
+    "tag": "Physique",
+    "hint": "Niveau + indicateurs physiques",
+    "expl": "Condition physique militaire : tests MSIG (armée FR), Cooper test, parcours de combat. Critères : force, endurance, agilité, vitesse.",
+    "dictee": "physique"
+  },
+  {
+    "id": "st5-12",
+    "q": "Comment décrire le comportement d'un individu lors d'un interrogatoire ?",
+    "a": "L'individu se montre [coopératif / hostile / évasif / nerveux]. Il maintient / évite le contact visuel et présente [signes de stress / calme].",
+    "choices": [
+      "Il répond aux questions d'une certaine façon.",
+      "Son comportement pendant l'interrogatoire est notable.",
+      "Il réagit de manière particulière aux questions."
+    ],
+    "tag": "Comportement",
+    "hint": "Attitude + contact visuel + signes de stress",
+    "expl": "HUMINT : observation du comportement, cohérence du discours, signes de stress (transpiration, tremblements, regard fuyant).",
+    "dictee": "comportement"
+  },
+  {
+    "id": "st5-13",
+    "q": "Comment décrire les particularités physiques distinctives ?",
+    "a": "L'individu présente [tatouage / cicatrice / signe distinctif] sur [emplacement], de [description]. Il porte [lunettes / prothèse / appareil].",
+    "choices": [
+      "Il a des marques particulières sur le corps.",
+      "Ses caractéristiques physiques sont remarquables.",
+      "Il a des signes qui permettent de l'identifier."
+    ],
+    "tag": "Identification",
+    "hint": "Type + localisation + description",
+    "expl": "Signes distinctifs : tatouages (description, emplacement), cicatrices, grains de beauté, prothèses, lunettes. Éléments d'identification clés.",
+    "dictee": "distinctif"
+  },
+  {
+    "id": "st5-14",
+    "q": "Comment décrire la nationalité probable d'un individu ?",
+    "a": "Par ses traits physiques / sa langue / son accent / sa tenue, l'individu semble être d'origine [région / pays]. À confirmer par contrôle documentaire.",
+    "choices": [
+      "Il semble venir d'un certain pays.",
+      "Sa nationalité peut être déduite de son apparence.",
+      "Il paraît être étranger / d'une certaine origine."
+    ],
+    "tag": "Identification",
+    "hint": "Traits + langue + accent + tenue + confirmation",
+    "expl": "Évaluation nationalité : toujours provisoire jusqu'à contrôle documentaire. Attention aux stéréotypes. Base : langue, accent, documents.",
+    "dictee": "nationalité"
+  },
+  {
+    "id": "st5-15",
+    "q": "Comment décrire la maîtrise linguistique d'un interlocuteur ?",
+    "a": "L'interlocuteur s'exprime en [langue] avec un accent [léger / marqué], un vocabulaire [riche / limité] et une grammaire [correcte / approximative].",
+    "choices": [
+      "Il parle bien / mal la langue.",
+      "Son niveau de langue est noté.",
+      "Il communique avec plus ou moins de facilité."
+    ],
+    "tag": "Communication",
+    "hint": "Langue + accent + vocabulaire + grammaire",
+    "expl": "Évaluation linguistique rapide : langue parlée, accent (origine probable), aisance lexicale, précision grammaticale, register utilisé.",
+    "dictee": "accent"
+  },
+  {
+    "id": "st5-16",
+    "q": "Comment décrire un civil en zone de conflit ?",
+    "a": "L'individu civil est de sexe [M/F], âge estimé [X] ans, vêtu de [tenue civile], sans armement apparent, manifestant [comportement calme / agité / craintif].",
+    "choices": [
+      "C'est un civil dans une zone militaire.",
+      "C'est une personne non combattante dans la zone.",
+      "C'est un habitant local sans équipement militaire."
+    ],
+    "tag": "Protection",
+    "hint": "Sexe + âge + tenue + armement + comportement",
+    "expl": "Distinction combattants/civils : fondamentale en DIH (Droit International Humanitaire). Civil = non combattant, protection obligatoire.",
+    "dictee": "civil"
+  },
+  {
+    "id": "st5-17",
+    "q": "Comment décrire l'attitude d'un militaire au garde-à-vous ?",
+    "a": "Le militaire se tient droit, talons joints, bras le long du corps, regard fixe vers l'avant, immobile et silencieux.",
+    "choices": [
+      "Il est debout bien droit comme un militaire.",
+      "Il adopte la position réglementaire au garde-à-vous.",
+      "Il se tient très droit avec les bras le long du corps."
+    ],
+    "tag": "Protocole",
+    "hint": "Talons + bras + regard + immobilité",
+    "expl": "Garde-à-vous : talons joints, pieds à 45°, bras tendus le long du corps, menton rentré, regard horizontal fixe. Position de respect.",
+    "dictee": "garde-à-vous"
+  },
+  {
+    "id": "st5-18",
+    "q": "Comment décrire un médecin militaire en opération ?",
+    "a": "Il porte la tenue de combat avec le brassard à croix rouge, un sac médical et est armé conformément au droit international humanitaire.",
+    "choices": [
+      "C'est un soldat qui s'occupe des blessés.",
+      "C'est un militaire avec une formation médicale.",
+      "C'est un médecin qui sert dans l'armée."
+    ],
+    "tag": "Fonctions",
+    "hint": "Tenue + brassard + équipement + DIH",
+    "expl": "Médecin militaire : protégé par les Conventions de Genève. Brassard croix rouge obligatoire. Peut être armé pour légitime défense uniquement.",
+    "dictee": "médecin"
+  }
+]

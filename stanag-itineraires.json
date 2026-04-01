@@ -1,0 +1,254 @@
+[
+  {
+    "id": "st3-01",
+    "q": "Comment décrire un itinéraire en termes militaires ?",
+    "a": "L'itinéraire principal passe par [point A], traverse [lieu], longe [obstacle naturel] et rejoint [point B].",
+    "choices": [
+      "L'itinéraire va du point A au point B.",
+      "On doit passer par plusieurs endroits.",
+      "Le chemin suit une route principale."
+    ],
+    "tag": "Itinéraire",
+    "hint": "Points de passage + obstacles + destination",
+    "expl": "Description militaire d'itinéraire : axe principal, points de passage obligatoires (PPO), obstacles, alternatives possibles.",
+    "dictee": "itinéraire"
+  },
+  {
+    "id": "st3-02",
+    "q": "Que signifie un 'point de passage obligatoire' (PPO) ?",
+    "a": "Un PPO est un point par lequel les forces doivent obligatoirement transiter en raison du terrain ou des contraintes tactiques.",
+    "choices": [
+      "C'est un point de contrôle administratif.",
+      "C'est un carrefour important sur l'axe de marche.",
+      "C'est un endroit où les véhicules font le plein."
+    ],
+    "tag": "Itinéraire",
+    "hint": "Passage obligé + terrain + tactique",
+    "expl": "PPO : pont, col, gué, nœud routier. Vulnérables car prévisibles. À sécuriser ou à éviter si menace.",
+    "dictee": "passage"
+  },
+  {
+    "id": "st3-03",
+    "q": "Comment indiquer une direction en termes militaires ?",
+    "a": "Prenez l'axe nord / cap au 045 degrés / direction [point remarquable]. Après [distance], infléchissez vers [direction].",
+    "choices": [
+      "Allez tout droit puis tournez.",
+      "Suivez la route principale vers le nord.",
+      "Avancez dans la direction indiquée."
+    ],
+    "tag": "Orientation",
+    "hint": "Cap + azimut + points remarquables",
+    "expl": "Navigation militaire : azimut (0-360°), points cardinaux, points remarquables (clocher, croisement, cote). Carte + boussole + GPS.",
+    "dictee": "azimut"
+  },
+  {
+    "id": "st3-04",
+    "q": "Comment décrire un franchissement de cours d'eau ?",
+    "a": "Le franchissement s'effectue au niveau du gué / du pont / du bac, à [X] km en aval / en amont du village de [nom].",
+    "choices": [
+      "On traverse la rivière à cet endroit.",
+      "Le cours d'eau se passe ici.",
+      "On peut traverser l'eau à plusieurs endroits."
+    ],
+    "tag": "Franchissement",
+    "hint": "Gué/pont/bac + localisation précise",
+    "expl": "Types de franchissement : gué (peu profond, < 1m), pont (vérifier charge admissible), bac (ferry militaire), pont de bateaux (génie).",
+    "dictee": "franchissement"
+  },
+  {
+    "id": "st3-05",
+    "q": "Comment indiquer une distance en termes militaires ?",
+    "a": "La distance est de [X] kilomètres à vol d'oiseau / [Y] kilomètres par la route, soit environ [Z] heures de marche.",
+    "choices": [
+      "C'est loin d'ici, environ [distance].",
+      "La distance est approximativement de [X] km.",
+      "Il faut compter [X] km environ."
+    ],
+    "tag": "Distance",
+    "hint": "Vol d'oiseau + route + temps",
+    "expl": "Toujours distinguer distance directe (vol d'oiseau) et distance itinéraire (route). Ajouter le temps estimé selon le mode de déplacement.",
+    "dictee": "distance"
+  },
+  {
+    "id": "st3-06",
+    "q": "Que désigne le terme 'axe de progression' ?",
+    "a": "L'axe de progression est l'itinéraire principal emprunté par les forces pour avancer vers leur objectif.",
+    "choices": [
+      "C'est la direction générale d'une offensive.",
+      "C'est la route principale utilisée par les troupes.",
+      "C'est le chemin prévu pour atteindre l'objectif."
+    ],
+    "tag": "Tactique",
+    "hint": "Itinéraire principal + forces + objectif",
+    "expl": "Axe de progression nommé (ex: axe NAPOLÉON) pour la coordination. Distinguer axe principal et axes secondaires / de contournement.",
+    "dictee": "progression"
+  },
+  {
+    "id": "st3-07",
+    "q": "Comment décrire un checkpoint (point de contrôle) ?",
+    "a": "Le checkpoint est établi à [lieu], sur l'axe [nom]. Il est tenu par [unité] et contrôle les personnes et véhicules.",
+    "choices": [
+      "C'est un barrage routier militaire.",
+      "C'est un poste de surveillance sur une route.",
+      "C'est un point de vérification des identités."
+    ],
+    "tag": "Sécurité",
+    "hint": "Lieu + axe + unité + mission",
+    "expl": "Checkpoint : contrôle des identités, fouille des véhicules, filtrage de la population. Position défensive, signalisation, règles d'engagement.",
+    "dictee": "checkpoint"
+  },
+  {
+    "id": "st3-08",
+    "q": "Comment indiquer un point de rassemblement ?",
+    "a": "Le point de rassemblement est fixé à [coordonnées / lieu-dit], à [distance] de l'objectif, à [heure] heures.",
+    "choices": [
+      "On se retrouve à cet endroit précis.",
+      "Le rassemblement a lieu quelque part.",
+      "Tout le monde doit converger vers ce point."
+    ],
+    "tag": "Coordination",
+    "hint": "Coordonnées + distance + heure",
+    "expl": "Point de rassemblement (PR) : lieu de regroupement après une action. Toujours coordonnées précises + heure de rassemblement.",
+    "dictee": "rassemblement"
+  },
+  {
+    "id": "st3-09",
+    "q": "Comment décrire un obstacle sur un itinéraire militaire ?",
+    "a": "L'itinéraire est coupé par [type d'obstacle] à [lieu]. Un contournement est possible par [solution alternative].",
+    "choices": [
+      "Il y a un obstacle sur la route.",
+      "Le chemin est bloqué à cet endroit.",
+      "On ne peut pas passer directement."
+    ],
+    "tag": "Obstacles",
+    "hint": "Type + lieu + solution de contournement",
+    "expl": "Obstacles : zone inondée, pont détruit, éboulement, zone minée, barrage ennemi. Toujours proposer une solution alternative.",
+    "dictee": "obstacle"
+  },
+  {
+    "id": "st3-10",
+    "q": "Que signifie 'D+3' dans un ordre d'opération ?",
+    "a": "D+3 signifie le troisième jour après le début des opérations (Jour J). C'est une notation temporelle militaire.",
+    "choices": [
+      "C'est le délai pour atteindre l'objectif.",
+      "C'est 3 jours après le début de la mission.",
+      "C'est un code pour le troisième déploiement."
+    ],
+    "tag": "Temporalité",
+    "hint": "J = jour du début, +3 = trois jours après",
+    "expl": "Notation : J (Jour J), H (Heure H), D (Début). D+3 = 3 jours après début. H+30 = 30 minutes après l'heure H du déclenchement.",
+    "dictee": "J+3"
+  },
+  {
+    "id": "st3-11",
+    "q": "Comment décrire un carrefour en termes militaires ?",
+    "a": "À l'intersection de l'axe [A] et de la route [B], à [X] km au nord / sud / est / ouest de [localité].",
+    "choices": [
+      "C'est là où deux routes se croisent.",
+      "C'est un carrefour important sur la route.",
+      "C'est un nœud routier stratégique."
+    ],
+    "tag": "Terrain",
+    "hint": "Axes + coordonnées cardinales + localité",
+    "expl": "Description précise : 'Au carrefour de la RN7 et de la D403, à 3 km au nord-est de Valence, côte 245.' Toujours une cote ou coordonnée.",
+    "dictee": "intersection"
+  },
+  {
+    "id": "st3-12",
+    "q": "Comment indiquer l'heure d'un mouvement en langage militaire ?",
+    "a": "Le mouvement débute à [H] heures [M] minutes, heure locale / heure ZULU (UTC).",
+    "choices": [
+      "On part à telle heure.",
+      "Le départ est prévu à cette heure.",
+      "L'heure de départ est fixée."
+    ],
+    "tag": "Temporalité",
+    "hint": "Heure locale ou ZULU (UTC)",
+    "expl": "Heure ZULU = UTC = heure universelle. Évite la confusion entre fuseaux horaires dans les coalitions multinationales.",
+    "dictee": "ZULU"
+  },
+  {
+    "id": "st3-13",
+    "q": "Comment décrire un couloir aérien ?",
+    "a": "Le couloir aérien emprunte l'axe [nord-sud / est-ouest], entre les altitudes [X] et [Y] pieds, de [coordonnée A] à [coordonnée B].",
+    "choices": [
+      "C'est une zone de vol réservée aux militaires.",
+      "C'est l'espace aérien utilisé par les avions militaires.",
+      "C'est un passage aérien sécurisé."
+    ],
+    "tag": "Aérien",
+    "hint": "Axe + altitudes min/max + coordonnées",
+    "expl": "Couloir aérien : zone d'espace aérien réservée. Altitude en pieds (aviation), coordonnées en degrés décimaux ou grille MGRS.",
+    "dictee": "couloir"
+  },
+  {
+    "id": "st3-14",
+    "q": "Comment expliquer un changement d'itinéraire en cours de route ?",
+    "a": "Suite à [obstacle / menace / ordre], l'itinéraire initial est abandonné. Nous empruntons l'axe de substitution par [lieu].",
+    "choices": [
+      "On doit changer de route maintenant.",
+      "L'itinéraire prévu n'est plus possible.",
+      "Il faut trouver un autre chemin."
+    ],
+    "tag": "Adaptation",
+    "hint": "Cause + décision + axe alternatif",
+    "expl": "Toujours justifier le changement d'itinéraire et préciser le nouvel axe. Communication immédiate à l'échelon supérieur.",
+    "dictee": "substitution"
+  },
+  {
+    "id": "st3-15",
+    "q": "Que désigne un 'no man's land' en termes militaires ?",
+    "a": "Le no man's land est la zone entre deux dispositifs adverses, non contrôlée par aucune des deux parties.",
+    "choices": [
+      "C'est une zone neutre entre deux pays.",
+      "C'est le terrain entre les deux lignes ennemies.",
+      "C'est une zone interdite aux civils."
+    ],
+    "tag": "Vocabulaire",
+    "hint": "Zone entre les deux forces + non contrôlée",
+    "expl": "No man's land : zone de terrain entre les dispositifs. Dangereuse car exposée aux deux feux. Peut faire l'objet de patrouilles de reconnaissance.",
+    "dictee": "zone"
+  },
+  {
+    "id": "st3-16",
+    "q": "Comment décrire un hélitreuillage sur un itinéraire ?",
+    "a": "L'hélitreuillage est effectué au point [coordonnées], par [type d'hélicoptère], pour [évacuer / ravitailler / déposer] [personnel/matériel].",
+    "choices": [
+      "Un hélicoptère descend une corde pour récupérer quelqu'un.",
+      "C'est une opération de sauvetage par hélicoptère.",
+      "On utilise un hélicoptère pour accéder à un endroit difficile."
+    ],
+    "tag": "Aéromobilité",
+    "hint": "Point + appareil + mission",
+    "expl": "Hélitreuillage : extraction/dépôt de personnel sans atterrissage. Utilisé en terrain difficile, EVASAN (évacuation sanitaire), zones inaccessibles.",
+    "dictee": "hélitreuillage"
+  },
+  {
+    "id": "st3-17",
+    "q": "Comment indiquer une zone d'atterrissage (LZ) ?",
+    "a": "La zone d'atterrissage est localisée à [coordonnées], dimensions [X] × [Y] mètres, terrain [plat/dégagé/balisé], orientation [axe].",
+    "choices": [
+      "C'est l'endroit où l'hélicoptère peut se poser.",
+      "C'est une zone plate pour les atterrissages.",
+      "C'est un terrain préparé pour les aéronefs."
+    ],
+    "tag": "Aéromobilité",
+    "hint": "Coordonnées + dimensions + orientation",
+    "expl": "LZ (Landing Zone) : caractéristiques essentielles pour le pilote : localisation, taille, obstacles, orientation vent, marquage.",
+    "dictee": "atterrissage"
+  },
+  {
+    "id": "st3-18",
+    "q": "Comment décrire un mouvement tactique en colonnes ?",
+    "a": "Les véhicules progressent en colonne ouverte / fermée, avec un intervalle de [X] mètres entre chaque véhicule.",
+    "choices": [
+      "Les véhicules avancent les uns derrière les autres.",
+      "La colonne progresse avec des espacements.",
+      "Les chars avancent en file indienne."
+    ],
+    "tag": "Tactique",
+    "hint": "Colonne + intervalle + espacement",
+    "expl": "Colonne ouverte : grands intervalles (100-500m) contre menace aérienne. Colonne fermée : petits intervalles, zone sécurisée.",
+    "dictee": "colonne"
+  }
+]

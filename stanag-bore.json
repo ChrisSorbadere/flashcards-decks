@@ -1,0 +1,254 @@
+[
+  {
+    "id": "st1-01",
+    "q": "Dans le BORE, comment présenter son arme d'appartenance ?",
+    "a": "J'appartiens à l'armée de terre / à la marine nationale / à l'armée de l'air et de l'espace.",
+    "choices": [
+      "Je travaille dans l'armée.",
+      "Je suis militaire professionnel.",
+      "Je fais partie des forces armées."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer l'arme précisément",
+    "expl": "Dans le BORE, on précise toujours l'arme : armée de terre, marine nationale, armée de l'air et de l'espace, gendarmerie nationale.",
+    "dictee": "armée de terre"
+  },
+  {
+    "id": "st1-02",
+    "q": "Comment indiquer son grade dans une présentation militaire ?",
+    "a": "Je suis [grade], j'occupe le poste de...",
+    "choices": [
+      "Mon grade est...",
+      "J'ai le rang de...",
+      "Je me présente comme..."
+    ],
+    "tag": "BORE",
+    "hint": "Formule standard",
+    "expl": "On dit 'Je suis colonel / capitaine / sergent...' suivi de 'j'occupe le poste de...' ou 'je commande...'",
+    "dictee": "je suis"
+  },
+  {
+    "id": "st1-03",
+    "q": "Comment décrire sa spécialité militaire dans le BORE ?",
+    "a": "Je suis spécialisé dans le renseignement / le génie / les transmissions / la logistique.",
+    "choices": [
+      "Je travaille dans un bureau.",
+      "Je m'occupe de dossiers administratifs.",
+      "J'effectue des missions diverses."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer la spécialité précisément",
+    "expl": "Les spécialités : infanterie, blindés, artillerie, génie, transmissions, renseignement, logistique, santé...",
+    "dictee": "spécialisé"
+  },
+  {
+    "id": "st1-04",
+    "q": "Comment parler de son expérience opérationnelle dans le BORE ?",
+    "a": "J'ai participé à des opérations extérieures / j'ai été déployé en mission au [pays].",
+    "choices": [
+      "J'ai fait des voyages professionnels.",
+      "J'ai travaillé à l'étranger.",
+      "J'ai effectué des déplacements officiels."
+    ],
+    "tag": "BORE",
+    "hint": "OPEX = opérations extérieures",
+    "expl": "OPEX = opérations extérieures. Ex: J'ai été déployé au Mali dans le cadre de l'opération Barkhane.",
+    "dictee": "opérations"
+  },
+  {
+    "id": "st1-05",
+    "q": "Comment présenter sa formation militaire initiale ?",
+    "a": "J'ai effectué ma formation initiale à l'École [nom] / au Centre de formation [nom].",
+    "choices": [
+      "J'ai fait mes études militaires.",
+      "J'ai suivi un entraînement.",
+      "J'ai reçu une instruction de base."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer l'école ou le centre",
+    "expl": "Formation initiale : Saint-Cyr (officiers), EMIA, sous-officiers : ENSOA, ESM, centres de formation spécialisés.",
+    "dictee": "formation"
+  },
+  {
+    "id": "st1-06",
+    "q": "Quelle formule utiliser pour décrire ses responsabilités actuelles ?",
+    "a": "Je commande / je dirige / je supervise / je coordonne [unité ou mission].",
+    "choices": [
+      "Je gère des personnes.",
+      "Je m'occupe de mon équipe.",
+      "Je suis responsable de quelque chose."
+    ],
+    "tag": "BORE",
+    "hint": "Verbes de commandement",
+    "expl": "Verbes précis : commander (une unité), diriger (un service), superviser (des opérations), coordonner (des actions).",
+    "dictee": "je commande"
+  },
+  {
+    "id": "st1-07",
+    "q": "Comment évoquer ses loisirs de façon pertinente dans un BORE militaire ?",
+    "a": "En dehors du service, je pratique [sport/activité] qui développe [qualité utile au métier].",
+    "choices": [
+      "J'aime me reposer après le travail.",
+      "Je fais du sport parfois.",
+      "J'ai des activités personnelles variées."
+    ],
+    "tag": "BORE",
+    "hint": "Relier le loisir à une qualité militaire",
+    "expl": "Idéal : relier le loisir à des qualités militaires. Ex: Je pratique le triathlon qui développe l'endurance et la rigueur.",
+    "dictee": "pratique"
+  },
+  {
+    "id": "st1-08",
+    "q": "Comment présenter sa situation familiale de façon professionnelle ?",
+    "a": "Je suis marié(e) / célibataire / j'ai [nombre] enfants. Ma famille est basée à [lieu].",
+    "choices": [
+      "J'ai une famille normale.",
+      "Je vis avec ma famille.",
+      "Ma famille habite quelque part."
+    ],
+    "tag": "BORE",
+    "hint": "Précis et factuel",
+    "expl": "Concis et factuel : Je suis marié, père de deux enfants. Mon épouse est infirmière. Nous sommes basés à Madrid.",
+    "dictee": "marié"
+  },
+  {
+    "id": "st1-09",
+    "q": "Comment décrire ses qualifications linguistiques dans le BORE ?",
+    "a": "Je possède un niveau [STANAG/CECR] en français / je suis certifié SLP [niveau].",
+    "choices": [
+      "Je parle un peu français.",
+      "Mon français est assez bon.",
+      "J'ai étudié le français."
+    ],
+    "tag": "BORE",
+    "hint": "Mentionner le niveau certifié",
+    "expl": "Toujours mentionner le niveau certifié : Je possède un niveau SLP 2/2/2/2 en français, certifié en [année].",
+    "dictee": "niveau"
+  },
+  {
+    "id": "st1-10",
+    "q": "Comment mentionner des missions OTAN dans le BORE ?",
+    "a": "J'ai servi au sein de l'OTAN / j'ai participé à une opération interalliée sous commandement OTAN.",
+    "choices": [
+      "J'ai travaillé avec des alliés.",
+      "J'ai eu des contacts avec d'autres armées.",
+      "J'ai fait des exercices internationaux."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer l'opération ou la structure",
+    "expl": "Ex: J'ai servi au QG OTAN de Brunssum. / J'ai participé à l'opération Resolute Support en Afghanistan.",
+    "dictee": "OTAN"
+  },
+  {
+    "id": "st1-11",
+    "q": "Quelle est la structure classique d'un BORE militaire ?",
+    "a": "Identité → Grade/Poste → Unité → Formation → Expérience → Situation personnelle",
+    "choices": [
+      "Nom → Loisirs → Famille → Travail",
+      "Grade → Nom → Mission → Langue",
+      "Présentation → Anecdote → Conclusion"
+    ],
+    "tag": "BORE",
+    "hint": "Du général au particulier",
+    "expl": "Structure BORE : qui je suis (identité, grade) → où je sers (unité, lieu) → ce que j'ai fait (expérience) → situation perso.",
+    "dictee": "structure"
+  },
+  {
+    "id": "st1-12",
+    "q": "Comment indiquer la durée de service dans l'armée ?",
+    "a": "Je sers dans les forces armées depuis [nombre] ans. / J'ai [nombre] ans de service.",
+    "choices": [
+      "Ça fait longtemps que je suis militaire.",
+      "Je suis militaire depuis mes débuts.",
+      "J'ai commencé il y a quelques années."
+    ],
+    "tag": "BORE",
+    "hint": "Préciser la durée exacte",
+    "expl": "Toujours précis : Je sers dans les forces armées espagnoles depuis quinze ans. / J'ai vingt ans de service.",
+    "dictee": "depuis"
+  },
+  {
+    "id": "st1-13",
+    "q": "Comment évoquer une décoration ou distinction militaire ?",
+    "a": "J'ai été décoré de / j'ai reçu [nom de la médaille] pour [motif].",
+    "choices": [
+      "J'ai des médailles.",
+      "On m'a récompensé pour mon travail.",
+      "J'ai reçu des distinctions officielles."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer la distinction et le motif",
+    "expl": "Ex: J'ai été décoré de la médaille d'outre-mer avec agrafe Sahel pour ma participation à l'opération Barkhane.",
+    "dictee": "décoré"
+  },
+  {
+    "id": "st1-14",
+    "q": "Comment présenter son unité d'appartenance ?",
+    "a": "Je sers au sein du [numéro] régiment / bataillon / brigade de [spécialité], basé à [lieu].",
+    "choices": [
+      "Je fais partie d'une grande unité.",
+      "Mon unité est en Espagne.",
+      "J'appartiens à une formation militaire."
+    ],
+    "tag": "BORE",
+    "hint": "Numéro + type + spécialité + lieu",
+    "expl": "Ex: Je sers au sein du 1er régiment de chasseurs parachutistes, basé à Pamiers, dans le sud de la France.",
+    "dictee": "régiment"
+  },
+  {
+    "id": "st1-15",
+    "q": "Comment conclure un BORE de façon professionnelle ?",
+    "a": "C'est pourquoi je me suis porté candidat à cette formation / ce poste / cet examen.",
+    "choices": [
+      "Voilà, c'est tout ce que j'avais à dire.",
+      "Je pense que c'est suffisant.",
+      "Merci de m'avoir écouté."
+    ],
+    "tag": "BORE",
+    "hint": "Relier la présentation à l'objectif",
+    "expl": "La conclusion du BORE doit expliquer pourquoi on est là. Ex: C'est dans ce contexte que j'ai décidé de passer la certification STANAG.",
+    "dictee": "candidat"
+  },
+  {
+    "id": "st1-16",
+    "q": "Comment parler de sa motivation pour apprendre le français dans le BORE ?",
+    "a": "Je souhaite maîtriser le français pour améliorer l'interopérabilité avec nos alliés francophones / pour servir au sein de l'OTAN.",
+    "choices": [
+      "Je trouve le français intéressant.",
+      "J'aime les langues étrangères.",
+      "Le français est utile dans mon travail."
+    ],
+    "tag": "BORE",
+    "hint": "Motif professionnel précis",
+    "expl": "Toujours une motivation opérationnelle : interopérabilité, commandement interallié, mission en pays francophone.",
+    "dictee": "interopérabilité"
+  },
+  {
+    "id": "st1-17",
+    "q": "Comment indiquer un poste d'état-major dans le BORE ?",
+    "a": "J'occupe un poste d'officier de liaison / d'officier d'état-major / de chef de section à l'état-major de [niveau].",
+    "choices": [
+      "Je travaille dans un bureau important.",
+      "J'ai un poste administratif.",
+      "Je fais de la planification."
+    ],
+    "tag": "BORE",
+    "hint": "Nommer le poste précisément",
+    "expl": "Postes d'EM : officier de liaison, J1 (personnel), J2 (renseignement), J3 (opérations), J4 (logistique), J5 (plans).",
+    "dictee": "état-major"
+  },
+  {
+    "id": "st1-18",
+    "q": "Comment exprimer ses objectifs professionnels futurs dans le BORE ?",
+    "a": "À terme, je souhaite accéder au grade de / commander une unité de / servir au sein de [structure].",
+    "choices": [
+      "Je veux progresser dans ma carrière.",
+      "J'espère avoir de l'avancement.",
+      "Mon but est d'évoluer professionnellement."
+    ],
+    "tag": "BORE",
+    "hint": "Objectif précis et réaliste",
+    "expl": "Ex: À terme, je souhaite accéder au grade de lieutenant-colonel et servir au sein d'un état-major OTAN.",
+    "dictee": "souhaite"
+  }
+]
