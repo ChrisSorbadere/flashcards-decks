@@ -1,0 +1,238 @@
+{
+  "id": "methodologie-bore",
+  "title": "El BORE — Metodología de la prueba",
+  "icon": "🎖️",
+  "sections": [
+    {
+      "title": "¿QUÉ ES EL BORE?",
+      "type": "rule",
+      "text": "El BORE (Brief Oral Report or Explanation) es una presentación oral de 5 minutos máximo ante un jurado. El texto se redacta y memoriza previamente. El jurado puede interrumpir y hacer preguntas. No se improvisa en el texto, pero el candidato debe poder responder de forma natural a las preguntas."
+    },
+    {
+      "title": "ESTRUCTURA EN 6 FASES — orden obligatorio",
+      "type": "table",
+      "headers": [
+        "Fase",
+        "Duración",
+        "Contenido"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "① Apertura",
+          "~30 seg",
+          "Saludar al jurado — fórmula fija memorizada"
+        ],
+        [
+          "② Presentación",
+          "~45 seg",
+          "Identidad, edad, nacionalidad, lugar de residencia"
+        ],
+        [
+          "③ Formación",
+          "~45 seg",
+          "Estudios, academia militar, especialidad, títulos"
+        ],
+        [
+          "④ Destinos",
+          "~1 min",
+          "Puestos sucesivos, unidades, lugares, duraciones"
+        ],
+        [
+          "⑤ Familia",
+          "~30 seg",
+          "Situación familiar, cónyuge, hijos, padres"
+        ],
+        [
+          "⑥ Ocio",
+          "~30 seg",
+          "Deportes, aficiones, actividades regulares"
+        ],
+        [
+          "⑦ Cierre",
+          "~20 seg",
+          "Agradecer al jurado, anunciar el final"
+        ]
+      ],
+      "note": "Total: 5 minutos máximo. Respeta este orden — el jurado lo conoce y espera cada fase."
+    },
+    {
+      "title": "FÓRMULAS DE APERTURA — en francés",
+      "type": "table",
+      "headers": [
+        "Registro",
+        "Fórmula (memorizar tal cual)"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Estándar",
+          "Bonjour Messieurs les membres du jury. Je m'appelle [Grado] [APELLIDO]."
+        ],
+        [
+          "Formal",
+          "Bonjour Mesdames, Messieurs. C'est avec plaisir que je me présente devant vous aujourd'hui."
+        ],
+        [
+          "Simple",
+          "Bonjour. Je suis le [Grado] [APELLIDO], et je vais vous présenter mon parcours."
+        ]
+      ],
+      "note": "Elige una sola fórmula y memorízala perfectamente. La primera frase es la más importante — da el tono a toda la presentación."
+    },
+    {
+      "title": "FÓRMULAS DE CIERRE — en francés",
+      "type": "table",
+      "headers": [
+        "Registro",
+        "Fórmula (memorizar tal cual)"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Estándar",
+          "J'ai terminé ma présentation. Je vous remercie de votre attention."
+        ],
+        [
+          "Formal",
+          "Ceci conclut ma présentation. Je reste à votre disposition pour répondre à vos questions."
+        ],
+        [
+          "Simple",
+          "Voilà pour ma présentation. Merci."
+        ]
+      ],
+      "note": "La fórmula de cierre indica claramente al jurado que has terminado. No la precipites — pausa, respira, luego habla."
+    },
+    {
+      "title": "CONECTORES — el hilo conductor",
+      "type": "table",
+      "headers": [
+        "Uso",
+        "Conectores (en francés)",
+        "Efecto"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Empezar",
+          "Pour commencer... / Tout d'abord...",
+          "Anuncia la primera fase con claridad"
+        ],
+        [
+          "Continuar",
+          "Ensuite... / Puis... / Par la suite...",
+          "Muestra progresión lógica en la carrera"
+        ],
+        [
+          "Transición",
+          "Concernant ma vie de famille... / Pour ce qui est de mes loisirs...",
+          "Evita cortes bruscos entre fases"
+        ],
+        [
+          "Concluir",
+          "Pour terminer... / Pour conclure... / Enfin...",
+          "Anuncia claramente el final de la exposición"
+        ]
+      ],
+      "note": "Estos conectores evitan los silencios y estructuran el relato. Memoriza 2 o 3 por cada uso."
+    },
+    {
+      "title": "FRASES TIPO — para personalizar",
+      "type": "table",
+      "headers": [
+        "Fase",
+        "Frase tipo (en francés)",
+        "Consejo"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Identidad",
+          "Je suis le [grado] [APELLIDO]. J'ai [X] ans. Je suis né à [ciudad] et j'habite actuellement à [ciudad].",
+          "Una idea = una frase. Frases cortas y claras."
+        ],
+        [
+          "Formación",
+          "J'ai effectué ma formation initiale à [escuela]. J'ai obtenu [título] en [año].",
+          "Cita la academia militar, la especialidad y el año."
+        ],
+        [
+          "Destinos",
+          "J'ai d'abord été affecté à [unidad] à [lugar] pendant [duración]. Ensuite, j'ai servi à [lugar].",
+          "Usa 'd'abord... ensuite... puis...' para la progresión."
+        ],
+        [
+          "Familia",
+          "Je suis marié et j'ai [X] enfants. Mon épouse s'appelle [nombre] et elle est [profesión].",
+          "Factual y conciso. 2-3 frases son suficientes."
+        ],
+        [
+          "Ocio",
+          "Dans mon temps libre, je pratique [deporte/actividad]. J'y consacre [frecuencia].",
+          "Nombra una actividad concreta con una frecuencia real."
+        ]
+      ]
+    },
+    {
+      "title": "CONSEJOS DE RITMO Y PRONUNCIACIÓN",
+      "type": "rule",
+      "text": "🎯 Velocidad: habla despacio y con claridad. 5 minutos para un texto memorizado es más lento de lo que crees.\n\n🎯 Pausas: marca una pausa entre cada fase. Respira. No es un silencio — es una transición.\n\n🎯 La R francesa: se pronuncia en la garganta [ʁ], no rodada como en español. Entrénate con: présentation, formation, carrière, grade.\n\n🎯 Las liaisons: respeta las liaisons obligatorias — j'ai été affecté, nous avons servi, ils ont participé.\n\n🎯 Mirada: mira al jurado, no mires tus notas. El texto debe estar memorizado, no leído."
+    },
+    {
+      "title": "ERRORES A EVITAR — hispanismos frecuentes",
+      "type": "table",
+      "headers": [
+        "❌ Evitar",
+        "✅ Decir",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "J'ai *assisté* à l'académie",
+          "J'ai *suivi ma formation* à l'académie",
+          "Asistir ≠ assister en francés. Assister = estar presente, no estudiar."
+        ],
+        [
+          "Je suis *sorti* diplômé",
+          "J'ai *obtenu* mon diplôme / J'ai été diplômé",
+          "Calco directo del español 'salir diplomado'. Incorrecto en francés."
+        ],
+        [
+          "J'ai *réalisé* des missions",
+          "J'ai *effectué* / *accompli* des missions",
+          "Réaliser = darse cuenta. Para misiones: effectuer, accomplir, mener."
+        ],
+        [
+          "Je suis *natif* de Madrid",
+          "Je suis *né* à Madrid / Je *viens* de Madrid",
+          "'Natif de' existe pero es pesado. Prefiere 'né à'."
+        ],
+        [
+          "*Pendant* 3 ans j'ai été à...",
+          "J'ai servi *pendant* 3 ans à...",
+          "La preposición va después del verbo en francés."
+        ],
+        [
+          "Je suis *actuellement* marié",
+          "Je suis marié / J'ai deux enfants",
+          "Evita 'actuellement' sistemático — calco de 'actualmente'."
+        ]
+      ],
+      "note": "Revisa tu texto buscando estos errores antes de memorizarlo. Un hispanismo en el BORE penaliza."
+    }
+  ]
+}

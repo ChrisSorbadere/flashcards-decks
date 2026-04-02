@@ -85,18 +85,18 @@
       ]
     },
     {
-      "id": "examens",
+      "id": "examenes",
       "label": "Exámenes",
       "icon": "🎖️",
       "fiches": [
         {
-          "id": "BORE",
-          "title": "Metodología BORE",
+          "id": "methodologie-bore",
+          "title": "El BORE — Metodología de la prueba",
           "icon": "🎖️",
-          "url": "https://chrissorbadere.github.io/flashcards-decks/BORE.json"
+          "url": "https://chrissorbadere.github.io/flashcards-decks/methodologie-bore.json"
         },
         {
-          "id": "Boite_secours",
+          "id": "boite-secours",
           "title": "Botiquín de emergencia",
           "icon": "🛟",
           "url": "https://chrissorbadere.github.io/flashcards-decks/Boite_secours.json"
