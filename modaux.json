@@ -1,0 +1,327 @@
+{
+  "id": "modaux",
+  "title": "⚫ C1 — Las modalidades: devoir, pouvoir, falloir",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿QUÉ ES UN VERBO MODAL?",
+      "type": "rule",
+      "text": "Los verbos modales expresan la actitud del hablante ante la acción: obligación, posibilidad, probabilidad, permiso, capacidad, consejo...\n\nEn francés, los tres principales son:\n• DEVOIR → obligación, probabilidad, consejo\n• POUVOIR → capacidad, posibilidad, permiso, probabilidad\n• FALLOIR → necesidad impersonal (il faut)\n\nA nivel C1, la dificultad reside en las MATICES según el tiempo verbal utilizado y el contexto. Un mismo verbo puede expresar cosas muy diferentes."
+    },
+    {
+      "title": "DEVOIR — todos los matices",
+      "type": "table",
+      "headers": [
+        "Matiz",
+        "Tiempo",
+        "Ejemplo",
+        "Equivalente español"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Obligación presente",
+          "Présent",
+          "Tu dois partir maintenant.",
+          "Tienes que irte ahora."
+        ],
+        [
+          "Obligación pasada cumplida",
+          "Passé composé",
+          "J'ai dû accepter.",
+          "Tuve que aceptar."
+        ],
+        [
+          "Obligación pasada no cumplida",
+          "Conditionnel passé",
+          "Tu aurais dû me le dire.",
+          "Deberías habérmelo dicho."
+        ],
+        [
+          "Obligación futura",
+          "Futur simple",
+          "Il devra rendre son rapport.",
+          "Tendrá que entregar su informe."
+        ],
+        [
+          "Probabilidad / déduction présente",
+          "Présent",
+          "Il doit être malade. (deduzco)",
+          "Debe de estar enfermo."
+        ],
+        [
+          "Probabilité passée",
+          "Passé composé",
+          "Il a dû oublier.",
+          "Debió de olvidarse."
+        ],
+        [
+          "Conseil / reproche",
+          "Conditionnel présent",
+          "Tu devrais travailler plus.",
+          "Deberías trabajar más."
+        ],
+        [
+          "Reproche sur le passé",
+          "Conditionnel passé",
+          "Il aurait dû venir.",
+          "Debería haber venido."
+        ],
+        [
+          "Intention / programme",
+          "Présent",
+          "Je dois voir Paul demain.",
+          "Tengo que ver a Paul mañana."
+        ]
+      ],
+      "note": "⚠️ La distinción entre obligación y probabilidad depende del contexto. 'Il doit partir' = tiene que irse (obligación) O debe de irse (deducción)."
+    },
+    {
+      "title": "POUVOIR — todos los matices",
+      "type": "table",
+      "headers": [
+        "Matiz",
+        "Tiempo",
+        "Ejemplo",
+        "Equivalente español"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Capacidad / habilidad",
+          "Présent",
+          "Je peux courir 10 km.",
+          "Puedo correr 10 km."
+        ],
+        [
+          "Posibilidad circunstancial",
+          "Présent",
+          "Tu peux partir, j'ai fini.",
+          "Puedes irte, he terminado."
+        ],
+        [
+          "Permiso",
+          "Présent",
+          "Est-ce que je peux sortir ?",
+          "¿Puedo salir?"
+        ],
+        [
+          "Probabilidad / eventualité",
+          "Présent",
+          "Ça peut arriver à tout le monde.",
+          "Le puede pasar a cualquiera."
+        ],
+        [
+          "Possibilité passée réalisée",
+          "Passé composé",
+          "J'ai pu le joindre.",
+          "Pude contactarle (y lo hice)."
+        ],
+        [
+          "Possibilité passée non réalisée",
+          "Conditionnel passé",
+          "J'aurais pu le dire autrement.",
+          "Podría haberlo dicho de otra manera."
+        ],
+        [
+          "Reproche / regret",
+          "Conditionnel passé",
+          "Tu aurais pu m'appeler !",
+          "¡Podrías haberme llamado!"
+        ],
+        [
+          "Suggestion polie",
+          "Conditionnel présent",
+          "Vous pourriez venir demain ?",
+          "¿Podría venir mañana?"
+        ],
+        [
+          "Probabilité dans le futur",
+          "Futur simple",
+          "Il pourra peut-être nous aider.",
+          "Quizás pueda ayudarnos."
+        ]
+      ]
+    },
+    {
+      "title": "FALLOIR — la necesidad impersonal",
+      "type": "table",
+      "headers": [
+        "Matiz",
+        "Tiempo",
+        "Ejemplo",
+        "Equivalente español"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Necesidad presente",
+          "Présent",
+          "Il faut partir maintenant.",
+          "Hay que irse ahora."
+        ],
+        [
+          "Necesidad presente + sujeto",
+          "Présent + subj.",
+          "Il faut que tu partes.",
+          "Es necesario que te vayas."
+        ],
+        [
+          "Necesidad pasada",
+          "Passé composé",
+          "Il a fallu trois heures.",
+          "Hizo falta tres horas."
+        ],
+        [
+          "Necesidad pasada + sujeto",
+          "PC + subj.",
+          "Il a fallu qu'il vienne.",
+          "Fue necesario que viniera."
+        ],
+        [
+          "Necesidad futura",
+          "Futur simple",
+          "Il faudra recommencer.",
+          "Habrá que empezar de nuevo."
+        ],
+        [
+          "Necesidad hypothétique",
+          "Conditionnel présent",
+          "Il faudrait être plus patient.",
+          "Habría que ser más paciente."
+        ],
+        [
+          "Necesidad passée non satisfaite",
+          "Conditionnel passé",
+          "Il aurait fallu agir plus tôt.",
+          "Habría habido que actuar antes."
+        ],
+        [
+          "Necesidad passée + sujeto",
+          "Cond. passé + subj.",
+          "Il aurait fallu qu'il vienne.",
+          "Habría sido necesario que viniera."
+        ]
+      ],
+      "note": "⚠️ FALLOIR es siempre impersonal — solo existe en 3ª persona singular: il faut / il faudra / il faudrait. DEVOIR y POUVOIR se conjugan con todos los sujetos."
+    },
+    {
+      "title": "DEVOIR vs POUVOIR vs FALLOIR — comparación directa",
+      "type": "table",
+      "headers": [
+        "Sentido buscado",
+        "DEVOIR",
+        "POUVOIR",
+        "FALLOIR"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Obligación fuerte",
+          "Tu dois partir. ✅",
+          "—",
+          "Il faut partir. ✅"
+        ],
+        [
+          "Capacidad",
+          "—",
+          "Je peux courir. ✅",
+          "—"
+        ],
+        [
+          "Permiso",
+          "—",
+          "Tu peux entrer. ✅",
+          "—"
+        ],
+        [
+          "Probabilidad / déduction",
+          "Il doit être là. ✅",
+          "Il peut être là. ✅",
+          "—"
+        ],
+        [
+          "Consejo / suggestion",
+          "Tu devrais essayer. ✅",
+          "Tu pourrais essayer. ✅",
+          "Il faudrait essayer. ✅"
+        ],
+        [
+          "Reproche sur le passé",
+          "Tu aurais dû dire. ✅",
+          "Tu aurais pu dire. ✅",
+          "Il aurait fallu dire. ✅"
+        ],
+        [
+          "Nécessité impersonnelle",
+          "—",
+          "—",
+          "Il faut agir. ✅"
+        ]
+      ],
+      "note": "Conseil avec DEVOIR (conditionnel) = ton plus ferme / direct. Avec POUVOIR = más suave, más sugerencia. Avec FALLOIR = impersonal, objetivo."
+    },
+    {
+      "title": "SAVOIR vs POUVOIR — una confusión frecuente",
+      "type": "rule",
+      "text": "SAVOIR y POUVOIR se traducen los dos como 'poder' en español, pero en francés son muy diferentes:\n\nSAVOIR = capacidad adquirida por aprendizaje (saber hacer algo)\nPOUVOIR = posibilidad circunstancial (poder en un momento dado)\n\nEjemplos:\n✅ Je SAIS nager. (Sé nadar — lo aprendí.) → capacidad permanente\n✅ Je PEUX nager. (Puedo nadar — ahora, en este momento, las circunstancias lo permiten.)\n✅ Je SAIS conduire, mais je ne PEUX pas conduire ce soir. (Sé conducir, pero no puedo conducir esta noche — porque he bebido.)\n\n⚠️ Para idiomas y habilidades técnicas → SAVOIR:\nJe sais parler français. ✅ (no: je peux parler français)"
+    },
+    {
+      "title": "DEVOIR / POUVOIR al passé composé — matiz importante",
+      "type": "rule",
+      "text": "El passé composé de DEVOIR y POUVOIR implica que la acción SE REALIZÓ:\n\nJ'AI DÛ partir tôt. = Tuve que irme pronto (y me fui).\nJ'AI PU le joindre. = Pude contactarle (y lo hice).\n\nEl conditionnel passé implica que la acción NO SE REALIZÓ:\nJ'AURAIS DÛ partir tôt. = Debería haberme ido pronto (pero no lo hice).\nJ'AURAIS PU le joindre. = Podría haberle contactado (pero no lo hice).\n\nEsta distinción es fundamental a nivel C1 y muy frecuente en el examen DALF."
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Je *peux* parler français.",
+          "Je *sais* parler français.",
+          "Habilidad aprendida → SAVOIR, no POUVOIR."
+        ],
+        [
+          "Il *doit de* partir.",
+          "Il *doit* partir.",
+          "DEVOIR + infinitif directo, sin DE."
+        ],
+        [
+          "Il *faut que* tu *peux* venir.",
+          "Il faut que tu *puisses* venir.",
+          "Après il faut que → subjonctif de POUVOIR = puisses."
+        ],
+        [
+          "Tu *devais* me le dire ! (reproche)",
+          "Tu *aurais dû* me le dire !",
+          "Reproche sobre el pasado → conditionnel passé."
+        ],
+        [
+          "Je *pouvais* venir hier mais j'ai oublié.",
+          "J'*aurais pu* venir hier mais j'ai oublié.",
+          "Posibilidad pasada no realizada → conditionnel passé."
+        ],
+        [
+          "*Il faut* que vous *pouvez* partir.",
+          "Il *faut* que vous *puissiez* partir.",
+          "Il faut que → subjonctif siempre."
+        ]
+      ]
+    }
+  ]
+}

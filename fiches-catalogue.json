@@ -46,10 +46,28 @@
       "icon": "📐",
       "fiches": [
         {
+          "id": "prepositions",
+          "title": "🟢 A1 — Las preposiciones de lugar y de tiempo",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/prepositions.json"
+        },
+        {
           "id": "articles",
           "title": "🟢 A1 — Los artículos (défini, indéfini, partitif)",
           "icon": "📐",
           "url": "https://chrissorbadere.github.io/flashcards-decks/articles.json"
+        },
+        {
+          "id": "negation",
+          "title": "🟢 A1/A2 — La negación completa",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/negation.json"
+        },
+        {
+          "id": "pronoms-relatifs",
+          "title": "🟡 A2 — Los pronombres relativos (qui, que, où, dont, lequel)",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/pronoms-relatifs.json"
         },
         {
           "id": "pluriels-irreguliers",
@@ -92,6 +110,30 @@
           "title": "⚫ C1 — La nominalisation",
           "icon": "📐",
           "url": "https://chrissorbadere.github.io/flashcards-decks/nominalisation.json"
+        },
+        {
+          "id": "discours-indirect",
+          "title": "🟠 B1 — El discurso indirecto y la concordancia de tiempos",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/discours-indirect.json"
+        },
+        {
+          "id": "condition-si",
+          "title": "🟠 B1 — La condición con SI (phrases conditionnelles)",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/condition-si.json"
+        },
+        {
+          "id": "mise-en-relief",
+          "title": "🔴 B2 — La mise en relief (c'est...qui/que, quant à...)",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/mise-en-relief.json"
+        },
+        {
+          "id": "modaux",
+          "title": "⚫ C1 — Las modalidades: devoir, pouvoir, falloir",
+          "icon": "📐",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/modaux.json"
         }
       ]
     },
@@ -100,6 +142,12 @@
       "label": "Expression",
       "icon": "✍️",
       "fiches": [
+        {
+          "id": "registres-langue",
+          "title": "🟡 A2/B1 — Los registros de lengua (soutenu/courant/familier)",
+          "icon": "✍️",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/registres-langue.json"
+        },
         {
           "id": "connecteurs",
           "title": "Connecteurs logiques",
@@ -111,6 +159,24 @@
           "title": "Les pronoms",
           "icon": "🔄",
           "url": "https://chrissorbadere.github.io/flashcards-decks/pronoms.json"
+        },
+        {
+          "id": "faux-amis",
+          "title": "🔴 B2 — Los falsos amigos franco-españoles",
+          "icon": "✍️",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/faux-amis.json"
+        },
+        {
+          "id": "faux-amis",
+          "title": "🔴 B2 — Los falsos amigos franco-españoles",
+          "icon": "✍️",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/faux-amis.json"
+        },
+        {
+          "id": "faux-amis",
+          "title": "🔴 B2 — Los falsos amigos franco-españoles",
+          "icon": "✍️",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/faux-amis.json"
         }
       ]
     },

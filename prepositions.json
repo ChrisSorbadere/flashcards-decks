@@ -1,0 +1,331 @@
+{
+  "id": "prepositions",
+  "title": "🟢 A1 — Las preposiciones de lugar y de tiempo",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿POR QUÉ SON DIFÍCILES PARA LOS HISPANOHABLANTES?",
+      "type": "rule",
+      "text": "Las preposiciones son una de las mayores dificultades del francés porque:\n• No siempre corresponden a las preposiciones españolas equivalentes\n• La misma preposición francesa puede traducirse de varias formas en español\n• Algunas preposiciones cambian según el contexto (en/au/à según el lugar)\n• Muchas se aprenden por uso, no por regla"
+    },
+    {
+      "title": "PREPOSICIONES DE LUGAR — ubicación",
+      "type": "table",
+      "headers": [
+        "Preposición",
+        "Significado",
+        "Ejemplo",
+        "⚠️ Cuidado"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "à",
+          "en / a (ciudad, isla pequeña)",
+          "Je suis à Paris. Il est à Cuba.",
+          "à + le = AU · à + les = AUX"
+        ],
+        [
+          "au",
+          "en / en el (país masc., lugar)",
+          "Je travaille au Japon. Au bureau.",
+          "au Mexique, au Portugal"
+        ],
+        [
+          "aux",
+          "en (países plural)",
+          "Je vis aux États-Unis. Aux Antilles.",
+          "aux Pays-Bas, aux Philippines"
+        ],
+        [
+          "en",
+          "en (país fem., región, transporte)",
+          "Je suis en France. En voiture.",
+          "en Espagne, en Bretagne, en avion"
+        ],
+        [
+          "dans",
+          "en / dentro de (lugar cerrado)",
+          "Il est dans le bureau. Dans la rue.",
+          "dans ma chambre, dans le train"
+        ],
+        [
+          "sur",
+          "sobre / en (superficie)",
+          "Le livre est sur la table.",
+          "sur la carte, sur la droite"
+        ],
+        [
+          "sous",
+          "debajo de",
+          "Le chat est sous la chaise.",
+          "sous la pluie, sous terre"
+        ],
+        [
+          "devant",
+          "delante de",
+          "Il attend devant la porte.",
+          ""
+        ],
+        [
+          "derrière",
+          "detrás de",
+          "Le parking est derrière le bâtiment.",
+          ""
+        ],
+        [
+          "entre",
+          "entre",
+          "Le bureau est entre la fenêtre et la porte.",
+          ""
+        ],
+        [
+          "près de",
+          "cerca de",
+          "J'habite près de la gare.",
+          ""
+        ],
+        [
+          "loin de",
+          "lejos de",
+          "C'est loin d'ici.",
+          ""
+        ],
+        [
+          "à côté de",
+          "al lado de",
+          "La pharmacie est à côté du café.",
+          ""
+        ],
+        [
+          "en face de",
+          "enfrente de",
+          "La mairie est en face de l'église.",
+          ""
+        ],
+        [
+          "au-dessus de",
+          "encima de",
+          "L'appartement est au-dessus du magasin.",
+          ""
+        ],
+        [
+          "au-dessous de",
+          "debajo de",
+          "Le parking est au-dessous de l'immeuble.",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "À / AU / AUX / EN — ¿cuándo usar cuál?",
+      "type": "table",
+      "headers": [
+        "Contexto",
+        "Preposición",
+        "Ejemplos"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Ciudad o isla pequeña",
+          "à",
+          "à Madrid, à Paris, à Cuba, à Malte"
+        ],
+        [
+          "País femenino (terminado en -e)",
+          "en",
+          "en France, en Espagne, en Italie, en Chine"
+        ],
+        [
+          "País masculino",
+          "au",
+          "au Maroc, au Japon, au Canada, au Brésil"
+        ],
+        [
+          "País plural",
+          "aux",
+          "aux États-Unis, aux Pays-Bas, aux Philippines"
+        ],
+        [
+          "Región / provincia",
+          "en",
+          "en Bretagne, en Andalousie, en Aragon"
+        ],
+        [
+          "Excepción: países masc. empieza vocal",
+          "en",
+          "en Iran, en Irak, en Israël"
+        ]
+      ],
+      "note": "Truco para el género de los países: los países terminados en -e son generalmente femeninos (la France, l'Espagne, l'Italie...). Excepciones: le Mexique, le Mozambique, le Zimbabwe."
+    },
+    {
+      "title": "PREPOSICIONES DE TIEMPO — cuándo",
+      "type": "table",
+      "headers": [
+        "Preposición",
+        "Uso",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "à",
+          "hora exacta",
+          "à 8 heures, à midi, à minuit"
+        ],
+        [
+          "en",
+          "mes, año, estación (excepto printemps), duración",
+          "en janvier, en 2024, en été, en une heure"
+        ],
+        [
+          "au",
+          "estación printemps",
+          "au printemps"
+        ],
+        [
+          "dans",
+          "plazo futuro (dentro de)",
+          "dans 3 jours, dans une semaine, dans un mois"
+        ],
+        [
+          "il y a",
+          "tiempo pasado (hace)",
+          "il y a 2 ans, il y a une semaine"
+        ],
+        [
+          "depuis",
+          "desde (duración que continúa)",
+          "depuis 3 ans, depuis lundi, depuis mon arrivée"
+        ],
+        [
+          "pendant",
+          "durante (duración pasada o neutra)",
+          "pendant 2 heures, pendant les vacances"
+        ],
+        [
+          "pour",
+          "durante (duración futura o limitada)",
+          "je pars pour 3 jours, pour une semaine"
+        ],
+        [
+          "jusqu'à",
+          "hasta (punto final)",
+          "jusqu'à lundi, jusqu'à 18h, jusqu'au bout"
+        ],
+        [
+          "avant",
+          "antes de",
+          "avant midi, avant le réunion, avant de partir"
+        ],
+        [
+          "après",
+          "después de",
+          "après le travail, après avoir mangé"
+        ],
+        [
+          "dès",
+          "desde (inmediatamente)",
+          "dès lundi, dès son arrivée, dès maintenant"
+        ]
+      ]
+    },
+    {
+      "title": "DEPUIS / PENDANT / POUR / DANS / IL Y A — las más confundidas",
+      "type": "rule",
+      "text": "Estas cinco preposiciones temporales son las que más confunden a los hispanohablantes:\n\n⏱ DEPUIS = hace / desde (acción que SIGUE en el presente)\nJ'habite ici depuis 5 ans. (Llevo 5 años aquí — y sigo viviendo aquí)\n→ Verbo en PRESENTE\n\n⏱ IL Y A = hace (acción TERMINADA en el pasado)\nJ'ai déménagé il y a 5 ans. (Me mudé hace 5 años)\n→ Verbo en PASADO\n\n⏱ PENDANT = durante (duración pasada, neutra o futura)\nJ'ai travaillé pendant 3 ans. (Trabajé durante 3 años — ya terminó)\n\n⏱ POUR = durante / por (duración futura o planificada)\nJe pars pour 3 jours. (Me voy por 3 días — plan futuro)\n\n⏱ DANS = en / dentro de (plazo futuro)\nJe reviens dans 3 jours. (Vuelvo en 3 días — a partir de ahora)"
+    },
+    {
+      "title": "PREPOSICIONES CON MEDIOS DE TRANSPORTE",
+      "type": "table",
+      "headers": [
+        "Transporte",
+        "Preposición",
+        "Ejemplo"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Vehículo cerrado (coche, tren, avión, bus)",
+          "en",
+          "en voiture, en train, en avion, en bus"
+        ],
+        [
+          "Vehículo abierto (bici, moto, caballo)",
+          "à",
+          "à vélo, à moto, à cheval"
+        ],
+        [
+          "A pie",
+          "à pied",
+          "Je viens à pied."
+        ],
+        [
+          "Metro / taxi (con article)",
+          "en / par le",
+          "en métro, par le taxi"
+        ]
+      ],
+      "note": "Regla simple: ¿puedes meterte dentro? → EN. ¿Vas encima? → À."
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Je suis *en* Madrid.",
+          "Je suis *à* Madrid.",
+          "Ciudad → à, no en."
+        ],
+        [
+          "Je travaille *en* Maroc.",
+          "Je travaille *au* Maroc.",
+          "País masculino → au."
+        ],
+        [
+          "J'habite ici *depuis* 5 ans *passés*.",
+          "J'habite ici *depuis* 5 ans.",
+          "Depuis no necesita 'passés' — el presente ya lo indica."
+        ],
+        [
+          "Je suis parti *depuis* 3 jours.",
+          "Je suis parti *il y a* 3 jours.",
+          "Acción terminada → il y a, no depuis."
+        ],
+        [
+          "Je reviens *après* 3 jours.",
+          "Je reviens *dans* 3 jours.",
+          "Plazo futuro → dans."
+        ],
+        [
+          "Je viens *avec* le train.",
+          "Je viens *en* train.",
+          "Medio de transporte → en/à, no avec."
+        ],
+        [
+          "Je travaille *à* l'bureau.",
+          "Je travaille *au* bureau.",
+          "à + le = au siempre."
+        ]
+      ]
+    }
+  ]
+}

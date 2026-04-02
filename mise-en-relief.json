@@ -1,0 +1,225 @@
+{
+  "id": "mise-en-relief",
+  "title": "🔴 B2 — La mise en relief",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿QUÉ ES LA MISE EN RELIEF?",
+      "type": "rule",
+      "text": "La mise en relief permite destacar un elemento de la frase — sujeto, objeto, tiempo, lugar — para insistir sobre él o para contrastar con otra información.\n\nEn español se hace principalmente con el énfasis oral (entonación) o con construcciones como 'lo que me gusta es...' o 'es a él a quien...'.\n\nEn francés existen varias estructuras gramaticales específicas para este efecto, muy frecuentes en el registro oral y escrito a partir de B2."
+    },
+    {
+      "title": "1. C'EST... QUI / C'EST... QUE — la estructura principal",
+      "type": "table",
+      "headers": [
+        "Estructura",
+        "Elemento destacado",
+        "Ejemplo",
+        "Equivalente español"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "C'est... QUI",
+          "Sujeto",
+          "C'est Paul QUI a téléphoné.",
+          "Es Paul quien llamó."
+        ],
+        [
+          "C'est... QUE",
+          "COD / Complément",
+          "C'est ce livre QUE je cherche.",
+          "Es este libro lo que busco."
+        ],
+        [
+          "C'est... QUE",
+          "Complemento circunstancial",
+          "C'est hier QU'il est arrivé.",
+          "Fue ayer cuando llegó."
+        ],
+        [
+          "C'est... QUI",
+          "Pronom tonique",
+          "C'est MOI QUI ai raison.",
+          "Soy yo quien tiene razón."
+        ],
+        [
+          "Ce sont... QUI",
+          "Sujeto plural",
+          "Ce sont EUX QUI ont décidé.",
+          "Son ellos quienes decidieron."
+        ]
+      ],
+      "note": "⚠️ C'est... QUI cuando el elemento destacado es SUJETO del verbo relativo. C'est... QUE cuando es COD o complemento. El verbo después de QUI se acuerda con el elemento destacado."
+    },
+    {
+      "title": "2. CE QUI / CE QUE / CE DONT / CE À QUOI",
+      "type": "table",
+      "headers": [
+        "Estructura",
+        "Función",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Ce qui... c'est",
+          "Destacar el sujeto de lo que sigue",
+          "Ce qui me plaît, c'est la musique."
+        ],
+        [
+          "Ce que... c'est",
+          "Destacar el COD de lo que sigue",
+          "Ce que j'aime, c'est voyager."
+        ],
+        [
+          "Ce dont... c'est",
+          "Destacar complemento con DE",
+          "Ce dont j'ai besoin, c'est du repos."
+        ],
+        [
+          "Ce à quoi... c'est",
+          "Destacar complemento con À",
+          "Ce à quoi je pense, c'est l'avenir."
+        ]
+      ],
+      "note": "Estructura: CE QUI/QUE/DONT + proposition, C'EST + élément mis en valeur. Muy frecuente en el discurso oral para insistir."
+    },
+    {
+      "title": "3. QUANT À — para introducir un nuevo tema o contrastar",
+      "type": "rule",
+      "text": "QUANT À introduce un elemento sobre el que se va a hablar, con un matiz de contraste o de cambio de tema.\n\nEjemplos:\n✅ Quant à moi, je préfère rester ici. (En cuanto a mí / Por mi parte...)\n✅ Quant au budget, nous en parlerons demain. (En cuanto al presupuesto...)\n✅ J'ai parlé à Pierre. Quant à Marie, elle n'était pas là. (En cuanto a Marie...)\n✅ Quant aux résultats, ils seront publiés lundi. (En lo que respecta a los resultados...)\n\n⚠️ QUANT À + nom / pronom tonique\n⚠️ QUANT AU = QUANT À + LE\n⚠️ QUANT AUX = QUANT À + LES"
+    },
+    {
+      "title": "4. POUR CE QUI EST DE / EN CE QUI CONCERNE",
+      "type": "table",
+      "headers": [
+        "Expresión",
+        "Significado",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Pour ce qui est de",
+          "En lo que se refiere a / En cuanto a",
+          "Pour ce qui est du budget, c'est une autre question."
+        ],
+        [
+          "En ce qui concerne",
+          "En lo que concierne a / Respecto a",
+          "En ce qui concerne les délais, nous devons être précis."
+        ],
+        [
+          "En ce qui me concerne",
+          "En lo que a mí respecta / Por mi parte",
+          "En ce qui me concerne, je suis d'accord."
+        ],
+        [
+          "Pour ma part",
+          "Por mi parte",
+          "Pour ma part, je préfère attendre."
+        ],
+        [
+          "De mon côté",
+          "Por mi parte / En mi caso",
+          "De mon côté, tout est prêt."
+        ]
+      ]
+    },
+    {
+      "title": "5. LA DISLOCATION — destacar por posición",
+      "type": "rule",
+      "text": "La dislocación consiste en sacar un elemento fuera de su posición normal y retomarlo con un pronombre. Muy frecuente en el francés oral.\n\nDISLOCACIÓN A LA IZQUIERDA (topicalización):\n✅ Ce film, je l'ai vu trois fois. (Esta película, la he visto tres veces.)\n✅ Paul, il est vraiment sympa. (Paul, es muy simpático.)\n✅ Ses parents, il ne les voit plus. (Sus padres, ya no los ve.)\n\nDISLOCACIÓN A LA DERECHA:\n✅ Il est vraiment sympa, Paul. (Es muy simpático, Paul.)\n✅ Je l'ai vu trois fois, ce film. (Lo he visto tres veces, esta película.)\n\n⚠️ La dislocación a la izquierda es más enfática. A la derecha añade información o clarifica."
+    },
+    {
+      "title": "6. EL ORDEN DE PALABRAS COMO MISE EN RELIEF",
+      "type": "table",
+      "headers": [
+        "Técnica",
+        "Efecto",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Sujeto pospuesto (inversión estilística)",
+          "Efecto literario / formal",
+          "Arrive alors le moment décisif."
+        ],
+        [
+          "Adjetivo antepuesto",
+          "Énfasis cualitativo",
+          "Un magnifique spectacle nous attendait."
+        ],
+        [
+          "Adverbio en posición inicial",
+          "Énfasis temporal o modal",
+          "Jamais je n'aurais pensé à ça."
+        ],
+        [
+          "Complemento en posición inicial",
+          "Contraste o énfasis",
+          "De ce problème, personne ne parle."
+        ],
+        [
+          "Répétition / anaphore",
+          "Insistencia retórica",
+          "C'est lui qui décide, lui qui choisit, lui qui agit."
+        ]
+      ]
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "C'est Paul *que* a téléphoné.",
+          "C'est Paul *qui* a téléphoné.",
+          "Sujeto de la relativa → QUI, no QUE."
+        ],
+        [
+          "C'est moi *que* ai raison.",
+          "C'est moi *qui* ai raison.",
+          "Pronom tonique sujeto → QUI."
+        ],
+        [
+          "Ce *que* me plaît, c'est la musique.",
+          "Ce *qui* me plaît, c'est la musique.",
+          "Sujeto → CE QUI, no CE QUE."
+        ],
+        [
+          "*Quant à* moi, *quant à* je préfère...",
+          "Quant à moi, je préfère...",
+          "QUANT À introduce solo el elemento, no la frase entera."
+        ],
+        [
+          "C'est *ce film que* j'ai vu *le*.",
+          "C'est *ce film que* j'ai vu. / Ce film, je *l'*ai vu.",
+          "No mezclar las dos estructuras de mise en relief."
+        ],
+        [
+          "*Ce sont* Paul *qui* a raison.",
+          "C'est Paul *qui* a raison.",
+          "Ce sont solo para grupos/plurales reales, no nombres propios sing."
+        ]
+      ]
+    }
+  ]
+}

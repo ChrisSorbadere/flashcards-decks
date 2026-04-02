@@ -1,0 +1,374 @@
+{
+  "id": "registres-langue",
+  "title": "🟡 A2/B1 — Los registros de lengua",
+  "icon": "✍️",
+  "sections": [
+    {
+      "title": "¿QUÉ ES UN REGISTRO DE LENGUA?",
+      "type": "rule",
+      "text": "El registro de lengua es el nivel de formalidad que adoptamos según el contexto, el interlocutor y el medio (oral/escrito).\n\nEn francés existen 3 registros principales:\n• 📝 SOUTENU (elevado) → escrito formal, literatura, discursos\n• 🔵 COURANT (estándar) → comunicación normal, prensa, reuniones\n• 😊 FAMILIER (familiar) → conversación informal, amigos, SMS\n\nUsar el registro equivocado es un error grave en el examen — más que un error gramatical. Un texto demasiado familiar en un contexto formal es especialmente penalizado."
+    },
+    {
+      "title": "VOCABULARIO — los mismos conceptos en 3 registros",
+      "type": "table",
+      "headers": [
+        "📝 Soutenu",
+        "🔵 Courant",
+        "😊 Familier"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "un individu / une personne",
+          "quelqu'un",
+          "un type / un mec / une nana"
+        ],
+        [
+          "demeurer / résider",
+          "habiter / vivre",
+          "crécher / squatter"
+        ],
+        [
+          "s'alimenter / se nourrir",
+          "manger",
+          "bouffer / casser la croûte"
+        ],
+        [
+          "se restaurer",
+          "déjeuner / dîner",
+          "casser la graine"
+        ],
+        [
+          "un véhicule automobile",
+          "une voiture",
+          "une bagnole / une caisse"
+        ],
+        [
+          "de l'argent / des fonds",
+          "de l'argent",
+          "du fric / du blé / du pognon"
+        ],
+        [
+          "fatigué / épuisé",
+          "fatigué",
+          "crevé / naze / à plat"
+        ],
+        [
+          "excellent / remarquable",
+          "très bien / super",
+          "génial / top / ouf"
+        ],
+        [
+          "un enfant",
+          "un enfant / un gamin",
+          "un gosse / un môme / un gamin"
+        ],
+        [
+          "travailler",
+          "travailler / bosser",
+          "bosser / boulonner"
+        ],
+        [
+          "partir / se retirer",
+          "partir / s'en aller",
+          "se casser / se barrer / filer"
+        ],
+        [
+          "comprendre / saisir",
+          "comprendre",
+          "piger / saisir / capter"
+        ]
+      ]
+    },
+    {
+      "title": "GRAMÁTICA — diferencias entre registros",
+      "type": "table",
+      "headers": [
+        "Elemento",
+        "📝 Soutenu",
+        "🔵 Courant",
+        "😊 Familier"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Negación",
+          "Je ne sais pas.",
+          "Je ne sais pas.",
+          "Je sais pas. / Chais pas."
+        ],
+        [
+          "Interrogación",
+          "Où allez-vous ?",
+          "Où est-ce que vous allez ?",
+          "Vous allez où ? / T'vas où ?"
+        ],
+        [
+          "Pronom sujet",
+          "Cela m'intéresse.",
+          "Ça m'intéresse.",
+          "Ça m'intéresse."
+        ],
+        [
+          "Vouvoiement",
+          "Veuillez agréer...",
+          "Je vous remercie.",
+          "Merci !"
+        ],
+        [
+          "Tutoiement",
+          "Rare (íntimo o poético)",
+          "Entre amigos/familia",
+          "Siempre"
+        ],
+        [
+          "ON = NOUS",
+          "Nous partons demain.",
+          "On part demain.",
+          "On part demain."
+        ],
+        [
+          "Subjonctif",
+          "Bien qu'il soit...",
+          "Bien qu'il soit...",
+          "Même s'il est..."
+        ],
+        [
+          "Vocabulaire soutenu",
+          "Nonobstant / néanmoins",
+          "Cependant / pourtant",
+          "Mais quand même"
+        ],
+        [
+          "Ellipsis",
+          "Jamás",
+          "Rara",
+          "Muy frecuente: T'as vu ?"
+        ]
+      ]
+    },
+    {
+      "title": "ESCRITURA — adaptar el registro",
+      "type": "table",
+      "headers": [
+        "Contexto",
+        "Registro",
+        "Características"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Carta a un desconocido / empresa",
+          "📝 Soutenu",
+          "Vouvoiement, formules de politesse, vocabulaire précis"
+        ],
+        [
+          "Email profesional",
+          "🔵 Courant",
+          "Vouvoiement, formules standard, style direct"
+        ],
+        [
+          "Email a un colega conocido",
+          "🔵 Courant / 😊 Familier",
+          "Tutoiement possible, moins de formules"
+        ],
+        [
+          "SMS a un amigo",
+          "😊 Familier",
+          "Abréviations, émoticônes, pas de formules"
+        ],
+        [
+          "Forum / réseaux sociaux",
+          "😊 Familier / 🔵 Courant",
+          "Dépend du sujet et du public"
+        ],
+        [
+          "Rapport officiel / synthèse",
+          "📝 Soutenu",
+          "Style impersonnel, nominalisation, passif"
+        ],
+        [
+          "Article de presse",
+          "🔵 Courant",
+          "Clarté, précision, style factuel"
+        ]
+      ]
+    },
+    {
+      "title": "FORMULAS DE SALUDO Y DESPEDIDA — los 3 registros",
+      "type": "table",
+      "headers": [
+        "Momento",
+        "📝 Soutenu",
+        "🔵 Courant",
+        "😊 Familier"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Saludo oral",
+          "Bonjour Monsieur / Madame.",
+          "Bonjour !",
+          "Salut ! / Coucou !"
+        ],
+        [
+          "Saludo escrito",
+          "Monsieur, / Madame,",
+          "Bonjour [prénom],",
+          "Salut [prénom] !"
+        ],
+        [
+          "Despedida oral",
+          "Au revoir, Monsieur.",
+          "Au revoir ! / Bonne journée !",
+          "Ciao ! / À plus ! / Tchao !"
+        ],
+        [
+          "Despedida escrita formal",
+          "Veuillez agréer, Monsieur, l'expression de mes salutations distinguées.",
+          "Cordialement, / Bien à vous,",
+          "Bisous / À bientôt !"
+        ],
+        [
+          "Agradecer",
+          "Je vous remercie vivement.",
+          "Merci beaucoup.",
+          "Merci ! / C'est sympa !"
+        ],
+        [
+          "Disculparse",
+          "Je vous prie de bien vouloir m'excuser.",
+          "Je suis désolé(e).",
+          "Désolé ! / Excuse-moi !"
+        ]
+      ]
+    },
+    {
+      "title": "ABREVIACIONES Y LENGUA SMS (registro familiar escrito)",
+      "type": "table",
+      "headers": [
+        "Abreviación",
+        "Significado",
+        "Forma completa"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "slt",
+          "salut",
+          "Salut !"
+        ],
+        [
+          "bjr",
+          "bonjour",
+          "Bonjour"
+        ],
+        [
+          "stp / svp",
+          "s'il te plaît / s'il vous plaît",
+          "S'il te plaît"
+        ],
+        [
+          "mdr",
+          "mort de rire",
+          "Je ris beaucoup (= lol)"
+        ],
+        [
+          "pk / pkoi",
+          "pourquoi",
+          "Pourquoi ?"
+        ],
+        [
+          "koi",
+          "quoi",
+          "Quoi ?"
+        ],
+        [
+          "qq1 / qqun",
+          "quelqu'un",
+          "Quelqu'un"
+        ],
+        [
+          "bcp",
+          "beaucoup",
+          "Beaucoup"
+        ],
+        [
+          "pb",
+          "problème",
+          "Problème"
+        ],
+        [
+          "rdv",
+          "rendez-vous",
+          "Rendez-vous"
+        ],
+        [
+          "a+",
+          "à plus tard",
+          "À plus tard"
+        ],
+        [
+          "jtm",
+          "je t'aime",
+          "Je t'aime"
+        ]
+      ],
+      "note": "⚠️ Estas abreviaciones son ÚNICAMENTE para SMS y redes sociales informales. NUNCA en un examen ni en un escrito formal."
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Usar 'tu' con un desconocido adulto",
+          "Usar 'vous'",
+          "En Francia el vouvoiement es la norma con desconocidos."
+        ],
+        [
+          "Email formal: 'Bonjour !'",
+          "Email formal: 'Monsieur,' / 'Madame,'",
+          "Bonjour es courant, no soutenu para una carta formal."
+        ],
+        [
+          "Terminar carta con 'Cordialement' a un superior",
+          "'Veuillez agréer...' o 'Respectueusement'",
+          "Cordialement es courant — insuficiente para jerarquía formal."
+        ],
+        [
+          "Usar 'bouffer' en un texto formal",
+          "Usar 's'alimenter' / 'manger'",
+          "Bouffer es familier — inapropiado en escrito formal."
+        ],
+        [
+          "Mezclar registros en el mismo texto",
+          "Mantener un registro coherente",
+          "La coherencia de registro es un criterio de evaluación clave."
+        ],
+        [
+          "'Chais pas' en un examen escrito",
+          "'Je ne sais pas'",
+          "La elisión del NE es oral/familiar — siempre escribir la negación completa."
+        ]
+      ]
+    }
+  ]
+}

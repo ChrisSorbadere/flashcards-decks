@@ -1,0 +1,168 @@
+{
+  "id": "condition-si",
+  "title": "🟠 B1 — La condición con SI (les phrases conditionnelles)",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿QUÉ ES UNA FRASE CONDICIONAL?",
+      "type": "rule",
+      "text": "Una frase condicional expresa una condición y su consecuencia. Está formada por dos partes:\n\n• La proposición condicional: introducida por SI\n• La proposición principal: la consecuencia\n\nEjemplo:\nSI tu travailles bien, TU RÉUSSIRAS.\n(condición)          (consecuencia)\n\nEn francés, hay 3 tipos principales de frases condicionales según la probabilidad de que la condición se cumpla. La elección de los tiempos es FIJA — no hay la misma libertad que en español."
+    },
+    {
+      "title": "LOS 3 TIPOS DE CONDICIÓN — tabla resumen",
+      "type": "table",
+      "headers": [
+        "Tipo",
+        "Significado",
+        "SI + ...",
+        "Consecuencia",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "Tipo 1 — Realizable",
+          "Condición posible, probable",
+          "PRÉSENT",
+          "FUTUR SIMPLE",
+          "Si tu viens, je serai content."
+        ],
+        [
+          "Tipo 2 — Hipotética",
+          "Condición poco probable o irreal en el presente",
+          "IMPARFAIT",
+          "CONDITIONNEL PRÉSENT",
+          "Si tu venais, je serais content."
+        ],
+        [
+          "Tipo 3 — Imposible",
+          "Condición irreal en el pasado, sin vuelta atrás",
+          "PLUS-QUE-PARFAIT",
+          "CONDITIONNEL PASSÉ",
+          "Si tu étais venu, j'aurais été content."
+        ]
+      ],
+      "note": "⚠️ Regla de oro: NUNCA se usa el futur ni el conditionnel después de SI condicional. Es el error más frecuente."
+    },
+    {
+      "title": "TIPO 1 — Condición realizable (SI + présent → futur)",
+      "type": "rule",
+      "text": "Se usa cuando la condición es posible o probable en el futuro.\n\nEstructura: SI + présent → futur simple (o présent, o impératif)\n\nEjemplos:\n✅ Si tu travailles, tu réussiras. (Si trabajas, tendrás éxito.)\n✅ Si il fait beau demain, nous sortirons. (Si hace buen tiempo, saldremos.)\n✅ Si vous avez des questions, posez-les. (imperativo en la principal)\n✅ Si tu veux, on peut y aller. (présent en la principal)\n\n⚠️ En español el condicional tipo 1 puede llevar presente o futuro en la principal — en francés es igual.\n⚠️ El orden de las frases puede invertirse:\nTu réussiras si tu travailles. ✅"
+    },
+    {
+      "title": "TIPO 2 — Condición hipotética (SI + imparfait → conditionnel présent)",
+      "type": "rule",
+      "text": "Se usa para una condición poco probable o irreal en el momento presente.\n\nEstructura: SI + imparfait → conditionnel présent\n\nEjemplos:\n✅ Si j'avais de l'argent, j'achèterais une maison. (Si tuviera dinero, compraría una casa — pero no tengo.)\n✅ Si tu étais là, je me sentirais mieux. (Si estuvieras aquí, me sentiría mejor.)\n✅ Si nous pouvions partir, nous le ferions. (Si pudiéramos irnos, lo haríamos.)\n\n⚠️ En español: 'Si tuviera' (imperfecto subjuntivo) → en francés: imparfait de indicativo (más simple).\n⚠️ Corresponde al condicional tipo 2 en español: Si + imperfecto subj. → condicional."
+    },
+    {
+      "title": "TIPO 3 — Condición imposible (SI + plus-que-parfait → conditionnel passé)",
+      "type": "rule",
+      "text": "Se usa para una condición irreal en el pasado — algo que no ocurrió.\n\nEstructura: SI + plus-que-parfait → conditionnel passé\n\nEjemplos:\n✅ Si tu m'avais appelé, je serais venu. (Si me hubieras llamado, habría venido — pero no llamaste.)\n✅ Si j'avais su, je n'aurais pas accepté. (Si hubiera sabido, no habría aceptado.)\n✅ Si nous étions partis plus tôt, nous aurions évité les embouteillages.\n\n⚠️ Corresponde al condicional tipo 3 en español: Si + pluscuamperfecto subj. → condicional compuesto.\n⚠️ El plus-que-parfait = avais/étais + participio pasado."
+    },
+    {
+      "title": "TIPO MIXTO — condición pasada, consecuencia presente",
+      "type": "rule",
+      "text": "A veces se mezclan los tipos 2 y 3:\nCondición en el pasado (tipo 3) + consecuencia en el presente (tipo 2)\n\nEstructura: SI + plus-que-parfait → conditionnel présent\n\nEjemplos:\n✅ Si tu avais étudié, tu saurais la réponse. (Si hubieras estudiado, sabrías la respuesta — no la sabes ahora.)\n✅ Si j'étais né en France, je parlerais français parfaitement. (Si hubiera nacido en Francia, hablaría francés perfectamente.)\n\nEste tipo mixto es frecuente en el lenguaje real y demuestra un nivel B2/C1."
+    },
+    {
+      "title": "OTRAS FORMAS DE EXPRESAR LA CONDICIÓN (sin SI)",
+      "type": "table",
+      "headers": [
+        "Expresión",
+        "Significado",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "à condition que + subj.",
+          "con tal de que",
+          "Je viendrai à condition que tu sois là."
+        ],
+        [
+          "pourvu que + subj.",
+          "con tal de que (esperanza)",
+          "Tout ira bien pourvu qu'il vienne."
+        ],
+        [
+          "à moins que + subj.",
+          "a menos que",
+          "Je partirai à moins qu'il ne pleuve."
+        ],
+        [
+          "en cas de + nom",
+          "en caso de",
+          "En cas de problème, appelez-moi."
+        ],
+        [
+          "au cas où + conditionnel",
+          "por si acaso",
+          "Prends un parapluie au cas où il pleuvrait."
+        ],
+        [
+          "sans + infinitif",
+          "sin (condición negativa)",
+          "Sans toi, je n'aurais pas réussi."
+        ],
+        [
+          "avec + nom",
+          "con (condición positiva)",
+          "Avec un peu de chance, tu réussiras."
+        ],
+        [
+          "sinon",
+          "si no / de lo contrario",
+          "Dépêche-toi, sinon tu seras en retard."
+        ]
+      ]
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Si tu *viendras*, je serai content.",
+          "Si tu *viens*, je serai content.",
+          "Jamás futur después de SI condicional."
+        ],
+        [
+          "Si tu *viendrais*, ce serait bien.",
+          "Si tu *venais*, ce serait bien.",
+          "Jamás conditionnel después de SI condicional."
+        ],
+        [
+          "Si j'*aurais su*, je serais venu.",
+          "Si j'*avais su*, je serais venu.",
+          "Jamás conditionnel après SI — usar plus-que-parfait."
+        ],
+        [
+          "Si tu *serais* venu, j'aurais été content.",
+          "Si tu *étais* venu, j'aurais été content.",
+          "SI + plus-que-parfait, no conditionnel passé."
+        ],
+        [
+          "Si il ferait beau, on sortirait.",
+          "Si il *faisait* beau, on sortirait.",
+          "Tipo 2 → SI + imparfait, no conditionnel."
+        ],
+        [
+          "*Si* tu veux, *si* tu peux venir...",
+          "Si tu veux ET (que tu) peux venir...",
+          "No repetir SI — la segunda prop. lleva QUE + subj."
+        ]
+      ]
+    }
+  ]
+}

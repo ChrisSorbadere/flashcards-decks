@@ -1,0 +1,382 @@
+{
+  "id": "discours-indirect",
+  "title": "🟠 B1 — El discurso indirecto (discours indirect)",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿QUÉ ES EL DISCURSO INDIRECTO?",
+      "type": "rule",
+      "text": "El discurso directo reproduce las palabras exactas de alguien entre comillas:\nIl dit : « Je suis fatigué. »\n\nEl discurso indirecto las integra en la frase sin comillas, introducidas por QUE:\nIl dit QU'il est fatigué.\n\nCambios obligatorios al pasar al discurso indirecto:\n① Los pronombres personales cambian\n② Los tiempos verbales cambian (si el verbo introductor está en pasado)\n③ Los indicadores de tiempo y lugar cambian\n④ Las preguntas cambian de estructura"
+    },
+    {
+      "title": "1. CAMBIO DE PRONOMBRES",
+      "type": "table",
+      "headers": [
+        "Discurso directo",
+        "Discurso indirecto",
+        "Ejemplo"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "je / j'",
+          "il / elle",
+          "« Je pars. » → Il dit QU'il part."
+        ],
+        [
+          "tu",
+          "je / il / elle (según contexto)",
+          "« Tu viens ? » → Il me demande SI je viens."
+        ],
+        [
+          "nous",
+          "ils / elles / nous",
+          "« Nous partons. » → Ils disent QU'ils partent."
+        ],
+        [
+          "vous",
+          "nous / ils / elles",
+          "« Vous êtes prêts ? » → Il demande SI nous sommes prêts."
+        ],
+        [
+          "mon / ma / mes",
+          "son / sa / ses",
+          "« C'est mon livre. » → Il dit QUE c'est son livre."
+        ],
+        [
+          "notre / nos",
+          "leur / leurs",
+          "« C'est notre projet. » → Il dit QUE c'est leur projet."
+        ]
+      ],
+      "note": "Los pronombres cambian según quién habla y a quién se habla. Hay que analizar el contexto en cada caso."
+    },
+    {
+      "title": "2. CONCORDANCIA DE TIEMPOS — verbo introductor en PASADO",
+      "type": "table",
+      "headers": [
+        "Discurso directo",
+        "→ Discurso indirecto (pasado)",
+        "Ejemplo"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Présent",
+          "→ Imparfait",
+          "« Je suis fatigué. » → Il a dit QU'il ÉTAIT fatigué."
+        ],
+        [
+          "Passé composé",
+          "→ Plus-que-parfait",
+          "« J'ai mangé. » → Il a dit QU'il AVAIT mangé."
+        ],
+        [
+          "Imparfait",
+          "→ Imparfait (no cambia)",
+          "« Il faisait beau. » → Il a dit QU'il FAISAIT beau."
+        ],
+        [
+          "Futur simple",
+          "→ Conditionnel présent",
+          "« Je viendrai. » → Il a dit QU'il VIENDRAIT."
+        ],
+        [
+          "Futur proche",
+          "→ Aller (imparfait) + inf.",
+          "« Je vais partir. » → Il a dit QU'il ALLAIT partir."
+        ],
+        [
+          "Conditionnel",
+          "→ Conditionnel (no cambia)",
+          "« Je voudrais... » → Il a dit QU'il VOUDRAIT..."
+        ],
+        [
+          "Subjonctif",
+          "→ Subjonctif (no cambia)",
+          "« Il faut que tu viennes. » → Il a dit QU'il fallait QUE je vienne."
+        ]
+      ],
+      "note": "⚠️ Si el verbo introductor está en PRESENTE, los tiempos NO cambian:\nIl dit QU'il est fatigué. (présent → présent)"
+    },
+    {
+      "title": "3. CAMBIO DE INDICADORES TEMPORALES Y DE LUGAR",
+      "type": "table",
+      "headers": [
+        "Discurso directo",
+        "→ Discurso indirecto"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "aujourd'hui",
+          "→ ce jour-là"
+        ],
+        [
+          "hier",
+          "→ la veille"
+        ],
+        [
+          "demain",
+          "→ le lendemain"
+        ],
+        [
+          "avant-hier",
+          "→ l'avant-veille"
+        ],
+        [
+          "après-demain",
+          "→ le surlendemain"
+        ],
+        [
+          "maintenant",
+          "→ à ce moment-là"
+        ],
+        [
+          "en ce moment",
+          "→ à ce moment-là"
+        ],
+        [
+          "cette semaine",
+          "→ cette semaine-là / la semaine en question"
+        ],
+        [
+          "ce mois-ci",
+          "→ ce mois-là"
+        ],
+        [
+          "cette année",
+          "→ cette année-là"
+        ],
+        [
+          "ici",
+          "→ là / là-bas"
+        ],
+        [
+          "il y a 3 jours",
+          "→ 3 jours avant / auparavant"
+        ]
+      ],
+      "note": "Estos cambios solo son obligatorios cuando hay un desfase temporal entre el momento en que se habló y el momento en que se reporta."
+    },
+    {
+      "title": "4. TRANSFORMAR PREGUNTAS EN DISCURSO INDIRECTO",
+      "type": "table",
+      "headers": [
+        "Tipo de pregunta",
+        "Discurso directo",
+        "Discurso indirecto"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Sí/No (est-ce que / intonación)",
+          "« Est-ce que tu viens ? »",
+          "Il demande SI je viens."
+        ],
+        [
+          "Sí/No (inversion)",
+          "« Viens-tu ? »",
+          "Il demande SI je viens."
+        ],
+        [
+          "Con QUI",
+          "« Qui est-ce ? »",
+          "Il demande QUI c'est."
+        ],
+        [
+          "Con QUE / QU'EST-CE QUE",
+          "« Que fais-tu ? »",
+          "Il demande CE QUE je fais."
+        ],
+        [
+          "Con OÙ",
+          "« Où vas-tu ? »",
+          "Il demande OÙ je vais."
+        ],
+        [
+          "Con QUAND",
+          "« Quand pars-tu ? »",
+          "Il demande QUAND je pars."
+        ],
+        [
+          "Con COMMENT",
+          "« Comment vas-tu ? »",
+          "Il demande COMMENT je vais."
+        ],
+        [
+          "Con POURQUOI",
+          "« Pourquoi es-tu là ? »",
+          "Il demande POURQUOI je suis là."
+        ],
+        [
+          "Con COMBIEN",
+          "« Combien coûte-t-il ? »",
+          "Il demande COMBIEN il coûte."
+        ],
+        [
+          "Con QUEL(LE)",
+          "« Quel est ton nom ? »",
+          "Il demande QUEL est mon nom."
+        ]
+      ],
+      "note": "⚠️ Points clés: Est-ce que → SI. Qu'est-ce que → CE QUE. L'inversion sujet-verbe disparaît. Les guillemets et les points d'interrogation disparaissent."
+    },
+    {
+      "title": "TRANSFORMAR ÓRDENES E IMPERATIVOS",
+      "type": "table",
+      "headers": [
+        "Discurso directo",
+        "Discurso indirecto",
+        "Estructura"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "« Viens ! »",
+          "Il m'a demandé DE venir.",
+          "de + infinitif"
+        ],
+        [
+          "« Ne partez pas ! »",
+          "Il nous a demandé DE ne pas partir.",
+          "de + ne pas + infinitif"
+        ],
+        [
+          "« Asseyez-vous ! »",
+          "Il nous a dit DE nous asseoir.",
+          "de + infinitif pronominal"
+        ],
+        [
+          "« Travaillez bien ! »",
+          "Il nous a conseillé DE bien travailler.",
+          "de + infinitif"
+        ],
+        [
+          "« Silence ! »",
+          "Il nous a ordonné DE nous taire.",
+          "de + infinitif"
+        ]
+      ],
+      "note": "El imperativo en discurso indirecto siempre se transforma en DE + infinitif. El verbo introductor puede ser: demander, dire, ordonner, conseiller, interdire, recommander..."
+    },
+    {
+      "title": "VERBOS INTRODUCTORES FRECUENTES",
+      "type": "table",
+      "headers": [
+        "Verbo",
+        "Uso",
+        "Estructura"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "dire que",
+          "afirmación general",
+          "Il dit QUE + indicatif"
+        ],
+        [
+          "répondre que",
+          "respuesta",
+          "Elle répond QUE + indicatif"
+        ],
+        [
+          "expliquer que",
+          "explicación",
+          "Il explique QUE + indicatif"
+        ],
+        [
+          "affirmer que",
+          "afirmación fuerte",
+          "Il affirme QUE + indicatif"
+        ],
+        [
+          "demander si",
+          "pregunta sí/no",
+          "Il demande SI + indicatif"
+        ],
+        [
+          "demander ce que",
+          "pregunta sobre cosa",
+          "Il demande CE QUE + indicatif"
+        ],
+        [
+          "demander où/quand/comment...",
+          "pregunta con mot interrogatif",
+          "Il demande OÙ / QUAND + indicatif"
+        ],
+        [
+          "demander de + inf.",
+          "orden, petición",
+          "Il demande DE + infinitif"
+        ],
+        [
+          "promettre de + inf.",
+          "promesa",
+          "Il promet DE + infinitif"
+        ],
+        [
+          "conseiller de + inf.",
+          "consejo",
+          "Il conseille DE + infinitif"
+        ]
+      ]
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Il a dit que je *viens*.",
+          "Il a dit que je *venais*.",
+          "Verbo en pasado → concordancia: présent → imparfait."
+        ],
+        [
+          "Il a demandé *que* je viens ?",
+          "Il a demandé *si* je venais.",
+          "Pregunta sí/no → SI, no QUE."
+        ],
+        [
+          "Il m'a dit *que* partir.",
+          "Il m'a dit *de* partir.",
+          "Imperativo → de + infinitif."
+        ],
+        [
+          "Il a demandé *qu'est-ce que* je faisais.",
+          "Il a demandé *ce que* je faisais.",
+          "Qu'est-ce que → CE QUE en discurso indirecto."
+        ],
+        [
+          "Il a dit qu'il viendra *demain*.",
+          "Il a dit qu'il viendrait *le lendemain*.",
+          "Indicador temporal cambia con verbo en pasado."
+        ],
+        [
+          "Il a demandé *si* je veux quoi.",
+          "Il a demandé *ce que* je voulais.",
+          "Estructura interrogativa cambia completamente."
+        ]
+      ]
+    }
+  ]
+}

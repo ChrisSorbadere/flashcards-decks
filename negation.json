@@ -1,0 +1,302 @@
+{
+  "id": "negation",
+  "title": "🟢 A1/A2 — La negación (la négation)",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "LA NEGACIÓN BÁSICA EN FRANCÉS",
+      "type": "rule",
+      "text": "En francés, la negación se forma con DOS elementos que rodean al verbo conjugado:\n\nNE + verbo + PAS\n\nJe parle. → Je ne parle pas.\nIl mange. → Il ne mange pas.\nElle est venue. → Elle n'est pas venue.\n\n⚠️ NE se convierte en N' delante de vocal o h muda:\nJe n'aime pas. / Il n'habite pas ici.\n\n⚠️ En el lenguaje oral informal, NE desaparece frecuentemente:\nJe sais pas. / C'est pas vrai. / Y'a pas de problème.\n→ En el examen escrito y formal: SIEMPRE conservar el NE."
+    },
+    {
+      "title": "LAS FORMAS DE NEGACIÓN — tabla completa",
+      "type": "table",
+      "headers": [
+        "Negación",
+        "Significado",
+        "Ejemplo afirmativo",
+        "Ejemplo negativo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "ne...pas",
+          "no",
+          "Je travaille.",
+          "Je ne travaille pas."
+        ],
+        [
+          "ne...plus",
+          "ya no",
+          "Il fume encore.",
+          "Il ne fume plus."
+        ],
+        [
+          "ne...jamais",
+          "nunca / jamás",
+          "Elle sort souvent.",
+          "Elle ne sort jamais."
+        ],
+        [
+          "ne...rien",
+          "nada",
+          "Il mange quelque chose.",
+          "Il ne mange rien."
+        ],
+        [
+          "ne...personne",
+          "nadie",
+          "Elle voit quelqu'un.",
+          "Elle ne voit personne."
+        ],
+        [
+          "ne...que",
+          "solo / solamente",
+          "Il a beaucoup d'argent.",
+          "Il n'a que 10 euros."
+        ],
+        [
+          "ne...aucun(e)",
+          "ningún / ninguna",
+          "Il a des amis.",
+          "Il n'a aucun ami."
+        ],
+        [
+          "ne...ni...ni",
+          "ni...ni",
+          "Il aime le café et le thé.",
+          "Il n'aime ni le café ni le thé."
+        ],
+        [
+          "ne...nulle part",
+          "en ningún lugar",
+          "Il va quelque part.",
+          "Il ne va nulle part."
+        ],
+        [
+          "ne...guère",
+          "apenas (literario)",
+          "Il travaille beaucoup.",
+          "Il ne travaille guère."
+        ]
+      ]
+    },
+    {
+      "title": "POSICIÓN DE LA NEGACIÓN SEGÚN EL TIEMPO",
+      "type": "table",
+      "headers": [
+        "Tiempo verbal",
+        "Posición de NE...PAS",
+        "Ejemplo"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Presente / Imparfait / Futur",
+          "rodean el verbo conjugado",
+          "Je ne mange pas. / Il ne venait pas."
+        ],
+        [
+          "Passé composé",
+          "rodean el auxiliar (avoir/être)",
+          "Je n'ai pas mangé. / Il n'est pas venu."
+        ],
+        [
+          "Futur proche",
+          "rodean ALLER conjugado",
+          "Je ne vais pas partir. / Il ne va pas venir."
+        ],
+        [
+          "Infinitivo",
+          "los dos ANTES del infinitivo",
+          "Il préfère ne pas travailler."
+        ],
+        [
+          "Imperativo negativo",
+          "rodean el verbo",
+          "Ne mange pas ! / Ne partez pas !"
+        ]
+      ],
+      "note": "⚠️ Excepción: PERSONNE y NULLE PART van DESPUÉS del participio pasado en el passé composé:\nJe n'ai vu personne. / Il n'est allé nulle part."
+    },
+    {
+      "title": "NE...QUE — la restricción (no es una negación real)",
+      "type": "rule",
+      "text": "Ne...que no es una negación verdadera — significa SOLO / SOLAMENTE:\n\nJe n'ai que 10 euros. = J'ai seulement 10 euros. (Solo tengo 10 euros)\nIl ne mange que des légumes. = Il mange seulement des légumes.\nElle ne travaille que le matin. = Elle travaille seulement le matin.\n\n⚠️ QUE se coloca justo ANTES del elemento que restringe, no necesariamente al final.\n⚠️ Con ne...que, los artículos NO cambian (no se convierte en DE como con ne...pas):\n❌ Il n'a que de livre. → ✅ Il n'a qu'un livre."
+    },
+    {
+      "title": "EL ARTÍCULO CAMBIA CON LA NEGACIÓN",
+      "type": "table",
+      "headers": [
+        "Tipo de artículo",
+        "Afirmativo",
+        "Negativo (ne...pas)",
+        "Excepción"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "Indefinido (un/une/des)",
+          "J'ai un chat.",
+          "Je n'ai pas DE chat.",
+          ""
+        ],
+        [
+          "Partitivo (du/de la/de l')",
+          "Je mange du pain.",
+          "Je ne mange pas DE pain.",
+          ""
+        ],
+        [
+          "Indefinido plural (des)",
+          "Il a des amis.",
+          "Il n'a pas D'amis.",
+          ""
+        ],
+        [
+          "Definido (le/la/les)",
+          "J'aime le café.",
+          "Je n'aime pas LE café. ✅",
+          "Los definidos NO cambian"
+        ],
+        [
+          "Con ÊTRE",
+          "C'est un médecin.",
+          "Ce n'est pas UN médecin. ✅",
+          "Con être no cambia"
+        ]
+      ],
+      "note": "Regla: después de ne...pas (y plus, jamais, aucun...), un/une/des/du/de la/de l' → DE/D'. Pero le/la/les y los artículos después de ÊTRE no cambian."
+    },
+    {
+      "title": "COMBINACIONES DE NEGACIONES",
+      "type": "table",
+      "headers": [
+        "Combinación",
+        "Significado",
+        "Ejemplo"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "ne...plus jamais",
+          "nunca más",
+          "Je ne fumerai plus jamais."
+        ],
+        [
+          "ne...plus rien",
+          "ya no nada",
+          "Il ne mange plus rien depuis hier."
+        ],
+        [
+          "ne...plus personne",
+          "ya no nadie",
+          "Elle ne voit plus personne."
+        ],
+        [
+          "ne...jamais rien",
+          "nunca nada",
+          "Il ne dit jamais rien d'intéressant."
+        ],
+        [
+          "ni...ni + ne",
+          "ni...ni (doble)",
+          "Il ne mange ni viande ni poisson."
+        ]
+      ],
+      "note": "En las combinaciones, PAS desaparece — solo queda uno de los otros elementos negativos."
+    },
+    {
+      "title": "RESPUESTAS NEGATIVAS CORTAS",
+      "type": "table",
+      "headers": [
+        "Pregunta",
+        "Respuesta negativa",
+        "Uso"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Tu viens ?",
+          "Non. / Non, je ne viens pas.",
+          "Negación simple"
+        ],
+        [
+          "Tu ne viens pas ?",
+          "Non, je ne viens pas. / Si, je viens !",
+          "SI contradice una pregunta negativa"
+        ],
+        [
+          "Tu as faim ?",
+          "Pas vraiment. / Pas du tout.",
+          "Negación matizada"
+        ],
+        [
+          "Il est là ?",
+          "Pas encore. / Plus maintenant.",
+          "Négation temporelle"
+        ],
+        [
+          "C'est bon ?",
+          "Pas vraiment. / Pas terrible.",
+          "Negación suavizada"
+        ]
+      ],
+      "note": "⚠️ SI (no OUI) se usa para contradecir una pregunta o afirmación negativa:\n— Tu ne travailles pas ? — SI, je travaille ! (¡Sí que trabajo!)"
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "Je *ne parle pas* jamais.",
+          "Je ne parle *jamais*.",
+          "No se combinan pas + jamais. Solo un elemento negativo."
+        ],
+        [
+          "Il n'a pas *des* amis.",
+          "Il n'a pas *d'*amis.",
+          "Après négation: des → de/d'."
+        ],
+        [
+          "Je *pas* comprends.",
+          "Je *ne* comprends *pas*.",
+          "Ne...pas rodean el verbo — los dos son obligatorios (escrito)."
+        ],
+        [
+          "— Tu n'aimes pas ? — *Oui*, je n'aime pas.",
+          "— *Non*, je n'aime pas.",
+          "Non confirma la negación. SI la contradice."
+        ],
+        [
+          "Il ne mange *rien pas*.",
+          "Il ne mange *rien*.",
+          "Rien ya es negativo — pas desaparece."
+        ],
+        [
+          "Je n'ai que *de* café.",
+          "Je n'ai que *du* café.",
+          "Con ne...que, el artículo NO cambia."
+        ]
+      ]
+    }
+  ]
+}

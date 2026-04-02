@@ -1,0 +1,368 @@
+{
+  "id": "faux-amis",
+  "title": "🔴 B2 — Los falsos amigos (faux amis)",
+  "icon": "✍️",
+  "sections": [
+    {
+      "title": "¿QUÉ ES UN FALSO AMIGO?",
+      "type": "rule",
+      "text": "Un falso amigo es una palabra que se parece en francés y en español pero que tiene un significado diferente. Son especialmente peligrosos porque el hispanohablante los usa con confianza... y se equivoca.\n\nEjemplo clásico:\n❌ Je suis très SENSIBLE. (No significa 'sensato' — significa 'sensible/emotivo')\n✅ Je suis très RAISONNABLE / SENSÉ. (= sensato)\n\nHay dos tipos:\n• Falsos amigos TOTALES: significado completamente diferente\n• Falsos amigos PARCIALES: un significado coincide, otros no"
+    },
+    {
+      "title": "FALSOS AMIGOS — Verbos",
+      "type": "table",
+      "headers": [
+        "Palabra francesa",
+        "❌ Lo que parece",
+        "✅ Lo que significa",
+        "Verdadero equivalente FR"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "assister à",
+          "asistir (ayudar)",
+          "presenciar / asistir a (un evento)",
+          "aider / assister qqn = ayudar a alguien"
+        ],
+        [
+          "réaliser",
+          "realizar (llevar a cabo)",
+          "darse cuenta / realizar",
+          "accomplir / effectuer (= llevar a cabo)"
+        ],
+        [
+          "rester",
+          "restar (quitar)",
+          "quedarse / permanecer",
+          "soustraire / déduire (= restar)"
+        ],
+        [
+          "prétendre",
+          "pretender (querer)",
+          "afirmar / sostener que",
+          "vouloir / avoir l'intention de"
+        ],
+        [
+          "attendre",
+          "atender (servir)",
+          "esperar",
+          "servir / s'occuper de (= atender)"
+        ],
+        [
+          "décevoir",
+          "decepcionar (engañar)",
+          "decepcionar (desilusionar)",
+          "tromper / duper (= engañar)"
+        ],
+        [
+          "blesser",
+          "besar (dar un beso)",
+          "herir / lastimar",
+          "embrasser / faire la bise (= besar)"
+        ],
+        [
+          "éventuellement",
+          "eventualmente (en el futuro)",
+          "posiblemente / quizás",
+          "finalement / tôt ou tard (= eventualmente)"
+        ],
+        [
+          "actuellement",
+          "actualmente (ahora)",
+          "actualmente (ahora) ✅ FALSO FALSO AMIGO",
+          "maintenant / en ce moment"
+        ],
+        [
+          "ignorer",
+          "ignorar (desdeñar)",
+          "no saber / desconocer",
+          "mépriser / négliger (= desdeñar)"
+        ]
+      ],
+      "note": "⚠️ ACTUELLEMENT es un 'falso falso amigo' — significa lo mismo que 'actualmente' en español. Pero muchos estudiantes lo evitan por miedo."
+    },
+    {
+      "title": "FALSOS AMIGOS — Sustantivos",
+      "type": "table",
+      "headers": [
+        "Palabra francesa",
+        "❌ Lo que parece",
+        "✅ Lo que significa",
+        "Verdadero equivalente FR"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "la sensibilité",
+          "sensatez",
+          "sensibilidad (emotividad)",
+          "le bon sens / la sagesse (= sensatez)"
+        ],
+        [
+          "la sympathie",
+          "simpatía (atractivo personal)",
+          "simpatía / compasión / afinidad",
+          "le charme / la séduction (= atractivo)"
+        ],
+        [
+          "le collège",
+          "colegio (escuela en general)",
+          "instituto de secundaria (11-15 años)",
+          "l'école (= colegio en general)"
+        ],
+        [
+          "la librairie",
+          "librería (biblioteca)",
+          "librería (tienda de libros)",
+          "la bibliothèque (= biblioteca)"
+        ],
+        [
+          "la monnaie",
+          "moneda (pieza)",
+          "moneda / cambio / divisa",
+          "la pièce (= moneda/pieza)"
+        ],
+        [
+          "l'agenda",
+          "agenda (programa)",
+          "agenda (libreta de citas)",
+          "l'ordre du jour / le programme (= agenda de reunión)"
+        ],
+        [
+          "le car",
+          "carro (coche)",
+          "autocar / autobús de línea",
+          "la voiture (= coche)"
+        ],
+        [
+          "le pétrole",
+          "petróleo (aceite)",
+          "petróleo (crudo)",
+          "l'huile (= aceite de cocina)"
+        ],
+        [
+          "la cave",
+          "cueva (gruta)",
+          "bodega / sótano",
+          "la grotte / la caverne (= cueva/gruta)"
+        ],
+        [
+          "la chance",
+          "chance (oportunidad)",
+          "suerte / fortuna",
+          "l'opportunité / l'occasion (= oportunidad)"
+        ],
+        [
+          "le cours",
+          "correr (acción)",
+          "clase / cotización / corriente",
+          "courir (= correr — verbo)"
+        ],
+        [
+          "le bureau",
+          "burro (asno)",
+          "escritorio / despacho / oficina",
+          "l'âne (= burro/asno)"
+        ]
+      ]
+    },
+    {
+      "title": "FALSOS AMIGOS — Adjetivos",
+      "type": "table",
+      "headers": [
+        "Palabra francesa",
+        "❌ Lo que parece",
+        "✅ Lo que significa",
+        "Verdadero equivalente FR"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "sensible",
+          "sensato/a",
+          "sensible / emotivo",
+          "raisonnable / sensé (= sensato)"
+        ],
+        [
+          "large",
+          "largo/a",
+          "ancho/a",
+          "long / longue (= largo)"
+        ],
+        [
+          "long / longue",
+          "—",
+          "largo/a (longitud)",
+          "large (= ancho)"
+        ],
+        [
+          "grave",
+          "grave (serio)",
+          "grave ✅ + nota musical grave",
+          "sérieux / important (= serio/grave)"
+        ],
+        [
+          "éventuel(le)",
+          "eventual (futuro)",
+          "posible / eventual (quizás)",
+          "futur / prochain (= futuro próximo)"
+        ],
+        [
+          "formidable",
+          "formidable (terrible)",
+          "estupendo / fantástico",
+          "terrible / horrible (= terrible)"
+        ],
+        [
+          "sympathique",
+          "simpático ✅",
+          "simpático / agradable ✅",
+          "(coincide — no es falso amigo)"
+        ],
+        [
+          "brave",
+          "bravo (valiente)",
+          "valiente + bueno/amable (fam.)",
+          "courageux (= valiente)"
+        ],
+        [
+          "propre",
+          "propio/a",
+          "limpio/a + propio/a (posesión)",
+          "nettoyé / clean (= limpio)"
+        ],
+        [
+          "actuel(le)",
+          "actual (en vigor)",
+          "actual / del momento presente ✅",
+          "en vigueur / en cours (= en vigor)"
+        ]
+      ]
+    },
+    {
+      "title": "LOS MÁS PELIGROSOS — los que más confunden",
+      "type": "rule",
+      "text": "Estos son los falsos amigos que más errores producen en los exámenes:\n\n🚨 ASSISTER À ≠ ayudar\nJ'ai assisté à la conférence. = Asistí a la conferencia (= estuve presente).\nJ'ai AIDÉ mon ami. = Ayudé a mi amigo.\n\n🚨 RÉALISER ≠ solo 'realizar una tarea'\nJe réalise que j'ai fait une erreur. = Me doy cuenta de que cometí un error.\nJ'ai EFFECTUÉ / ACCOMPLI cette tâche. = Realicé esta tarea.\n\n🚨 PRÉTENDRE ≠ pretender (querer)\nIl prétend être innocent. = Afirma ser inocente.\nIl VEUT / IL A L'INTENTION DE partir. = Pretende irse.\n\n🚨 ÉVENTUELLEMENT ≠ eventualmente (en el futuro)\nÉventuellement, je pourrais venir. = Quizás podría venir (= posiblemente).\nFinalement / Tôt ou tard, il reviendra. = Eventualmente volverá.\n\n🚨 LARGE ≠ largo\nCette rue est très large. = Esta calle es muy ancha.\nCette route est très LONGUE. = Esta carretera es muy larga."
+    },
+    {
+      "title": "FALSOS AMIGOS EN EL ÁMBITO PROFESIONAL Y ACADÉMICO",
+      "type": "table",
+      "headers": [
+        "Palabra francesa",
+        "❌ Lo que parece",
+        "✅ Lo que significa"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "une conférence",
+          "conferencia (charla)",
+          "conferencia ✅ + también: llamada de conferencia"
+        ],
+        [
+          "un stage",
+          "stage (escenario)",
+          "prácticas / pasantía / período de formación"
+        ],
+        [
+          "une formation",
+          "formación ✅",
+          "formación / capacitación / curso ✅"
+        ],
+        [
+          "un lycée",
+          "liceo",
+          "instituto de bachillerato (15-18 años)"
+        ],
+        [
+          "une faculté",
+          "facultad ✅",
+          "facultad universitaria ✅ + también: capacidad/aptitud"
+        ],
+        [
+          "un agenda",
+          "agenda de reunión",
+          "agenda personal / libreta de citas"
+        ],
+        [
+          "une location",
+          "locución (frase)",
+          "alquiler / arrendamiento"
+        ],
+        [
+          "une expérience",
+          "experiencia ✅",
+          "experiencia ✅ + experimento (científico)"
+        ],
+        [
+          "un rapport",
+          "rapporte (relación)",
+          "informe / relación / conexión"
+        ],
+        [
+          "un stage de formation",
+          "—",
+          "período de prácticas / curso de formación"
+        ]
+      ]
+    },
+    {
+      "title": "TRUCO PARA IDENTIFICAR FALSOS AMIGOS",
+      "type": "rule",
+      "text": "Cuando encuentres una palabra francesa que se parece a una española, hazte estas preguntas:\n\n① ¿El contexto tiene sentido con el significado español?\nSi NO → probablemente es un falso amigo.\n\n② ¿Puedo verificar el significado en un diccionario bilingüe?\nSiempre hacerlo con las palabras 'demasiado fáciles'.\n\n③ ¿He visto esta palabra usada de otra forma por un hablante nativo?\nFiarse del uso nativo, no de la similitud visual.\n\n④ Palabras frecuentemente sospechosas:\n• Verbos terminados en -er en FR / -ar en ES\n• Sustantivos con -tion, -ance, -ité (suelen coincidir)\n• Adjetivos con -ible, -able (suelen coincidir)\n• CUIDADO especial con: large/long, sensible/sensé, prétendre, assister, réaliser, éventuellement"
+    },
+    {
+      "title": "ERRORES FRECUENTES EN EL EXAMEN",
+      "type": "table",
+      "headers": [
+        "❌ Frase con falso amigo",
+        "✅ Corrección",
+        "Falso amigo usado"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "J'ai assisté mon professeur pendant le cours.",
+          "J'ai *aidé* mon professeur / J'ai *assisté à* son cours.",
+          "assister ≠ ayudar"
+        ],
+        [
+          "Je réalise mon travail chaque jour.",
+          "J'*effectue* / *j'accomplis* mon travail chaque jour.",
+          "réaliser ≠ realizar una tarea"
+        ],
+        [
+          "Il prétend partir en vacances.",
+          "Il *veut* / *a l'intention de* partir en vacances.",
+          "prétendre ≠ pretender (querer)"
+        ],
+        [
+          "La rue est très large, environ 500 mètres.",
+          "La rue est très *longue*, environ 500 mètres.",
+          "large ≠ largo"
+        ],
+        [
+          "C'est une personne très sensible et raisonnée.",
+          "C'est une personne très *sensée* et raisonnée.",
+          "sensible ≠ sensato"
+        ],
+        [
+          "Éventuellement, il reviendra un jour.",
+          "*Finalement* / *Tôt ou tard*, il reviendra.",
+          "éventuellement ≠ eventualmente"
+        ]
+      ]
+    }
+  ]
+}

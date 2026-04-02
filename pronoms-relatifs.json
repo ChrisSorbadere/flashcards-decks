@@ -1,0 +1,205 @@
+{
+  "id": "pronoms-relatifs",
+  "title": "🟡 A2 — Los pronombres relativos",
+  "icon": "📐",
+  "sections": [
+    {
+      "title": "¿QUÉ ES UN PRONOMBRE RELATIVO?",
+      "type": "rule",
+      "text": "Un pronombre relativo introduce una oración subordinada relativa que da información adicional sobre un antecedente (persona o cosa).\n\nEjemplo:\nJ'ai un ami. Cet ami parle très bien français.\n→ J'ai un ami QUI parle très bien français.\n\nEn francés, el pronombre relativo cambia según su FUNCIÓN en la oración subordinada, no según el género o número del antecedente (a diferencia del español que/quien/cual)."
+    },
+    {
+      "title": "LOS 5 PRONOMBRES RELATIVOS PRINCIPALES",
+      "type": "table",
+      "headers": [
+        "Pronombre",
+        "Función",
+        "Ejemplo",
+        "Equivalente español"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "QUI",
+          "Sujeto de la relativa",
+          "L'homme QUI parle est mon collègue.",
+          "que / quien (sujeto)"
+        ],
+        [
+          "QUE / QU'",
+          "COD de la relativa",
+          "Le livre QUE je lis est passionnant.",
+          "que (objeto)"
+        ],
+        [
+          "OÙ",
+          "Lugar o tiempo",
+          "La ville OÙ j'habite est belle. / Le jour OÙ il est parti...",
+          "donde / cuando"
+        ],
+        [
+          "DONT",
+          "Complément avec DE",
+          "Le prof DONT je te parle est excellent.",
+          "del que / de quien / cuyo"
+        ],
+        [
+          "LEQUEL / LAQUELLE...",
+          "Après préposition (autre que DE)",
+          "Le stylo AVEC LEQUEL j'écris est rouge.",
+          "con el que / para el que..."
+        ]
+      ]
+    },
+    {
+      "title": "QUI — sujeto de la relativa",
+      "type": "rule",
+      "text": "QUI reemplaza al SUJETO del verbo de la oración relativa.\n\nTest: ¿quién realiza la acción del verbo subordinado?\n→ Si es el antecedente, usa QUI.\n\nEjemplos:\n✅ L'homme QUI travaille ici est mon ami. (l'homme travaille)\n✅ Les enfants QUI jouent dans le parc sont bruyants. (les enfants jouent)\n✅ C'est toi QUI as raison. (toi as raison)\n\n⚠️ QUI no cambia nunca — siempre QUI, sin importar género o número del antecedente.\n⚠️ QUI puede referirse a personas Y a cosas:\nLe livre QUI est sur la table... ✅"
+    },
+    {
+      "title": "QUE / QU' — COD de la relativa",
+      "type": "rule",
+      "text": "QUE reemplaza al OBJETO DIRECTO (COD) del verbo de la oración relativa.\n\nTest: ¿el antecedente recibe la acción del verbo subordinado?\n→ Si sí, usa QUE.\n\nEjemplos:\n✅ Le film QUE j'ai vu était excellent. (j'ai vu le film)\n✅ La personne QUE tu cherches est là. (tu cherches la personne)\n✅ Les documents QU'il a signés sont importants. (il a signé les documents)\n\n⚠️ QUE → QU' delante de vocal o h muda.\n⚠️ Acuerdo del PP: cuando QUE es COD y precede al verbo en PC, el PP se acuerda:\nLa lettre QU'il a écritE. / Les lettres QU'il a écritES."
+    },
+    {
+      "title": "OÙ — lugar y tiempo",
+      "type": "rule",
+      "text": "OÙ reemplaza un complemento de LUGAR o de TIEMPO.\n\nLUGAR:\n✅ La ville OÙ je suis né est magnifique. (je suis né dans cette ville)\n✅ Le bureau OÙ il travaille est au 3ème étage.\n✅ C'est le restaurant OÙ nous nous sommes rencontrés.\n\nTIEMPO:\n✅ Le jour OÙ je l'ai rencontré, il pleuvait. (ce jour-là)\n✅ À l'époque OÙ j'étais enfant, tout était différent.\n✅ Le moment OÙ il est entré, tout a changé.\n\n⚠️ OÙ reemplaza dans lequel, sur lequel, à laquelle... cuando se refiere a lugar o tiempo — mucho más elegante."
+    },
+    {
+      "title": "DONT — complemento con DE",
+      "type": "rule",
+      "text": "DONT reemplaza cualquier complemento introducido por DE.\n\nEstructuras con DE:\n• parler DE qqch/qqn → Je parle de ce livre. → Le livre DONT je parle.\n• avoir besoin DE → J'ai besoin de ce document. → Le document DONT j'ai besoin.\n• être fier DE → Il est fier de son fils. → Le fils DONT il est fier.\n• se souvenir DE → Je me souviens de cette journée. → La journée DONT je me souviens.\n• le/la/les + nom + DE → C'est l'ami. L'ami de Paul. → L'ami DONT Paul est le meilleur.\n\n⚠️ DONT siempre va JUSTO después del antecedente.\n⚠️ Después de DONT, el orden es: DONT + sujeto + verbo + resto:\nLe médecin DONT je te parle est excellent. ✅\n❌ Le médecin dont je parle te est excellent."
+    },
+    {
+      "title": "LEQUEL / LAQUELLE / LESQUELS / LESQUELLES",
+      "type": "table",
+      "headers": [
+        "Forma",
+        "Género / Número",
+        "Con À",
+        "Con DE"
+      ],
+      "highlight": [
+        0
+      ],
+      "rows": [
+        [
+          "lequel",
+          "masculino singular",
+          "auquel",
+          "duquel"
+        ],
+        [
+          "laquelle",
+          "femenino singular",
+          "à laquelle",
+          "de laquelle"
+        ],
+        [
+          "lesquels",
+          "masculino plural",
+          "auxquels",
+          "desquels"
+        ],
+        [
+          "lesquelles",
+          "femenino plural",
+          "auxquelles",
+          "desquelles"
+        ]
+      ],
+      "note": "Se usa después de PREPOSICIONES (excepto de → dont):\nLe stylo AVEC LEQUEL j'écris. / La table SUR LAQUELLE il y a des livres. / Les raisons POUR LESQUELLES je suis venu."
+    },
+    {
+      "title": "QUI vs QUE — el error más frecuente",
+      "type": "table",
+      "headers": [
+        "Pregunta clave",
+        "Respuesta",
+        "Pronombre"
+      ],
+      "highlight": [
+        2
+      ],
+      "rows": [
+        [
+          "¿El antecedente HACE la acción del verbo subordinado?",
+          "Sí → es sujeto",
+          "QUI"
+        ],
+        [
+          "¿El antecedente RECIBE la acción del verbo subordinado?",
+          "Sí → es COD",
+          "QUE"
+        ],
+        [
+          "L'homme ___ parle → ¿quién habla? L'homme.",
+          "Sujeto",
+          "QUI → L'homme QUI parle"
+        ],
+        [
+          "L'homme ___ je vois → ¿yo veo a quién? L'homme.",
+          "COD",
+          "QUE → L'homme QUE je vois"
+        ],
+        [
+          "Le film ___ est sorti → ¿qué salió? Le film.",
+          "Sujeto",
+          "QUI → Le film QUI est sorti"
+        ],
+        [
+          "Le film ___ j'ai vu → ¿yo vi qué? Le film.",
+          "COD",
+          "QUE → Le film QUE j'ai vu"
+        ]
+      ]
+    },
+    {
+      "title": "ERRORES FRECUENTES DE LOS HISPANOHABLANTES",
+      "type": "table",
+      "headers": [
+        "❌ Error frecuente",
+        "✅ Correcto",
+        "Explicación"
+      ],
+      "highlight": [
+        1
+      ],
+      "rows": [
+        [
+          "L'homme *que* parle est mon ami.",
+          "L'homme *qui* parle est mon ami.",
+          "Sujeto de la relativa → QUI, no QUE."
+        ],
+        [
+          "Le livre *qui* je lis est bien.",
+          "Le livre *que* je lis est bien.",
+          "COD de la relativa → QUE, no QUI."
+        ],
+        [
+          "La ville *que* j'habite est belle.",
+          "La ville *où* j'habite est belle.",
+          "Lugar → OÙ, no QUE."
+        ],
+        [
+          "Le prof *de qui* je parle est excellent.",
+          "Le prof *dont* je parle est excellent.",
+          "Complément avec DE → DONT."
+        ],
+        [
+          "C'est *lequel* je cherche.",
+          "C'est *celui que* je cherche.",
+          "Sin antecedente nominal → pronom démonstratif + que."
+        ],
+        [
+          "La raison *que* je suis venu.",
+          "La raison *pour laquelle* je suis venu.",
+          "Après préposition → lequel/laquelle."
+        ]
+      ]
+    }
+  ]
+}
