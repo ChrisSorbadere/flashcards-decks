@@ -1,6 +1,6 @@
 {
   "title": "Cartes mémoires — Fiches de grammaire",
-  "updated": "2026-03-30",
+  "updated": "2026-04-02",
   "themes": [
     {
       "id": "conjugaison",
@@ -81,6 +81,25 @@
           "title": "Les pronoms",
           "icon": "🔄",
           "url": "https://chrissorbadere.github.io/flashcards-decks/pronoms.json"
+        }
+      ]
+    },
+    {
+      "id": "examens",
+      "label": "Exámenes",
+      "icon": "🎖️",
+      "fiches": [
+        {
+          "id": "BORE",
+          "title": "Metodología BORE",
+          "icon": "🎖️",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/BORE.json"
+        },
+        {
+          "id": "Boite_secours",
+          "title": "Botiquín de emergencia",
+          "icon": "🛟",
+          "url": "https://chrissorbadere.github.io/flashcards-decks/Boite_secours.json"
         }
       ]
     }

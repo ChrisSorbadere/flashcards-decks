@@ -1,0 +1,94 @@
+{
+  "id": "methodologie-bore",
+  "title": "Metodología de la prueba BORE",
+  "icon": "🎖️",
+  "sections": [
+    {
+      "title": "PROTOCOLO Y ESTRUCTURA",
+      "type": "table",
+      "headers": [
+        "Fase",
+        "Duración",
+        "Objetivo",
+        "Formule Type (en francés)"
+      ],
+      "rows": [
+        [
+          "Apertura",
+          "30 sec",
+          "Saludar al jurado con respeto",
+          "« Bonjour Messieurs les membres du jury... »"
+        ],
+        [
+          "Cuerpo del texto",
+          "4 min",
+          "Recitación fluida del texto memorizado",
+          "Sujet + Verbe + Complément (Phrases courtes)"
+        ],
+        [
+          "Cierre",
+          "30 sec",
+          "Despedirse formalmente",
+          "« J'ai terminé ma présentation, merci de votre attention. »"
+        ]
+      ]
+    },
+    {
+      "title": "EJEMPLOS DE FRASES (PARA PERSONALIZAR)",
+      "type": "table",
+      "headers": [
+        "Tema",
+        "Estructura de base (en francés)",
+        "Consejo de personalización"
+      ],
+      "rows": [
+        [
+          "Identidad",
+          "« Je suis le [Grade] [Nom], j'ai [Âge] ans... »",
+          "No copies literalmente; cambia el orden para ser original."
+        ],
+        [
+          "Destinos",
+          "« J'ai été affecté à la base de... pendant X ans. »",
+          "Usa sinónimos como 'J'ai servi au sein de...'"
+        ],
+        [
+          "Experiencia",
+          "« J'ai participé à une mission en [Lugar] en tant que... »",
+          "Describe tu función principal de forma sencilla."
+        ],
+        [
+          "Ocio",
+          "« Pendant mon temps libre, je pratique le/la [Deporte]. »",
+          "Sé específico: nombra un club o una frecuencia real."
+        ]
+      ]
+    },
+    {
+      "title": "CONECTORES: EL CEMENTO DEL RELATO",
+      "type": "table",
+      "headers": [
+        "Uso",
+        "Connecteurs (en francés)",
+        "Efecto buscado"
+      ],
+      "rows": [
+        [
+          "Enumerar",
+          "D'abord, ensuite, enfin, par la suite.",
+          "Muestra una progresión lógica de tu carrera."
+        ],
+        [
+          "Transición",
+          "Concernant ma vie privée, pour ce qui est de...",
+          "Evita cortes bruscos entre lo profesional y lo personal."
+        ],
+        [
+          "Concluir",
+          "En résumé, pour conclure, au total.",
+          "Anuncia claramente el final de tu exposición."
+        ]
+      ]
+    }
+  ]
+}

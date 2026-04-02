@@ -1,0 +1,59 @@
+{
+  "id": "bore-boite-secours",
+  "title": "Botiquín de emergencia: Gestión de imprevistos",
+  "icon": "🛟",
+  "sections": [
+    {
+      "title": "RECUPERAR EL HILO (SI TE QUEDAS EN BLANCO)",
+      "type": "table",
+      "headers": [
+        "Situación",
+        "Frase de auxilio (en francés)",
+        "Objetivo"
+      ],
+      "rows": [
+        [
+          "Olvido momentáneo",
+          "« Pour reprendre mon propos... »",
+          "Romper el silencio inmediatamente."
+        ],
+        [
+          "Pérdida del hilo",
+          "« Je disais donc que... »",
+          "Apoyarse en lo último que se ha dicho."
+        ],
+        [
+          "Transición difícil",
+          "« J'aimerais maintenant aborder le point sur... »",
+          "Forzar el paso a la siguiente sección."
+        ]
+      ]
+    },
+    {
+      "title": "REGLAS DE ORO (ANTI-SILENCIO)",
+      "type": "table",
+      "headers": [
+        "Acción",
+        "¿Por qué?",
+        "Riesgo evitado"
+      ],
+      "rows": [
+        [
+          "Frases cortas",
+          "Menos errores de gramática y mejor control.",
+          "Evita frases complejas que terminan mal."
+        ],
+        [
+          "Cero hispanismos",
+          "El jurado penaliza calcos del español.",
+          "Evita el 'Spanglish' militar."
+        ],
+        [
+          "Ritmo constante",
+          "Hablar despacio permite anticipar la frase siguiente.",
+          "Evita los bloqueos y el pánico."
+        ]
+      ]
+    }
+  ]
+}
